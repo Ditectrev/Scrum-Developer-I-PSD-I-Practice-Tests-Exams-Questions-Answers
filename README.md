@@ -297,7 +297,7 @@ When can Product Backlog refinement occur?
 
 **[⬆ Back to Top](#table-of-contents)**
 
-2.  ### Question2
+2.  ### Question2. What would NOT be considered refactoring?
 What would NOT be considered refactoring?
 
 - [ ] Reordering method parameters to improve readability.
