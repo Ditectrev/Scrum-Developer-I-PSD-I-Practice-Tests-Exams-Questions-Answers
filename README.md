@@ -4,7 +4,7 @@
 
 | No. | Questions |
 | --- | --------------------------- |
-| 1   | [When can Product Backlog refinement occur?](#-when-can-product-backlog-refinement-occur) |
+| 1   | [When can Product Backlog refinement occur?](#when-can-product-backlog-refinement-occur) |
 | 2   | [Question2](#question2) |
 | 3   | [Question3](#question3) |
 | 4   | [Question4](#question4) |
