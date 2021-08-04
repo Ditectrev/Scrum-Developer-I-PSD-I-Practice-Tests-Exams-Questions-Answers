@@ -1817,7 +1817,7 @@ Which statement best describes a Product Owner's responsibility? (choose the bes
 
 _[⬆ Back to Top](#table-of-contents)_
 
-186.  ### Question1
+186.  ### Question186
 100% code coverage of tests guarantees bug-free software
 
 - [ ] True
@@ -1825,7 +1825,7 @@ _[⬆ Back to Top](#table-of-contents)_
 
 _[⬆ Back to Top](#table-of-contents)_
 
-187.  ### Question1
+187.  ### Question187
 Who is responsible for monitoring the progress of work during a Sprint? Pick 1
 
 - [ ] Product Owner
