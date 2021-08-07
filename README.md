@@ -289,7 +289,7 @@
 | 283 | [Question283](#question283) |
 
 
-1.  ### Question1. When can Product Backlog refinement occur?
+### Question 1. When can Product Backlog refinement occur?
 
 - [ ] Only during Sprint Planning.
 - [x] Anytime during the Sprint.
