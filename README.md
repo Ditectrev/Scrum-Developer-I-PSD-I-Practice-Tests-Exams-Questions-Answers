@@ -5,7 +5,7 @@
 | No. | Questions |
 | --- | --------------------------- |
 | 1   | [When can Product Backlog refinement occur?](#when-can-product-backlog-refinement-occur) |
-| 2   | [Question2](#question2) |
+| 2   | [What would NOT be considered refactoring?](#what-would-not-be-considered-refactoring) |
 | 3   | [Question3](#question3) |
 | 4   | [Question4](#question4) |
 | 5   | [Question5](#question5) |
@@ -298,8 +298,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-2.  ### Question2. What would NOT be considered refactoring?
-What would NOT be considered refactoring?
+### What would NOT be considered refactoring?
 
 - [ ] Reordering method parameters to improve readability.
 - [ ] Extracting interfaces.
