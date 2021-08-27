@@ -293,7 +293,7 @@
 
 - [ ] Only during Sprint Planning.
 - [x] Anytime during the Sprint.
-- [ ] Only during refinement. meetings planned by the Product Owner.
+- [ ] Only during refinement meetings planned by the Product Owner.
 - [ ] Before Sprint Planning.
 
 **[⬆ Back to Top](#table-of-contents)**
