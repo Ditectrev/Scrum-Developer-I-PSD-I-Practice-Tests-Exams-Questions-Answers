@@ -420,7 +420,7 @@ _[⬆ Back to Top](#table-of-contents)_
 Who decides the system architecture of a product developed using Scrum?
 
 - [ ] The Architect chosen by the Scrum Team.
-- [ ] The software architect assigned to the Scrum Team.
+- [ ] The Software Architect assigned to the Scrum Team.
 - [x] The Developers with input from the Scrum Team and others.
 - [ ] The Chief Architect.
 
