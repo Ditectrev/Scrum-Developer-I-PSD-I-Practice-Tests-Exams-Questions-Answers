@@ -324,7 +324,7 @@ Who creates documentation included with an Increment?
 - [x] The Developers.
 - [ ] Increments do not need documentation.
 - [ ] The Product Owner.
-- [ ] Technical writers.
+- [ ] Technical Writers.
 - [ ] The Scrum Master.
 
 **[⬆ Back to Top](#table-of-contents)**
