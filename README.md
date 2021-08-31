@@ -351,7 +351,7 @@ Which three of the following are feedback loops in Scrum?
 **[⬆ Back to Top](#table-of-contents)**
 
 7.  ### Question7
-Which four types of tests can be included in an automated test hamess?
+Which four types of tests can be included in an automated test harness?
 
 - [x] Performance.
 - [ ] Exploratory.
