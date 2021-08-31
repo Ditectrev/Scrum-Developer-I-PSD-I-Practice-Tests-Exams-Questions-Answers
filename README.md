@@ -388,7 +388,7 @@ _[⬆ Back to Top](#table-of-contents)_
 Why does a test written using TDD (Test Driven Development) initially fail?
 
 - [ ] Because the test has not been refactored.
-- [ ] Because it has to be put into an automated test hamess to be run.
+- [ ] Because it has to be put into an automated test harness to be run.
 - [ ] Because the tests are checked in before the product code exists.
 - [x] Because the product code to satisfy the test does not yet exist.
 
