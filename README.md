@@ -367,7 +367,7 @@ Which concept is described by the Last Responsible Moment?
 
 - [ ] Making decisions as soon as possible to close feedback loops as soon as possible.
 - [x] Discover decisions to be made as soon as possible but postpone deciding to the latest reasonable moment.
-- [x] The last moment in a sprint when code changes aro allowed, after this only stabilization work should be conducted.
+- [x] The last moment in a Sprint when code changes are allowed, after this only stabilization work should be conducted.
 - [ ] Opening a learning window to validate hypotheses and create learning.
 - [ ] The last moment a Developer is responsible for quality, after this the Tester is responsible.
 
