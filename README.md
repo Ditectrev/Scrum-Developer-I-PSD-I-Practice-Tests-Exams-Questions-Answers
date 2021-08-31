@@ -405,7 +405,7 @@ When do the Developers show their work to the Product Owner?
 _[⬆ Back to Top](#table-of-contents)_
 
 12. ### Question12
-What are possible benefits from practicing Test Driven Development?
+What are possible benefits from practicing Test Driven Development (TDD)?
 
 - [ ] It is a greal way for Testers to contribute earty in the Sprint as they can start creating all the tests from the beginning on.
 - [ ] It makes Integration Tests obsolete and by doing so saves a lot of time.
