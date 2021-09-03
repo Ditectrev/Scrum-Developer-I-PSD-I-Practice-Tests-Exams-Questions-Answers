@@ -452,9 +452,9 @@ Who determines how work is performed during the Sprint?
 
 - [ ] The Scrum Master.
 - [ ] The Scrum Team.
-- [ ] Team manager.
+- [ ] Team Manager.
 - [ ] Subject matter experts.
-- [x] The Developers
+- [x] The Developers.
 
 _[⬆ Back to Top](#table-of-contents)_
 
