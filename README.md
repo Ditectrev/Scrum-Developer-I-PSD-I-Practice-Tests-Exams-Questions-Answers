@@ -469,7 +469,7 @@ Who creates tests on a Scrum Team?
 _[⬆ Back to Top](#table-of-contents)_
 
 18. ### Question18
-What is test first development?
+What is Test First Development (TFD)?
 
 - [x] Creating tests before satisfying them.
 - [ ] Testing existing code before adding more code to it.
@@ -2477,7 +2477,7 @@ Which two of the followings are synonyms of TDD?
 
 - [ ] Domain Driven Design
 - [x] Red-Green-Refactor
-- [x] Test First Development
+- [x] Test First Development (TFD)
 - [ ] Continuous Deployment
 
 _[⬆ Back to Top](#table-of-contents)_
@@ -3056,7 +3056,7 @@ Which statement describes how often the build should be executed?
 _[⬆ Back to Top](#table-of-contents)_
 
 277.  ### Question277
-Which statement describes test first development?
+Which statement describes Test First Development (TFD)?
 
 - [x] Designing tests before satisfying them.
 - [ ] Having the tester in the Development Team write the test plans before coding.
