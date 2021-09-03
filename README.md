@@ -433,7 +433,7 @@ When using Continuous Integration, how often should the build be executed?
 - [x] Whenever new or changed code is checked into version control.
 - [ ] Once per day.
 - [ ] Before the end of the Sprint.
-- [ ] Whenever new tests are created or uncertainty arises about whether old tests will pass
+- [ ] Whenever new tests are created or uncertainty arises about whether old tests will pass.
 
 _[⬆ Back to Top](#table-of-contents)_
 
