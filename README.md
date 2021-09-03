@@ -515,7 +515,7 @@ _[⬆ Back to Top](#table-of-contents)_
 What are two differences between unit tests and integration tests?
 
 - [x] A unit test isolates a specific system behavior.
-- [x] An integration test usually focuses on the integration oftwo or more units.
+- [x] An integration test usually focuses on the integration of two or more units.
 - [ ] A unit test is automated.
 - [ ] An integration test runs overnight.
 - [ ] A unit test only runs on a Developer's workstation.
