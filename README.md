@@ -545,8 +545,8 @@ _[⬆ Back to Top](#table-of-contents)_
 25. ### Question25
 True or False: When multiple teams work together on the same product, each team should maintain a separate Product Backlog.
 
-- [ ] True
-- [x] False
+- [ ] True.
+- [x] False.
 
 _[⬆ Back to Top](#table-of-contents)_
 
