@@ -486,7 +486,7 @@ Which is the most reliable form of technical documentation?
 - [ ] UML model.
 - [ ] Release notes.
 - [ ] A help file.
-- [x] A passing test hamess with clear inaming and vocabulary.
+- [x] A passing test harness with clear naming and vocabulary.
 
 _[⬆ Back to Top](#table-of-contents)_
 
