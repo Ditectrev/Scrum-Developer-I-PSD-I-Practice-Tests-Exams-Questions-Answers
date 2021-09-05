@@ -659,10 +659,10 @@ What are two ways that regulatory compliance issues are dealt with in Scrum?
 _[⬆ Back to Top](#table-of-contents)_
 
 36. ### Question36
-True or False: User Stories are requiredn the Product Backlog
+True or False: User Stories are required in the Product Backlog.
 
-- [ ] True
-- [x] False
+- [ ] True.
+- [x] False.
 
 _[⬆ Back to Top](#table-of-contents)_
 
