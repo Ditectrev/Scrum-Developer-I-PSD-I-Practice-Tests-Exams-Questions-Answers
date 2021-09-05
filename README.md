@@ -631,8 +631,8 @@ _[⬆ Back to Top](#table-of-contents)_
 When using Scrum, can a Scrum Team use Continuous Delivery?
 
 - [x] Yes, there is nothing in Scrum that conflicts with Continuous Delivery.
-- [ ] No, because the Product Owner may not be available each time a PBI is done and the Product Owner has to decide if it should be released
-- [ ] No, because the increment has to be approved at the Sprint Review before it can be released, and a 2-week Sprint would not be considered continuous
+- [ ] No, because the Product Owner may not be available each time a PBI is done and the Product Owner has to decide if it should be released.
+- [ ] No, because the increment has to be approved at the Sprint Review before it can be released, and a 2-week Sprint would not be considered continuous.
 - [ ] No, because Stakeholders may have already seen the new features and the Sprint Review will be meaningless.
 - [ ] No, because before releasing an Increment it first has to fulfill the Definition of Done.
 
