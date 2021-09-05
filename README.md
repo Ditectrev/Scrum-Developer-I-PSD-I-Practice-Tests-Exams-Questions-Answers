@@ -651,7 +651,7 @@ _[⬆ Back to Top](#table-of-contents)_
 35. ### Question35
 What are two ways that regulatory compliance issues are dealt with in Scrum?
 
-- [ ] They are addressed by a separate team who is responsble for compliance issues.
+- [ ] They are addressed by a separate team who is responsible for compliance issues.
 - [x] They are addressed along with functional development of the product.
 - [x] They are discussed, determined, and documented before the actual feature development Sprints.
 - [ ] They are added to the Product Backlog and addressed in early Sprints, while always requiring at least some business functionality. no matter how small.
