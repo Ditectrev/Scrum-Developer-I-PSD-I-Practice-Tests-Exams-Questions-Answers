@@ -601,7 +601,7 @@ What is a mock object?
 - [x] A test object that mimics the behavior of a dependency in the system under test.
 - [ ] A mock helps you create a build script.
 - [ ] Mocks, stubs, dummies, fakes, and shims are all the same.
-- [ ] Amock is a way to initialize the database for testing.
+- [ ] A mock is a way to initialize the database for testing.
 
 _[⬆ Back to Top](#table-of-contents)_
 
