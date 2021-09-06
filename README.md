@@ -712,7 +712,7 @@ When should the Developers create their first automated build?
 
 - [ ] Just before the product is released.
 - [ ] Before writing the first line of code.
-- [ ] When the Product Owner asks for a build
+- [ ] When the Product Owner asks for a build.
 - [ ] Just before the end of the Sprint.
 - [x] As soon as there is code in the version control system.
 
