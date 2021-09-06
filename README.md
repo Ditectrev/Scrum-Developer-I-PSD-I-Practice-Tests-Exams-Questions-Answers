@@ -729,10 +729,10 @@ Which of the following are quality goals in application architecture?
 _[⬆ Back to Top](#table-of-contents)_
 
 43. ### Question43
-How much work is required of he Developers to oomplete a Product Backlog tem selectad during the Sprint Planning?
+How much work is required of the Developers to complete a Product Backlog item selected during the Sprint Planning?
 
-- [ ] Aproportional amount of time on analysis, design, development, and testing.
-- [ ] All development work and at leest some testing.
+- [ ] A proportional amount of time on analysis, design, development, and testing.
+- [ ] All development work and at least some testing.
 - [ ] As much as they can fit into the Sprint, with remaining work deferred to the next Sprint.
 - [x] As much as s required to meet the Scrum Team's Definition of Done.
 
