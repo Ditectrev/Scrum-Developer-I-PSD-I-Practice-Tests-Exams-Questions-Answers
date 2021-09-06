@@ -719,12 +719,12 @@ When should the Developers create their first automated build?
 _[⬆ Back to Top](#table-of-contents)_
 
 42. ### Question42
-Which of the following are queality goals in application archidecture?
+Which of the following are quality goals in application architecture?
 
-- [ ] Design pattern selection.
+- [ ] Design Pattern selection.
 - [x] Scalability.
 - [ ] Build.
-- [x] Aunoes.
+- [x] Aunoes. (TODO: missing the word, but that's the correct answer, too)
 
 _[⬆ Back to Top](#table-of-contents)_
 
