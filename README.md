@@ -774,9 +774,9 @@ _[⬆ Back to Top](#table-of-contents)_
 47. ### Question47
 While practicing Test Driven Development, what is done after the test fails?
 
-- [x] Write the minimum amount of product code to satisty the test.
-- [ ] Refactor the test so the code pnsses.
-- [ ] Run it again to make sure it reslly fails.
+- [x] Write the minimum amount of product code to satisfy the test.
+- [ ] Refactor the test so the code passes.
+- [ ] Run it again to make sure it really fails.
 - [ ] Implement the required functionality.
 - [ ] Meet with the business analyst to ensure that the test is correct.
 
