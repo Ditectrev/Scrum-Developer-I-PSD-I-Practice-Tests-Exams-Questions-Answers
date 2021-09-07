@@ -794,11 +794,11 @@ _[⬆ Back to Top](#table-of-contents)_
 49. ### Question49
 Developers are blocked by an impediment in the middle of the Sprint. The impediment is outside the Developer's control. What should they do?
 
-- [ ] Stop using Scrum unti the impediment is resolved.
-- [ ] Complete the work that can be done and complete the remander during the hardening sprint".
-- [x] Immediately raise the issue to the Serum Master.
+- [ ] Stop using Scrum until the impediment is resolved.
+- [ ] Complete the work that can be done and complete the remainder during the hardening sprint".
+- [x] Immediately raise the issue to the Scrum Master.
 - [ ] Cancel the Sprint.
-- [ ] Drop the Product Backlog items affected by the impadiment from the Sprint Plan.
+- [ ] Drop the Product Backlog items affected by the impediment from the Sprint Plan.
 
 _[⬆ Back to Top](#table-of-contents)_
 
