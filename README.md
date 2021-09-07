@@ -762,11 +762,11 @@ _[⬆ Back to Top](#table-of-contents)_
 46. ### Question46
 Which of the following are DevOps Practices?
 
-- [x] Continuous Integration / Continuous Deployment / Continuous Delivary.
-- [ ] Blue-Green-Deployment.
+- [x] Continuous Integration / Continuous Deployment / Continuous Delivery.
+- [ ] Blue-Green Deployment.
 - [ ] Hypothesis Driven Development.
 - [ ] Vertical Teams.
-- [ ] Blameless Post-Mortems.
+- [ ] Blameless Postmortem.
 - [ ] All of the above.
 
 _[⬆ Back to Top](#table-of-contents)_
