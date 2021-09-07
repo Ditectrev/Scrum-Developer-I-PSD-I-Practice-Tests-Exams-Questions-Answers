@@ -805,10 +805,10 @@ _[⬆ Back to Top](#table-of-contents)_
 50. ### Question50
 What is an integration test?
 
-- [ ] A test of the user intorfaco.
-- [ ] Atest thet runs during a Continuous Integration build.
-- [ ] A test ofa single unit of functionality.
-- [x] A test ofa single unit of functionality. A test of multple units cof functionality.
+- [ ] A test of the user interface.
+- [ ] A test runs during a Continuous Integration build.
+- [ ] A test of a single unit of functionality.
+- [x] A test of multiple units of functionality.
 
 _[⬆ Back to Top](#table-of-contents)_
 
