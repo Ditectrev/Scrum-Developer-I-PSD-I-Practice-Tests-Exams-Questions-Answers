@@ -913,12 +913,12 @@ Who is responsible for creation of the Definition of “Done”?
 _[⬆ Back to Top](#table-of-contents)_
 
 60. ### Question60
-Pair Programming implemented by?
+Pair Programming is implemented by?
 
-- [x] Frontend and backend developers.
-- [ ] Tester and developer.
-- [ ] Developer and scrum master.
-- [ ] Two persons working on the same PBI.
+- [ ] Frontend and Backend Developers.
+- [ ] Tester and Developer.
+- [ ] Developer and Scrum Master.
+- [x] Two persons working on the same PBI.
 
 _[⬆ Back to Top](#table-of-contents)_
 
