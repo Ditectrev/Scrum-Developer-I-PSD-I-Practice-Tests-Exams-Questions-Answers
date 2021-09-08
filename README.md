@@ -892,10 +892,10 @@ _[⬆ Back to Top](#table-of-contents)_
 58. ### Question58
 Which of the following are required by Scrum? (choose all of those who apply)
 
-- [ ] Release burn-up.
-- [ ] Burn-down chart.
-- [ ] Unit tests.
-- [ ] Critical path analysis.
+- [ ] Release Burnup Chart.
+- [ ] Burndown Chart.
+- [ ] Unit Tests.
+- [ ] Critical Path Analysis.
 - [ ] Refactoring.
 - [ ] Build automation.
 - [x] None of the above.
