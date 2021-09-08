@@ -473,7 +473,7 @@ What is Test First Development (TFD)?
 
 - [x] Creating tests before satisfying them.
 - [ ] Testing existing code before adding more code to it.
-- [ ] Having the tester in the Scrum Team write the test plans before coding.
+- [ ] Having the Tester in the Scrum Team write the test plans before coding.
 - [ ] The continuous restructuring of software to retain flexibility.
 
 _[⬆ Back to Top](#table-of-contents)_
@@ -1095,10 +1095,10 @@ Which best describes the Product Backlog? (choose the best answer)
 _[⬆ Back to Top](#table-of-contents)_
 
 78. ### Question78
-What are two responsibilities of testers in a Development Team? (choose the best two answers)
+What are two responsibilities of Testers in a Development Team? (choose the best two answers)
 
 - [ ] Verifying the work of programmers.
-- [x] Scrum has no "tester" role.
+- [x] Scrum has no "Tester" role.
 - [ ] Finding bugs.
 - [x] Everyone in the Development Team is responsible for quality.
 - [ ] Tracking quality metrics.
@@ -1130,7 +1130,7 @@ _[⬆ Back to Top](#table-of-contents)_
 Which three behaviors demonstrate that a team is self-organizing? (choose the best three answers)
 
 - [ ] The Development Team inviting external people to the Sprint Planning to ask them how to turn a Product Backlog item into an Increment via a complete and detailed Sprint Backlog.
-- [ ] The Development Team members are working within the boundaries of their functional description and nicely handing off work from analyst to developer to tester to integration.
+- [ ] The Development Team members are working within the boundaries of their functional description and nicely handing off work from analyst to developer to Tester to integration.
 - [ ] The Product Owner doesn't need to be at Sprint Retrospectives.
 - [ ] Stakeholders walking in at the Daily Scrum to check progress and work with the Scrum Master to optimize the functional scope for the Sprint.
 - [x] Development Team members collaboratively selecting their own work during the Sprint.
@@ -1319,7 +1319,7 @@ A member of the Development Team takes the Scrum Master aside to express his con
 - [x] Ask the person to share the issue with the team as soon as possible.
 - [ ] Add security to the definition of "Done".
 - [ ] Tell the Product Owner to stop further development of features until the issues are fixed
-- [ ] Go check with the testers.
+- [ ] Go check with the Testers.
 
 _[⬆ Back to Top](#table-of-contents)_
 
@@ -1389,7 +1389,7 @@ Which of the following describe test-driven development? choose 2 answers
 
 - [x] A software development technique based on automated tests.
 - [ ] A predictable way to develop working, well-organized code.
-- [ ] Having testers in the development process.
+- [ ] Having Testers in the development process.
 - [ ] An increment and emergent approach to software design.
 - [ ] Creating a manual test script before writing code.
 
@@ -1401,7 +1401,7 @@ When a Continuous Integration build fails, who ideally ensures the build is repa
 - [ ] The person who broke the build.
 - [ ] The next person who needs the build to complete successfully.
 - [ ] The person assigned to the configuration management role within the team.
-- [ ] The tester responsible for validating builds.
+- [ ] The Tester responsible for validating builds.
 - [x] Whoever the Developers agree should fix it.
 
 _[⬆ Back to Top](#table-of-contents)_
@@ -1480,7 +1480,7 @@ Who should be present during Product Backlog refinement? (choose the best answer
 _[⬆ Back to Top](#table-of-contents)_
 
 116.  ### Question116
-True or False: Programmers and testers should not be included in refining Product Backlog items.
+True or False: Programmers and Testers should not be included in refining Product Backlog items.
 
 - [ ] True
 - [x] False
@@ -1625,7 +1625,7 @@ Which of the following are examples of a Scrum Team practicing Scrum poorly or n
 - [ ] The Developers create their own Sprint Backlog, reflecting all work that is required to meet the Definition of Done.
 - [ ] The Developers are collaboratively selecting their own work during the Sprint.
 - [x] The Developers invite external stakeholders to the Sprint Planning to ask them how to turn a Product Backlog item into an Increment via a complete and detailed Sprint Backlog.
-- [x] The Developers are working within the boundaries of their organizations functional description and nicely handing off work from analyst to developer to tester to integration.
+- [x] The Developers are working within the boundaries of their organizations functional description and nicely handing off work from analyst to developer to Tester to integration.
 
 _[⬆ Back to Top](#table-of-contents)_
 
@@ -2035,9 +2035,9 @@ Which one is true about Black-box testing? Pick all that apply
 
 - [ ] Tester can see inside the component or system under test
 - [x] Tests that are done can be either functional or non-functional
-- [ ] The internal structure of the item being tested is known to the tester
+- [ ] The internal structure of the item being tested is known to the Tester
 - [x] Tester cannot see inside the component or system under test
-- [x] The internal structure of the item being tested is not known to the tester
+- [x] The internal structure of the item being tested is not known to the Tester
 
 _[⬆ Back to Top](#table-of-contents)_
 
@@ -2116,7 +2116,7 @@ Who is responsible for writing tests in a Scrum Team?
 - [x] The Development Team
 - [ ] The programmer
 - [ ] The QA specialist
-- [ ] The tester
+- [ ] The Tester
 
 _[⬆ Back to Top](#table-of-contents)_
 
@@ -2895,7 +2895,7 @@ _[⬆ Back to Top](#table-of-contents)_
 262.  ### Question262
 What is Pair Programming?
 
-- [ ] A developer and a tester work together to write and test code.
+- [ ] A developer and a Tester work together to write and test code.
 - [ ] Managers doing performance reviews by comparing one programmer's code to another's.
 - [ ] The Scrum Team is divided into several two-person Development Teams that consolidate work in a Scrum of Scrums.
 - [x] Two developers writing code together, providing constant peer review.
@@ -2934,7 +2934,7 @@ What relationship does Scrum have to technical practices?
 _[⬆ Back to Top](#table-of-contents)_
 
 266.  ### Question266
-When are testers and quality experts ideally included in a project?
+When are Testers and quality experts ideally included in a project?
 
 - [ ] After developer handoff.
 - [ ] After Sprint Review.
@@ -3060,7 +3060,7 @@ _[⬆ Back to Top](#table-of-contents)_
 Which statement describes Test First Development (TFD)?
 
 - [x] Designing tests before satisfying them.
-- [ ] Having the tester in the Development Team write the test plans before coding.
+- [ ] Having the Tester in the Development Team write the test plans before coding.
 - [ ] Testing existing code before adding more code to it.
 - [ ] The continuous restructuring of software to retain flexibility.
 
