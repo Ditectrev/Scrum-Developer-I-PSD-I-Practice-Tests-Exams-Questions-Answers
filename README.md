@@ -866,7 +866,7 @@ True or False: Database design must be complete before coding starts to ensure a
 _[⬆ Back to Top](#table-of-contents)_
 
 56. ### Question56
-Which is most reliable form of technical documentation? (select anyone)
+Which is most reliable form of technical documentation?
 
 - [x] UML Model.
 - [ ] A help file.
