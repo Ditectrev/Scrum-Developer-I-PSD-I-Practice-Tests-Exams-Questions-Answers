@@ -639,7 +639,7 @@ When using Scrum, can a Scrum Team use Continuous Delivery?
 _[⬆ Back to Top](#table-of-contents)_
 
 34. ### Question34
-You are asked to refactor part of the codebase for Application X. When you are done, all Unit Tests pass with 50% code coverage. What can you infer from this?
+You are asked to refactor part of the codebase for Application X. When you are done, all Unit Tests pass with 50% Code Coverage. What can you infer from this?
 
 - [ ] At least 50% of Application X functions correctly.
 - [ ] At least 50% of Application X functions correctly.
@@ -1027,11 +1027,11 @@ What factor should be considered when establishing the sprint length?
 _[⬆ Back to Top](#table-of-contents)_
 
 71. ### Question71
-What are some disadvantages of code coverages as a measurement for how well a system or product is tested? (choose best three answers)
+What are some disadvantages of Code Coverages as a measurement for how well a system or product is tested? (choose best three answers)
 
 - [ ] It only provide insights for programmers.
 - [x] It does not ensure that the most important or highest risk areas of the code are being exercised by the tests.
-- [x] It could create incentives to write tests that simply increase code coverage, rather than tests that find bugs without increasing coverage.
+- [x] It could create incentives to write tests that simply increase Code Coverage, rather than tests that find bugs without increasing coverage.
 - [ ] It is too complicated to explain to management.
 - [x] Developers could stop adding more valuable tests once the target coverage is achieved.
 
@@ -1805,7 +1805,7 @@ Which statement best describes a Product Owner's responsibility? (choose the bes
 _[⬆ Back to Top](#table-of-contents)_
 
 148.  ### Question148
-100% code coverage of tests guarantees bug-free software
+100% Code Coverage of tests guarantees bug-free software
 
 - [ ] True
 - [x] False
@@ -2810,12 +2810,12 @@ What are reasons to automate the software build process? (choose the best two an
 _[⬆ Back to Top](#table-of-contents)_
 
 253.  ### Question253
-What are some shortcomings of code coverage as a measurement for how well a system or product is tested? (choose the best three answers)
+What are some shortcomings of Code Coverage as a measurement for how well a system or product is tested? (choose the best three answers)
 
-- [x] Code coverage does not ensure that the most important or highest risk areas of the code are being exercised by tests.
-- [x] Code coverage does not necessarily provide functional coverage.
-- [ ] Code coverage metrics vary by development platform (e.g., .NET, Java)
-- [x] Could create incentives to write tests that simply increase code coverage, rather than tests that find bugs without increasing coverage.
+- [x] Code Coverage does not ensure that the most important or highest risk areas of the code are being exercised by tests.
+- [x] Code Coverage does not necessarily provide functional coverage.
+- [ ] Code Coverage metrics vary by development platform (e.g., .NET, Java)
+- [x] Could create incentives to write tests that simply increase Code Coverage, rather than tests that find bugs without increasing coverage.
 - [ ] It is too complicated to explain to management.
 
 _[⬆ Back to Top](#table-of-contents)_
@@ -2873,7 +2873,7 @@ What is a Unit Test?
 _[⬆ Back to Top](#table-of-contents)_
 
 260.  ### Question260
-What is code coverage?
+What is Code Coverage?
 
 - [ ] An insurance policy that covers the code for defects.
 - [x] The degree to which the system under test has been exercised by tests.
