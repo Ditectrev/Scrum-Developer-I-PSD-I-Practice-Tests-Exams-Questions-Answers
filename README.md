@@ -925,11 +925,11 @@ _[⬆ Back to Top](#table-of-contents)_
 61. ### Question61
 Which of the following best describes Emergent Architecture?
 
-- [x] Starting development of a software product requires a clear understanding of the underlying software architecture and Emergent Architecture describes the process of creating this initial architecture.
-- [ ] The software architecture emerges solely decisions the Developers make from a technical perspective.
-- [ ] In scrum there is no Architecture-Role therefore architecture emerges naturally.
+- [x] Starting development of a Software Product requires a clear understanding of the underlying Software Architecture and Emergent Architecture describes the process of creating this initial architecture.
+- [ ] The Software Architecture emerges solely decisions the Developers make from a technical perspective.
+- [ ] In Scrum there is no Architecture-Role therefore architecture emerges naturally.
 - [ ] The desire to make decisions easier to change in the future and find the best possible point in time to make decisions.
-- [ ] Enterprise Architects must be involved to create the foundation of each software product.
+- [ ] Enterprise Architects must be involved to create the foundation of each Software Product.
 
 _[⬆ Back to Top](#table-of-contents)_
 
