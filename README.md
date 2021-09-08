@@ -407,7 +407,7 @@ _[⬆ Back to Top](#table-of-contents)_
 12. ### Question12
 What are possible benefits from practicing Test Driven Development (TDD)?
 
-- [ ] It is a greal way for Testers to contribute earty in the Sprint as they can start creating all the tests from the beginning on.
+- [ ] It is a great way for Testers to contribute early in the Sprint as they can start creating all the tests from the beginning on.
 - [ ] It makes Integration Tests obsolete and by doing so saves a lot of time.
 - [x] It helps break down complex problems into smaller ones that are much easier to be tackled.
 - [ ] It increases collaboration between Developers as it requires Pair Programming.
