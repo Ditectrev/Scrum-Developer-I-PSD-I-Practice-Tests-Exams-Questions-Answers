@@ -742,7 +742,7 @@ _[⬆ Back to Top](#table-of-contents)_
 Why might Developers choose to do Pair Programming?
 
 - [ ] Information sharing and learning.
-- [ ] Improving code quality.
+- [ ] Improving Code Quality.
 - [ ] Efficiency.
 - [ ] It can be a fun way to work.
 - [x] All of the above.
@@ -2370,7 +2370,7 @@ Which is NOT true about Lines of Code metric?
 
 - [ ] A high count might indicate that a type or method is doing too much work
 - [ ] A high count might be a warning that code will be hard to maintain
-- [ ] It isn’t a code quality metric
+- [ ] It isn’t a Code Quality metric
 - [x] It is explained via percentage
 
 _[⬆ Back to Top](#table-of-contents)_
@@ -2567,7 +2567,7 @@ Which is NOT true about Efferent Coupling?
 - [x] Classes with high efferent will affect other classes when changes are made
 - [ ] A large efferent coupling can indicate that a class is unfocussed and may also indicate that it is unstable since it depends on the stability of all the types to which it is coupled
 - [ ] Classes with high efferent coupling will receive the effects of changes or defects in other classes
-- [ ] It is a code quality metric
+- [ ] It is a Code Quality metric
 
 _[⬆ Back to Top](#table-of-contents)_
 
@@ -3016,7 +3016,7 @@ Which of the following are benefits of Continuous Integration? (choose the best 
 _[⬆ Back to Top](#table-of-contents)_
 
 273.  ### Question273
-Which of the following are NOT metrics of code quality? (choose all that apply)
+Which of the following are NOT metrics of Code Quality? (choose all that apply)
 
 - [ ] Class coupling
 - [x] Code Coverage
