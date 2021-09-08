@@ -858,7 +858,7 @@ Based on "Sprint 7 Burndown Chart" would you do anything different in Sprint 8?
 _[⬆ Back to Top](#table-of-contents)_
 
 55. ### Question55
-Database design must be complete before coding starts to ensure a solid foundation?
+True or False: Database design must be complete before coding starts to ensure a solid foundation?
 
 - [ ] True.
 - [x] False.
