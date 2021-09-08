@@ -512,12 +512,12 @@ Who has the final decision about the order of items in the Product Backlog?
 _[⬆ Back to Top](#table-of-contents)_
 
 22. ### Question22
-What are two differences between Unit Tests and integration tests?
+What are two differences between Unit Tests and Integration Tests?
 
 - [x] A Unit Test isolates a specific system behavior.
-- [x] An integration test usually focuses on the integration of two or more units.
+- [x] An Integration Test usually focuses on the integration of two or more units.
 - [ ] A Unit Test is automated.
-- [ ] An integration test runs overnight.
+- [ ] An Integration Test runs overnight.
 - [ ] A Unit Test only runs on a Developer's workstation.
 
 _[⬆ Back to Top](#table-of-contents)_
@@ -803,7 +803,7 @@ Developers are blocked by an impediment in the middle of the Sprint. The impedim
 _[⬆ Back to Top](#table-of-contents)_
 
 50. ### Question50
-What is an integration test?
+What is an Integration Test?
 
 - [ ] A test of the user interface.
 - [ ] A test runs during a Continuous Integration build.
@@ -2243,7 +2243,7 @@ _[⬆ Back to Top](#table-of-contents)_
 What is the ATDD?
 
 - [x] Using acceptance tests to define requirements specified by the customer and market
-- [ ] Using advanced integration test to develop quality product
+- [ ] Using advanced Integration Test to develop quality product
 - [ ] Using approved tests by Product Owner in TDD
 - [ ] Using Unit Tests to define requirements specified by the customer and market
 
