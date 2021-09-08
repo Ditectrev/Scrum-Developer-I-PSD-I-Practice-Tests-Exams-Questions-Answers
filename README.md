@@ -309,7 +309,7 @@
 **[⬆ Back to Top](#table-of-contents)**
 
 3.  ### Question3
-Your Scrum Team is one of seven teams working on a software product. All teams use the same version control system. Which is the best approach to deliver a high-quality Increment?
+Your Scrum Team is one of seven teams working on a Software Product. All teams use the same version control system. Which is the best approach to deliver a high-quality Increment?
 
 - [ ] Developers should perform a combination of local and private builds.
 - [ ] Each team's automated build is integrated toward the end of the Sprint.
@@ -677,7 +677,7 @@ In software development, DRY refers to:
 _[⬆ Back to Top](#table-of-contents)_
 
 38. ### Question38
-Which statements are true when multiple Scrum Teams work on a software product at the same time?
+Which statements are true when multiple Scrum Teams work on a Software Product at the same time?
 
 - [ ] All Scrum Teams work in their own version control branch.
 - [ ] Code is merged at the Scrum of Scrums.
@@ -936,7 +936,7 @@ _[⬆ Back to Top](#table-of-contents)_
 62. ### Question62
 Which are two benefits of establishing naming conventions for code?(choose best two answers)
 
-- [ ] To make it easy to distinguish between different software products.
+- [ ] To make it easy to distinguish between different Software Products.
 - [x] To make the code more readable.
 - [ ] To communicate the identity of the developer who worked on the code.
 - [ ] To reduce friction in a shared codebase.
@@ -3000,7 +3000,7 @@ Which is a benefit of establishing naming standards for code?
 
 - [ ] To communicate the name of the developer that worked on the code.
 - [ ] To ensure that "orphan functions" are not created.
-- [ ] To make it easy to distinguish between different software products.
+- [ ] To make it easy to distinguish between different Software Products.
 - [x] To make the code more readable.
 
 _[⬆ Back to Top](#table-of-contents)_
