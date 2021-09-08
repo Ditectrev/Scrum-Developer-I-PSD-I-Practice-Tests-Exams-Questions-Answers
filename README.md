@@ -878,14 +878,14 @@ Which is most reliable form of technical documentation?
 _[⬆ Back to Top](#table-of-contents)_
 
 57. ### Question57
-The daily scrum event happens every day. What would be three concerns if the frequency were to be lowered to every two to three days?
+The Daily Scrum event happens every day. What would be three concerns if the frequency were to be lowered to every two to three days?
 
 - [x] Opportunities to inspect and adapt in the Sprint Backlog are lost.
-- [ ] The Scrum master loses the ability to update the Gantt chart properly.
-- [ ] Too much work is spent updating the scrum board before meeting.
-- [x] Sprint plan may become inaccurate.
+- [ ] The Scrum Master loses the ability to update the Gantt Chart properly.
+- [ ] Too much work is spent updating the Scrum Board before meeting.
+- [x] Sprint Plan may become inaccurate.
 - [x] Impediments are raised and resolved more slowly.
-- [ ] The product owner cannot accurately report to the stakeholders.
+- [ ] The Product Owner cannot accurately report to the stakeholders.
 
 _[⬆ Back to Top](#table-of-contents)_
 
