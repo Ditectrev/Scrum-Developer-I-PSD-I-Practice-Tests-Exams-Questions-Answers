@@ -374,7 +374,7 @@ Which concept is described by the Last Responsible Moment?
 **[⬆ Back to Top](#table-of-contents)**
 
 9.  ### Question9
-Choose four desirable characteristics of a unit test.
+Choose four desirable characteristics of a Unit Test.
 
 - [ ] Includes exercising the persistence layer.
 - [x] Makes assertions about only one logical concept.
@@ -512,13 +512,13 @@ Who has the final decision about the order of items in the Product Backlog?
 _[⬆ Back to Top](#table-of-contents)_
 
 22. ### Question22
-What are two differences between unit tests and integration tests?
+What are two differences between Unit Tests and integration tests?
 
-- [x] A unit test isolates a specific system behavior.
+- [x] A Unit Test isolates a specific system behavior.
 - [x] An integration test usually focuses on the integration of two or more units.
-- [ ] A unit test is automated.
+- [ ] A Unit Test is automated.
 - [ ] An integration test runs overnight.
-- [ ] A unit test only runs on a Developer's workstation.
+- [ ] A Unit Test only runs on a Developer's workstation.
 
 _[⬆ Back to Top](#table-of-contents)_
 
@@ -639,12 +639,12 @@ When using Scrum, can a Scrum Team use Continuous Delivery?
 _[⬆ Back to Top](#table-of-contents)_
 
 34. ### Question34
-You are asked to refactor part of the codebase for Application X. When you are done, all unit tests pass with 50% code coverage. What can you infer from this?
+You are asked to refactor part of the codebase for Application X. When you are done, all Unit Tests pass with 50% code coverage. What can you infer from this?
 
 - [ ] At least 50% of Application X functions correctly.
 - [ ] At least 50% of Application X functions correctly.
 - [ ] There are no bugs present in Application X.
-- [x] You did not break any existing unit tests.
+- [x] You did not break any existing Unit Tests.
 
 _[⬆ Back to Top](#table-of-contents)_
 
@@ -692,7 +692,7 @@ Which answer best describes Behavior-Driven Development (BDD)?
 
 - [x] A style of test-driven development focusing on user and system interactions.
 - [ ] A development style that accounts for leadership style among team members.
-- [ ] A way to organize unit tests based on class and method structures.
+- [ ] A way to organize Unit Tests based on class and method structures.
 - [ ] A technique for maintaining regression test harnesses.
 
 _[⬆ Back to Top](#table-of-contents)_
@@ -1957,7 +1957,7 @@ _[⬆ Back to Top](#table-of-contents)_
 What is Test Driven Development?
 
 - [ ] Appointing the QA Tester as the Lead Developer
-- [x] The practice of writing unit tests prior to writing the implementation code
+- [x] The practice of writing Unit Tests prior to writing the implementation code
 - [ ] Integrating Testers and Developers
 - [ ] The process of motivating Testers
 
@@ -2245,7 +2245,7 @@ What is the ATDD?
 - [x] Using acceptance tests to define requirements specified by the customer and market
 - [ ] Using advanced integration test to develop quality product
 - [ ] Using approved tests by Product Owner in TDD
-- [ ] Using unit tests to define requirements specified by the customer and market
+- [ ] Using Unit Tests to define requirements specified by the customer and market
 
 _[⬆ Back to Top](#table-of-contents)_
 
@@ -2379,9 +2379,9 @@ _[⬆ Back to Top](#table-of-contents)_
 What does Code Coverage mean?
 
 - [x] The degree of a source code which is executed or exercised by a test suite
-- [ ] The number of unit tests which have passed through a test suite run
+- [ ] The number of Unit Tests which have passed through a test suite run
 - [ ] The amount of codes which is covered in a source control
-- [ ] The number of unit tests which have failed through a test suite run
+- [ ] The number of Unit Tests which have failed through a test suite run
 
 _[⬆ Back to Top](#table-of-contents)_
 
@@ -2542,7 +2542,7 @@ The Development Team has immediately resolved a bug, which is found in the curre
 _[⬆ Back to Top](#table-of-contents)_
 
 225.  ### Question225
-Why mock objects are used in unit tests? Pick 3
+Why mock objects are used in Unit Tests? Pick 3
 
 - [x] To simulate the behavior of a given object
 - [x] To isolate system under test for controlled testing
@@ -2740,10 +2740,10 @@ Product Backlog items are refined by:
 _[⬆ Back to Top](#table-of-contents)_
 
 245.  ### Question245
-Select the desirable characteristics of a unit test. (choose the best four answers)
+Select the desirable characteristics of a Unit Test. (choose the best four answers)
 
 - [x] Code in each test is as small as possible while maintaining readability of the code.
-- [x] Each test is independent of other unit tests.
+- [x] Each test is independent of other Unit Tests.
 - [x] Each test makes assertions about only one logical concept.
 - [x] The test executes fast.
 - [ ] They exercise the persistence layer of a solution.
@@ -2856,14 +2856,14 @@ What does Code Coverage show?
 
 - [x] Code being exercised by tests
 - [ ] The absence of defects in code
-- [ ] The quality of unit tests being written
+- [ ] The quality of Unit Tests being written
 - [ ] The ratio of number of tests to lines of code in the system being tested
 - [ ] When a feature is done
 
 _[⬆ Back to Top](#table-of-contents)_
 
 258.  ### Question259
-What is a unit test?
+What is a Unit Test?
 
 - [ ] A technique for ensuring that units of co-dependent or clustered computers perform correctly.
 - [x] A test that isolates and verifies individual units of source code.
