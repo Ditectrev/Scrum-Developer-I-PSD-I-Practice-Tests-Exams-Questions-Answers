@@ -845,14 +845,15 @@ At Sprint Planning, the Scrum Team has NO clear standard to meet for releasable 
 _[⬆ Back to Top](#table-of-contents)_
 
 54. ### Question54
-Based on "Sprint 7 Burn-Down Chart" would you do anything different in Sprint 8
+Based on "Sprint 7 Burndown Chart" would you do anything different in Sprint 8?
+[missing picture, but there's only one such a question]
 
 - [ ] The Scrum Master adds additional Developers for Sprint 8.
-- [ ] The Developers carryover incomplete Sprint Backlog items from Sprint 7 to Sprint 8 and monitor the Sprint 8 burn-down chart. As soon as deviation from trends is dotected, the Developers work with the Product Owner to negotiate remaining work.
-- [ ] There is nothing wrong The Developers will present all Product Backiog items selected for Sprint 7 at the end of the Sprint.
+- [ ] The Developers carry over incomplete Sprint Backlog items from Sprint 7 to Sprint 8 and monitor the Sprint 8 burn-down chart. As soon as deviation from trends is detected, the Developers work with the Product Owner to negotiate remaining work.
+- [ ] There is nothing wrong The Developers will present all Product Backlog items selected for Sprint 7 at the end of the Sprint.
 - [x] The Developers may forecast less overall work in Sprint 8.
-- [ ] Stakeholders will encourage the Scrum Team to estimate better duning the Sprint 8.
-- [x] Planning Meeting The Developers put incomplete Product Backlog terns.back into the Product Backlog for re-ordering. The Product Owner may ask the Developers to complete the unfinished Product Backlog items from Sprint 7 in Sprint 8.
+- [ ] Stakeholders will encourage the Scrum Team to estimate better during the Sprint 8.
+- [x] Planning Meeting The Developers put incomplete Product Backlog items back into the Product Backlog for re-ordering. The Product Owner may ask the Developers to complete the unfinished Product Backlog items from Sprint 7 in Sprint 8.
 
 _[⬆ Back to Top](#table-of-contents)_
 
