@@ -739,7 +739,7 @@ How much work is required of the Developers to complete a Product Backlog item s
 _[⬆ Back to Top](#table-of-contents)_
 
 44. ### Question44
-Why might Developers choose to do pair programming?
+Why might Developers choose to do Pair Programming?
 
 - [ ] Information sharing and learning.
 - [ ] Improving code quality.
@@ -913,7 +913,7 @@ Who is responsible for creation of the Definition of “Done”?
 _[⬆ Back to Top](#table-of-contents)_
 
 60. ### Question60
-Pair programming implemented by?
+Pair Programming implemented by?
 
 - [x] Frontend and backend developers.
 - [ ] Tester and developer.
@@ -2893,7 +2893,7 @@ What is NOT Test-Driven Development?
 _[⬆ Back to Top](#table-of-contents)_
 
 262.  ### Question262
-What is pair programming?
+What is Pair Programming?
 
 - [ ] A developer and a tester work together to write and test code.
 - [ ] Managers doing performance reviews by comparing one programmer's code to another's.
