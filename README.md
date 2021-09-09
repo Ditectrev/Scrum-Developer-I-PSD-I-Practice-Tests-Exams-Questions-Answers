@@ -957,7 +957,7 @@ Does delivering changes frequently and directly into production help to reduce r
 _[⬆ Back to Top](#table-of-contents)_
 
 64. ### Question64
-Best practices are recommended to solve complex problems.
+True or False: Best practices are recommended to solve complex problems.
 
 - [ ] True.
 - [x] False.
