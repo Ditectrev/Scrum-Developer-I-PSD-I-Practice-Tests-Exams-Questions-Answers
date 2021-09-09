@@ -934,7 +934,7 @@ Which of the following best describes Emergent Architecture?
 _[⬆ Back to Top](#table-of-contents)_
 
 62. ### Question62
-Which are two benefits of establishing naming conventions for code?(choose best two answers)
+Which are two benefits of establishing naming conventions for code? (choose best two answers)
 
 - [ ] To make it easy to distinguish between different Software Products.
 - [x] To make the code more readable.
@@ -945,14 +945,14 @@ Which are two benefits of establishing naming conventions for code?(choose best 
 _[⬆ Back to Top](#table-of-contents)_
 
 63. ### Question63
-Does delivering changes frequently and directly into production help to reduce risk?(choose two)
+Does delivering changes frequently and directly into production help to reduce risk? (choose two)
 
 - [x] Yes, because the changes you make are much smaller and it is easier to fix problems.
 - [ ] No, because each release means a risk to break something so releasing more frequently would increase the risk.
 - [ ] Yes, because frequent release encourage the developers to automate the release process.
 - [x] Yes, because you get earlier feedback and can learn faster.
 - [ ] No, the only way to tackle these risks is by extensive risk management.
-- [ ] No, because releasing needs extensive testing which cannot be conducted frequently
+- [ ] No, because releasing needs extensive testing which cannot be conducted frequently.
 
 _[⬆ Back to Top](#table-of-contents)_
 
