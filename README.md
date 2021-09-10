@@ -667,7 +667,7 @@ True or False: User Stories are required in the Product Backlog.
 _[⬆ Back to Top](#table-of-contents)_
 
 37. ### Question37
-In software development, DRY refers to:
+In Software Development, DRY refers to:
 
 - [ ] Code with low Cyclomatic Complexity.
 - [x] Code with minimal duplication.
@@ -1387,7 +1387,7 @@ _[⬆ Back to Top](#table-of-contents)_
 107.  ### Question107
 Which of the following describe test-driven development? choose 2 answers
 
-- [x] A software development technique based on automated tests.
+- [x] A Software Development technique based on automated tests.
 - [ ] A predictable way to develop working, well-organized code.
 - [ ] Having Testers in the development process.
 - [ ] An increment and emergent approach to software design.
@@ -2250,7 +2250,7 @@ What is the ATDD?
 _[⬆ Back to Top](#table-of-contents)_
 
 196.  ### Question196
-In software development, which acronym is NOT true?
+In Software Development, which acronym is NOT true?
 
 - [ ] LOC: Lines of Code
 - [ ] CBO: Coupling Between Objects
@@ -2886,7 +2886,7 @@ _[⬆ Back to Top](#table-of-contents)_
 What is NOT Test-Driven Development?
 
 - [ ] A predictable way to develop working, clean code.
-- [ ] A software development technique based on automated tests.
+- [ ] A Software Development technique based on automated tests.
 - [ ] An incremental and emergent approach to software design.
 - [x] Testing existing software before developing any new software.
 
@@ -3029,10 +3029,10 @@ _[⬆ Back to Top](#table-of-contents)_
 274.  ### Question274
 Which of the following best describes Continuous Integration?
 
-- [ ] A software development practice that continuously integrates feedback from users into software design.
-- [ ] A software development practice used by Integration Teams to create Best Practice branching and merging strategies.
-- [ ] A software development practice where members of a development team all work on the same computer to ensure a common code base.
-- [x] A software development practice where members of a development team integrate and verify their work frequently, often multiple times each day, to detect integration errors as quickly as possible.
+- [ ] A Software Development practice that continuously integrates feedback from users into software design.
+- [ ] A Software Development practice used by Integration Teams to create Best Practice branching and merging strategies.
+- [ ] A Software Development practice where members of a development team all work on the same computer to ensure a common code base.
+- [x] A Software Development practice where members of a development team integrate and verify their work frequently, often multiple times each day, to detect integration errors as quickly as possible.
 
 _[⬆ Back to Top](#table-of-contents)_
 
