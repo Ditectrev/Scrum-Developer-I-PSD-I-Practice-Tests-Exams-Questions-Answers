@@ -975,12 +975,12 @@ When is Performance Testing most effectively performed?
 _[⬆ Back to Top](#table-of-contents)_
 
 66. ### Question66
-Which three of the following criteria are most helpful as part of a scrum Team’s Definition of Done? (choose best three answers)
+Which three of the following criteria are most helpful as part of a Scrum Team’s Definition of Done? (choose best three answers)
 
-- [ ] The product is released at the end of every sprint.
-- [x] Acceptance tests pass.
-- [x] Code review is done.
-- [ ] Regression tests pass
+- [ ] The Product is released at the end of every Sprint.
+- [x] Acceptance Tests pass.
+- [x] Code Review is done.
+- [ ] Regression Tests pass.
 - [x] No impediments exist.
 
 _[⬆ Back to Top](#table-of-contents)_
