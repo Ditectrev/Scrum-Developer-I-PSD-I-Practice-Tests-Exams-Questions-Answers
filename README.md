@@ -1008,8 +1008,8 @@ _[⬆ Back to Top](#table-of-contents)_
 69. ### Question69
 Which two criteria are useful in deciding if something should be documented every sprint? (choose best two answers)
 
-- [ ] The scrum master requires it.
-- [x] It is required by the definition of done.
+- [ ] The Scrum Master requires it.
+- [x] It is required by the Definition of Done.
 - [x] The documentation is used to enhance and maintain the software.
 - [ ] The software tool being used requires it.
 - [ ] It has always been documented in the past.
