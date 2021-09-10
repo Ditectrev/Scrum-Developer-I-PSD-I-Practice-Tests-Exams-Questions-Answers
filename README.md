@@ -669,7 +669,7 @@ _[⬆ Back to Top](#table-of-contents)_
 37. ### Question37
 In software development, DRY refers to:
 
-- [ ] Code with low cyclomatic complexity.
+- [ ] Code with low Cyclomatic Complexity.
 - [x] Code with minimal duplication.
 - [ ] Code that has not been peer reviewed.
 - [ ] Code that has been peer reviewed.
@@ -3021,7 +3021,7 @@ Which of the following are NOT metrics of Code Quality? (choose all that apply)
 - [ ] Class coupling
 - [x] Code Coverage
 - [x] Cycle time per feature
-- [ ] Cyclomatic complexity
+- [ ] Cyclomatic Complexity
 - [ ] Depth of inheritance
 
 _[⬆ Back to Top](#table-of-contents)_
