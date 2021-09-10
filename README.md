@@ -997,7 +997,7 @@ A team has expressed requirements as a set of failing Acceptance Tests. What are
 _[⬆ Back to Top](#table-of-contents)_
 
 68. ### Question68
-Which is LEAST useful when measuring code maintainability?
+Which is LEAST useful when measuring Code Maintainability?
 
 - [ ] Function Points.
 - [x] Cyclomatic Complexity.
