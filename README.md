@@ -957,7 +957,7 @@ Does delivering changes frequently and directly into production help to reduce r
 _[⬆ Back to Top](#table-of-contents)_
 
 64. ### Question64
-True or False: Best practices are recommended to solve complex problems.
+True or False: Best Practices are recommended to solve complex problems.
 
 - [ ] True.
 - [x] False.
@@ -965,7 +965,7 @@ True or False: Best practices are recommended to solve complex problems.
 _[⬆ Back to Top](#table-of-contents)_
 
 65. ### Question65
-When is performance testing most effectively performed?
+When is Performance Testing most effectively performed?
 
 - [x] Often, throughout development of the software.
 - [ ] Just before deploying to production.
@@ -3030,7 +3030,7 @@ _[⬆ Back to Top](#table-of-contents)_
 Which of the following best describes Continuous Integration?
 
 - [ ] A software development practice that continuously integrates feedback from users into software design.
-- [ ] A software development practice used by Integration Teams to create best practice branching and merging strategies.
+- [ ] A software development practice used by Integration Teams to create Best Practice branching and merging strategies.
 - [ ] A software development practice where members of a development team all work on the same computer to ensure a common code base.
 - [x] A software development practice where members of a development team integrate and verify their work frequently, often multiple times each day, to detect integration errors as quickly as possible.
 
