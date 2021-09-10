@@ -474,7 +474,7 @@ What is Test First Development (TFD)?
 - [x] Creating tests before satisfying them.
 - [ ] Testing existing code before adding more code to it.
 - [ ] Having the Tester in the Scrum Team write the test plans before coding.
-- [ ] The continuous restructuring of software to retain flexibility.
+- [ ] The continuous restructuring of Software to retain flexibility.
 
 _[⬆ Back to Top](#table-of-contents)_
 
@@ -753,7 +753,7 @@ _[⬆ Back to Top](#table-of-contents)_
 What is the role of modeling in Scrum Teams?
 
 - [x] Models are not used by agile teams.
-- [ ] Models are maintained along with the software as it emerges.
+- [ ] Models are maintained along with the Software as it emerges.
 - [ ] Models are assembly instructions for the Developers.
 - [ ] Modeling may be useful to increase shared understanding.
 
@@ -835,7 +835,7 @@ Which of the following is true about the Definition of Done?
 _[⬆ Back to Top](#table-of-contents)_
 
 53. ### Question53
-At Sprint Planning, the Scrum Team has NO clear standard to meet for releasable software. What should the Scrum Team do?
+At Sprint Planning, the Scrum Team has NO clear standard to meet for releasable Software. What should the Scrum Team do?
 
 - [ ] Ask the Product Owner to specify a Definition of Done.
 - [ ] Create a unique completion checklist for each item in the Sprint.
@@ -967,7 +967,7 @@ _[⬆ Back to Top](#table-of-contents)_
 65. ### Question65
 When is Performance Testing most effectively performed?
 
-- [x] Often, throughout development of the software.
+- [x] Often, throughout development of the Software.
 - [ ] Just before deploying to Production.
 - [ ] After coding is complete.
 - [ ] In Production.
@@ -1010,8 +1010,8 @@ Which two criteria are useful in deciding if something should be documented ever
 
 - [ ] The Scrum Master requires it.
 - [x] It is required by the Definition of Done.
-- [x] The documentation is used to enhance and maintain the software.
-- [ ] The software tool being used requires it.
+- [x] The documentation is used to enhance and maintain the Software.
+- [ ] The Software tool being used requires it.
 - [ ] It has always been documented in the past.
 
 _[⬆ Back to Top](#table-of-contents)_
@@ -1116,7 +1116,7 @@ How do you know that a Development Team is cross-functional? (choose the best a
 _[⬆ Back to Top](#table-of-contents)_
 
 80. ### Question80
-For the purpose of transparency, when does Scrum say a new Increment of working software must be available? (choose the best answer)
+For the purpose of transparency, when does Scrum say a new Increment of working Software must be available? (choose the best answer)
 
 - [x] When the Product Owner asks to create one.
 - [ ] At the end of every Sprint.
@@ -1294,7 +1294,7 @@ Five new Scrum Teams have been created to build one Product. A few of the develo
 _[⬆ Back to Top](#table-of-contents)_
 
 98.  ### Question98
-True or False: Scrum is a methodology that tells in detail how to build software incrementally.
+True or False: Scrum is a methodology that tells in detail how to build Software incrementally.
 
 - [ ] True
 - [x] False
@@ -1390,7 +1390,7 @@ Which of the following describe test-driven development? choose 2 answers
 - [x] A Software Development technique based on automated tests.
 - [ ] A predictable way to develop working, well-organized code.
 - [ ] Having Testers in the development process.
-- [ ] An increment and emergent approach to software design.
+- [ ] An increment and emergent approach to Software design.
 - [ ] Creating a manual test script before writing code.
 
 _[⬆ Back to Top](#table-of-contents)_
@@ -1432,7 +1432,7 @@ Who is responsible for the system architecture of a Product being developed usin
 
 - [ ] The architect chosen by the Scrum Team.
 - [x] The Developers.
-- [ ] The software architect.
+- [ ] The Software architect.
 - [ ] The corporate architect.
 
 _[⬆ Back to Top](#table-of-contents)_
@@ -1805,7 +1805,7 @@ Which statement best describes a Product Owner's responsibility? (choose the bes
 _[⬆ Back to Top](#table-of-contents)_
 
 148.  ### Question148
-100% Code Coverage of tests guarantees bug-free software
+100% Code Coverage of tests guarantees bug-free Software
 
 - [ ] True
 - [x] False
@@ -2024,7 +2024,7 @@ _[⬆ Back to Top](#table-of-contents)_
 What is the Static Analysis?
 
 - [x] Analysis performed on code in a non-runtime environment
-- [ ] Analysis performed on software at runtime
+- [ ] Analysis performed on Software at runtime
 - [ ] Duties of a business analyst
 - [ ] Checking static classes’ readability
 
@@ -2507,7 +2507,7 @@ _[⬆ Back to Top](#table-of-contents)_
 Which of the followings are characteristics of a good bug report? Pick all that apply
 
 - [ ] Impacted related requirement
-- [x] Version and build of the software under test
+- [x] Version and build of the Software under test
 - [x] The severity of the defect
 - [x] Expected results and observed results
 
@@ -2712,7 +2712,7 @@ _[⬆ Back to Top](#table-of-contents)_
 242.  ### Question242
 Which one is true about Design Patterns?
 
-- [x] Is a general, reusable solution to a commonly occurring problem within a given context in software design
+- [x] Is a general, reusable solution to a commonly occurring problem within a given context in Software design
 - [ ] Is a low-fidelity UI pattern that can be called sketch
 - [ ] Is a list of guidelines to design better UX for customers
 - [ ] Is a high-fidelity UI pattern that can be called prototype
@@ -2800,9 +2800,9 @@ True or False: The Scrum Team should choose at least one high priority process i
 _[⬆ Back to Top](#table-of-contents)_
 
 251.  ### Question251
-What are reasons to automate the software build process? (choose the best two answers)
+What are reasons to automate the Software build process? (choose the best two answers)
 
-- [x] Automation improves the quality of software by making builds less error-prone.
+- [x] Automation improves the quality of Software by making builds less error-prone.
 - [ ] Code reviews are much faster if you automate your build.
 - [x] To get feedback on changes to the code early and often.
 - [ ] You can't run automated tests without an automated build.
@@ -2826,7 +2826,7 @@ What are three advantages of Continuous Integration? (choose the best three answ
 - [x] Broken builds are detected quickly.
 - [x] Know immediately how a check-in affected the build.
 - [ ] Readability of code is improved.
-- [x] The software is generally kept in a buildable state.
+- [x] The Software is generally kept in a buildable state.
 
 _[⬆ Back to Top](#table-of-contents)_
 
@@ -2836,7 +2836,7 @@ What are ways a Development Team can ensure a good application architecture? (ch
 - [ ] A Development Team doesn't need an architecture model in Scrum and should focus on adding functionality. The architecture will come into place without fail as the Development Team adds functionality.
 - [ ] The Development Team plans a Sprint 0 at the beginning of a project with the objective of developing an architecture model used during the following Sprints.
 - [x] The Development Team plans some time each Sprint to discuss the architecture needed for the features planned in that Sprint.
-- [ ] The Development Team should assign someone to the role of software architect whose job it is to make sure a consistent architecture is developed.
+- [ ] The Development Team should assign someone to the role of Software architect whose job it is to make sure a consistent architecture is developed.
 - [x] The Development Team should have a set of guiding architecture principles that every Development Team member understands and follows when writing code.
 
 _[⬆ Back to Top](#table-of-contents)_
@@ -2887,8 +2887,8 @@ What is NOT Test-Driven Development?
 
 - [ ] A predictable way to develop working, clean code.
 - [ ] A Software Development technique based on automated tests.
-- [ ] An incremental and emergent approach to software design.
-- [x] Testing existing software before developing any new software.
+- [ ] An incremental and emergent approach to Software design.
+- [x] Testing existing Software before developing any new Software.
 
 _[⬆ Back to Top](#table-of-contents)_
 
@@ -2919,7 +2919,7 @@ What is the value of refactoring code?
 - [ ] To have all code in a single file for easy printing and code reviews.
 - [x] To improve readability and maintainability.
 - [ ] To keep the code moving.
-- [ ] To make the software faster at runtime.
+- [ ] To make the Software faster at runtime.
 
 _[⬆ Back to Top](#table-of-contents)_
 
@@ -3029,7 +3029,7 @@ _[⬆ Back to Top](#table-of-contents)_
 274.  ### Question274
 Which of the following best describes Continuous Integration?
 
-- [ ] A Software Development practice that continuously integrates feedback from users into software design.
+- [ ] A Software Development practice that continuously integrates feedback from users into Software design.
 - [ ] A Software Development practice used by Integration Teams to create Best Practice branching and merging strategies.
 - [ ] A Software Development practice where members of a development team all work on the same computer to ensure a common code base.
 - [x] A Software Development practice where members of a development team integrate and verify their work frequently, often multiple times each day, to detect integration errors as quickly as possible.
@@ -3062,14 +3062,14 @@ Which statement describes Test First Development (TFD)?
 - [x] Designing tests before satisfying them.
 - [ ] Having the Tester in the Development Team write the test plans before coding.
 - [ ] Testing existing code before adding more code to it.
-- [ ] The continuous restructuring of software to retain flexibility.
+- [ ] The continuous restructuring of Software to retain flexibility.
 
 _[⬆ Back to Top](#table-of-contents)_
 
 278.  ### Question278
 Which statements describe why automated builds are important? (choose the best three answers)
 
-- [x] They allow frequent validation of the unit of software being worked on, ensuring it remains in a potentially shippable state.
+- [x] They allow frequent validation of the unit of Software being worked on, ensuring it remains in a potentially shippable state.
 - [x] The build process is clearly defined and scripted, making it easy consistent and repeatable.
 - [ ] They eliminate the need for Build Engineers.
 - [x] They ensure your Product remains bug free.
@@ -3078,7 +3078,7 @@ Which statements describe why automated builds are important? (choose the best t
 _[⬆ Back to Top](#table-of-contents)_
 
 279.  ### Question279
-While changing software, you find a bug in a previously delivered piece of functionality. What should you do?
+While changing Software, you find a bug in a previously delivered piece of functionality. What should you do?
 
 - [ ] Fix the bug.
 - [x] Fix the bug if it is critical or easily fixed. Otherwise, put the new bug into the Product Backlog to be prioritized and fixed in an upcoming Sprint.
@@ -3093,7 +3093,7 @@ Who is responsible for the system architecture of a Product being developed usin
 - [ ] The architect chosen by the Development Team.
 - [ ] The corporate architect.
 - [x] The Development Team.
-- [ ] The software architect.
+- [ ] The Software architect.
 
 _[⬆ Back to Top](#table-of-contents)_
 
