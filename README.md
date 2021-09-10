@@ -750,7 +750,7 @@ Why might Developers choose to do Pair Programming?
 _[⬆ Back to Top](#table-of-contents)_
 
 45. ### Question45
-What is the role of modeling in Scrum Teams?
+What is the role of Modeling in Scrum Teams?
 
 - [x] Models are not used by agile teams.
 - [ ] Models are maintained along with the Software as it emerges.
