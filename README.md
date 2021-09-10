@@ -992,7 +992,7 @@ A team has expressed requirements as a set of failing acceptance tests. What are
 - [x] Clear acceptance criteria for each feature.
 - [ ] Using a code generation tool, the solution can be generated from the requirements model.
 - [ ] Promotes the use of DRY principle.
-- [x] Tracking of competences
+- [x] Tracking of competencies.
 
 _[⬆ Back to Top](#table-of-contents)_
 
