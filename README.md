@@ -4,7 +4,7 @@
 
 | No. | Questions |
 | --- | --------------------------- |
-| 1   | [When can Product Backlog refinement occur?](#when-can-product-backlog-refinement-occur) |
+| 1   | [When can Product Backlog refinement occur?](#when-can-Product-backlog-refinement-occur) |
 | 2   | [What would NOT be considered refactoring?](#what-would-not-be-considered-refactoring) |
 | 3   | [Question3](#question3) |
 | 4   | [Question4](#question4) |
@@ -334,7 +334,7 @@ What is a merge in a version control system?
 
 - [ ] Copying a portion of a code base to isolate it from the original codebase.
 - [ ] Identifying a particular codebase as ready for distribution.
-- [ ] Triggering a deployment into production.
+- [ ] Triggering a deployment into Production.
 - [x] Combining two or more versions of code into a single codebase.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -389,8 +389,8 @@ Why does a test written using TDD (Test Driven Development) initially fail?
 
 - [ ] Because the test has not been refactored.
 - [ ] Because it has to be put into an automated test harness to be run.
-- [ ] Because the tests are checked in before the product code exists.
-- [x] Because the product code to satisfy the test does not yet exist.
+- [ ] Because the tests are checked in before the Product code exists.
+- [x] Because the Product code to satisfy the test does not yet exist.
 
 _[⬆ Back to Top](#table-of-contents)_
 
@@ -417,7 +417,7 @@ What are possible benefits from practicing Test Driven Development (TDD)?
 _[⬆ Back to Top](#table-of-contents)_
 
 13. ### Question13
-Who decides the system architecture of a product developed using Scrum?
+Who decides the system architecture of a Product developed using Scrum?
 
 - [ ] The Architect chosen by the Scrum Team.
 - [ ] The Software Architect assigned to the Scrum Team.
@@ -441,7 +441,7 @@ _[⬆ Back to Top](#table-of-contents)_
 Which of the following are advantages of Continuous Integration?
 
 - [ ] Readability of code is improved.
-- [x] Know immediately how a change affected the product.
+- [x] Know immediately how a change affected the Product.
 - [ ] The feature-branch is generally kept in a buildable.
 - [x] Reduce effort and risk when integrating changes.
 
@@ -543,7 +543,7 @@ What are the typical roles when practicing Pair Programming?
 _[⬆ Back to Top](#table-of-contents)_
 
 25. ### Question25
-True or False: When multiple teams work together on the same product, each team should maintain a separate Product Backlog.
+True or False: When multiple teams work together on the same Product, each team should maintain a separate Product Backlog.
 
 - [ ] True.
 - [x] False.
@@ -579,7 +579,7 @@ Which are four attributes of a good bug report?
 - [x] Expected results and observed results.
 - [x] Includes build or version number where bug was found.
 - [ ] Includes code for a proposed fix.
-- [x] Provides simple and repeatable reproduction steps.
+- [x] Provides simple and repeatable reProduction steps.
 - [x] Screenshots or other pictures of the bug in action.
 - [ ] Explains some new system functionality desired.
 
@@ -621,7 +621,7 @@ Which are three attributes of a bad bug report?
 
 - [x] Vague statements or untested assumptions.
 - [x] Generic titles.
-- [ ] Simple and repeatable reproduction steps.
+- [ ] Simple and repeatable reProduction steps.
 - [x] Assigning blame.
 - [ ] One bug per report.
 
@@ -652,7 +652,7 @@ _[⬆ Back to Top](#table-of-contents)_
 What are two ways that regulatory compliance issues are dealt with in Scrum?
 
 - [ ] They are addressed by a separate team who is responsible for compliance issues.
-- [x] They are addressed along with functional development of the product.
+- [x] They are addressed along with functional development of the Product.
 - [x] They are discussed, determined, and documented before the actual feature development Sprints.
 - [ ] They are added to the Product Backlog and addressed in early Sprints, while always requiring at least some business functionality. no matter how small.
 
@@ -710,7 +710,7 @@ In what ways do Developers contribute to refining the Product Backlog?
 41. ### Question41
 When should the Developers create their first automated build?
 
-- [ ] Just before the product is released.
+- [ ] Just before the Product is released.
 - [ ] Before writing the first line of code.
 - [ ] When the Product Owner asks for a build.
 - [ ] Just before the end of the Sprint.
@@ -774,7 +774,7 @@ _[⬆ Back to Top](#table-of-contents)_
 47. ### Question47
 While practicing Test Driven Development, what is done after the test fails?
 
-- [x] Write the minimum amount of product code to satisfy the test.
+- [x] Write the minimum amount of Product code to satisfy the test.
 - [ ] Refactor the test so the code passes.
 - [ ] Run it again to make sure it really fails.
 - [ ] Implement the required functionality.
@@ -945,7 +945,7 @@ Which are two benefits of establishing naming conventions for code? (choose best
 _[⬆ Back to Top](#table-of-contents)_
 
 63. ### Question63
-Does delivering changes frequently and directly into production help to reduce risk? (choose two)
+Does delivering changes frequently and directly into Production help to reduce risk? (choose two)
 
 - [x] Yes, because the changes you make are much smaller and it is easier to fix problems.
 - [ ] No, because each release means a risk to break something so releasing more frequently would increase the risk.
@@ -968,9 +968,9 @@ _[⬆ Back to Top](#table-of-contents)_
 When is Performance Testing most effectively performed?
 
 - [x] Often, throughout development of the software.
-- [ ] Just before deploying to production.
+- [ ] Just before deploying to Production.
 - [ ] After coding is complete.
-- [ ] In production.
+- [ ] In Production.
 
 _[⬆ Back to Top](#table-of-contents)_
 
@@ -1027,7 +1027,7 @@ What factor should be considered when establishing the sprint length?
 _[⬆ Back to Top](#table-of-contents)_
 
 71. ### Question71
-What are some disadvantages of Code Coverages as a measurement for how well a system or product is tested? (choose best three answers)
+What are some disadvantages of Code Coverages as a measurement for how well a system or Product is tested? (choose best three answers)
 
 - [ ] It only provide insights for programmers.
 - [x] It does not ensure that the most important or highest risk areas of the code are being exercised by the tests.
@@ -1080,7 +1080,7 @@ You are the Scrum Master on a newly formed Scrum Team. Which two of the followin
 - [ ] Introduce a bonus system for the top performers in the team.
 - [x] Ensure the team understands they need a definition of "Done".
 - [ ] Have the development managers for each Development Team member introduce their direct reports and go over their responsibilities on the Scrum Team.
-- [x] Ask the Product Owner to discuss the product, its vision, history, goals, and context, as well as answer questions.
+- [x] Ask the Product Owner to discuss the Product, its vision, history, goals, and context, as well as answer questions.
 
 _[⬆ Back to Top](#table-of-contents)_
 
@@ -1088,9 +1088,9 @@ _[⬆ Back to Top](#table-of-contents)_
 Which best describes the Product Backlog? (choose the best answer)
 
 - [x] It contains all foreseeable tasks and requirements from which the Scrum team can develop and maintain a complete project plan.
-- [ ] It is allowed to grow and change as more is learned about the product and its customers.
+- [ ] It is allowed to grow and change as more is learned about the Product and its customers.
 - [ ] It is baselined to follow change management processes.
-- [ ] It provides just enough information to enable a Scrum team to start the design phase of a product.
+- [ ] It provides just enough information to enable a Scrum team to start the design phase of a Product.
 
 _[⬆ Back to Top](#table-of-contents)_
 
@@ -1144,7 +1144,7 @@ _[⬆ Back to Top](#table-of-contents)_
 What is the purpose of a Sprint Review? (choose the best answer)
 
 - [ ] To take time to judge the validity of the project.
-- [x] To inspect the product Increment with the stakeholders and collect feedback on next steps.
+- [x] To inspect the Product Increment with the stakeholders and collect feedback on next steps.
 - [ ] To review the Scrum Team's activities and processes during the Sprint.
 - [ ] To build team spirit.
 
@@ -1284,7 +1284,7 @@ A Scrum Master is working with a Development Team that has members in different 
 _[⬆ Back to Top](#table-of-contents)_
 
 97.  ### Question97
-Five new Scrum Teams have been created to build one product. A few of the developers on one of the Development Teams ask the Scrum Master how to coordinate their work with the other teams. What should the Scrum Master do?
+Five new Scrum Teams have been created to build one Product. A few of the developers on one of the Development Teams ask the Scrum Master how to coordinate their work with the other teams. What should the Scrum Master do?
 
 - [ ] Teach the Product Owner to work with the lead developers on ordering Product Backlog in a way to avoid too much technical and development overlap during a Sprint.
 - [x] Collect the Sprint tasks from the teams at the end of their Sprint Planning and merge that into a consolidated plan for the entire Sprint
@@ -1326,7 +1326,7 @@ _[⬆ Back to Top](#table-of-contents)_
 101.  ### Question101
 What are two ways that architecture and infrastructure are handled in Scrum? (choose the best two answers)
 
-- [x] They are implemented along with functional development of the product.
+- [x] They are implemented along with functional development of the Product.
 - [ ] They are built by a separate team through the creation of an architectural runway.
 - [x] They are added to the Product Backlog and addressed in early Sprints, while always requiring at least some business functionality, no matter how small.
 - [ ] They are discussed, determined, and documented before the actual feature development Sprints.
@@ -1428,7 +1428,7 @@ Product Backlog items are refined by: (choose the best answer)
 _[⬆ Back to Top](#table-of-contents)_
 
 111.  ### Question111
-Who is responsible for the system architecture of a product being developed using Scrum? (choose the best answer)
+Who is responsible for the system architecture of a Product being developed using Scrum? (choose the best answer)
 
 - [ ] The architect chosen by the Scrum Team.
 - [x] The Developers.
@@ -1440,7 +1440,7 @@ _[⬆ Back to Top](#table-of-contents)_
 112.  ### Question112
 Which of the following are attributes of a bad bug report? (choose the best three answers)
 
-- [ ] Simple and repeatable reproduction steps.
+- [ ] Simple and repeatable reProduction steps.
 - [x] Vague statements or untested assumptions.
 - [x] Generic titles.
 - [ ] One bug per report.
@@ -1528,7 +1528,7 @@ Who should know the most about the progress toward a business objective or a rel
 _[⬆ Back to Top](#table-of-contents)_
 
 121.  ### Question121
-When many Scrum Teams are working on a single product, what best describes the Definition of Done? (choose the best answer)
+When many Scrum Teams are working on a single Product, what best describes the Definition of Done? (choose the best answer)
 
 - [ ] It depends.
 - [ ] Each Scrum Team uses its own, but must make their definition clear to all other teams so the differences are known
@@ -1549,9 +1549,9 @@ _[⬆ Back to Top](#table-of-contents)_
 123.  ### Question123
 When should the Developers on a Scrum Team be replaced? (choose the best answer)
 
-- [ ] As needed, with no special allowance for changes in productivity.
-- [ ] Never, it reduces productivity.
-- [x] As needed, while taking into account a short-term reduction in productivity.
+- [ ] As needed, with no special allowance for changes in Productivity.
+- [ ] Never, it reduces Productivity.
+- [x] As needed, while taking into account a short-term reduction in Productivity.
 - [ ] Every Sprint to promote shared learning.
 
 _[⬆ Back to Top](#table-of-contents)_
@@ -1651,7 +1651,7 @@ The timebox for the Sprint Planning event is? (choose the best answer)
 _[⬆ Back to Top](#table-of-contents)_
 
 133.  ### Question133
-True or False: The purpose of a Sprint is to produce a valuable and useful Increment of working product.
+True or False: The purpose of a Sprint is to produce a valuable and useful Increment of working Product.
 
 - [x] True.
 - [ ] False.
@@ -1672,9 +1672,9 @@ _[⬆ Back to Top](#table-of-contents)_
 Who creates the Definition of Done? (choose the best answer)
 
 - [ ] The Scrum Team, in a collaborative effort where the result is the common denominator of all members' definitions.
-- [ ] The Scrum Master since they are responsible for the productivity of the Developers.
-- [ ] The Product Owner since they are responsible for the product's success.
-- [x] If it is not an organizational standard, the Scrum Team must create a Definition of Done appropriate for the product.
+- [ ] The Scrum Master since they are responsible for the Productivity of the Developers.
+- [ ] The Product Owner since they are responsible for the Product's success.
+- [x] If it is not an organizational standard, the Scrum Team must create a Definition of Done appropriate for the Product.
 
 _[⬆ Back to Top](#table-of-contents)_
 
@@ -1736,7 +1736,7 @@ _[⬆ Back to Top](#table-of-contents)_
 141.  ### Question141
 What is the role of Management in Scrum? (choose the best answer)
 
-- [x] Support the Product Owner with insights and information into high value product and system capabilities. Support the Scrum Master to cause organizational change that fosters empiricism, self-management, bottom-up intelligence, and intelligent product delivery.
+- [x] Support the Product Owner with insights and information into high value Product and system capabilities. Support the Scrum Master to cause organizational change that fosters empiricism, self-management, bottom-up intelligence, and intelligent Product delivery.
 - [ ] Continually monitor staffing levels of the Scrum Team.
 - [ ] Monitor the progress of the Developers on the Scrum Team.
 - [ ] Identify and remove people that are not working hard enough.
@@ -2057,7 +2057,7 @@ What shapes can be an architecture spike? Pick all that apply
 - [x] A prototype which will be thrown away
 - [ ] A comprehensive architecture implementation
 - [x] A quick and dirty implementation
-- [ ] A plan for all required architectures of the product
+- [ ] A plan for all required architectures of the Product
 
 _[⬆ Back to Top](#table-of-contents)_
 
@@ -2243,7 +2243,7 @@ _[⬆ Back to Top](#table-of-contents)_
 What is the ATDD?
 
 - [x] Using acceptance tests to define requirements specified by the customer and market
-- [ ] Using advanced Integration Test to develop quality product
+- [ ] Using advanced Integration Test to develop quality Product
 - [ ] Using approved tests by Product Owner in TDD
 - [ ] Using Unit Tests to define requirements specified by the customer and market
 
@@ -2272,7 +2272,7 @@ _[⬆ Back to Top](#table-of-contents)_
 198.  ### Question198
 What is the goal of the Continuous Integration?
 
-- [ ] To publish the product Increment on production
+- [ ] To publish the Product Increment on Production
 - [ ] To penalize the developer who breaks the build
 - [x] To provide rapid feedback of build and test result
 - [ ] To find who has made the change on source control
@@ -2315,7 +2315,7 @@ Which one is true about the scaled Scrum? Pick 2
 - [ ] The scaled Scrum does not add or change anything in Scrum framework
 - [x] It is based on the Scrum framework
 - [x] It uses Scrum parts as its building blocks
-- [ ] Through scaled Scrum Teams work on multiple products
+- [ ] Through scaled Scrum Teams work on multiple Products
 
 _[⬆ Back to Top](#table-of-contents)_
 
@@ -2597,8 +2597,8 @@ Which one is true about Definition of Done and Acceptance Criteria? Pick all tha
 - [ ] Acceptance Criteria should be passed for a feature in order to be called as complete and done
 - [x] Acceptance Criteria should be passed to ensure that a feature is working as expected
 - [x] Definition of Done should be applied to a feature in order to be called as complete
-- [x] There are many Acceptance Criteria in a product
-- [ ] There are many Definition of Done in a product and a Scrum Team
+- [x] There are many Acceptance Criteria in a Product
+- [ ] There are many Definition of Done in a Product and a Scrum Team
 
 _[⬆ Back to Top](#table-of-contents)_
 
@@ -2637,7 +2637,7 @@ What are traits of a high performance Scrum Team? Pick all that apply
 - [x] They live the Scrum Values deeply
 - [x] They help their customers become more successful
 - [x] They evolve the Definition of Done over time and add more stringent criteria to it continuously
-- [x] There is a high level of creativity, productivity and accountability in the Team dynamics
+- [x] There is a high level of creativity, Productivity and accountability in the Team dynamics
 - [ ] They respect top managers through accepting their work every time
 
 _[⬆ Back to Top](#table-of-contents)_
@@ -2681,7 +2681,7 @@ How do the developers divide into multiple teams in scaled Scrum?
 _[⬆ Back to Top](#table-of-contents)_
 
 239.  ### Question239
-What should the Development Team do when there is no standard contract to create a releasable product?
+What should the Development Team do when there is no standard contract to create a releasable Product?
 
 - [ ] Ask the Product Owner to make a definition of done
 - [ ] Ask Project manager to help them
@@ -2810,7 +2810,7 @@ What are reasons to automate the software build process? (choose the best two an
 _[⬆ Back to Top](#table-of-contents)_
 
 253.  ### Question253
-What are some shortcomings of Code Coverage as a measurement for how well a system or product is tested? (choose the best three answers)
+What are some shortcomings of Code Coverage as a measurement for how well a system or Product is tested? (choose the best three answers)
 
 - [x] Code Coverage does not ensure that the most important or highest risk areas of the code are being exercised by tests.
 - [x] Code Coverage does not necessarily provide functional coverage.
@@ -2939,7 +2939,7 @@ When are Testers and quality experts ideally included in a project?
 - [ ] After developer handoff.
 - [ ] After Sprint Review.
 - [x] From the beginning and throughout all Sprints.
-- [ ] When the product is feature complete.
+- [ ] When the Product is feature complete.
 
 _[⬆ Back to Top](#table-of-contents)_
 
@@ -2971,7 +2971,7 @@ Which are attributes of a good bug report? (choose all that apply)
 - [x] Expected results and observed results.
 - [x] One bug per report.
 - [x] Screenshots or other pictures of bug in action when user interfaces are involved.
-- [x] Simple and repeatable reproduction steps.
+- [x] Simple and repeatable reProduction steps.
 
 _[⬆ Back to Top](#table-of-contents)_
 
@@ -3072,7 +3072,7 @@ Which statements describe why automated builds are important? (choose the best t
 - [x] They allow frequent validation of the unit of software being worked on, ensuring it remains in a potentially shippable state.
 - [x] The build process is clearly defined and scripted, making it easy consistent and repeatable.
 - [ ] They eliminate the need for Build Engineers.
-- [x] They ensure your product remains bug free.
+- [x] They ensure your Product remains bug free.
 - [ ] They support continuous integration.
 
 _[⬆ Back to Top](#table-of-contents)_
@@ -3088,7 +3088,7 @@ While changing software, you find a bug in a previously delivered piece of funct
 _[⬆ Back to Top](#table-of-contents)_
 
 280.  ### Question280
-Who is responsible for the system architecture of a product being developed using Scrum?
+Who is responsible for the system architecture of a Product being developed using Scrum?
 
 - [ ] The architect chosen by the Development Team.
 - [ ] The corporate architect.
@@ -3121,7 +3121,7 @@ Who should be present during Product Backlog refinement? (choose all that apply)
 _[⬆ Back to Top](#table-of-contents)_
 
 283.  ### Question283
-You are on a Scrum Team that is enhancing an existing product. Which is the LEAST useful piece of documentation you want to have at your disposal?
+You are on a Scrum Team that is enhancing an existing Product. Which is the LEAST useful piece of documentation you want to have at your disposal?
 
 - [ ] Acceptance tests.
 - [ ] Detailed designs.
