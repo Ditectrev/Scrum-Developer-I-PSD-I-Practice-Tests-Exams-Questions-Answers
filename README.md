@@ -986,7 +986,7 @@ Which three of the following criteria are most helpful as part of a Scrum Team�
 _[⬆ Back to Top](#table-of-contents)_
 
 67. ### Question67
-A team has expressed requirements as a set of failing acceptance tests. What are three benefits? (choose best three answers)
+A team has expressed requirements as a set of failing Acceptance Tests. What are three benefits? (choose best three answers)
 
 - [x] Improves quality in the requirement itself.
 - [x] Clear acceptance criteria for each feature.
@@ -1122,7 +1122,7 @@ For the purpose of transparency, when does Scrum say a new Increment of working 
 - [ ] At the end of every Sprint.
 - [ ] Before the release Sprint.
 - [ ] Every 3 Sprints.
-- [ ] After the acceptance testing phase.
+- [ ] After the Acceptance Testing phase.
 
 _[⬆ Back to Top](#table-of-contents)_
 
@@ -2242,7 +2242,7 @@ _[⬆ Back to Top](#table-of-contents)_
 195.  ### Question195
 What is the ATDD?
 
-- [x] Using acceptance tests to define requirements specified by the customer and market
+- [x] Using Acceptance Tests to define requirements specified by the customer and market
 - [ ] Using advanced Integration Test to develop quality Product
 - [ ] Using approved tests by Product Owner in TDD
 - [ ] Using Unit Tests to define requirements specified by the customer and market
@@ -2986,7 +2986,7 @@ Which are potential benefits of Test Driven Development? (choose all that apply)
 _[⬆ Back to Top](#table-of-contents)_
 
 271.  ### Question271
-Which describes the practice of expressing requirements as acceptance tests?
+Which describes the practice of expressing requirements as Acceptance Tests?
 
 - [x] Acceptance Test Driven Development
 - [ ] Object Driven Requirements Definition.
@@ -3123,7 +3123,7 @@ _[⬆ Back to Top](#table-of-contents)_
 283.  ### Question283
 You are on a Scrum Team that is enhancing an existing Product. Which is the LEAST useful piece of documentation you want to have at your disposal?
 
-- [ ] Acceptance tests.
+- [ ] Acceptance Tests.
 - [ ] Detailed designs.
 - [x] The full history of retrospective plans and lessons learned.
 - [ ] Well-structured and named code.
