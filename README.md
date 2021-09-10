@@ -567,7 +567,7 @@ _[⬆ Back to Top](#table-of-contents)_
 What is the primary purpose of refactoring?
 
 - [ ] Ensuring that all factors are constantly aligned.
-- [ ] Removing all bugs that were found during regression tests.
+- [ ] Removing all bugs that were found during Regression Tests.
 - [x] Making sure that the code is readable and maintainable.
 - [ ] Creating better technical documentation.
 
@@ -588,7 +588,7 @@ _[⬆ Back to Top](#table-of-contents)_
 29. ### Question29
 The practice of decomposing a requirement into failing tests is called:
 
-- [ ] Regression testing.
+- [ ] Regression Testing.
 - [ ] Object oriented requirements definition.
 - [x] Acceptance Test Driven Development.
 - [ ] Behavior Driven Development.
@@ -693,7 +693,7 @@ Which answer best describes Behavior-Driven Development (BDD)?
 - [x] A style of test-driven development focusing on user and system interactions.
 - [ ] A development style that accounts for leadership style among team members.
 - [ ] A way to organize Unit Tests based on class and method structures.
-- [ ] A technique for maintaining regression test harnesses.
+- [ ] A technique for maintaining Regression Test harnesses.
 
 _[⬆ Back to Top](#table-of-contents)_
 
@@ -2330,7 +2330,7 @@ Which factors should be considered to determine the Sprint length? Pick all that
 _[⬆ Back to Top](#table-of-contents)_
 
 241.  ### Question241
-One of the outcomes of using TDD is creating an automated regression test suite.
+One of the outcomes of using TDD is creating an automated Regression Test suite.
 
 - [ ] False
 - [x] True
