@@ -1048,7 +1048,7 @@ Which of the following are quality goals in Application Architecture? (choose be
 _[⬆ Back to Top](#table-of-contents)_
 
 73. ### Question73
-Stakeholders can be included in Product Backlog refinement?
+True or False: Stakeholders can be included in Product Backlog refinement?
 
 - [x] True.
 - [ ] False.
