@@ -1038,11 +1038,11 @@ What are some disadvantages of Code Coverages as a measurement for how well a sy
 _[⬆ Back to Top](#table-of-contents)_
 
 72. ### Question72
-Which of the following are quality goals in application architecture? (choose best two answers)
+Which of the following are quality goals in Application Architecture? (choose best two answers)
 
 - [ ] Build.
 - [x] Security.
-- [ ] Design pattern selection.
+- [ ] Design Pattern selection.
 - [x] Scalability.
 
 _[⬆ Back to Top](#table-of-contents)_
