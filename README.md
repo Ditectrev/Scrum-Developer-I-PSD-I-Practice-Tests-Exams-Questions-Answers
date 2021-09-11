@@ -4,7 +4,7 @@
 
 | No. | Questions |
 | --- | --------------------------- |
-| 1   | [When can Product Backlog refinement occur?](#when-can-product-backlog-refinement-occur) |
+| 1   | [When can Product Backlog Refinement occur?](#when-can-product-backlog-refinement-occur) |
 | 2   | [What would NOT be considered refactoring?](#what-would-not-be-considered-refactoring) |
 | 3   | [Question3](#question3) |
 | 4   | [Question4](#question4) |
@@ -289,11 +289,11 @@
 | 283 | [Question283](#question283) |
 
 
-### When can Product Backlog refinement occur?
+### When can Product Backlog Refinement occur?
 
 - [ ] Only during Sprint Planning.
 - [x] Anytime during the Sprint.
-- [ ] Only during refinement meetings planned by the Product Owner.
+- [ ] Only during Refinement meetings planned by the Product Owner.
 - [ ] Before Sprint Planning.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -703,7 +703,7 @@ In what ways do Developers contribute to refining the Product Backlog?
 
 - [x] They ask questions in order to clarify the intent of Product Backlog items.
 - [ ] They do not. The Developers are only responsible for prioritizing technical work.
-- [ ] They do not. The Scrum Master and the Product Owner are responsible for Product Backlog refinement.
+- [ ] They do not. The Scrum Master and the Product Owner are responsible for Product Backlog Refinement.
 - [x] They give input on technical dependencies.
 - [x] They may update estimates for Product Backlog items.
 
@@ -1048,7 +1048,7 @@ Which of the following are quality goals in Application Architecture? (choose be
 _[⬆ Back to Top](#table-of-contents)_
 
 73. ### Question73
-True or False: Stakeholders can be included in Product Backlog refinement?
+True or False: Stakeholders can be included in Product Backlog Refinement?
 
 - [x] True.
 - [ ] False.
@@ -1459,21 +1459,21 @@ Who writes tests in a Scrum Team? (choose the best answer)
 _[⬆ Back to Top](#table-of-contents)_
 
 114.  ### Question114
-When do the Developers participate in Product Backlog refinement? (choose the best answer)
+When do the Developers participate in Product Backlog Refinement? (choose the best answer)
 
 - [x] Anytime during the Sprint.
 - [ ] Never. It is the sole responsibility of the Product Owner to refine the Product Backlog.
-- [ ] Only during refinement sessions planned by the Product Owner.
+- [ ] Only during Refinement sessions planned by the Product Owner.
 - [ ] As Part 1 of Sprint Planning
 
 _[⬆ Back to Top](#table-of-contents)_
 
 115.  ### Question115
-Who should be present during Product Backlog refinement? (choose the best answer)
+Who should be present during Product Backlog Refinement? (choose the best answer)
 
 - [ ] The integration architects from the release department.
 - [ ] Only the most senior Developers.
-- [x] Anyone that the Scrum Team decides will be valuable during refinement.
+- [x] Anyone that the Scrum Team decides will be valuable during Refinement.
 - [ ] The stakeholders.
 - [ ] The external business analysts that have prepared the functional details.
 
@@ -2944,12 +2944,12 @@ When are Testers and quality experts ideally included in a project?
 _[⬆ Back to Top](#table-of-contents)_
 
 267.  ### Question267
-When does the Development Team participate in Product Backlog refinement?
+When does the Development Team participate in Product Backlog Refinement?
 
 - [x] Anytime during the Sprint.
 - [ ] As Part 1 of the Sprint Planning meeting.
 - [ ] Never. It is the sole responsibility of the Product Owner to refine the Product Backlog.
-- [ ] Only during refinement meetings planned by the Product Owner.
+- [ ] Only during Refinement meetings planned by the Product Owner.
 
 _[⬆ Back to Top](#table-of-contents)_
 
@@ -3109,7 +3109,7 @@ Who must be present at the Daily Scrum meeting?
 _[⬆ Back to Top](#table-of-contents)_
 
 282.  ### Question282
-Who should be present during Product Backlog refinement? (choose all that apply)
+Who should be present during Product Backlog Refinement? (choose all that apply)
 
 - [ ] Only the most senior people from the Development Team.
 - [x] The Development Team.
