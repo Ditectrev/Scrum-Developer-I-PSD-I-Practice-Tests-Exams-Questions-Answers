@@ -1017,12 +1017,12 @@ Which two criteria are useful in deciding if something should be documented ever
 _[⬆ Back to Top](#table-of-contents)_
 
 70. ### Question70
-What factor should be considered when establishing the sprint length?
+What factor should be considered when establishing the Sprint length?
 
 - [x] The need of the team to learn on doing work and measuring results.
 - [ ] The frequency at which team formation can be changed.
 - [ ] The organization release schedule.
-- [ ] The organization has mandated similar length sprints.
+- [ ] The organization has mandated similar length Sprints.
 
 _[⬆ Back to Top](#table-of-contents)_
 
