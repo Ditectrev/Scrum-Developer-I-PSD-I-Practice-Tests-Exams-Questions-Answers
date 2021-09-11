@@ -309,7 +309,7 @@
 **[⬆ Back to Top](#table-of-contents)**
 
 3.  ### Question3
-Your Scrum Team is one of seven teams working on a Software Product. All teams use the same version control system. Which is the best approach to deliver a high-quality Increment?
+Your Scrum Team is one of seven teams working on a Software Product. All teams use the same Version Control System. Which is the best approach to deliver a high-quality Increment?
 
 - [ ] Developers should perform a combination of local and private builds.
 - [ ] Each team's automated build is integrated toward the end of the Sprint.
@@ -330,7 +330,7 @@ Who creates documentation included with an Increment?
 **[⬆ Back to Top](#table-of-contents)**
 
 5.  ### Question5
-What is a merge in a version control system?
+What is a merge in a Version Control System?
 
 - [ ] Copying a portion of a code base to isolate it from the original codebase.
 - [ ] Identifying a particular codebase as ready for distribution.
@@ -714,7 +714,7 @@ When should the Developers create their first automated build?
 - [ ] Before writing the first line of code.
 - [ ] When the Product Owner asks for a build.
 - [ ] Just before the end of the Sprint.
-- [x] As soon as there is code in the version control system.
+- [x] As soon as there is code in the Version Control System.
 
 _[⬆ Back to Top](#table-of-contents)_
 
