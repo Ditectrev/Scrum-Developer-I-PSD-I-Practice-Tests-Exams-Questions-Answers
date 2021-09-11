@@ -334,7 +334,7 @@ What is a merge in a version control system?
 
 - [ ] Copying a portion of a code base to isolate it from the original codebase.
 - [ ] Identifying a particular codebase as ready for distribution.
-- [ ] Triggering a deployment into Production.
+- [ ] Triggering a Deployment into Production.
 - [x] Combining two or more versions of code into a single codebase.
 
 **[⬆ Back to Top](#table-of-contents)**
