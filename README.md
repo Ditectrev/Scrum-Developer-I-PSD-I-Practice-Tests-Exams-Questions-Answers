@@ -719,7 +719,7 @@ When should the Developers create their first automated build?
 _[⬆ Back to Top](#table-of-contents)_
 
 42. ### Question42
-Which of the following are quality goals in application architecture?
+Which of the following are quality goals in Application Architecture?
 
 - [ ] Design Pattern selection.
 - [x] Scalability.
@@ -2831,7 +2831,7 @@ What are three advantages of Continuous Integration? (choose the best three answ
 _[⬆ Back to Top](#table-of-contents)_
 
 255.  ### Question255
-What are ways a Development Team can ensure a good application architecture? (choose the best two answers)
+What are ways a Development Team can ensure a good Application Architecture? (choose the best two answers)
 
 - [ ] A Development Team doesn't need an architecture model in Scrum and should focus on adding functionality. The architecture will come into place without fail as the Development Team adds functionality.
 - [ ] The Development Team plans a Sprint 0 at the beginning of a project with the objective of developing an architecture model used during the following Sprints.
