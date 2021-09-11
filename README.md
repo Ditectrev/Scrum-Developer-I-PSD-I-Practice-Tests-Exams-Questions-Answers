@@ -4,7 +4,7 @@
 
 | No. | Questions |
 | --- | --------------------------- |
-| 1   | [When can Product Backlog refinement occur?](#when-can-Product-backlog-refinement-occur) |
+| 1   | [When can Product Backlog refinement occur?](#when-can-product-backlog-refinement-occur) |
 | 2   | [What would NOT be considered refactoring?](#what-would-not-be-considered-refactoring) |
 | 3   | [Question3](#question3) |
 | 4   | [Question4](#question4) |
@@ -579,7 +579,7 @@ Which are four attributes of a good bug report?
 - [x] Expected results and observed results.
 - [x] Includes build or version number where bug was found.
 - [ ] Includes code for a proposed fix.
-- [x] Provides simple and repeatable reProduction steps.
+- [x] Provides simple and repeatable reproduction steps.
 - [x] Screenshots or other pictures of the bug in action.
 - [ ] Explains some new system functionality desired.
 
@@ -621,7 +621,7 @@ Which are three attributes of a bad bug report?
 
 - [x] Vague statements or untested assumptions.
 - [x] Generic titles.
-- [ ] Simple and repeatable reProduction steps.
+- [ ] Simple and repeatable reproduction steps.
 - [x] Assigning blame.
 - [ ] One bug per report.
 
@@ -1440,7 +1440,7 @@ _[⬆ Back to Top](#table-of-contents)_
 112.  ### Question112
 Which of the following are attributes of a bad bug report? (choose the best three answers)
 
-- [ ] Simple and repeatable reProduction steps.
+- [ ] Simple and repeatable reproduction steps.
 - [x] Vague statements or untested assumptions.
 - [x] Generic titles.
 - [ ] One bug per report.
@@ -2971,7 +2971,7 @@ Which are attributes of a good bug report? (choose all that apply)
 - [x] Expected results and observed results.
 - [x] One bug per report.
 - [x] Screenshots or other pictures of bug in action when user interfaces are involved.
-- [x] Simple and repeatable reProduction steps.
+- [x] Simple and repeatable reproduction steps.
 
 _[⬆ Back to Top](#table-of-contents)_
 
