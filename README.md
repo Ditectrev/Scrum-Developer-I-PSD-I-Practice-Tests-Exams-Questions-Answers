@@ -1058,8 +1058,10 @@ _[⬆ Back to Top](#table-of-contents)_
 74. ### Question74
 What are two good ways for the Development Team to make a non-functional requirements visible?
 
-- [ ] Add them to the definition of "Done" so the work is taken care of the every Sprint.
-- [x] Add them to the Product Back log and keep the Product owner posted on the expected efforts.
+- [ ] Put them on a separate list on the Scrum board, available for all to see.
+- [x] Add them to the Product Backlog and keep the Product Owner posted on the expected effort.
+- [ ] Run the Integration and Regression Tests before the end of the Sprint, and capture the open work for the Sprint Backlog of the next Sprint.
+- [x] Add them to the definition of “Done” so the work is taken care of every Sprint.
 
 _[⬆ Back to Top](#table-of-contents)_
 
