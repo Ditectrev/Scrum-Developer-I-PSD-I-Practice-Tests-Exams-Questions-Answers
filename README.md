@@ -528,7 +528,7 @@ How much time must a Product Owner spend with the Developers?
 
 - [ ] 100%.
 - [ ] Enough so that the Product Owner is not surprised by the value delivered by the Increment.
-- [ ] 40%, or more if the stakeholders agree.
+- [ ] 40%, or more if the Stakeholders agree.
 - [x] Any amount of time the Developers ask the Product Owner to be present.
 
 24. ### Question24
@@ -885,7 +885,7 @@ The Daily Scrum event happens every day. What would be three concerns if the fre
 - [ ] Too much work is spent updating the Scrum Board before meeting.
 - [x] Sprint Plan may become inaccurate.
 - [x] Impediments are raised and resolved more slowly.
-- [ ] The Product Owner cannot accurately report to the stakeholders.
+- [ ] The Product Owner cannot accurately report to the Stakeholders.
 
 _[⬆ Back to Top](#table-of-contents)_
 
@@ -1071,7 +1071,7 @@ What activities would a Product Owner typically undertake in the phase between t
 - [x] There are no such activities. The next Sprint starts immediately after the current Sprint.
 - [ ] Work with the Quality Assurance departments on the Increment of the current Sprint.
 - [ ] Refine the Product Backlog.
-- [ ] Update the project plan with stakeholders.
+- [ ] Update the project plan with Stakeholders.
 
 _[⬆ Back to Top](#table-of-contents)_
 
@@ -1146,14 +1146,14 @@ _[⬆ Back to Top](#table-of-contents)_
 What is the purpose of a Sprint Review? (choose the best answer)
 
 - [ ] To take time to judge the validity of the project.
-- [x] To inspect the Product Increment with the stakeholders and collect feedback on next steps.
+- [x] To inspect the Product Increment with the Stakeholders and collect feedback on next steps.
 - [ ] To review the Scrum Team's activities and processes during the Sprint.
 - [ ] To build team spirit.
 
 _[⬆ Back to Top](#table-of-contents)_
 
 84.  ### Question84
-True or False: The Product Owner makes sure the team selects enough from the Product Backlog for a Sprint to satisfy the stakeholders.
+True or False: The Product Owner makes sure the team selects enough from the Product Backlog for a Sprint to satisfy the Stakeholders.
 
 - [ ] True.
 - [x] False.
@@ -1200,7 +1200,7 @@ The Product Owner determines how many Product Backlog items the Development Team
 - [ ] False, capacity and commitment are the Project manager's responsibility.
 - [ ] False, the Scrum Master does that.
 - [ ] True.
-- [ ] True, accordingly to what was committed to the stakeholders.
+- [ ] True, accordingly to what was committed to the Stakeholders.
 - [ ] False.
 
 _[⬆ Back to Top](#table-of-contents)_
@@ -1338,7 +1338,7 @@ _[⬆ Back to Top](#table-of-contents)_
 102.  ### Question102
 What are three ways Scrum promotes self-organization? (Choose three.)
 
-- [ ] By preventing stakeholders from entering the development room.
+- [ ] By preventing Stakeholders from entering the development room.
 - [x] By removing titles for Development Team members.
 - [ ] By not allowing documentation.
 - [x] By being a lightweight framework.
@@ -1476,7 +1476,7 @@ Who should be present during Product Backlog Refinement? (choose the best answer
 - [ ] The integration architects from the release department.
 - [ ] Only the most senior Developers.
 - [x] Anyone that the Scrum Team decides will be valuable during Refinement.
-- [ ] The stakeholders.
+- [ ] The Stakeholders.
 - [ ] The external business analysts that have prepared the functional details.
 
 _[⬆ Back to Top](#table-of-contents)_
@@ -1543,7 +1543,7 @@ During a Sprint, a Developer determines that the Scrum Team will not be able to 
 
 - [x] The Product Owner and the Developers.
 - [ ] The Scrum Master, the project manager, and the Developers.
-- [ ] The Product Owner and all stakeholders.
+- [ ] The Product Owner and all Stakeholders.
 - [ ] The Developers.
 
 _[⬆ Back to Top](#table-of-contents)_
@@ -1626,7 +1626,7 @@ Which of the following are examples of a Scrum Team practicing Scrum poorly or n
 - [x] Stakeholders attend the Daily Scrum to check on the Scrum Team’s progress.
 - [ ] The Developers create their own Sprint Backlog, reflecting all work that is required to meet the Definition of Done.
 - [ ] The Developers are collaboratively selecting their own work during the Sprint.
-- [x] The Developers invite external stakeholders to the Sprint Planning to ask them how to turn a Product Backlog item into an Increment via a complete and detailed Sprint Backlog.
+- [x] The Developers invite external Stakeholders to the Sprint Planning to ask them how to turn a Product Backlog item into an Increment via a complete and detailed Sprint Backlog.
 - [x] The Developers are working within the boundaries of their organizations functional description and nicely handing off work from analyst to developer to Tester to integration.
 
 _[⬆ Back to Top](#table-of-contents)_
@@ -1799,9 +1799,9 @@ _[⬆ Back to Top](#table-of-contents)_
 147.  ### Question147
 Which statement best describes a Product Owner's responsibility? (choose the best answer)
 
-- [ ] Keep stakeholders from distracting the Developers.
+- [ ] Keep Stakeholders from distracting the Developers.
 - [X] Optimizing the value of the work the Scrum Team does.
-- [ ] Managing the project and ensuring that the work meets the commitments to the stakeholders.
+- [ ] Managing the project and ensuring that the work meets the commitments to the Stakeholders.
 - [ ] Directing the Developers.
 
 _[⬆ Back to Top](#table-of-contents)_
@@ -2768,7 +2768,7 @@ The Definition of "Done" describes the work that must be completed for every Pro
 
 - [ ] Cancel the Sprint.
 - [ ] Complete the work that can be done on as much scope as possible and complete the rest during the "hardening" sprints at the end of the release.
-- [ ] Complete the work that can be done on as much scope as possible and use the Sprint Review to plan the rest with the stakeholders.
+- [ ] Complete the work that can be done on as much scope as possible and use the Sprint Review to plan the rest with the Stakeholders.
 - [x] Immediately raise the issue to the Scrum Master as an impediment.
 - [ ] Stop using Scrum.
 
@@ -3118,7 +3118,7 @@ Who should be present during Product Backlog Refinement? (choose all that apply)
 - [ ] The external business analysts that have prepared the functional details.
 - [ ] The integration architects from the release department.
 - [x] The Product Owner.
-- [ ] The stakeholders.
+- [ ] The Stakeholders.
 
 _[⬆ Back to Top](#table-of-contents)_
 
