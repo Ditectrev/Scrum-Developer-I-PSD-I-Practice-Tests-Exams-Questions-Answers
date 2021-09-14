@@ -1132,13 +1132,13 @@ _[⬆ Back to Top](#table-of-contents)_
 Which three behaviors demonstrate that a team is self-organizing? (choose the best three answers)
 
 - [ ] The Development Team inviting external people to the Sprint Planning to ask them how to turn a Product Backlog item into an Increment via a complete and detailed Sprint Backlog.
-- [ ] The Development Team members are working within the boundaries of their functional description and nicely handing off work from analyst to developer to Tester to integration.
+- [ ] The Development Team members are working within the boundaries of their functional description and nicely handing off work from analyst to Developer to Tester to integration.
 - [ ] The Product Owner doesn't need to be at Sprint Retrospectives.
 - [ ] Stakeholders walking in at the Daily Scrum to check progress and work with the Scrum Master to optimize the functional scope for the Sprint.
 - [x] Development Team members collaboratively selecting their own work during the Sprint.
 - [ ] The Scrum Master is no longer needed.
 - [x] The Development Team has all the skills needed to create a releasable Increment.
-- [x] The Development Team creating their own sprint backlog, reflecting all work that   is part of the definition of "Done".
+- [x] The Development Team creating their own sprint backlog, reflecting all work that is part of the definition of "Done".
 
 _[⬆ Back to Top](#table-of-contents)_
 
