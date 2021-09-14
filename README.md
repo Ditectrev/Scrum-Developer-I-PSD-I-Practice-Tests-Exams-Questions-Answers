@@ -1142,7 +1142,7 @@ Which three behaviors demonstrate that a team is self-organizing? (choose the be
 
 _[⬆ Back to Top](#table-of-contents)_
 
-82.  ### Question83
+82.  ### Question82
 What is the purpose of a Sprint Review? (choose the best answer)
 
 - [ ] To take time to judge the validity of the project.
@@ -1152,7 +1152,7 @@ What is the purpose of a Sprint Review? (choose the best answer)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-84.  ### Question84
+83.  ### Question83
 True or False: The Product Owner makes sure the team selects enough from the Product Backlog for a Sprint to satisfy the Stakeholders.
 
 - [ ] True.
@@ -1160,7 +1160,7 @@ True or False: The Product Owner makes sure the team selects enough from the Pr
 
 _[⬆ Back to Top](#table-of-contents)_
 
-85.  ### Question85
+84.  ### Question84
 Which statement best describes the Sprint Backlog as outcome of the Sprint Planning? (choose the best answer)
 
 - [ ] It is the Development Team's plan for the Sprint.
@@ -1171,7 +1171,7 @@ Which statement best describes the Sprint Backlog as outcome of the Sprint Plann
 
 _[⬆ Back to Top](#table-of-contents)_
 
-86.  ### Question86
+85.  ### Question85
 A Development Team selects a set of Product Backlog items for a Sprint Backlog with the intent to get the selected items "Done" by the end of the Sprint. Which three phrases best describe the purpose of a definition of "Done"? (choose the best three answers)
 
 - [ ] It provides a template for elements that need to be included in the technical documentation.
@@ -1183,7 +1183,7 @@ A Development Team selects a set of Product Backlog items for a Sprint Backlog w
 
 _[⬆ Back to Top](#table-of-contents)_
 
-87.  ### Question87
+86.  ### Question86
 Which output from Sprint Planning provides the Development Team with a target and overarching direction for the Sprint? (choose the best answer)
 
 - [x] The Sprint Goal.
@@ -1193,7 +1193,7 @@ Which output from Sprint Planning provides the Development Team with a target an
 
 _[⬆ Back to Top](#table-of-contents)_
 
-88.  ### Question88
+87.  ### Question87
 The Product Owner determines how many Product Backlog items the Development Team selects for a Sprint. (choose the best answer)
 
 - [ ] True, but only after confirmation by the resource manager that the Team has enough capacity.
@@ -1205,7 +1205,7 @@ The Product Owner determines how many Product Backlog items the Development Team
 
 _[⬆ Back to Top](#table-of-contents)_
 
-89.  ### Question89
+88.  ### Question88
 Who owns the Sprint Backlog? (choose the best answer)
 
 - [ ] The Scrum Team.
@@ -1215,7 +1215,7 @@ Who owns the Sprint Backlog? (choose the best answer)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-90.  ### Question90
+89.  ### Question89
 When is implementation of a Product Backlog item considered complete? (choose the best answer)
 
 - [x] When the item has no work remaining in order to be potentially released.
@@ -1225,7 +1225,7 @@ When is implementation of a Product Backlog item considered complete? (choose th
 
 _[⬆ Back to Top](#table-of-contents)_
 
-91.  ### Question91
+90.  ### Question90
 Which two of the following are true about the Scrum Master role? (choose the best two answers)
 
 - [x] The Scrum Master teaches the Development Team to keep the Scrum meetings to their time-box.
@@ -1236,7 +1236,7 @@ Which two of the following are true about the Scrum Master role? (choose the bes
 
 _[⬆ Back to Top](#table-of-contents)_
 
-92.  ### Question92
+91.  ### Question91
 Which two of the following are appropriate topics for discussion during a Sprint Retrospective? (choose the best two answers)
 
 - [ ] Documenting acceptance criteria for items in the next Sprint. 
@@ -1246,7 +1246,7 @@ Which two of the following are appropriate topics for discussion during a Sprint
 
 _[⬆ Back to Top](#table-of-contents)_
 
-93.  ### Question93
+92.  ### Question92
 True or False: Multiple Scrum Teams working on the same project must have the same Sprint start date.
 
 - [ ] True.
@@ -1254,7 +1254,7 @@ True or False: Multiple Scrum Teams working on the same project must have the s
 
 _[⬆ Back to Top](#table-of-contents)_
 
-94.  ### Question94
+93.  ### Question93
 When is it most appropriate for a Development Team to change the definition of "Done"? (choose the best answer)
 
 - [ ] During Sprint Planning.
@@ -1264,7 +1264,7 @@ When is it most appropriate for a Development Team to change the definition of "
 
 _[⬆ Back to Top](#table-of-contents)_
 
-95.  ### Question95
+94.  ### Question94
 The Product Owner is not collaborating with the Development Team during the Sprint. What are two valuable actions for a Scrum Master to take? (choose the best two answers)
 
 - [ ] Nominate a proxy Product Owner.
@@ -1275,7 +1275,7 @@ The Product Owner is not collaborating with the Development Team during the Spri
 
 _[⬆ Back to Top](#table-of-contents)_
 
-96.  ### Question96
+95.  ### Question95
 A Scrum Master is working with a Development Team that has members in different physical locations. The Development Team meets in a variety of meeting rooms and has much to do logistically (for example, set up conference calls) before the Daily Scrum. What action should the Scrum Master take? (choose the best answer)
 
 - [ ] Ask the Development Team members to alternate who is responsible for meeting setup.
@@ -1285,7 +1285,7 @@ A Scrum Master is working with a Development Team that has members in different 
 
 _[⬆ Back to Top](#table-of-contents)_
 
-97.  ### Question97
+96.  ### Question96
 Five new Scrum Teams have been created to build one Product. A few of the developers on one of the Development Teams ask the Scrum Master how to coordinate their work with the other teams. What should the Scrum Master do?
 
 - [ ] Teach the Product Owner to work with the lead developers on ordering Product Backlog in a way to avoid too much technical and development overlap during a Sprint.
@@ -1295,7 +1295,7 @@ Five new Scrum Teams have been created to build one Product. A few of the develo
 
 _[⬆ Back to Top](#table-of-contents)_
 
-98.  ### Question98
+97.  ### Question97
 True or False: Scrum is a methodology that tells in detail how to build Software incrementally.
 
 - [ ] True
@@ -1303,7 +1303,7 @@ True or False: Scrum is a methodology that tells in detail how to build Softwar
 
 _[⬆ Back to Top](#table-of-contents)_
 
-99.  ### Question99
+98.  ### Question98
 In the Sprint Planning meeting, the Product Owner and the Development Team were unable to reach a clear understanding about the highest order Product Backlog items. Because of this, the Development Team couldn't figure out how many Product Backlog items it could forecast for the Development Team couldn't figure out how many Product Backlog items it could forecast for the upcoming Sprint. They were able to agree on a Sprint Goal, however. Which of the following two actions should the Scrum Master support? (choose the best two answers)
 
 - [ ] Ask everyone to take as much time as needed to analyze the Product Backlog first, and then reconvene another Sprint Planning meeting.
@@ -1314,7 +1314,7 @@ In the Sprint Planning meeting, the Product Owner and the Development Team were 
 
 _[⬆ Back to Top](#table-of-contents)_
 
-100.  ### Question100
+99.  ### Question99
 A member of the Development Team takes the Scrum Master aside to express his concerns about data security issues. What should the Scrum Master do? (choose the best answer)
 
 - [ ] Create a Product Backlog item for security.
@@ -1325,7 +1325,7 @@ A member of the Development Team takes the Scrum Master aside to express his con
 
 _[⬆ Back to Top](#table-of-contents)_
 
-101.  ### Question101
+100.  ### Question100
 What are two ways that architecture and infrastructure are handled in Scrum? (choose the best two answers)
 
 - [x] They are implemented along with functional development of the Product.
