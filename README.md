@@ -1209,7 +1209,7 @@ _[⬆ Back to Top](#table-of-contents)_
 Who owns the Sprint Backlog? (choose the best answer)
 
 - [ ] The Scrum Team.
-- [ ] The Scrum Master
+- [ ] The Scrum Master.
 - [x] The Development Team.
 - [ ] The Product Owner.
 
