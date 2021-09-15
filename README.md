@@ -1232,7 +1232,7 @@ Which two of the following are true about the Scrum Master role? (choose the bes
 - [ ] The Scrum Master is responsible for updating the Sprint Burndown.
 - [ ] The Scrum Master assigns tasks to Development Team members when they need work.
 - [x] The Scrum Master helps those outside the team interact with the Scrum Team.
-- [ ] At the Sprint Review, the Scrum Master identifies what has been "done" and what has not been "done".
+- [ ] At the Sprint Review, the Scrum Master identifies what has been "Done" and what has not been "Done".
 
 _[⬆ Back to Top](#table-of-contents)_
 
