@@ -1188,7 +1188,7 @@ Which output from Sprint Planning provides the Development Team with a target an
 
 - [x] The Sprint Goal.
 - [ ] Sprint Review minutes.
-- [ ] The release plan.
+- [ ] The Release Plan.
 - [ ] The Sprint Backlog.
 
 _[⬆ Back to Top](#table-of-contents)_
