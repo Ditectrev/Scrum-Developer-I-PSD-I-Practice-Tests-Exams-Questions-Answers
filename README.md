@@ -558,7 +558,7 @@ What are three of the best ways to address non-functional requirements?
 - [x] Important, recurring non-functional requirements can be added to the Definition of Done.
 - [ ] Discuss them during a risk mitigation phase before development.
 - [x] Include them in the Product Backlog.
-- [x] Specific expectations can be used as acceptance criteria to specific Product Backlog items.
+- [x] Specific expectations can be used as Acceptance Criteria to specific Product Backlog items.
 - [ ] Before the release, they should be tested and validated in a hardening Sprint.
   
 _[⬆ Back to Top](#table-of-contents)_
@@ -828,7 +828,7 @@ Which of the following is true about the Definition of Done?
 
 - [x] It might be a subject of discussion during Sprint Retrospective.
 - [ ] It is the sole responsibility of the Developers to define it.
-- [ ] It is synonymous with acceptance criteria.
+- [ ] It is synonymous with Acceptance Criteria.
 - [ ] It can only be extended; nothing can be removed.
 - [x] It defines a state when the entire Increment is releasable.
 
@@ -989,7 +989,7 @@ _[⬆ Back to Top](#table-of-contents)_
 A team has expressed requirements as a set of failing Acceptance Tests. What are three benefits? (choose best three answers)
 
 - [x] Improves quality in the requirement itself.
-- [x] Clear acceptance criteria for each feature.
+- [x] Clear Acceptance Criteria for each feature.
 - [ ] Using a code generation tool, the solution can be generated from the requirements model.
 - [ ] Promotes the use of DRY principle.
 - [x] Tracking of competencies.
@@ -1219,7 +1219,7 @@ _[⬆ Back to Top](#table-of-contents)_
 When is implementation of a Product Backlog item considered complete? (choose the best answer)
 
 - [x] When the item has no work remaining in order to be potentially released.
-- [ ] When Quality Assurance reports that the item passes all acceptance criteria.
+- [ ] When Quality Assurance reports that the item passes all Acceptance Criteria.
 - [ ] At the end of the Sprint.
 - [ ] When all work in the Sprint Backlog related to the item is finished.
 
@@ -1239,7 +1239,7 @@ _[⬆ Back to Top](#table-of-contents)_
 91.  ### Question91
 Which two of the following are appropriate topics for discussion during a Sprint Retrospective? (choose the best two answers)
 
-- [ ] Documenting acceptance criteria for items in the next Sprint. 
+- [ ] Documenting Acceptance Criteria for items in the next Sprint. 
 - [ ] The order of items in the Product Backlog.
 - [x] Identifying high priority process improvements for the next Sprint.
 - [x] How the team collaborates.
