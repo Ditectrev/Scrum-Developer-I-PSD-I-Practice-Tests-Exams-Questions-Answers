@@ -938,7 +938,7 @@ Which are two benefits of establishing naming conventions for code? (choose best
 
 - [ ] To make it easy to distinguish between different Software Products.
 - [x] To make the code more readable.
-- [ ] To communicate the identity of the developer who worked on the code.
+- [ ] To communicate the identity of the Developer who worked on the code.
 - [ ] To reduce friction in a shared codebase.
 - [x] To ensure that abandoned functions are not created.
 
@@ -949,7 +949,7 @@ Does delivering changes frequently and directly into Production help to reduce r
 
 - [x] Yes, because the changes you make are much smaller and it is easier to fix problems.
 - [ ] No, because each release means a risk to break something so releasing more frequently would increase the risk.
-- [ ] Yes, because frequent release encourage the developers to automate the release process.
+- [ ] Yes, because frequent release encourage the Developers to automate the release process.
 - [x] Yes, because you get earlier feedback and can learn faster.
 - [ ] No, the only way to tackle these risks is by extensive risk management.
 - [ ] No, because releasing needs extensive testing which cannot be conducted frequently.
@@ -1176,7 +1176,7 @@ A Development Team selects a set of Product Backlog items for a Sprint Backlog w
 
 - [ ] It provides a template for elements that need to be included in the technical documentation.
 - [ ] It guides the Development Team in creating a forecast at the Sprint Planning.
-- [x] It controls whether the developers have performed their tasks.
+- [x] It controls whether the Developers have performed their tasks.
 - [x] It creates transparency over the work inspected at the Sprint Review.
 - [ ] It defines what it takes for an Increment to be ready for release.
 - [ ] It tracks the percentage complete of a Product Backlog item.
@@ -1286,9 +1286,9 @@ A Scrum Master is working with a Development Team that has members in different 
 _[⬆ Back to Top](#table-of-contents)_
 
 96.  ### Question96
-Five new Scrum Teams have been created to build one Product. A few of the developers on one of the Development Teams ask the Scrum Master how to coordinate their work with the other teams. What should the Scrum Master do?
+Five new Scrum Teams have been created to build one Product. A few of the Developers on one of the Development Teams ask the Scrum Master how to coordinate their work with the other teams. What should the Scrum Master do?
 
-- [ ] Teach the Product Owner to work with the lead developers on ordering Product Backlog in a way to avoid too much technical and development overlap during a Sprint.
+- [ ] Teach the Product Owner to work with the lead Developers on ordering Product Backlog in a way to avoid too much technical and development overlap during a Sprint.
 - [x] Collect the Sprint tasks from the teams at the end of their Sprint Planning and merge that into a consolidated plan for the entire Sprint
 - [ ] Teach them that it is their responsibility to work with the other teams to create an integrated Increment.
 - [ ] Visit the five teams each day to inspect that their Sprint Backlogs are aligned.
@@ -1627,7 +1627,7 @@ Which of the following are examples of a Scrum Team practicing Scrum poorly or n
 - [ ] The Developers create their own Sprint Backlog, reflecting all work that is required to meet the Definition of Done.
 - [ ] The Developers are collaboratively selecting their own work during the Sprint.
 - [x] The Developers invite external Stakeholders to the Sprint Planning to ask them how to turn a Product Backlog item into an Increment via a complete and detailed Sprint Backlog.
-- [x] The Developers are working within the boundaries of their organizations functional description and nicely handing off work from analyst to developer to Tester to integration.
+- [x] The Developers are working within the boundaries of their organizations functional description and nicely handing off work from analyst to Developer to Tester to integration.
 
 _[⬆ Back to Top](#table-of-contents)_
 
@@ -2275,7 +2275,7 @@ _[⬆ Back to Top](#table-of-contents)_
 What is the goal of the Continuous Integration?
 
 - [ ] To publish the Product Increment on Production
-- [ ] To penalize the developer who breaks the build
+- [ ] To penalize the Developer who breaks the build
 - [x] To provide rapid feedback of build and test result
 - [ ] To find who has made the change on source control
 
@@ -2673,10 +2673,10 @@ Who is responsible for the Product Backlog Items and tasks estimation in Scrum?
 _[⬆ Back to Top](#table-of-contents)_
 
 238.  ### Question238
-How do the developers divide into multiple teams in scaled Scrum?
+How do the Developers divide into multiple teams in scaled Scrum?
 
 - [ ] The top management divides them
-- [x] The developers divide themselves
+- [x] The Developers divide themselves
 - [ ] The Product Owner divides them
 - [ ] The Scrum Master divides them
 
@@ -2722,7 +2722,7 @@ Which one is true about Design Patterns?
 _[⬆ Back to Top](#table-of-contents)_
 
 243.  ### Question243
-Which Scrum events can use more time rather than their time-box if there are 9 developers (the maximum Development Team size) in the Team?
+Which Scrum events can use more time rather than their time-box if there are 9 Developers (the maximum Development Team size) in the Team?
 
 - [ ] The Daily Scrum
 - [ ] The Sprint Retrospective
@@ -2879,7 +2879,7 @@ What is Code Coverage?
 
 - [ ] An insurance policy that covers the code for defects.
 - [x] The degree to which the system under test has been exercised by tests.
-- [ ] The number of developers that understand how the code works.
+- [ ] The number of Developers that understand how the code works.
 - [ ] The percent of code in version control included in a build.
 
 _[⬆ Back to Top](#table-of-contents)_
@@ -2897,10 +2897,10 @@ _[⬆ Back to Top](#table-of-contents)_
 262.  ### Question262
 What is Pair Programming?
 
-- [ ] A developer and a Tester work together to write and test code.
+- [ ] A Developer and a Tester work together to write and test code.
 - [ ] Managers doing performance reviews by comparing one programmer's code to another's.
 - [ ] The Scrum Team is divided into several two-person Development Teams that consolidate work in a Scrum of Scrums.
-- [x] Two developers writing code together, providing constant peer review.
+- [x] Two Developers writing code together, providing constant peer review.
 - [ ] Two programmers write code separately. A third programmer integrates the work.
 
 _[⬆ Back to Top](#table-of-contents)_
@@ -2938,7 +2938,7 @@ _[⬆ Back to Top](#table-of-contents)_
 266.  ### Question266
 When are Testers and quality experts ideally included in a project?
 
-- [ ] After developer handoff.
+- [ ] After Developer handoff.
 - [ ] After Sprint Review.
 - [x] From the beginning and throughout all Sprints.
 - [ ] When the Product is feature complete.
@@ -3000,7 +3000,7 @@ _[⬆ Back to Top](#table-of-contents)_
 272.  ### Question272
 Which is a benefit of establishing naming standards for code?
 
-- [ ] To communicate the name of the developer that worked on the code.
+- [ ] To communicate the name of the Developer that worked on the code.
 - [ ] To ensure that "orphan functions" are not created.
 - [ ] To make it easy to distinguish between different Software Products.
 - [x] To make the code more readable.
