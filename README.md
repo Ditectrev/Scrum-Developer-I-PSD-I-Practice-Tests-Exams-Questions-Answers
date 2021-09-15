@@ -1197,11 +1197,11 @@ _[⬆ Back to Top](#table-of-contents)_
 The Product Owner determines how many Product Backlog items the Development Team selects for a Sprint. (choose the best answer)
 
 - [ ] True, but only after confirmation by the resource manager that the Team has enough capacity.
-- [ ] False, capacity and commitment are the Project manager's responsibility.
+- [ ] False, capacity and commitment are the Project Manager's responsibility.
 - [ ] False, the Scrum Master does that.
 - [ ] True.
 - [ ] True, accordingly to what was committed to the Stakeholders.
-- [ ] False.
+- [x] False.
 
 _[⬆ Back to Top](#table-of-contents)_
 
