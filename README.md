@@ -903,7 +903,7 @@ Which of the following are required by Scrum? (choose all of those who apply)
 _[⬆ Back to Top](#table-of-contents)_
 
 59. ### Question59
-Who is responsible for creation of the Definition of “Done”?
+Who is responsible for creation of the Definition of Done?
 
 - [ ] The Scrum Master.
 - [x] The Scrum Team.
@@ -1061,7 +1061,7 @@ What are two good ways for the Development Team to make a non-functional require
 - [ ] Put them on a separate list on the Scrum board, available for all to see.
 - [x] Add them to the Product Backlog and keep the Product Owner posted on the expected effort.
 - [ ] Run the Integration and Regression Tests before the end of the Sprint, and capture the open work for the Sprint Backlog of the next Sprint.
-- [x] Add them to the definition of “Done” so the work is taken care of every Sprint.
+- [x] Add them to the Definition of Done so the work is taken care of every Sprint.
 
 _[⬆ Back to Top](#table-of-contents)_
 
