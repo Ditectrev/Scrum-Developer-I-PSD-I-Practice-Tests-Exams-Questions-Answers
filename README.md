@@ -1298,8 +1298,8 @@ _[⬆ Back to Top](#table-of-contents)_
 97.  ### Question97
 True or False: Scrum is a methodology that tells in detail how to build Software incrementally.
 
-- [ ] True
-- [x] False
+- [ ] True.
+- [x] False.
 
 _[⬆ Back to Top](#table-of-contents)_
 
