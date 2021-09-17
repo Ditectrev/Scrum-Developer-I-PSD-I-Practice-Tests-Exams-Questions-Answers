@@ -1281,7 +1281,7 @@ A Scrum Master is working with a Development Team that has members in different 
 - [ ] Ask the Development Team members to alternate who is responsible for meeting setup.
 - [ ] Set up the meeting and tell the Development Team that is how it will be done.
 - [ ] Inform management and ask them to solve it.
-- [x] Allow the Development Team to self-manage and determine for itself what to do
+- [x] Allow the Development Team to self-manage and determine for itself what to do.
 
 _[⬆ Back to Top](#table-of-contents)_
 
