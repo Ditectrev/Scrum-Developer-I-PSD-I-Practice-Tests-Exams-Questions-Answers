@@ -1320,7 +1320,7 @@ A member of the Development Team takes the Scrum Master aside to express his con
 - [ ] Create a Product Backlog item for security.
 - [x] Ask the person to share the issue with the team as soon as possible.
 - [ ] Add security to the Definition of Done.
-- [ ] Tell the Product Owner to stop further development of features until the issues are fixed
+- [ ] Tell the Product Owner to stop further development of features until the issues are fixed.
 - [ ] Go check with the Testers.
 
 _[⬆ Back to Top](#table-of-contents)_
