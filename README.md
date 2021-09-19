@@ -778,7 +778,7 @@ While practicing Test Driven Development, what is done after the test fails?
 - [ ] Refactor the test so the code passes.
 - [ ] Run it again to make sure it really fails.
 - [ ] Implement the required functionality.
-- [ ] Meet with the business analyst to ensure that the test is correct.
+- [ ] Meet with the Business Analyst to ensure that the test is correct.
 
 _[⬆ Back to Top](#table-of-contents)_
 
@@ -1425,7 +1425,7 @@ Product Backlog items are refined by: (choose the best answer)
 - [ ] The Developers.
 - [ ] The Product Owner.
 - [x] The Scrum Team.
-- [ ] The Business analyst and the Product Owner.
+- [ ] The Business Analyst and the Product Owner.
 
 _[⬆ Back to Top](#table-of-contents)_
 
@@ -1477,7 +1477,7 @@ Who should be present during Product Backlog Refinement? (choose the best answer
 - [ ] Only the most senior Developers.
 - [x] Anyone that the Scrum Team decides will be valuable during Refinement.
 - [ ] The Stakeholders.
-- [ ] The external business analysts that have prepared the functional details.
+- [ ] The external Business Analysts that have prepared the functional details.
 
 _[⬆ Back to Top](#table-of-contents)_
 
@@ -2027,7 +2027,7 @@ What is the Static Analysis?
 
 - [x] Analysis performed on code in a non-runtime environment
 - [ ] Analysis performed on Software at runtime
-- [ ] Duties of a business analyst
+- [ ] Duties of a Business Analyst
 - [ ] Checking static classes’ readability
 
 _[⬆ Back to Top](#table-of-contents)_
@@ -2734,7 +2734,7 @@ _[⬆ Back to Top](#table-of-contents)_
 244.  ### Question244
 Product Backlog items are refined by:
 
-- [ ] The Business analyst and the Product Owner
+- [ ] The Business Analyst and the Product Owner
 - [ ] The Development Team
 - [x] The Development Team and the Product Owner
 - [ ] The Product Owner solely
@@ -3115,7 +3115,7 @@ Who should be present during Product Backlog Refinement? (choose all that apply)
 
 - [ ] Only the most senior people from the Development Team.
 - [x] The Development Team.
-- [ ] The external business analysts that have prepared the functional details.
+- [ ] The external Business Analysts that have prepared the functional details.
 - [ ] The integration architects from the release department.
 - [x] The Product Owner.
 - [ ] The Stakeholders.
