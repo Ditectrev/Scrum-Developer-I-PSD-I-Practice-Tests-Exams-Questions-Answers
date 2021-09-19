@@ -1387,12 +1387,12 @@ How should Product Backlog items be chosen when multiple Scrum Teams work from t
 _[⬆ Back to Top](#table-of-contents)_
 
 106.  ### Question106
-Which of the following describe Test Driven Development? choose 2 answers
+Which of the following describe Test Driven Development? (choose two answers)
 
 - [x] A Software Development technique based on automated tests.
 - [ ] A predictable way to develop working, well-organized code.
 - [ ] Having Testers in the development process.
-- [ ] An increment and emergent approach to Software design.
+- [ ] An Increment and emergent approach to Software Design.
 - [ ] Creating a manual test script before writing code.
 
 _[⬆ Back to Top](#table-of-contents)_
