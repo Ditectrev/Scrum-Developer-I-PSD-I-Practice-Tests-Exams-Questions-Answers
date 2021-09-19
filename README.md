@@ -1371,7 +1371,7 @@ Why does a Development Team need a Sprint Goal?
 - [ ] A Sprint Goal ensures that all of the Product Backlog items selected for the Sprint are implemented.
 - [x] The Development Team is more focused with a common yet specific goal.
 - [ ] Sprint Goals are not valuable. Everything is known from the Product Backlog.
-- [ ] A Sprint Goal only gives purpose to Sprint 0
+- [ ] A Sprint Goal only gives purpose to Sprint 0.
 
 _[⬆ Back to Top](#table-of-contents)_
 
