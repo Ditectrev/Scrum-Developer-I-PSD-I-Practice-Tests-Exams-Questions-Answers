@@ -1355,11 +1355,11 @@ Cross-functional teams are optimized to work on one technical layer of a system 
 _[⬆ Back to Top](#table-of-contents)_
 
 103.  ### Question103
-What are three benefits of self-organization? (Choose three.)
+What are three benefits of self-organization? (choose three)
 
 - [ ] Increased accuracy of estimates.
 - [ ] Increased rule compliance.
-- [x] Increased self-accountability
+- [x] Increased self-accountability.
 - [x] Increased creativity.
 - [x] Increased commitment.
 
