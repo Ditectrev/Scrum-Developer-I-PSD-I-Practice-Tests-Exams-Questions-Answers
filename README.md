@@ -795,7 +795,7 @@ _[⬆ Back to Top](#table-of-contents)_
 Developers are blocked by an impediment in the middle of the Sprint. The impediment is outside the Developer's control. What should they do?
 
 - [ ] Stop using Scrum until the impediment is resolved.
-- [ ] Complete the work that can be done and complete the remainder during the hardening Sprint".
+- [ ] Complete the work that can be done and complete the remainder during the hardening Sprint.
 - [x] Immediately raise the issue to the Scrum Master.
 - [ ] Cancel the Sprint.
 - [ ] Drop the Product Backlog items affected by the impediment from the Sprint Plan.
@@ -1138,7 +1138,7 @@ Which three behaviors demonstrate that a team is self-organizing? (choose the be
 - [x] Development Team members collaboratively selecting their own work during the Sprint.
 - [ ] The Scrum Master is no longer needed.
 - [x] The Development Team has all the skills needed to create a releasable Increment.
-- [x] The Development Team creating their own Sprint backlog, reflecting all work that is part of the Definition of Done.
+- [x] The Development Team creating their own Sprint Backlog, reflecting all work that is part of the Definition of Done.
 
 _[⬆ Back to Top](#table-of-contents)_
 
