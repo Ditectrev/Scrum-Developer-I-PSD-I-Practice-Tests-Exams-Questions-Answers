@@ -1336,7 +1336,7 @@ What are two ways that architecture and infrastructure are handled in Scrum? (ch
 _[⬆ Back to Top](#table-of-contents)_
 
 101.  ### Question101
-What are three ways Scrum promotes self-organization? (Choose three.)
+What are three ways Scrum promotes self-organization? (choose three)
 
 - [ ] By preventing Stakeholders from entering the development room.
 - [x] By removing titles for Development Team members.
