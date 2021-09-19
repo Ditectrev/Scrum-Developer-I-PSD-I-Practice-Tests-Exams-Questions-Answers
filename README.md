@@ -690,7 +690,7 @@ _[⬆ Back to Top](#table-of-contents)_
 39. ### Question39
 Which answer best describes Behavior-Driven Development (BDD)?
 
-- [x] A style of test-driven development focusing on user and system interactions.
+- [x] A style of Test Driven Development focusing on user and system interactions.
 - [ ] A development style that accounts for leadership style among team members.
 - [ ] A way to organize Unit Tests based on class and method structures.
 - [ ] A technique for maintaining Regression Test harnesses.
@@ -1387,7 +1387,7 @@ How should Product Backlog items be chosen when multiple Scrum Teams work from t
 _[⬆ Back to Top](#table-of-contents)_
 
 106.  ### Question106
-Which of the following describe test-driven development? choose 2 answers
+Which of the following describe Test Driven Development? choose 2 answers
 
 - [x] A Software Development technique based on automated tests.
 - [ ] A predictable way to develop working, well-organized code.
@@ -2885,7 +2885,7 @@ What is Code Coverage?
 _[⬆ Back to Top](#table-of-contents)_
 
 261.  ### Question261
-What is NOT Test-Driven Development?
+What is NOT Test Driven Development?
 
 - [ ] A predictable way to develop working, clean code.
 - [ ] A Software Development technique based on automated tests.
