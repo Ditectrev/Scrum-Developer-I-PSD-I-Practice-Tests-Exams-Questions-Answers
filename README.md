@@ -1349,8 +1349,8 @@ _[⬆ Back to Top](#table-of-contents)_
 102.  ### Question102
 Cross-functional teams are optimized to work on one technical layer of a system only (e.g. GUI, database, middle tier, interfaces).
 
-- [x] False
-- [ ] True
+- [x] False.
+- [ ] True.
 
 _[⬆ Back to Top](#table-of-contents)_
 
