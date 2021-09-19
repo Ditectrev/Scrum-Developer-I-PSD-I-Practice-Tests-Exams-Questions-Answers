@@ -1382,7 +1382,7 @@ How should Product Backlog items be chosen when multiple Scrum Teams work from t
 - [x] The Development Teams pull in work in agreement with the Product Owner.
 - [ ] Each Scrum Team takes an equal numbers of items.
 - [ ] The Scrum Team with the highest velocity pulls Product Backlog items first.
-- [ ] The Product Owner decides
+- [ ] The Product Owner decides.
 
 _[⬆ Back to Top](#table-of-contents)_
 
