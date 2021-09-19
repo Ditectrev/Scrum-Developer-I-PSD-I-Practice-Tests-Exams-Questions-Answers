@@ -688,7 +688,7 @@ Which statements are true when multiple Scrum Teams work on a Software Product a
 _[⬆ Back to Top](#table-of-contents)_
 
 39. ### Question39
-Which answer best describes Behavior-Driven Development (BDD)?
+Which answer best describes Behavior Driven Development (BDD)?
 
 - [x] A style of Test Driven Development focusing on user and system interactions.
 - [ ] A development style that accounts for leadership style among team members.
