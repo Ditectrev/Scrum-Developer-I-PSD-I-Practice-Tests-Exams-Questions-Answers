@@ -2714,7 +2714,7 @@ _[⬆ Back to Top](#table-of-contents)_
 242.  ### Question242
 Which one is true about Design Patterns?
 
-- [x] Is a general, reusable solution to a commonly occurring problem within a given context in Software design
+- [x] Is a general, reusable solution to a commonly occurring problem within a given context in Software Design
 - [ ] Is a low-fidelity UI pattern that can be called sketch
 - [ ] Is a list of guidelines to design better UX for customers
 - [ ] Is a high-fidelity UI pattern that can be called prototype
@@ -2889,7 +2889,7 @@ What is NOT Test Driven Development?
 
 - [ ] A predictable way to develop working, clean code.
 - [ ] A Software Development technique based on automated tests.
-- [ ] An incremental and emergent approach to Software design.
+- [ ] An incremental and emergent approach to Software Design.
 - [x] Testing existing Software before developing any new Software.
 
 _[⬆ Back to Top](#table-of-contents)_
@@ -3031,7 +3031,7 @@ _[⬆ Back to Top](#table-of-contents)_
 274.  ### Question274
 Which of the following best describes Continuous Integration?
 
-- [ ] A Software Development practice that continuously integrates feedback from users into Software design.
+- [ ] A Software Development practice that continuously integrates feedback from users into Software Design.
 - [ ] A Software Development practice used by Integration Teams to create Best Practice branching and merging strategies.
 - [ ] A Software Development practice where members of a development team all work on the same computer to ensure a common code base.
 - [x] A Software Development practice where members of a development team integrate and verify their work frequently, often multiple times each day, to detect integration errors as quickly as possible.
