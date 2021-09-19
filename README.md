@@ -1335,7 +1335,7 @@ What are two ways that architecture and infrastructure are handled in Scrum? (ch
 
 _[⬆ Back to Top](#table-of-contents)_
 
-102.  ### Question102
+101.  ### Question101
 What are three ways Scrum promotes self-organization? (Choose three.)
 
 - [ ] By preventing Stakeholders from entering the development room.
@@ -1346,7 +1346,7 @@ What are three ways Scrum promotes self-organization? (Choose three.)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-103.  ### Question103
+102.  ### Question102
 Cross-functional teams are optimized to work on one technical layer of a system only (e.g. GUI, database, middle tier, interfaces).
 
 - [x] False
@@ -1354,7 +1354,7 @@ Cross-functional teams are optimized to work on one technical layer of a system 
 
 _[⬆ Back to Top](#table-of-contents)_
 
-104.  ### Question104
+103.  ### Question103
 What are three benefits of self-organization? (Choose three.)
 
 - [ ] Increased accuracy of estimates.
@@ -1365,7 +1365,7 @@ What are three benefits of self-organization? (Choose three.)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-105.  ### Question105
+104.  ### Question104
 Why does a Development Team need a Sprint Goal?
 
 - [ ] A Sprint Goal ensures that all of the Product Backlog items selected for the Sprint are implemented.
@@ -1375,7 +1375,7 @@ Why does a Development Team need a Sprint Goal?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-106.  ### Question106
+105.  ### Question105
 How should Product Backlog items be chosen when multiple Scrum Teams work from the same Product Backlog?
 
 - [ ] The Product Owner should provide each team with its own Product Backlog.
@@ -1386,7 +1386,7 @@ How should Product Backlog items be chosen when multiple Scrum Teams work from t
 
 _[⬆ Back to Top](#table-of-contents)_
 
-107.  ### Question107
+106.  ### Question106
 Which of the following describe test-driven development? choose 2 answers
 
 - [x] A Software Development technique based on automated tests.
@@ -1397,7 +1397,7 @@ Which of the following describe test-driven development? choose 2 answers
 
 _[⬆ Back to Top](#table-of-contents)_
 
-108.  ### Question108
+107.  ### Question107
 When a Continuous Integration build fails, who ideally ensures the build is repaired? (choose the best answer)
 
 - [ ] The person who broke the build.
@@ -1408,7 +1408,7 @@ When a Continuous Integration build fails, who ideally ensures the build is repa
 
 _[⬆ Back to Top](#table-of-contents)_
 
-109.  ### Question109
+108.  ### Question108
 What happens during Sprint 0? (choose the best answer)
 
 - [ ] Establish base system architecture and design, install version control and continuous integration setup.
@@ -1419,7 +1419,7 @@ What happens during Sprint 0? (choose the best answer)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-110.  ### Question110
+109.  ### Question109
 Product Backlog items are refined by: (choose the best answer)
 
 - [ ] The Developers.
@@ -1429,7 +1429,7 @@ Product Backlog items are refined by: (choose the best answer)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-111.  ### Question111
+110.  ### Question110
 Who is responsible for the system architecture of a Product being developed using Scrum? (choose the best answer)
 
 - [ ] The architect chosen by the Scrum Team.
@@ -1439,7 +1439,7 @@ Who is responsible for the system architecture of a Product being developed usin
 
 _[⬆ Back to Top](#table-of-contents)_
 
-112.  ### Question112
+111.  ### Question111
 Which of the following are attributes of a bad bug report? (choose the best three answers)
 
 - [ ] Simple and repeatable reproduction steps.
@@ -1450,7 +1450,7 @@ Which of the following are attributes of a bad bug report? (choose the best thre
 
 _[⬆ Back to Top](#table-of-contents)_
 
-113.  ### Question113
+112.  ### Question112
 Who writes tests in a Scrum Team? (choose the best answer)
 
 - [x] The Developers.
@@ -1460,7 +1460,7 @@ Who writes tests in a Scrum Team? (choose the best answer)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-114.  ### Question114
+113.  ### Question113
 When do the Developers participate in Product Backlog Refinement? (choose the best answer)
 
 - [x] Anytime during the Sprint.
@@ -1470,7 +1470,7 @@ When do the Developers participate in Product Backlog Refinement? (choose the be
 
 _[⬆ Back to Top](#table-of-contents)_
 
-115.  ### Question115
+114.  ### Question114
 Who should be present during Product Backlog Refinement? (choose the best answer)
 
 - [ ] The integration architects from the release department.
@@ -1481,7 +1481,7 @@ Who should be present during Product Backlog Refinement? (choose the best answer
 
 _[⬆ Back to Top](#table-of-contents)_
 
-116.  ### Question116
+115.  ### Question115
 True or False: Programmers and Testers should not be included in refining Product Backlog items.
 
 - [ ] True
@@ -1489,7 +1489,7 @@ True or False: Programmers and Testers should not be included in refining Produc
 
 _[⬆ Back to Top](#table-of-contents)_
 
-117.  ### Question117
+116.  ### Question116
 Why are automated builds important? (choose the best answer)
 
 - [ ] Without them you cannot tell if your code works.
@@ -1499,7 +1499,7 @@ Why are automated builds important? (choose the best answer)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-118.  ### Question118
+117.  ### Question117
 Upon what type of process control is Scrum based? (choose the best answer)
 
 - [ ] Defined.
@@ -1509,7 +1509,7 @@ Upon what type of process control is Scrum based? (choose the best answer)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-119.  ### Question119
+118.  ### Question118
 When might a Sprint be abnormally cancelled? (choose the best answer)
 
 - [x] When the Sprint Goal becomes obsolete.
@@ -1519,7 +1519,7 @@ When might a Sprint be abnormally cancelled? (choose the best answer)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-120.  ### Question120
+119.  ### Question119
 Who should know the most about the progress toward a business objective or a release, and be able to explain the alternatives most clearly? (choose the best answer)
 
 - [ ] The Scrum Master.
@@ -1529,7 +1529,7 @@ Who should know the most about the progress toward a business objective or a rel
 
 _[⬆ Back to Top](#table-of-contents)_
 
-121.  ### Question121
+120.  ### Question120
 When many Scrum Teams are working on a single Product, what best describes the Definition of Done? (choose the best answer)
 
 - [ ] It depends.
@@ -1538,7 +1538,7 @@ When many Scrum Teams are working on a single Product, what best describes the D
 
 _[⬆ Back to Top](#table-of-contents)_
 
-122.  ### Question122
+121.  ### Question121
 During a Sprint, a Developer determines that the Scrum Team will not be able to complete the items in their forecast. Who should be present to review and adjust the Product Backlog items selected? (choose the best answer)
 
 - [x] The Product Owner and the Developers.
@@ -1548,7 +1548,7 @@ During a Sprint, a Developer determines that the Scrum Team will not be able to 
 
 _[⬆ Back to Top](#table-of-contents)_
 
-123.  ### Question123
+122.  ### Question122
 When should the Developers on a Scrum Team be replaced? (choose the best answer)
 
 - [ ] As needed, with no special allowance for changes in Productivity.
@@ -1558,7 +1558,7 @@ When should the Developers on a Scrum Team be replaced? (choose the best answer)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-124.  ### Question124
+123.  ### Question123
 When is a Sprint over? (choose the best answer)
 
 - [ ] When all Product Backlog items meet their Definition of Done.
@@ -1568,7 +1568,7 @@ When is a Sprint over? (choose the best answer)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-125.  ### Question125
+124.  ### Question124
 When does the next Sprint begin? (choose the best answer)
 
 - [ ] Immediately following the next Sprint Planning.
@@ -1578,7 +1578,7 @@ When does the next Sprint begin? (choose the best answer)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-126.  ### Question126
+125.  ### Question125
 What does it mean to say that an event has a timebox? (choose the best answer)
 
 - [ ] The event must happen at a set time.
@@ -1588,7 +1588,7 @@ What does it mean to say that an event has a timebox? (choose the best answer)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-127.  ### Question127
+126.  ### Question126
 Who is required to attend the Daily Scrum? (choose the best answer)
 
 - [ ] The Developers and Product Owner.
@@ -1599,7 +1599,7 @@ Who is required to attend the Daily Scrum? (choose the best answer)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-128.  ### Question128
+127.  ### Question127
 When does a Developer become accountable for the value of a Product Backlog item selected for the Sprint? (choose the best answer)
 
 - [ ] Whenever a team member can accommodate more work.
@@ -1609,7 +1609,7 @@ When does a Developer become accountable for the value of a Product Backlog item
 
 _[⬆ Back to Top](#table-of-contents)_
 
-129.  ### Question129
+128.  ### Question128
 Who is on the Scrum Team? (choose the best three answers)
 
 - [ ] Project Manager.
@@ -1619,7 +1619,7 @@ Who is on the Scrum Team? (choose the best three answers)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-130.  ### Question130
+129.  ### Question129
 Which of the following are examples of a Scrum Team practicing Scrum poorly or not exhibiting traits of a self-managing Scrum Team? (choose the best three answers)
 
 - [ ] The Developers have all the skills they need to create a valuable, useful Increment.
@@ -1631,7 +1631,7 @@ Which of the following are examples of a Scrum Team practicing Scrum poorly or n
 
 _[⬆ Back to Top](#table-of-contents)_
 
-131.  ### Question131
+130.  ### Question130
 The timebox for the Sprint Review is: (choose the best answer)
 
 - [ ] As long as needed.
