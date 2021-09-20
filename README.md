@@ -1466,7 +1466,7 @@ When do the Developers participate in Product Backlog Refinement? (choose the be
 - [x] Anytime during the Sprint.
 - [ ] Never. It is the sole responsibility of the Product Owner to refine the Product Backlog.
 - [ ] Only during Refinement sessions planned by the Product Owner.
-- [ ] As Part 1 of Sprint Planning
+- [ ] As Part 1 of Sprint Planning.
 
 _[⬆ Back to Top](#table-of-contents)_
 
