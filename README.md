@@ -1435,7 +1435,7 @@ Who is responsible for the system architecture of a Product being developed usin
 - [ ] The Architect chosen by the Scrum Team.
 - [x] The Developers.
 - [ ] The Software Architect.
-- [ ] The Corporate Architect..
+- [ ] The Corporate Architect.
 
 _[⬆ Back to Top](#table-of-contents)_
 
@@ -3093,7 +3093,7 @@ _[⬆ Back to Top](#table-of-contents)_
 Who is responsible for the system architecture of a Product being developed using Scrum?
 
 - [ ] The Architect chosen by the Development Team.
-- [ ] The Corporate Architect..
+- [ ] The Corporate Architect.
 - [x] The Development Team.
 - [ ] The Software Architect.
 
