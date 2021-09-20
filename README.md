@@ -1484,8 +1484,8 @@ _[⬆ Back to Top](#table-of-contents)_
 115.  ### Question115
 True or False: Programmers and Testers should not be included in refining Product Backlog items.
 
-- [ ] True
-- [x] False
+- [ ] True.
+- [x] False.
 
 _[⬆ Back to Top](#table-of-contents)_
 
