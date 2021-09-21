@@ -1532,8 +1532,10 @@ _[⬆ Back to Top](#table-of-contents)_
 120.  ### Question120
 When many Scrum Teams are working on a single Product, what best describes the Definition of Done? (choose the best answer)
 
-- [ ] It depends.
-- [ ] Each Scrum Team uses its own, but must make their definition clear to all other teams so the differences are known
+- [ ] Each Scrum Team defines and uses its own. The differences are discussed and reconciled during a
+hardening Sprint.
+- [ ] The Scrum Masters from each Scrum Team define a common Definition of Done.
+- [ ] Each Scrum Team uses its own, but must make their definition clear to all other teams so the differences are known.
 - [x] All Scrum Teams must have a Definition of Done that makes their combined Increment valuable and useful.
 
 _[⬆ Back to Top](#table-of-contents)_
