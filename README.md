@@ -1553,9 +1553,9 @@ _[⬆ Back to Top](#table-of-contents)_
 122.  ### Question122
 When should the Developers on a Scrum Team be replaced? (choose the best answer)
 
-- [ ] As needed, with no special allowance for changes in Productivity.
-- [ ] Never, it reduces Productivity.
-- [x] As needed, while taking into account a short-term reduction in Productivity.
+- [ ] As needed, with no special allowance for changes in productivity.
+- [ ] Never, it reduces productivity.
+- [x] As needed, while taking into account a short-term reduction in productivity.
 - [ ] Every Sprint to promote shared learning.
 
 _[⬆ Back to Top](#table-of-contents)_
@@ -1676,7 +1676,7 @@ _[⬆ Back to Top](#table-of-contents)_
 Who creates the Definition of Done? (choose the best answer)
 
 - [ ] The Scrum Team, in a collaborative effort where the result is the common denominator of all members' definitions.
-- [ ] The Scrum Master since they are responsible for the Productivity of the Developers.
+- [ ] The Scrum Master since they are responsible for the productivity of the Developers.
 - [ ] The Product Owner since they are responsible for the Product's success.
 - [x] If it is not an organizational standard, the Scrum Team must create a Definition of Done appropriate for the Product.
 
@@ -2641,7 +2641,7 @@ What are traits of a high performance Scrum Team? Pick all that apply
 - [x] They live the Scrum Values deeply
 - [x] They help their customers become more successful
 - [x] They evolve the Definition of Done over time and add more stringent criteria to it continuously
-- [x] There is a high level of creativity, Productivity and accountability in the Team dynamics
+- [x] There is a high level of creativity, productivity and accountability in the Team dynamics
 - [ ] They respect top managers through accepting their work every time
 
 _[⬆ Back to Top](#table-of-contents)_
