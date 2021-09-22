@@ -1644,7 +1644,7 @@ The timebox for the Sprint Review is: (choose the best answer)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-132.  ### Question132
+131.  ### Question131
 The timebox for the Sprint Planning event is? (choose the best answer)
 
 - [x] 8 hours for a monthly Sprint. For shorter Sprints it is usually shorter.
@@ -1654,7 +1654,7 @@ The timebox for the Sprint Planning event is? (choose the best answer)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-133.  ### Question133
+132.  ### Question132
 True or False: The purpose of a Sprint is to produce a valuable and useful Increment of working Product.
 
 - [x] True.
@@ -1662,7 +1662,7 @@ True or False: The purpose of a Sprint is to produce a valuable and useful Incre
 
 _[⬆ Back to Top](#table-of-contents)_
 
-134.  ### Question134
+133.  ### Question133
 An organization has decided to adopt Scrum, but management wants to change the terminology to fit with terminology already used. What will likely happen if this is done? (choose the best answer)
 
 - [ ] Without a new vocabulary as a reminder of the change, very little change may actually happen.
@@ -1672,7 +1672,7 @@ An organization has decided to adopt Scrum, but management wants to change the t
 
 _[⬆ Back to Top](#table-of-contents)_
 
-135.  ### Question135
+134.  ### Question134
 Who creates the Definition of Done? (choose the best answer)
 
 - [ ] The Scrum Team, in a collaborative effort where the result is the common denominator of all members' definitions.
@@ -1682,7 +1682,7 @@ Who creates the Definition of Done? (choose the best answer)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-136.  ### Question136
+135.  ### Question135
 Who is responsible for managing the progress of work during a Sprint? (choose the best answer)
 
 - [x] The Developers.
@@ -1692,7 +1692,7 @@ Who is responsible for managing the progress of work during a Sprint? (choose th
 
 _[⬆ Back to Top](#table-of-contents)_
 
-137.  ### Question137
+136.  ### Question136
 Who has the final say on the order of the Product Backlog? (choose the best answer)
 
 - [x] The Product Owner.
@@ -1703,7 +1703,7 @@ Who has the final say on the order of the Product Backlog? (choose the best answ
 
 _[⬆ Back to Top](#table-of-contents)_
 
-138.  ### Question138
+137.  ### Question137
 Which Scrum events are timeboxed? (choose the best three answers)
 
 - [ ] Release Retrospective.
@@ -1716,7 +1716,7 @@ Which Scrum events are timeboxed? (choose the best three answers)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-139.  ### Question139
+138.  ### Question138
 A Scrum Team consists of the following: (choose the best three answers)
 
 - [x] Product Owner
@@ -1727,7 +1727,7 @@ A Scrum Team consists of the following: (choose the best three answers)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-140.  ### Question140
+139.  ### Question139
 When does a Developer become the sole owner of a Sprint Backlog item? (choose the best answer)
 
 - [ ] Whenever a team member can accommodate more work.
@@ -1737,7 +1737,7 @@ When does a Developer become the sole owner of a Sprint Backlog item? (choose th
 
 _[⬆ Back to Top](#table-of-contents)_
 
-141.  ### Question141
+140.  ### Question140
 What is the role of Management in Scrum? (choose the best answer)
 
 - [x] Support the Product Owner with insights and information into high value Product and system capabilities. Support the Scrum Master to cause organizational change that fosters empiricism, self-management, bottom-up intelligence, and intelligent Product delivery.
@@ -1747,7 +1747,7 @@ What is the role of Management in Scrum? (choose the best answer)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-142.  ### Question142
+141.  ### Question141
 Why is the Daily Scrum held at the same time and same place? (choose the best answer)
 
 - [x] The consistency reduces complexity.
@@ -1757,7 +1757,7 @@ Why is the Daily Scrum held at the same time and same place? (choose the best an
 
 _[⬆ Back to Top](#table-of-contents)_
 
-143.  ### Question143
+142.  ### Question142
 The length of a Sprint should be: (choose the best answer)
 
 - [ ] Short enough to keep the business risk acceptable to the Product Owner.
@@ -1767,7 +1767,7 @@ The length of a Sprint should be: (choose the best answer)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-144.  ### Question144
+143.  ### Question143
 How much work must the Developers complete for each Product Backlog item they select for a Sprint? (choose the best answer)
 
 
@@ -1778,7 +1778,7 @@ How much work must the Developers complete for each Product Backlog item they se
 
 _[⬆ Back to Top](#table-of-contents)_
 
-145.  ### Question145
+144.  ### Question144
 The CEO asks the Developers to add a "very important" item to a Sprint that is in progress. What should the Developers do? (choose the best answer)
 
 - [ ] Add the item to the current Sprint and drop an item of equal size.
@@ -1788,7 +1788,7 @@ The CEO asks the Developers to add a "very important" item to a Sprint that is i
 
 _[⬆ Back to Top](#table-of-contents)_
 
-146.  ### Question146
+145.  ### Question145
 What is the recommended size for a Scrum Team? (choose the best answer)
 
 - [ ] Minimum of 7.
@@ -1798,7 +1798,7 @@ What is the recommended size for a Scrum Team? (choose the best answer)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-147.  ### Question147
+146.  ### Question146
 Which statement best describes a Product Owner's responsibility? (choose the best answer)
 
 - [ ] Keep Stakeholders from distracting the Developers.
@@ -1808,7 +1808,7 @@ Which statement best describes a Product Owner's responsibility? (choose the bes
 
 _[⬆ Back to Top](#table-of-contents)_
 
-148.  ### Question148
+147.  ### Question147
 100% Code Coverage of tests guarantees bug-free Software
 
 - [ ] True
@@ -1816,7 +1816,7 @@ _[⬆ Back to Top](#table-of-contents)_
 
 _[⬆ Back to Top](#table-of-contents)_
 
-149.  ### Question149
+148.  ### Question148
 Who is responsible for monitoring the progress of work during a Sprint? Pick 1
 
 - [ ] Product Owner
@@ -1826,7 +1826,7 @@ Who is responsible for monitoring the progress of work during a Sprint? Pick 1
 
 _[⬆ Back to Top](#table-of-contents)_
 
-150.  ### Question150
+149.  ### Question149
 Who can tell the Developers what to work on
 
 - [x] The Product Owner
@@ -1836,7 +1836,7 @@ Who can tell the Developers what to work on
 
 _[⬆ Back to Top](#table-of-contents)_
 
-151.  ### Question151
+150.  ### Question150
 Who can do the work to ensure the Product Backlog is refined to a state that it is useful? Pick 2
 
 - [ ] The Product Owner
