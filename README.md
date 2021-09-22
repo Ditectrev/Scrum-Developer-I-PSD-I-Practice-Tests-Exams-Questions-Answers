@@ -1032,7 +1032,7 @@ What are some disadvantages of Code Coverages as a measurement for how well a sy
 - [ ] It only provide insights for programmers.
 - [x] It does not ensure that the most important or highest risk areas of the code are being exercised by the tests.
 - [x] It could create incentives to write tests that simply increase Code Coverage, rather than tests that find bugs without increasing coverage.
-- [ ] It is too complicated to explain to management.
+- [ ] It is too complicated to explain to Management.
 - [x] Developers could stop adding more valuable tests once the target coverage is achieved.
 
 _[⬆ Back to Top](#table-of-contents)_
@@ -1280,7 +1280,7 @@ A Scrum Master is working with a Development Team that has members in different 
 
 - [ ] Ask the Development Team members to alternate who is responsible for meeting setup.
 - [ ] Set up the meeting and tell the Development Team that is how it will be done.
-- [ ] Inform management and ask them to solve it.
+- [ ] Inform Management and ask them to solve it.
 - [x] Allow the Development Team to self-manage and determine for itself what to do.
 
 _[⬆ Back to Top](#table-of-contents)_
@@ -1663,7 +1663,7 @@ True or False: The purpose of a Sprint is to produce a valuable and useful Incre
 _[⬆ Back to Top](#table-of-contents)_
 
 133.  ### Question133
-An organization has decided to adopt Scrum, but management wants to change the terminology to fit with terminology already used. What will likely happen if this is done? (choose the best answer)
+An organization has decided to adopt Scrum, but Management wants to change the terminology to fit with terminology already used. What will likely happen if this is done? (choose the best answer)
 
 - [ ] Without a new vocabulary as a reminder of the change, very little change may actually happen.
 - [ ] The organization may not understand what has changed with Scrum and the benefits of Scrum may be lost.
@@ -2677,7 +2677,7 @@ _[⬆ Back to Top](#table-of-contents)_
 238.  ### Question238
 How do the Developers divide into multiple teams in scaled Scrum?
 
-- [ ] The top management divides them
+- [ ] The top Management divides them
 - [x] The Developers divide themselves
 - [ ] The Product Owner divides them
 - [ ] The Scrum Master divides them
@@ -2820,7 +2820,7 @@ What are some shortcomings of Code Coverage as a measurement for how well a syst
 - [x] Code Coverage does not necessarily provide functional coverage.
 - [ ] Code Coverage metrics vary by development platform (e.g., .NET, Java)
 - [x] Could create incentives to write tests that simply increase Code Coverage, rather than tests that find bugs without increasing coverage.
-- [ ] It is too complicated to explain to management.
+- [ ] It is too complicated to explain to Management.
 
 _[⬆ Back to Top](#table-of-contents)_
 
