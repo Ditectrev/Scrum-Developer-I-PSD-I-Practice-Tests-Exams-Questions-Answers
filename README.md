@@ -1719,11 +1719,11 @@ _[⬆ Back to Top](#table-of-contents)_
 138.  ### Question138
 A Scrum Team consists of the following: (choose the best three answers)
 
-- [x] Product Owner
-- [x] Scrum Master
-- [ ] Customers
-- [ ] Users
-- [x] Developers
+- [x] Product Owner.
+- [x] Scrum Master.
+- [ ] Customers.
+- [ ] Users.
+- [x] Developers.
 
 _[⬆ Back to Top](#table-of-contents)_
 
