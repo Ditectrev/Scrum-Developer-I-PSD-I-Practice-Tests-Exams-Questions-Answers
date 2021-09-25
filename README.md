@@ -1827,12 +1827,12 @@ Who is responsible for monitoring the progress of work during a Sprint? Pick 1
 _[⬆ Back to Top](#table-of-contents)_
 
 149.  ### Question149
-Who can tell the Developers what to work on
+Who can tell the Developers what to work on?
 
-- [x] The Product Owner
-- [ ] The COO, CEO and CTO
-- [ ] The Project Manager
-- [ ] The Scrum Master
+- [x] The Product Owner.
+- [ ] The COO, CEO and CTO.
+- [ ] The Project Manager.
+- [ ] The Scrum Master.
 
 _[⬆ Back to Top](#table-of-contents)_
 
