@@ -1819,10 +1819,10 @@ _[⬆ Back to Top](#table-of-contents)_
 148.  ### Question148
 Who is responsible for monitoring the progress of work during a Sprint? Pick 1
 
-- [ ] Product Owner
-- [ ] Project Manager
-- [ ] Scrum Master
-- [x] Development Team
+- [ ] Product Owner.
+- [ ] Project Manager.
+- [ ] Scrum Master.
+- [x] Development Team.
 
 _[⬆ Back to Top](#table-of-contents)_
 
