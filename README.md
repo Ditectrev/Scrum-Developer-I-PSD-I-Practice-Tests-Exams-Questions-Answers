@@ -1809,10 +1809,10 @@ Which statement best describes a Product Owner's responsibility? (choose the bes
 _[⬆ Back to Top](#table-of-contents)_
 
 147.  ### Question147
-100% Code Coverage of tests guarantees bug-free Software
+True or False: 100% Code Coverage of tests guarantees bug-free Software.
 
-- [ ] True
-- [x] False
+- [ ] True.
+- [x] False.
 
 _[⬆ Back to Top](#table-of-contents)_
 
