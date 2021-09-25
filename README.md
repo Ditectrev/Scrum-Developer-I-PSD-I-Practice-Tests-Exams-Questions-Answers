@@ -1839,10 +1839,10 @@ _[⬆ Back to Top](#table-of-contents)_
 150.  ### Question150
 Who can do the work to ensure the Product Backlog is refined to a state that it is useful? Pick 2
 
-- [ ] The Product Owner
-- [ ] The Business Analyst
-- [ ] Stakeholders
-- [x] The Developers, with support from the Product Owner who is still accountable for it
+- [x] The Product Owner.
+- [ ] The Business Analyst.
+- [ ] Stakeholders.
+- [x] The Developers, with support from the Product Owner who is still accountable for it.
 
 _[⬆ Back to Top](#table-of-contents)_
 
