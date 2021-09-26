@@ -1859,10 +1859,10 @@ _[⬆ Back to Top](#table-of-contents)_
 152.  ### Question152
 Who manages the Sprint Backlog?
 
-- [ ] The Scrum Master
-- [ ] The Product Owner
-- [x] The Developers
-- [ ] The Scrum Team
+- [ ] The Scrum Master.
+- [ ] The Product Owner.
+- [x] The Developers.
+- [ ] The Scrum Team.
 
 _[⬆ Back to Top](#table-of-contents)_
 
