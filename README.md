@@ -1869,9 +1869,9 @@ _[⬆ Back to Top](#table-of-contents)_
 153.  ### Question153
 Which statement best describes a cross-functional team? Pick 1
 
-- [ ] The team has a good mix of skills
-- [ ] All members of the team have all the skills required to create the Product
-- [x] The team has all competencies needed to accomplish the work
+- [ ] The team has a good mix of skills.
+- [ ] All members of the team have all the skills required to create the Product.
+- [x] The team has all competencies needed to accomplish the work.
 
 _[⬆ Back to Top](#table-of-contents)_
 
