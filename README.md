@@ -1912,10 +1912,10 @@ Who may be best positioned to decide who will be the Scrum Master for a new Scru
 _[⬆ Back to Top](#table-of-contents)_
 
 158.  ### Question158
-A Scrum Team must be 10 or fewer people
+True or False: A Scrum Team must be 10 or fewer people.
 
-- [ ] True
-- [x] False
+- [ ] True.
+- [x] False.
 
 _[⬆ Back to Top](#table-of-contents)_
 
