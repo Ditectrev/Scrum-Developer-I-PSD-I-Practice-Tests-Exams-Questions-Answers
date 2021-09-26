@@ -1904,10 +1904,10 @@ _[⬆ Back to Top](#table-of-contents)_
 157.  ### Question157
 Who may be best positioned to decide who will be the Scrum Master for a new Scrum Team?
 
-- [ ] The Developers
-- [ ] The Product Owner
-- [x] The Developers and the Product Owner
-- [ ] Stakeholders
+- [ ] The Developers.
+- [ ] The Product Owner.
+- [x] The Developers and the Product Owner.
+- [ ] Stakeholders.
 
 _[⬆ Back to Top](#table-of-contents)_
 
