@@ -1886,10 +1886,10 @@ _[⬆ Back to Top](#table-of-contents)_
 155.  ### Question155
 When could a release to Production occur if a Scrum Team produced a Done increment multiple times each day? Select all that apply
 
-- [x] Mid Sprint
-- [x] Every Sprint
-- [x] Multiple times per day
-- [x] Every Day
+- [x] Mid Sprint.
+- [x] Every Sprint.
+- [x] Multiple times per day.
+- [x] Every Day.
 
 _[⬆ Back to Top](#table-of-contents)_
 
