@@ -1846,13 +1846,13 @@ Who can do the work to ensure the Product Backlog is refined to a state that it 
 
 _[⬆ Back to Top](#table-of-contents)_
 
-152.  ### Question152
-SCRUM stands for
+151.  ### Question151
+SCRUM stands for:
 
-- [ ] Super Creative Really Useful Method
-- [ ] Self organising Collaborative & Reflective Universal Method
-- [ ] Safe Controlled Response Under Management
-- [x] Nothing. Its not an acronym
+- [ ] Super Creative Really Useful Method.
+- [ ] Self organising Collaborative & Reflective Universal Method.
+- [ ] Safe Controlled Response Under Management.
+- [x] Nothing. Its not an acronym.
 
 _[⬆ Back to Top](#table-of-contents)_
 
