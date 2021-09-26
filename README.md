@@ -1876,10 +1876,10 @@ Which statement best describes a cross-functional team? Pick 1
 _[⬆ Back to Top](#table-of-contents)_
 
 154.  ### Question154
-Bugs discovered out of Sprint should be
+Bugs discovered out of Sprint should be:
 
-- [ ] Investigated and fixed immediately by the Developers
-- [x] Reviewed with the Product Owner and added to the Product Backlog
+- [ ] Investigated and fixed immediately by the Developers.
+- [x] Reviewed with the Product Owner and added to the Product Backlog.
 
 _[⬆ Back to Top](#table-of-contents)_
 
