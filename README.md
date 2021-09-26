@@ -1856,7 +1856,7 @@ SCRUM stands for:
 
 _[⬆ Back to Top](#table-of-contents)_
 
-153.  ### Question153
+152.  ### Question152
 Who manages the Sprint Backlog?
 
 - [ ] The Scrum Master
@@ -1866,7 +1866,7 @@ Who manages the Sprint Backlog?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-154.  ### Question154
+153.  ### Question153
 Which statement best describes a cross-functional team? Pick 1
 
 - [ ] The team has a good mix of skills
@@ -1875,7 +1875,7 @@ Which statement best describes a cross-functional team? Pick 1
 
 _[⬆ Back to Top](#table-of-contents)_
 
-155.  ### Question155
+154.  ### Question154
 Bugs discovered out of Sprint should be
 
 - [ ] Investigated and fixed immediately by the Developers
@@ -1883,7 +1883,7 @@ Bugs discovered out of Sprint should be
 
 _[⬆ Back to Top](#table-of-contents)_
 
-156.  ### Question156
+155.  ### Question155
 When could a release to Production occur if a Scrum Team produced a Done increment multiple times each day? Select all that apply
 
 - [x] Mid Sprint
@@ -1893,7 +1893,7 @@ When could a release to Production occur if a Scrum Team produced a Done increme
 
 _[⬆ Back to Top](#table-of-contents)_
 
-157.  ### Question157
+156.  ### Question156
 The Definition of Done is a mandatory part of Scrum
 
 - [ ] False
@@ -1901,7 +1901,7 @@ The Definition of Done is a mandatory part of Scrum
 
 _[⬆ Back to Top](#table-of-contents)_
 
-158.  ### Question158
+157.  ### Question157
 Who may be best positioned to decide who will be the Scrum Master for a new Scrum Team?
 
 - [ ] The Developers
@@ -1911,7 +1911,7 @@ Who may be best positioned to decide who will be the Scrum Master for a new Scru
 
 _[⬆ Back to Top](#table-of-contents)_
 
-159.  ### Question159
+158.  ### Question158
 A Scrum Team must be 10 or fewer people
 
 - [ ] True
@@ -1919,7 +1919,7 @@ A Scrum Team must be 10 or fewer people
 
 _[⬆ Back to Top](#table-of-contents)_
 
-160.  ### Question160
+159.  ### Question159
 Continuous Integration (CI) provides the following advantages Select all that apply
 
 - [x] Less back-tracking to discover where things went wrong, so you can spend more time building features
@@ -1929,7 +1929,7 @@ Continuous Integration (CI) provides the following advantages Select all that ap
 
 _[⬆ Back to Top](#table-of-contents)_
 
-161.  ### Question161
+160.  ### Question160
 Sizing is best when Select all that apply
 
 - [x] It is done by the actual Developers who will carry out the work
