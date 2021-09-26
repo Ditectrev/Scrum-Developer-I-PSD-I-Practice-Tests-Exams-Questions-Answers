@@ -1894,10 +1894,10 @@ When could a release to Production occur if a Scrum Team produced a Done increme
 _[⬆ Back to Top](#table-of-contents)_
 
 156.  ### Question156
-The Definition of Done is a mandatory part of Scrum
+True or False: The Definition of Done is a mandatory part of Scrum.
 
-- [ ] False
-- [x] True
+- [ ] False.
+- [x] True.
 
 _[⬆ Back to Top](#table-of-contents)_
 
