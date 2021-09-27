@@ -1940,7 +1940,7 @@ Sizing is best when: Select all that apply
 _[⬆ Back to Top](#table-of-contents)_
 
 162.  ### Question162
-Select the correct timebox for each Scrum event
+Select the correct timebox for each Scrum event.
 
 - [ ] Sprint Planning - 8 hours or less, Daily Scrum - 30 minutes or less, Sprint Review - 4 hours or less, Sprint Retrospective - 3 hours or less.
 - [ ] Sprint Planning - 4 hours or less, Daily Scrum - 15 minutes or less, Sprint Review - 8 hours or less, Sprint Retrospective - 4 hours or less.
