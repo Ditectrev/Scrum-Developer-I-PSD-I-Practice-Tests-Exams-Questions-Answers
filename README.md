@@ -1920,12 +1920,12 @@ True or False: A Scrum Team must be 10 or fewer people.
 _[⬆ Back to Top](#table-of-contents)_
 
 159.  ### Question159
-Continuous Integration (CI) provides the following advantages Select all that apply
+Continuous Integration (CI) provides the following advantages: Select all that apply
 
-- [x] Less back-tracking to discover where things went wrong, so you can spend more time building features
-- [x] Allows teams to detect problems early
-- [ ] Automatically eliminates all integration issues
-- [x] Stop waiting to find out if your code’s going to work
+- [x] Less back-tracking to discover where things went wrong, so you can spend more time building features.
+- [x] Allows teams to detect problems early.
+- [ ] Automatically eliminates all integration issues.
+- [x] Stop waiting to find out if your code’s going to work.
 
 _[⬆ Back to Top](#table-of-contents)_
 
