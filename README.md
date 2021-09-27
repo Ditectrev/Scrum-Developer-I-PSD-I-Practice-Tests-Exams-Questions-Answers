@@ -1939,7 +1939,7 @@ Sizing is best when: Select all that apply
 
 _[⬆ Back to Top](#table-of-contents)_
 
-162.  ### Question162
+161.  ### Question161
 Select the correct timebox for each Scrum event.
 
 - [ ] Sprint Planning - 8 hours or less, Daily Scrum - 30 minutes or less, Sprint Review - 4 hours or less, Sprint Retrospective - 3 hours or less.
@@ -1949,7 +1949,7 @@ Select the correct timebox for each Scrum event.
 
 _[⬆ Back to Top](#table-of-contents)_
 
-163.  ### Question163
+162.  ### Question162
 Planning Poker must be used by Scrum Teams
 
 - [ ] False
@@ -1957,7 +1957,7 @@ Planning Poker must be used by Scrum Teams
 
 _[⬆ Back to Top](#table-of-contents)_
 
-164.  ### Question164
+163.  ### Question163
 What is Test Driven Development?
 
 - [ ] Appointing the QA Tester as the Lead Developer
@@ -1967,7 +1967,7 @@ What is Test Driven Development?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-165.  ### Question165
+164.  ### Question164
 Tasks in a Sprint Backlog must be estimated in days/hours
 
 - [ ] True
@@ -1975,7 +1975,7 @@ Tasks in a Sprint Backlog must be estimated in days/hours
 
 _[⬆ Back to Top](#table-of-contents)_
 
-166.  ### Question166
+165.  ### Question165
 Who is responsible for testing in Scrum?
 
 - [ ] The Product Owner
@@ -1985,7 +1985,7 @@ Who is responsible for testing in Scrum?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-167.  ### Question167
+166.  ### Question166
 Bugs discovered in Sprint should be
 
 - [x] Fixed immediately
@@ -1995,7 +1995,7 @@ Bugs discovered in Sprint should be
 
 _[⬆ Back to Top](#table-of-contents)_
 
-168.  ### Question168
+167.  ### Question167
 YAGNI states that most systems work best if they are kept simple rather than made complicated. Pick 1
 
 - [x] False
@@ -2003,7 +2003,7 @@ YAGNI states that most systems work best if they are kept simple rather than mad
 
 _[⬆ Back to Top](#table-of-contents)_
 
-169.  ### Question169
+168.  ### Question168
 Which one is a Scrum Value? Pick all that apply
 
 - [x] Focus
@@ -2014,7 +2014,7 @@ Which one is a Scrum Value? Pick all that apply
 
 _[⬆ Back to Top](#table-of-contents)_
 
-170.  ### Question170
+169.  ### Question169
 What is NOT the name of the original program in source control from which branches are taken?
 
 - [ ] Mainline
@@ -2024,7 +2024,7 @@ What is NOT the name of the original program in source control from which branch
 
 _[⬆ Back to Top](#table-of-contents)_
 
-171.  ### Question171
+170.  ### Question170
 What is the Static Analysis?
 
 - [x] Analysis performed on code in a non-runtime environment
@@ -2034,7 +2034,7 @@ What is the Static Analysis?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-172.  ### Question172
+171.  ### Question171
 Which one is true about Black-box testing? Pick all that apply
 
 - [ ] Tester can see inside the component or system under test
@@ -2045,7 +2045,7 @@ Which one is true about Black-box testing? Pick all that apply
 
 _[⬆ Back to Top](#table-of-contents)_
 
-173.  ### Question173
+172.  ### Question172
 Which expression is NOT used for KISS principle?
 
 - [ ] Keep it simple, silly
@@ -2055,7 +2055,7 @@ Which expression is NOT used for KISS principle?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-174.  ### Question174
+173.  ### Question173
 What shapes can be an architecture spike? Pick all that apply
 
 - [x] A prototype which will be thrown away
@@ -2065,7 +2065,7 @@ What shapes can be an architecture spike? Pick all that apply
 
 _[⬆ Back to Top](#table-of-contents)_
 
-175.  ### Question175
+174.  ### Question174
 What does cross-functionality mean in a Scrum Team?
 
 
@@ -2076,7 +2076,7 @@ What does cross-functionality mean in a Scrum Team?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-178.  ### Question178
+175.  ### Question175
 What is the proper reaction of the Development Team in the middle of the Sprint when they found they have over committed?
 
 - [ ] They should ask the Product Owner to cancel the Sprint
@@ -2086,7 +2086,7 @@ What is the proper reaction of the Development Team in the middle of the Sprint 
 
 _[⬆ Back to Top](#table-of-contents)_
 
-179.  ### Question179
+176.  ### Question176
 What is the Sprint Planning time-box for two-week Sprints?
 
 - [ ] Usually 2 hours
@@ -2096,7 +2096,7 @@ What is the Sprint Planning time-box for two-week Sprints?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-180.  ### Question180
+177.  ### Question177
 Which one is true?
 
 - [ ] There is no assignment for both Sprint Backlog elements
@@ -2106,7 +2106,7 @@ Which one is true?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-181.  ### Question181
+178.  ### Question178
 Through Depth of Inheritance metric, a low number for depth implies less complexity but also the possibility of less code reuse through inheritance.
 
 - [ ] False
@@ -2114,7 +2114,7 @@ Through Depth of Inheritance metric, a low number for depth implies less complex
 
 _[⬆ Back to Top](#table-of-contents)_
 
-182.  ### Question182
+179.  ### Question179
 Who is responsible for writing tests in a Scrum Team?
 
 - [x] The Development Team
@@ -2124,7 +2124,7 @@ Who is responsible for writing tests in a Scrum Team?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-183.  ### Question183
+180.  ### Question180
 Who are the participants of the Daily Scrum?
 
 - [ ] The Development Team and the Scrum Master
