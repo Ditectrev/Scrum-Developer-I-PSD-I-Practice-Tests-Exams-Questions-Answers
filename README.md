@@ -1930,12 +1930,12 @@ Continuous Integration (CI) provides the following advantages: Select all that a
 _[⬆ Back to Top](#table-of-contents)_
 
 160.  ### Question160
-Sizing is best when Select all that apply
+Sizing is best when: Select all that apply
 
-- [x] It is done by the actual Developers who will carry out the work
-- [x] It is done by a group, rather than an individual
-- [x] Estimates are made relative to similar things
-- [ ] It is done by the Lead Developer alone
+- [x] It is done by the actual Developers who will carry out the work.
+- [x] It is done by a group, rather than an individual.
+- [x] Estimates are made relative to similar things.
+- [ ] It is done by the Lead Developer alone.
 
 _[⬆ Back to Top](#table-of-contents)_
 
