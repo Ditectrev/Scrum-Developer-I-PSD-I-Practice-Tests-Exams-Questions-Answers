@@ -1996,10 +1996,10 @@ Bugs discovered in Sprint should be:
 _[⬆ Back to Top](#table-of-contents)_
 
 167.  ### Question167
-YAGNI states that most systems work best if they are kept simple rather than made complicated. Pick 1
+True or False: YAGNI states that most systems work best if they are kept simple rather than made complicated.
 
-- [x] False
-- [ ] True
+- [x] False.
+- [ ] True.
 
 _[⬆ Back to Top](#table-of-contents)_
 
