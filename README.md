@@ -1986,12 +1986,12 @@ Who is responsible for testing in Scrum?
 _[⬆ Back to Top](#table-of-contents)_
 
 166.  ### Question166
-Bugs discovered in Sprint should be
+Bugs discovered in Sprint should be:
 
-- [x] Fixed immediately
-- [ ] Ignored if not created by me
-- [ ] Send to the Junior Developer to fix
-- [ ] Added to the bug tracking repository and left for a later Sprint
+- [x] Fixed immediately.
+- [ ] Ignored if not created by me.
+- [ ] Send to the Junior Developer to fix.
+- [ ] Added to the bug tracking repository and left for a later Sprint.
 
 _[⬆ Back to Top](#table-of-contents)_
 
