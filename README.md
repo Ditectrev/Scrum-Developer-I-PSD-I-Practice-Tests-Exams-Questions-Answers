@@ -1960,10 +1960,10 @@ _[⬆ Back to Top](#table-of-contents)_
 163.  ### Question163
 What is Test Driven Development?
 
-- [ ] Appointing the QA Tester as the Lead Developer
-- [x] The practice of writing Unit Tests prior to writing the implementation code
-- [ ] Integrating Testers and Developers
-- [ ] The process of motivating Testers
+- [ ] Appointing the QA Tester as the Lead Developer.
+- [x] The practice of writing Unit Tests prior to writing the implementation code.
+- [ ] Integrating Testers and Developers.
+- [ ] The process of motivating Testers.
 
 _[⬆ Back to Top](#table-of-contents)_
 
