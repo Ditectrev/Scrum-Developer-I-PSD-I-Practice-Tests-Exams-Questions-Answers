@@ -1978,10 +1978,10 @@ _[⬆ Back to Top](#table-of-contents)_
 165.  ### Question165
 Who is responsible for testing in Scrum?
 
-- [ ] The Product Owner
-- [x] The Developers
-- [ ] Stakeholders
-- [ ] The Scrum Master
+- [ ] The Product Owner.
+- [x] The Developers.
+- [ ] Stakeholders.
+- [ ] The Scrum Master.
 
 _[⬆ Back to Top](#table-of-contents)_
 
