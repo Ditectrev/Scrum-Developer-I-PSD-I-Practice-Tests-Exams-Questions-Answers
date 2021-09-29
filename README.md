@@ -1968,10 +1968,10 @@ What is Test Driven Development?
 _[⬆ Back to Top](#table-of-contents)_
 
 164.  ### Question164
-Tasks in a Sprint Backlog must be estimated in days/hours
+True or False: Tasks in a Sprint Backlog must be estimated in days/hours.
 
-- [ ] True
-- [x] False
+- [ ] True.
+- [x] False.
 
 _[⬆ Back to Top](#table-of-contents)_
 
