@@ -1950,10 +1950,10 @@ Select the correct timebox for each Scrum event.
 _[⬆ Back to Top](#table-of-contents)_
 
 162.  ### Question162
-Planning Poker must be used by Scrum Teams
+True or False: Planning Poker must be used by Scrum Teams.
 
-- [ ] False
-- [x] True
+- [ ] False.
+- [x] True.
 
 _[⬆ Back to Top](#table-of-contents)_
 
