@@ -2027,10 +2027,10 @@ _[⬆ Back to Top](#table-of-contents)_
 170.  ### Question170
 What is the Static Analysis?
 
-- [x] Analysis performed on code in a non-runtime environment
-- [ ] Analysis performed on Software at runtime
-- [ ] Duties of a Business Analyst
-- [ ] Checking static classes’ readability
+- [x] Analysis performed on code in a non-runtime environment.
+- [ ] Analysis performed on Software at runtime.
+- [ ] Duties of a Business Analyst.
+- [ ] Checking static classes’ readability.
 
 _[⬆ Back to Top](#table-of-contents)_
 
