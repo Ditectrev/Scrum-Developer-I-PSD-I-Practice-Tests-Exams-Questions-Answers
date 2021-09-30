@@ -2004,7 +2004,7 @@ True or False: YAGNI states that most systems work best if they are kept simple 
 _[⬆ Back to Top](#table-of-contents)_
 
 168.  ### Question168
-Which one is a Scrum Value? (pick all that apply)
+Which one is a Scrum Value? ((pick all that apply))
 
 - [x] Focus.
 - [x] Commitment.
@@ -2035,7 +2035,7 @@ What is the Static Analysis?
 _[⬆ Back to Top](#table-of-contents)_
 
 171.  ### Question171
-Which one is true about Black-box testing? Pick all that apply
+Which one is true about Black-box testing? (pick all that apply)
 
 - [ ] Tester can see inside the component or system under test
 - [x] Tests that are done can be either functional or non-functional
@@ -2056,7 +2056,7 @@ Which expression is NOT used for KISS principle?
 _[⬆ Back to Top](#table-of-contents)_
 
 173.  ### Question173
-What shapes can be an architecture spike? Pick all that apply
+What shapes can be an architecture spike? (pick all that apply)
 
 - [x] A prototype which will be thrown away
 - [ ] A comprehensive architecture implementation
@@ -2194,7 +2194,7 @@ How much time does the Product Owner should consume for the Product Backlog Refi
 _[⬆ Back to Top](#table-of-contents)_
 
 190.  ### Question190
-Which one is a Scrum Team role? Pick all that apply
+Which one is a Scrum Team role? (pick all that apply)
 
 - [x] The Product Owner
 - [ ] The Project Manager
@@ -2324,7 +2324,7 @@ Which one is true about the scaled Scrum? Pick 2
 _[⬆ Back to Top](#table-of-contents)_
 
 203.  ### Question203
-Which factors should be considered to determine the Sprint length? Pick all that apply
+Which factors should be considered to determine the Sprint length? (pick all that apply)
 
 - [x] Market change speed
 - [x] Raising complexity speed
@@ -2409,7 +2409,7 @@ Which is true about Strategic debt in Technical debt context?
 _[⬆ Back to Top](#table-of-contents)_
 
 211.  ### Question211
-Which one is a code metric? Pick all that apply
+Which one is a code metric? (pick all that apply)
 
 - [x] Code Coverage
 - [x] Lines of Code
@@ -2508,7 +2508,7 @@ Which language is usually used in BDD?
 _[⬆ Back to Top](#table-of-contents)_
 
 221.  ### Question221
-Which of the followings are characteristics of a good bug report? Pick all that apply
+Which of the followings are characteristics of a good bug report? (pick all that apply)
 
 - [ ] Impacted related requirement
 - [x] Version and build of the Software under test
@@ -2596,7 +2596,7 @@ Which is true about the Sprint Backlog?
 _[⬆ Back to Top](#table-of-contents)_
 
 230.  ### Question230
-Which one is true about Definition of Done and Acceptance Criteria? Pick all that apply
+Which one is true about Definition of Done and Acceptance Criteria? (pick all that apply)
 
 - [ ] Acceptance Criteria should be passed for a feature in order to be called as complete and done
 - [x] Acceptance Criteria should be passed to ensure that a feature is working as expected
@@ -2607,7 +2607,7 @@ Which one is true about Definition of Done and Acceptance Criteria? Pick all tha
 _[⬆ Back to Top](#table-of-contents)_
 
 231.  ### Question231
-Which principle is included in SOLID? Pick all that apply
+Which principle is included in SOLID? (pick all that apply)
 
 - [x] Liskov Substitution Principle
 - [ ] Dual Interface Principle
@@ -2636,7 +2636,7 @@ Which one is true about the Daily Scrum? Pick 3
 _[⬆ Back to Top](#table-of-contents)_
 
 234.  ### Question234
-What are traits of a high performance Scrum Team? Pick all that apply
+What are traits of a high performance Scrum Team? (pick all that apply)
 
 - [x] They live the Scrum Values deeply
 - [x] They help their customers become more successful
