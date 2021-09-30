@@ -2017,10 +2017,10 @@ _[⬆ Back to Top](#table-of-contents)_
 169.  ### Question169
 What is NOT the name of the original program in source control from which branches are taken?
 
-- [ ] Mainline
-- [x] Feature
-- [ ] Trunk
-- [ ] Master
+- [ ] Mainline.
+- [x] Feature.
+- [ ] Trunk.
+- [ ] Master.
 
 _[⬆ Back to Top](#table-of-contents)_
 
