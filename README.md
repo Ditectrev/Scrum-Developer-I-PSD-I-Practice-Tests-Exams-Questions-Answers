@@ -2037,11 +2037,11 @@ _[⬆ Back to Top](#table-of-contents)_
 171.  ### Question171
 Which one is true about Black-box testing? (pick all that apply)
 
-- [ ] Tester can see inside the component or system under test
-- [x] Tests that are done can be either functional or non-functional
-- [ ] The internal structure of the item being tested is known to the Tester
-- [x] Tester cannot see inside the component or system under test
-- [x] The internal structure of the item being tested is not known to the Tester
+- [ ] Tester can see inside the component or system under test.
+- [x] Tests that are done can be either functional or non-functional.
+- [ ] The internal structure of the item being tested is known to the Tester.
+- [x] Tester cannot see inside the component or system under test.
+- [x] The internal structure of the item being tested is not known to the Tester.
 
 _[⬆ Back to Top](#table-of-contents)_
 
