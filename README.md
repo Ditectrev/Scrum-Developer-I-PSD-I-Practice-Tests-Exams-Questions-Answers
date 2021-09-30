@@ -1884,7 +1884,7 @@ Bugs discovered out of Sprint should be:
 _[⬆ Back to Top](#table-of-contents)_
 
 155.  ### Question155
-When could a release to Production occur if a Scrum Team produced a Done increment multiple times each day? Select all that apply
+When could a release to Production occur if a Scrum Team produced a Done increment multiple times each day? (select all that apply)
 
 - [x] Mid Sprint.
 - [x] Every Sprint.
@@ -1920,7 +1920,7 @@ True or False: A Scrum Team must be 10 or fewer people.
 _[⬆ Back to Top](#table-of-contents)_
 
 159.  ### Question159
-Continuous Integration (CI) provides the following advantages: Select all that apply
+Continuous Integration (CI) provides the following advantages: (select all that apply)
 
 - [x] Less back-tracking to discover where things went wrong, so you can spend more time building features.
 - [x] Allows teams to detect problems early.
@@ -1930,7 +1930,7 @@ Continuous Integration (CI) provides the following advantages: Select all that a
 _[⬆ Back to Top](#table-of-contents)_
 
 160.  ### Question160
-Sizing is best when: Select all that apply
+Sizing is best when: (select all that apply)
 
 - [x] It is done by the actual Developers who will carry out the work.
 - [x] It is done by a group, rather than an individual.
