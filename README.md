@@ -2004,13 +2004,13 @@ True or False: YAGNI states that most systems work best if they are kept simple 
 _[⬆ Back to Top](#table-of-contents)_
 
 168.  ### Question168
-Which one is a Scrum Value? Pick all that apply
+Which one is a Scrum Value? (pick all that apply)
 
-- [x] Focus
-- [x] Commitment
-- [x] Courage
-- [ ] Creativity
-- [ ] Accountability
+- [x] Focus.
+- [x] Commitment.
+- [x] Courage.
+- [ ] Creativity.
+- [ ] Accountability.
 
 _[⬆ Back to Top](#table-of-contents)_
 
