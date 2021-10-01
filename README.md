@@ -2048,10 +2048,10 @@ _[⬆ Back to Top](#table-of-contents)_
 172.  ### Question172
 Which expression is NOT used for KISS principle?
 
-- [ ] Keep it simple, silly
-- [x] Keep it safe and same
-- [ ] Keep it small and simple
-- [ ] Keep it simple stupid
+- [ ] Keep it simple, silly.
+- [x] Keep it safe and same.
+- [ ] Keep it small and simple.
+- [ ] Keep it simple stupid.
 
 _[⬆ Back to Top](#table-of-contents)_
 
