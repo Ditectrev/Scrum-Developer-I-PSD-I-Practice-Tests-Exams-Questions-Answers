@@ -2056,12 +2056,12 @@ Which expression is NOT used for KISS principle?
 _[⬆ Back to Top](#table-of-contents)_
 
 173.  ### Question173
-What shapes can be an architecture spike? (pick all that apply)
+What shapes can be an Architecture Spike? (pick all that apply)
 
-- [x] A prototype which will be thrown away
-- [ ] A comprehensive architecture implementation
-- [x] A quick and dirty implementation
-- [ ] A plan for all required architectures of the Product
+- [x] A prototype which will be thrown away.
+- [ ] A comprehensive architecture implementation.
+- [x] A quick and dirty implementation.
+- [ ] A plan for all required architectures of the Product.
 
 _[⬆ Back to Top](#table-of-contents)_
 
@@ -3041,7 +3041,7 @@ Which of the following best describes Continuous Integration?
 _[⬆ Back to Top](#table-of-contents)_
 
 275.  ### Question275
-Which of the following describe an architecture spike?
+Which of the following describe an Architecture Spike?
 
 - [ ] A decision made by a systems Architect to settle disagreement within a Development Team
 - [ ] A fundamental architectural problem found in an existing application
