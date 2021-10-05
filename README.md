@@ -2069,10 +2069,10 @@ _[⬆ Back to Top](#table-of-contents)_
 What does cross-functionality mean in a Scrum Team?
 
 
-- [ ] Each Developer who has a special skill and works with all Scrum Teams of the organization is cross-functional
-- [ ] The Development Team should collaborate with all other functional departments of the organization
-- [x] The Development Team should have all required skills to create potentially releasable Increments without any dependency to others outside the team
-- [ ] Each Development Team member should have all required skills to create potentially releasable Increments without any dependency to others outside the team
+- [ ] Each Developer who has a special skill and works with all Scrum Teams of the organization is cross-functional.
+- [ ] The Development Team should collaborate with all other functional departments of the organization.
+- [x] The Development Team should have all required skills to create potentially releasable Increments without any dependency to others outside the team.
+- [ ] Each Development Team member should have all required skills to create potentially releasable Increments without any dependency to others outside the team.
 
 _[⬆ Back to Top](#table-of-contents)_
 
