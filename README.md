@@ -2079,10 +2079,10 @@ _[⬆ Back to Top](#table-of-contents)_
 175.  ### Question175
 What is the proper reaction of the Development Team in the middle of the Sprint when they found they have over committed?
 
-- [ ] They should ask the Product Owner to cancel the Sprint
-- [ ] They extend the Sprint duration
-- [ ] They can add new team members to the Team
-- [x] They negotiate with the Product Owner about the scope of the Sprint Backlog Items
+- [ ] They should ask the Product Owner to cancel the Sprint.
+- [ ] They extend the Sprint duration.
+- [ ] They can add new team members to the Team.
+- [x] They negotiate with the Product Owner about the scope of the Sprint Backlog Items.
 
 _[⬆ Back to Top](#table-of-contents)_
 
