@@ -2081,7 +2081,7 @@ What is the proper reaction of the Development Team in the middle of the Sprint 
 
 - [ ] They should ask the Product Owner to cancel the Sprint.
 - [ ] They extend the Sprint duration.
-- [ ] They can add new team members to the Team.
+- [ ] They can add new team members to the team.
 - [x] They negotiate with the Product Owner about the scope of the Sprint Backlog Items.
 
 _[⬆ Back to Top](#table-of-contents)_
