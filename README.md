@@ -2099,10 +2099,10 @@ _[⬆ Back to Top](#table-of-contents)_
 177.  ### Question177
 Which one is true?
 
-- [ ] There is no assignment for both Sprint Backlog elements
-- [x] The Team can assign a task to a Team member with consensus
-- [ ] The Team should assign both Sprint Backlog elements
-- [ ] The Team assigns a Sprint Backlog Item to a Team member
+- [ ] There is no assignment for both Sprint Backlog elements.
+- [x] The team can assign a task to a Team member with consensus.
+- [ ] The team should assign both Sprint Backlog elements.
+- [ ] The team assigns a Sprint Backlog Item to a Team member.
 
 _[⬆ Back to Top](#table-of-contents)_
 
