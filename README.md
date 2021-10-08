@@ -2107,10 +2107,10 @@ Which one is true?
 _[⬆ Back to Top](#table-of-contents)_
 
 178.  ### Question178
-Through Depth of Inheritance metric, a low number for depth implies less complexity but also the possibility of less code reuse through inheritance.
+True or False: Through Depth of Inheritance metric, a low number for depth implies less complexity but also the possibility of less code reuse through inheritance.
 
-- [ ] False
-- [x] True
+- [ ] False.
+- [x] True.
 
 _[⬆ Back to Top](#table-of-contents)_
 
