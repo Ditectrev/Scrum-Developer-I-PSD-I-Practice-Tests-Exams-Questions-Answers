@@ -2089,10 +2089,10 @@ _[⬆ Back to Top](#table-of-contents)_
 176.  ### Question176
 What is the Sprint Planning time-box for two-week Sprints?
 
-- [ ] Usually 2 hours
-- [ ] Usually 8 hours
-- [ ] Usually 6 hours
-- [x] Usually 4 hours
+- [ ] Usually 2 hours.
+- [ ] Usually 8 hours.
+- [ ] Usually 6 hours.
+- [x] Usually 4 hours.
 
 _[⬆ Back to Top](#table-of-contents)_
 
