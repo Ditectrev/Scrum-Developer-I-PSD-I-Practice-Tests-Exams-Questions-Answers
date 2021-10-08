@@ -2127,10 +2127,10 @@ _[⬆ Back to Top](#table-of-contents)_
 180.  ### Question180
 Who are the participants of the Daily Scrum?
 
-- [ ] The Development Team and the Scrum Master
-- [ ] The Development Team and the Product Owner
-- [ ] The Scrum Team
-- [x] The Development Team
+- [ ] The Development Team and the Scrum Master.
+- [ ] The Development Team and the Product Owner.
+- [ ] The Scrum Team.
+- [x] The Development Team.
 
 _[⬆ Back to Top](#table-of-contents)_
 
