@@ -2117,10 +2117,10 @@ _[⬆ Back to Top](#table-of-contents)_
 179.  ### Question179
 Who is responsible for writing tests in a Scrum Team?
 
-- [x] The Development Team
-- [ ] The programmer
-- [ ] The QA specialist
-- [ ] The Tester
+- [x] The Development Team.
+- [ ] The programmer.
+- [ ] The QA specialist.
+- [ ] The Tester.
 
 _[⬆ Back to Top](#table-of-contents)_
 
