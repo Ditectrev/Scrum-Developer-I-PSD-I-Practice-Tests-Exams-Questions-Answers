@@ -2137,10 +2137,10 @@ _[⬆ Back to Top](#table-of-contents)_
 181.  ### Question181
 Which concept has interactive attribute?
 
-- [ ] Sketch
-- [ ] Mockup
-- [ ] Wireframe
-- [x] Prototype
+- [ ] Sketch.
+- [ ] Mockup.
+- [ ] Wireframe.
+- [x] Prototype.
 
 _[⬆ Back to Top](#table-of-contents)_
 
