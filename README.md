@@ -2134,7 +2134,7 @@ Who are the participants of the Daily Scrum?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-184.  ### Question184
+181.  ### Question181
 Which concept has interactive attribute?
 
 - [ ] Sketch
@@ -2144,7 +2144,7 @@ Which concept has interactive attribute?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-185.  ### Question185
+182.  ### Question182
 Who is responsible for the documentation?
 
 - [x] Development Team
@@ -2154,7 +2154,7 @@ Who is responsible for the documentation?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-186.  ### Question186
+183.  ### Question183
 Afferent Coupling measures the number of classes on which a given class depends.
 
 - [x] False
@@ -2162,7 +2162,7 @@ Afferent Coupling measures the number of classes on which a given class depends.
 
 _[⬆ Back to Top](#table-of-contents)_
 
-187.  ### Question187
+184.  ### Question184
 Which concerns are most important in the scaled Scrum? Pick 2
 
 - [x] Minimizing or removing dependencies between teams
@@ -2172,7 +2172,7 @@ Which concerns are most important in the scaled Scrum? Pick 2
 
 _[⬆ Back to Top](#table-of-contents)_
 
-188.  ### Question188
+185.  ### Question185
 Who makes the decision for the architecture in a Scrum Team?
 
 - [ ] Tech Lead
@@ -2183,7 +2183,7 @@ Who makes the decision for the architecture in a Scrum Team?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-189.  ### Question189
+186.  ### Question186
 How much time does the Product Owner should consume for the Product Backlog Refinement?
 
 - [ ] No more than 10%
@@ -2193,7 +2193,7 @@ How much time does the Product Owner should consume for the Product Backlog Refi
 
 _[⬆ Back to Top](#table-of-contents)_
 
-190.  ### Question190
+187.  ### Question187
 Which one is a Scrum Team role? (pick all that apply)
 
 - [x] The Product Owner
@@ -2203,7 +2203,7 @@ Which one is a Scrum Team role? (pick all that apply)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-191.  ### Question191
+188.  ### Question188
 Which one is NOT a Test Double?
 
 - [x] Two combined Unit Tests
@@ -2213,7 +2213,7 @@ Which one is NOT a Test Double?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-192.  ### Question192
+189.  ### Question189
 Which is true about refactoring?
 
 - [x] Through it internal structure of code is altered
@@ -2223,7 +2223,7 @@ Which is true about refactoring?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-193.  ### Question193
+190.  ### Question190
 When the Product Owner can see the Development Team work?
 
 - [ ] Just at the Sprint Review
@@ -2233,7 +2233,7 @@ When the Product Owner can see the Development Team work?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-194.  ### Question194
+191.  ### Question191
 What are the most important things for increasing transparency?
 
 - [ ] Using chat tools to have the best communication
@@ -2243,7 +2243,7 @@ What are the most important things for increasing transparency?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-195.  ### Question195
+192.  ### Question192
 What is the ATDD?
 
 - [x] Using Acceptance Tests to define requirements specified by the customer and market
@@ -2253,7 +2253,7 @@ What is the ATDD?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-196.  ### Question196
+193.  ### Question193
 In Software Development, which acronym is NOT true?
 
 - [ ] LOC: Lines of Code
@@ -2263,7 +2263,7 @@ In Software Development, which acronym is NOT true?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-197.  ### Question197
+194.  ### Question194
 Where does Smoke testing originate from?
 
 - [ ] Comes from a comprehensive type of hardware testing in which a device passes the test if it does not catch fire during a sample long time run
@@ -2273,7 +2273,7 @@ Where does Smoke testing originate from?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-198.  ### Question198
+195.  ### Question195
 What is the goal of the Continuous Integration?
 
 - [ ] To publish the Product Increment on Production
@@ -2283,7 +2283,7 @@ What is the goal of the Continuous Integration?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-199.  ### Question199
+196.  ### Question196
 What kind of activity can be done in the Product Backlog Refinement?
 
 - [ ] Adding detail to the items
@@ -2293,7 +2293,7 @@ What kind of activity can be done in the Product Backlog Refinement?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-200.  ### Question200
+197.  ### Question197
 What is the recommended size of the Development Team?
 
 - [ ] 7 ± 2
@@ -2303,7 +2303,7 @@ What is the recommended size of the Development Team?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-201.  ### Question201
+198.  ### Question198
 What are the duties of the Development Team in a Scrum Team?
 
 - [ ] Removing impediments
@@ -2313,7 +2313,7 @@ What are the duties of the Development Team in a Scrum Team?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-202.  ### Question202
+199.  ### Question199
 Which one is true about the scaled Scrum? Pick 2
 
 - [ ] The scaled Scrum does not add or change anything in Scrum framework
@@ -2323,7 +2323,7 @@ Which one is true about the scaled Scrum? Pick 2
 
 _[⬆ Back to Top](#table-of-contents)_
 
-203.  ### Question203
+200.  ### Question200
 Which factors should be considered to determine the Sprint length? (pick all that apply)
 
 - [x] Market change speed
