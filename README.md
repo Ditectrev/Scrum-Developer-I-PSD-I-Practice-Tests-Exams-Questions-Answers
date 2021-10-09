@@ -2147,10 +2147,10 @@ _[⬆ Back to Top](#table-of-contents)_
 182.  ### Question182
 Who is responsible for the documentation?
 
-- [x] Development Team
-- [ ] Tech Lead
-- [ ] Document Writer
-- [ ] Scrum Master
+- [x] Development Team.
+- [ ] Tech Lead.
+- [ ] Document Writer.
+- [ ] Scrum Master.
 
 _[⬆ Back to Top](#table-of-contents)_
 
