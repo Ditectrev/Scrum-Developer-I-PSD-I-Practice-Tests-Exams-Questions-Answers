@@ -2175,11 +2175,11 @@ _[⬆ Back to Top](#table-of-contents)_
 185.  ### Question185
 Who makes the decision for the architecture in a Scrum Team?
 
-- [ ] Tech Lead
-- [x] Development Team
-- [ ] Chief Architect
-- [ ] CTO (Chief Technology Officer)
-- [ ] Scrum Master
+- [ ] Tech Lead.
+- [x] Development Team.
+- [ ] Chief Architect.
+- [ ] CTO (Chief Technology Officer).
+- [ ] Scrum Master.
 
 _[⬆ Back to Top](#table-of-contents)_
 
