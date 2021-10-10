@@ -2165,10 +2165,10 @@ _[⬆ Back to Top](#table-of-contents)_
 184.  ### Question184
 Which concerns are most important in the scaled Scrum? Pick 2
 
-- [x] Minimizing or removing dependencies between teams
-- [x] Creating an integrated releasable Increment at the end of each Sprint
-- [ ] Having same Sprint duration for all teams
-- [ ] Increasing all team members utilization
+- [x] Minimizing or removing dependencies between teams.
+- [x] Creating an integrated releasable Increment at the end of each Sprint.
+- [ ] Having same Sprint duration for all teams.
+- [ ] Increasing all team members utilization.
 
 _[⬆ Back to Top](#table-of-contents)_
 
