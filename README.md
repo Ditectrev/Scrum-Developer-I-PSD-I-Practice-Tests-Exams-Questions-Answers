@@ -2155,10 +2155,10 @@ Who is responsible for the documentation?
 _[⬆ Back to Top](#table-of-contents)_
 
 183.  ### Question183
-Afferent Coupling measures the number of classes on which a given class depends.
+True or False: Afferent Coupling measures the number of classes on which a given class depends.
 
-- [x] False
-- [ ] True
+- [x] False.
+- [ ] True.
 
 _[⬆ Back to Top](#table-of-contents)_
 
