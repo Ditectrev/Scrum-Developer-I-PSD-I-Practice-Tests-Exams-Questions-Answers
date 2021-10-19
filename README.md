@@ -2206,10 +2206,10 @@ _[⬆ Back to Top](#table-of-contents)_
 188.  ### Question188
 Which one is NOT a Test Double?
 
-- [x] Two combined Unit Tests
-- [ ] Test Spy
-- [ ] Test Stub
-- [ ] Mock Object
+- [x] Two combined Unit Tests.
+- [ ] Test Spy.
+- [ ] Test Stub.
+- [ ] Mock Object.
 
 _[⬆ Back to Top](#table-of-contents)_
 
