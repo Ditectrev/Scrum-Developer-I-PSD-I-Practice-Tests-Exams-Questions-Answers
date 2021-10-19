@@ -2186,10 +2186,10 @@ _[⬆ Back to Top](#table-of-contents)_
 186.  ### Question186
 How much time does the Product Owner should consume for the Product Backlog Refinement?
 
-- [ ] No more than 10%
-- [ ] No more than 20%
-- [ ] It is not the Product Owner responsibility
-- [x] Any time that the Product Owner needs
+- [ ] No more than 10%.
+- [ ] No more than 20%.
+- [ ] It is not the Product Owner responsibility.
+- [x] Any time that the Product Owner needs.
 
 _[⬆ Back to Top](#table-of-contents)_
 
