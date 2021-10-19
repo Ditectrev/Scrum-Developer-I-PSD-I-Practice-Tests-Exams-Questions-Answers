@@ -2196,10 +2196,10 @@ _[⬆ Back to Top](#table-of-contents)_
 187.  ### Question187
 Which one is a Scrum Team role? (pick all that apply)
 
-- [x] The Product Owner
-- [ ] The Project Manager
-- [x] The Scrum Master
-- [x] The Development Team
+- [x] The Product Owner.
+- [ ] The Project Manager.
+- [x] The Scrum Master.
+- [x] The Development Team.
 
 _[⬆ Back to Top](#table-of-contents)_
 
