@@ -5,7 +5,7 @@
 | No. | Questions |
 | --- | --------------------------- |
 | 1   | [When can Product Backlog Refinement occur?](#when-can-product-backlog-refinement-occur) |
-| 2   | [What would NOT be considered refactoring?](#what-would-not-be-considered-refactoring) |
+| 2   | [What would NOT be considered Refactoring?](#what-would-not-be-considered-refactoring) |
 | 3   | [Question3](#question3) |
 | 4   | [Question4](#question4) |
 | 5   | [Question5](#question5) |
@@ -298,7 +298,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What would NOT be considered refactoring?
+### What would NOT be considered Refactoring?
 
 - [ ] Reordering method parameters to improve readability.
 - [ ] Extracting interfaces.
@@ -411,7 +411,7 @@ What are possible benefits from practicing Test Driven Development (TDD)?
 - [ ] It makes Integration Tests obsolete and by doing so saves a lot of time.
 - [x] It helps break down complex problems into smaller ones that are much easier to be tackled.
 - [ ] It increases collaboration between Developers as it requires Pair Programming.
-- [x] It might lead to better code as refactoring is part of the TDD cycle.
+- [x] It might lead to better code as Refactoring is part of the TDD cycle.
 - [x] It helps to identify gaps in understanding the desired behavior.
 
 _[⬆ Back to Top](#table-of-contents)_
@@ -564,7 +564,7 @@ What are three of the best ways to address non-functional requirements?
 _[⬆ Back to Top](#table-of-contents)_
 
 27. ### Question27
-What is the primary purpose of refactoring?
+What is the primary purpose of Refactoring?
 
 - [ ] Ensuring that all factors are constantly aligned.
 - [ ] Removing all bugs that were found during Regression Tests.
@@ -2218,7 +2218,7 @@ Which is true about Refactoring?
 
 - [x] Through it internal structure of code is altered.
 - [x] Its results are improved maintainability, code readability and reduced complexity.
-- [ ] There should be special and distinct Sprints called “Refactoring Sprint” to do refactoring with focus every a few Sprints.
+- [ ] There should be special and distinct Sprints called “Refactoring Sprint” to do Refactoring with focus every a few Sprints.
 - [ ] Through it external behavior of code is altered.
 
 _[⬆ Back to Top](#table-of-contents)_
@@ -2918,7 +2918,7 @@ What is Technical Debt?
 _[⬆ Back to Top](#table-of-contents)_
 
 264.  ### Question264
-What is the value of refactoring code?
+What is the value of Refactoring code?
 
 - [ ] To have all code in a single file for easy printing and code reviews.
 - [x] To improve readability and maintainability.
