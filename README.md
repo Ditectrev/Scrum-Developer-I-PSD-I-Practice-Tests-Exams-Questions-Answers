@@ -2266,10 +2266,10 @@ _[⬆ Back to Top](#table-of-contents)_
 194.  ### Question194
 Where does Smoke testing originate from?
 
-- [ ] Comes from a comprehensive type of hardware testing in which a device passes the test if it does not catch fire during a sample long time run
-- [ ] Comes from a basic type of hardware testing in which a device passes the test if it does not catch fire during a sample long time run
-- [x] Comes from a basic type of hardware testing in which a device passes the test if it does not catch fire the first time it turns on
-- [ ] Comes from a comprehensive type of hardware testing in which a device passes the test if it does not catch fire the first time it turns on
+- [ ] Comes from a comprehensive type of hardware testing in which a device passes the test if it does not catch fire during a sample long time run.
+- [ ] Comes from a basic type of hardware testing in which a device passes the test if it does not catch fire during a sample long time run.
+- [x] Comes from a basic type of hardware testing in which a device passes the test if it does not catch fire the first time it turns on.
+- [ ] Comes from a comprehensive type of hardware testing in which a device passes the test if it does not catch fire the first time it turns on.
 
 _[⬆ Back to Top](#table-of-contents)_
 
