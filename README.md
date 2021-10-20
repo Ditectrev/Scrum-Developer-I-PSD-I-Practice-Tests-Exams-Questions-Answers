@@ -2226,10 +2226,10 @@ _[⬆ Back to Top](#table-of-contents)_
 190.  ### Question190
 When the Product Owner can see the Development Team work?
 
-- [ ] Just at the Sprint Review
-- [ ] Whenever the Development Team is ready
-- [x] Anytime the Product Owner asks
-- [ ] When the Tech Lead allows the Development Team to show their work
+- [ ] Just at the Sprint Review.
+- [ ] Whenever the Development Team is ready.
+- [x] Anytime the Product Owner asks.
+- [ ] When the Tech Lead allows the Development Team to show their work.
 
 _[⬆ Back to Top](#table-of-contents)_
 
