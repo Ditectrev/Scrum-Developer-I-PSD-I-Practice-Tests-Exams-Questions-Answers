@@ -2214,12 +2214,12 @@ Which one is NOT a Test Double?
 _[⬆ Back to Top](#table-of-contents)_
 
 189.  ### Question189
-Which is true about refactoring?
+Which is true about Refactoring?
 
-- [x] Through it internal structure of code is altered
-- [x] Its results are improved maintainability, code readability and reduced complexity
-- [ ] There should be special and distinct Sprints called “Refactoring Sprint” to do refactoring with focus every a few Sprints
-- [ ] Through it external behavior of code is altered
+- [x] Through it internal structure of code is altered.
+- [x] Its results are improved maintainability, code readability and reduced complexity.
+- [ ] There should be special and distinct Sprints called “Refactoring Sprint” to do refactoring with focus every a few Sprints.
+- [ ] Through it external behavior of code is altered.
 
 _[⬆ Back to Top](#table-of-contents)_
 
