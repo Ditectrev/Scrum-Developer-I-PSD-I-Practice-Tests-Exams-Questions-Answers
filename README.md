@@ -2246,10 +2246,10 @@ _[⬆ Back to Top](#table-of-contents)_
 192.  ### Question192
 What is the ATDD?
 
-- [x] Using Acceptance Tests to define requirements specified by the customer and market
-- [ ] Using advanced Integration Test to develop quality Product
-- [ ] Using approved tests by Product Owner in TDD
-- [ ] Using Unit Tests to define requirements specified by the customer and market
+- [x] Using Acceptance Tests to define requirements specified by the customer and market.
+- [ ] Using advanced Integration Test to develop quality Product.
+- [ ] Using approved tests by Product Owner in TDD.
+- [ ] Using Unit Tests to define requirements specified by the customer and market.
 
 _[⬆ Back to Top](#table-of-contents)_
 
