@@ -2256,10 +2256,10 @@ _[⬆ Back to Top](#table-of-contents)_
 193.  ### Question193
 In Software Development, which acronym is NOT true?
 
-- [ ] LOC: Lines of Code
-- [ ] CBO: Coupling Between Objects
-- [ ] DIT: Depth of Inheritance Tree
-- [x] SLOC: Sample Lines of Code
+- [ ] LOC: Lines of Code.
+- [ ] CBO: Coupling Between Objects.
+- [ ] DIT: Depth of Inheritance Tree.
+- [x] SLOC: Sample Lines of Code.
 
 _[⬆ Back to Top](#table-of-contents)_
 
