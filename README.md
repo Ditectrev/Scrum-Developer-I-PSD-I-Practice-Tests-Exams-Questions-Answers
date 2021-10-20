@@ -2236,10 +2236,10 @@ _[⬆ Back to Top](#table-of-contents)_
 191.  ### Question191
 What are the most important things for increasing transparency?
 
-- [ ] Using chat tools to have the best communication
-- [x] Having a Definition of Done
-- [x] Having a common language
-- [ ] Having a comprehensive documentation
+- [ ] Using chat tools to have the best communication.
+- [x] Having a Definition of Done.
+- [x] Having a common language.
+- [ ] Having a comprehensive documentation.
 
 _[⬆ Back to Top](#table-of-contents)_
 
