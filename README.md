@@ -2326,10 +2326,10 @@ _[⬆ Back to Top](#table-of-contents)_
 200.  ### Question200
 Which factors should be considered to determine the Sprint length? (pick all that apply)
 
-- [x] Market change speed
-- [x] Raising complexity speed
-- [x] Amount of the risk
-- [x] Cost of risk
+- [x] Market change speed.
+- [x] Raising complexity speed.
+- [x] Amount of the risk.
+- [x] Cost of risk.
 
 _[⬆ Back to Top](#table-of-contents)_
 
