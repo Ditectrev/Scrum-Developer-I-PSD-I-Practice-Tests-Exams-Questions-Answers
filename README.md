@@ -2286,10 +2286,10 @@ _[⬆ Back to Top](#table-of-contents)_
 196.  ### Question196
 What kind of activity can be done in the Product Backlog Refinement?
 
-- [ ] Adding detail to the items
-- [x] Ordering
-- [x] Design
-- [ ] Develop
+- [ ] Adding detail to the items.
+- [x] Ordering.
+- [x] Design.
+- [ ] Develop.
 
 _[⬆ Back to Top](#table-of-contents)_
 
