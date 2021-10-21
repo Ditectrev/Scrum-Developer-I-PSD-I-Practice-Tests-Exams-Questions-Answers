@@ -2333,7 +2333,7 @@ Which factors should be considered to determine the Sprint length? (pick all tha
 
 _[⬆ Back to Top](#table-of-contents)_
 
-241.  ### Question241
+201.  ### Question201
 One of the outcomes of using TDD is creating an automated Regression Test suite.
 
 - [ ] False
@@ -2341,7 +2341,7 @@ One of the outcomes of using TDD is creating an automated Regression Test suite.
 
 _[⬆ Back to Top](#table-of-contents)_
 
-204.  ### Question204
+202.  ### Question202
 Which work can be done between two Sprints?
 
 - [x] Nothing. There is no special time between two Sprints
@@ -2351,7 +2351,7 @@ Which work can be done between two Sprints?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-205.  ### Question205
+203.  ### Question203
 How often does the Sprint Planning should be conducted?
 
 - [ ] Once a Release
@@ -2361,7 +2361,7 @@ How often does the Sprint Planning should be conducted?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-206.  ### Question206
+204.  ### Question204
 Creating a done and potentially releasable Increment is the purpose of each Sprint.
 
 - [ ] False
@@ -2369,7 +2369,7 @@ Creating a done and potentially releasable Increment is the purpose of each Spri
 
 _[⬆ Back to Top](#table-of-contents)_
 
-207.  ### Question207
+205.  ### Question205
 Which is NOT true about Lines of Code metric?
 
 - [ ] A high count might indicate that a type or method is doing too much work
@@ -2379,7 +2379,7 @@ Which is NOT true about Lines of Code metric?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-208.  ### Question208
+206.  ### Question206
 What does Code Coverage mean?
 
 - [x] The degree of a source code which is executed or exercised by a test suite
@@ -2389,7 +2389,7 @@ What does Code Coverage mean?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-209.  ### Question209
+207.  ### Question207
 Who are responsible for monitoring the progress over the Project and Sprint?
 
 - [x] Project Progress: the Product Owner, Sprint Progress: the Development Team
@@ -2399,7 +2399,7 @@ Who are responsible for monitoring the progress over the Project and Sprint?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-210.  ### Question210
+208.  ### Question208
 Which is true about Strategic debt in Technical debt context?
 
 - [x] Debt caused to gain strategic benefits (such as time to market)
@@ -2408,7 +2408,7 @@ Which is true about Strategic debt in Technical debt context?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-211.  ### Question211
+209.  ### Question209
 Which one is a code metric? (pick all that apply)
 
 - [x] Code Coverage
@@ -2419,7 +2419,7 @@ Which one is a code metric? (pick all that apply)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-212.  ### Question212
+210.  ### Question210
 What are the outputs of the Sprint Planning?
 
 - [ ] The Increment
