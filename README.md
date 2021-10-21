@@ -2276,10 +2276,10 @@ _[⬆ Back to Top](#table-of-contents)_
 195.  ### Question195
 What is the goal of the Continuous Integration?
 
-- [ ] To publish the Product Increment on Production
-- [ ] To penalize the Developer who breaks the build
-- [x] To provide rapid feedback of build and test result
-- [ ] To find who has made the change on source control
+- [ ] To publish the Product Increment on Production.
+- [ ] To penalize the Developer who breaks the build.
+- [x] To provide rapid feedback of build and test result.
+- [ ] To find who has made the change on source control.
 
 _[⬆ Back to Top](#table-of-contents)_
 
