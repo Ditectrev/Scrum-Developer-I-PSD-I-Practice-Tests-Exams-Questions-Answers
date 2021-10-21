@@ -2306,10 +2306,10 @@ _[⬆ Back to Top](#table-of-contents)_
 198.  ### Question198
 What are the duties of the Development Team in a Scrum Team?
 
-- [ ] Removing impediments
-- [x] Making technical decisions
-- [x] Resolving team internal conflicts
-- [ ] Assigning value to the Product Backlog Items
+- [ ] Removing impediments.
+- [x] Making technical decisions.
+- [x] Resolving team internal conflicts.
+- [ ] Assigning value to the Product Backlog Items.
 
 _[⬆ Back to Top](#table-of-contents)_
 
