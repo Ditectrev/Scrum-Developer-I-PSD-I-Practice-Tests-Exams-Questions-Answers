@@ -2316,10 +2316,10 @@ _[⬆ Back to Top](#table-of-contents)_
 199.  ### Question199
 Which one is true about the scaled Scrum? Pick 2
 
-- [ ] The scaled Scrum does not add or change anything in Scrum framework
-- [x] It is based on the Scrum framework
-- [x] It uses Scrum parts as its building blocks
-- [ ] Through scaled Scrum Teams work on multiple Products
+- [ ] The scaled Scrum does not add or change anything in Scrum framework.
+- [x] It is based on the Scrum framework.
+- [x] It uses Scrum parts as its building blocks.
+- [ ] Through scaled Scrum Teams work on multiple Products.
 
 _[⬆ Back to Top](#table-of-contents)_
 
