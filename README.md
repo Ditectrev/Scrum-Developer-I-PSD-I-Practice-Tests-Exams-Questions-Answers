@@ -2296,10 +2296,10 @@ _[⬆ Back to Top](#table-of-contents)_
 197.  ### Question197
 What is the recommended size of the Development Team?
 
-- [ ] 7 ± 2
-- [ ] 5 ± 4
-- [x] 6 ± 3
-- [ ] 9 ± 3
+- [ ] 7 ± 2.
+- [ ] 5 ± 4.
+- [x] 6 ± 3.
+- [ ] 9 ± 3.
 
 _[⬆ Back to Top](#table-of-contents)_
 
