@@ -2334,10 +2334,10 @@ Which factors should be considered to determine the Sprint length? (pick all tha
 _[⬆ Back to Top](#table-of-contents)_
 
 201.  ### Question201
-One of the outcomes of using TDD is creating an automated Regression Test suite.
+True or False: One of the outcomes of using TDD is creating an automated Regression Test suite.
 
-- [ ] False
-- [x] True
+- [ ] False.
+- [x] True.
 
 _[⬆ Back to Top](#table-of-contents)_
 
