@@ -2392,10 +2392,10 @@ _[⬆ Back to Top](#table-of-contents)_
 207.  ### Question207
 Who are responsible for monitoring the progress over the Project and Sprint?
 
-- [x] Project Progress: the Product Owner, Sprint Progress: the Development Team
-- [ ] Project Progress: the Scrum Master, Sprint Progress: the Development Team
-- [ ] Project Progress: the Development Team, Sprint Progress: the Product Owner
-- [ ] Project Progress: the Product Owner, Sprint Progress: the Scrum Master
+- [x] Project Progress: the Product Owner, Sprint Progress: the Development Team.
+- [ ] Project Progress: the Scrum Master, Sprint Progress: the Development Team.
+- [ ] Project Progress: the Development Team, Sprint Progress: the Product Owner.
+- [ ] Project Progress: the Product Owner, Sprint Progress: the Scrum Master.
 
 _[⬆ Back to Top](#table-of-contents)_
 
