@@ -2344,10 +2344,10 @@ _[⬆ Back to Top](#table-of-contents)_
 202.  ### Question202
 Which work can be done between two Sprints?
 
-- [x] Nothing. There is no special time between two Sprints
-- [ ] Resolving some important bugs
-- [ ] Preparing Product Backlog Items for the next Sprint
-- [ ] Thinking about architectural concerns of the next Sprint
+- [x] Nothing. There is no special time between two Sprints.
+- [ ] Resolving some important bugs.
+- [ ] Preparing Product Backlog Items for the next Sprint.
+- [ ] Thinking about architectural concerns of the next Sprint.
 
 _[⬆ Back to Top](#table-of-contents)_
 
