@@ -2382,10 +2382,10 @@ _[⬆ Back to Top](#table-of-contents)_
 206.  ### Question206
 What does Code Coverage mean?
 
-- [x] The degree of a source code which is executed or exercised by a test suite
-- [ ] The number of Unit Tests which have passed through a test suite run
-- [ ] The amount of codes which is covered in a source control
-- [ ] The number of Unit Tests which have failed through a test suite run
+- [x] The degree of a source code which is executed or exercised by a test suite.
+- [ ] The number of Unit Tests which have passed through a test suite run.
+- [ ] The amount of codes which is covered in a source control.
+- [ ] The number of Unit Tests which have failed through a test suite run.
 
 _[⬆ Back to Top](#table-of-contents)_
 
