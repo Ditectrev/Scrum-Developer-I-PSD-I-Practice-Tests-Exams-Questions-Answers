@@ -2372,10 +2372,10 @@ _[⬆ Back to Top](#table-of-contents)_
 205.  ### Question205
 Which is NOT true about Lines of Code metric?
 
-- [ ] A high count might indicate that a type or method is doing too much work
-- [ ] A high count might be a warning that code will be hard to maintain
-- [ ] It isn’t a Code Quality metric
-- [x] It is explained via percentage
+- [ ] A high count might indicate that a type or method is doing too much work.
+- [ ] A high count might be a warning that code will be hard to maintain.
+- [ ] It isn’t a Code Quality metric.
+- [x] It is explained via percentage.
 
 _[⬆ Back to Top](#table-of-contents)_
 
