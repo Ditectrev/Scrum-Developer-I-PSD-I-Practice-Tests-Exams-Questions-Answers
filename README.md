@@ -2354,10 +2354,10 @@ _[⬆ Back to Top](#table-of-contents)_
 203.  ### Question203
 How often does the Sprint Planning should be conducted?
 
-- [ ] Once a Release
-- [ ] Each time that the Product Owner decides
-- [ ] In the middle of each Sprint
-- [x] Once a Sprint
+- [ ] Once a Release.
+- [ ] Each time that the Product Owner decides.
+- [ ] In the middle of each Sprint.
+- [x] Once a Sprint.
 
 _[⬆ Back to Top](#table-of-contents)_
 
