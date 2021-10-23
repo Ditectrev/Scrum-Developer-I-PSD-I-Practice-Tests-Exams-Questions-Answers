@@ -2362,10 +2362,10 @@ How often does the Sprint Planning should be conducted?
 _[⬆ Back to Top](#table-of-contents)_
 
 204.  ### Question204
-Creating a done and potentially releasable Increment is the purpose of each Sprint.
+True or False: Creating a done and potentially releasable Increment is the purpose of each Sprint.
 
-- [ ] False
-- [x] True
+- [ ] False.
+- [x] True.
 
 _[⬆ Back to Top](#table-of-contents)_
 
