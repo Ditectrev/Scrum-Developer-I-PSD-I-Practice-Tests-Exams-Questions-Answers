@@ -2429,7 +2429,7 @@ What are the outputs of the Sprint Planning?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-213.  ### Question213
+211.  ### Question211
 Dependency Inversion principle implies that entities must depend on abstractions not on concretions.
 
 - [ ] False
@@ -2437,7 +2437,7 @@ Dependency Inversion principle implies that entities must depend on abstractions
 
 _[⬆ Back to Top](#table-of-contents)_
 
-214.  ### Question214
+212.  ### Question212
 What will happen for the undone Sprint Backlog Items at the end of the Sprint?
 
 - [ ] Extend the Sprint to finish them
@@ -2447,7 +2447,7 @@ What will happen for the undone Sprint Backlog Items at the end of the Sprint?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-215.  ### Question215
+213.  ### Question213
 What does the Development Team should do when the CEO assign them an unplanned work in the middle of the Sprint?
 
 - [ ] Inform the Scrum Master to work with his/her
@@ -2457,7 +2457,7 @@ What does the Development Team should do when the CEO assign them an unplanned w
 
 _[⬆ Back to Top](#table-of-contents)_
 
-216.  ### Question216
+214.  ### Question214
 When the Development Team can change their practices, tools or techniques?
 
 - [x] Whenever needed
@@ -2467,7 +2467,7 @@ When the Development Team can change their practices, tools or techniques?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-217.  ### Question217
+215.  ### Question215
 How many Definition of Done should be used in scaled Scrum?
 
 - [ ] They can have a separate Definition of Done for each team as long as they do not violate each other
@@ -2477,7 +2477,7 @@ How many Definition of Done should be used in scaled Scrum?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-218.  ### Question218
+216.  ### Question216
 Which two of the followings are synonyms of TDD?
 
 - [ ] Domain Driven Design
@@ -2487,7 +2487,7 @@ Which two of the followings are synonyms of TDD?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-219.  ### Question219
+217.  ### Question217
 When tests should be added in the development process?
 
 - [ ] At the end of each release
@@ -2497,7 +2497,7 @@ When tests should be added in the development process?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-220.  ### Question220
+218.  ### Question218
 Which language is usually used in BDD?
 
 - [ ] Ubiquitous language
@@ -2507,7 +2507,7 @@ Which language is usually used in BDD?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-221.  ### Question221
+219.  ### Question219
 Which of the followings are characteristics of a good bug report? (pick all that apply)
 
 - [ ] Impacted related requirement
@@ -2517,7 +2517,7 @@ Which of the followings are characteristics of a good bug report? (pick all that
 
 _[⬆ Back to Top](#table-of-contents)_
 
-222.  ### Question222
+220.  ### Question220
 Who creates the Sprint Backlog?
 
 - [ ] The Scrum Master
