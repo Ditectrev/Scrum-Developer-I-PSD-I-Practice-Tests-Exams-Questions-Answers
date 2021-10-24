@@ -2411,11 +2411,11 @@ _[⬆ Back to Top](#table-of-contents)_
 209.  ### Question209
 Which one is a code metric? (pick all that apply)
 
-- [x] Code Coverage
-- [x] Lines of Code
-- [ ] Automated build
-- [ ] Test Doubles
-- [x] Class Coupling
+- [x] Code Coverage.
+- [x] Lines of Code.
+- [ ] Automated Build.
+- [ ] Test Doubles.
+- [x] Class Coupling.
 
 _[⬆ Back to Top](#table-of-contents)_
 
