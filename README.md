@@ -2400,11 +2400,11 @@ Who are responsible for monitoring the progress over the Project and Sprint?
 _[⬆ Back to Top](#table-of-contents)_
 
 208.  ### Question208
-Which is true about Strategic debt in Technical debt context?
+Which is true about Strategic Debt in Technical Debt context?
 
-- [x] Debt caused to gain strategic benefits (such as time to market)
-- [ ] This is typically caused by lack of awareness or knowledge
-- [ ] Short-time gains, for instance cutting some corners to make an extra release for increased customer satisfaction
+- [x] Debt caused to gain strategic benefits (such as time to market).
+- [ ] This is typically caused by lack of awareness or knowledge.
+- [ ] Short-time gains, for instance cutting some corners to make an extra release for increased customer satisfaction.
 
 _[⬆ Back to Top](#table-of-contents)_
 
