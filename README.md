@@ -2422,10 +2422,10 @@ _[⬆ Back to Top](#table-of-contents)_
 210.  ### Question210
 What are the outputs of the Sprint Planning?
 
-- [ ] The Increment
-- [ ] The Release Plan
-- [x] The Sprint Backlog
-- [x] The Sprint Goal
+- [ ] The Increment.
+- [ ] The Release Plan.
+- [x] The Sprint Backlog.
+- [x] The Sprint Goal.
 
 _[⬆ Back to Top](#table-of-contents)_
 
