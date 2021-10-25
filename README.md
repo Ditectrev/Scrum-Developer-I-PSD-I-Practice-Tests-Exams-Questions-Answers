@@ -2470,10 +2470,10 @@ _[⬆ Back to Top](#table-of-contents)_
 215.  ### Question215
 How many Definition of Done should be used in scaled Scrum?
 
-- [ ] They can have a separate Definition of Done for each team as long as they do not violate each other
-- [ ] Each team should have a separated Definition of Done
-- [x] All teams should have one Definition of Done
-- [x] All teams can have one common Definition of Done as long as they can create a unique integrated Increment
+- [ ] They can have a separate Definition of Done for each team as long as they do not violate each other.
+- [ ] Each team should have a separated Definition of Done.
+- [x] All teams should have one Definition of Done.
+- [x] All teams can have one common Definition of Done as long as they can create a unique integrated Increment.
 
 _[⬆ Back to Top](#table-of-contents)_
 
