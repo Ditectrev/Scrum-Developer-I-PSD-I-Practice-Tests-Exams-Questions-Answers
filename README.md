@@ -2440,10 +2440,10 @@ _[⬆ Back to Top](#table-of-contents)_
 212.  ### Question212
 What will happen for the undone Sprint Backlog Items at the end of the Sprint?
 
-- [ ] Extend the Sprint to finish them
-- [ ] Move back to the bottom of the Product Backlog
-- [x] Re-estimate and move back to the Product Backlog
-- [ ] Directly move to the next Sprint
+- [ ] Extend the Sprint to finish them.
+- [ ] Move back to the bottom of the Product Backlog.
+- [x] Re-estimate and move back to the Product Backlog.
+- [ ] Directly move to the next Sprint.
 
 _[⬆ Back to Top](#table-of-contents)_
 
