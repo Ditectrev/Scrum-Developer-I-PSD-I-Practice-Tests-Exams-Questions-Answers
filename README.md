@@ -2480,10 +2480,10 @@ _[⬆ Back to Top](#table-of-contents)_
 216.  ### Question216
 Which two of the followings are synonyms of TDD?
 
-- [ ] Domain Driven Design
-- [x] Red-Green-Refactor
-- [x] Test First Development (TFD)
-- [ ] Continuous Deployment
+- [ ] Domain Driven Design.
+- [x] Red-Green-Refactor.
+- [x] Test First Development (TFD).
+- [ ] Continuous Deployment.
 
 _[⬆ Back to Top](#table-of-contents)_
 
