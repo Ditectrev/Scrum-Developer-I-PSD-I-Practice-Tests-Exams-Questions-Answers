@@ -2430,10 +2430,10 @@ What are the outputs of the Sprint Planning?
 _[⬆ Back to Top](#table-of-contents)_
 
 211.  ### Question211
-Dependency Inversion principle implies that entities must depend on abstractions not on concretions.
+True or False: Dependency Inversion principle implies that entities must depend on abstractions not on concretions.
 
-- [ ] False
-- [x] True
+- [ ] False.
+- [x] True.
 
 _[⬆ Back to Top](#table-of-contents)_
 
