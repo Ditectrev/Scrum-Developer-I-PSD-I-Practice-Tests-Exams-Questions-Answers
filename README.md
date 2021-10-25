@@ -2450,10 +2450,10 @@ _[⬆ Back to Top](#table-of-contents)_
 213.  ### Question213
 What does the Development Team should do when the CEO assign them an unplanned work in the middle of the Sprint?
 
-- [ ] Inform the Scrum Master to work with his/her
-- [ ] Reject it because they are independent
-- [ ] Accept it because the CEO is the highest rank in the organization
-- [x] Inform the Product Owner to work with his/her
+- [ ] Inform the Scrum Master to work with his/her.
+- [ ] Reject it because they are independent.
+- [ ] Accept it because the CEO is the highest rank in the organization.
+- [x] Inform the Product Owner to work with his/her.
 
 _[⬆ Back to Top](#table-of-contents)_
 
