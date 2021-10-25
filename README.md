@@ -2490,10 +2490,10 @@ _[⬆ Back to Top](#table-of-contents)_
 217.  ### Question217
 When tests should be added in the development process?
 
-- [ ] At the end of each release
-- [x] From the beginning of the project
-- [ ] At the end each Sprint
-- [ ] In special Sprints called “Test Sprint”
+- [ ] At the end of each release.
+- [x] From the beginning of the project.
+- [ ] At the end each Sprint.
+- [ ] In special Sprints called “Test Sprint”.
 
 _[⬆ Back to Top](#table-of-contents)_
 
