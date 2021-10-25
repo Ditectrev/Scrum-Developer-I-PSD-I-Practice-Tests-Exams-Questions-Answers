@@ -2460,10 +2460,10 @@ _[⬆ Back to Top](#table-of-contents)_
 214.  ### Question214
 When the Development Team can change their practices, tools or techniques?
 
-- [x] Whenever needed
-- [ ] At the end of each release
-- [ ] At the beginning of the project
-- [ ] At the end of each Sprint
+- [x] Whenever needed.
+- [ ] At the end of each release.
+- [ ] At the beginning of the project.
+- [ ] At the end of each Sprint.
 
 _[⬆ Back to Top](#table-of-contents)_
 
