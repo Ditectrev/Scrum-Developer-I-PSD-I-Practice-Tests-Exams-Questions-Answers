@@ -2520,10 +2520,10 @@ _[⬆ Back to Top](#table-of-contents)_
 220.  ### Question220
 Who creates the Sprint Backlog?
 
-- [ ] The Scrum Master
-- [ ] The Product Owner
-- [ ] The Scrum Team
-- [x] The Development Team
+- [ ] The Scrum Master.
+- [ ] The Product Owner.
+- [ ] The Scrum Team.
+- [x] The Development Team.
 
 _[⬆ Back to Top](#table-of-contents)_
 
