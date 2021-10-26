@@ -2558,10 +2558,10 @@ _[⬆ Back to Top](#table-of-contents)_
 224.  ### Question224
 What is the usual comparison of Product Backlog Items average size in the Product Backlog and Sprint Backlog?
 
-- [ ] Product Backlog Items in the Product Backlog are usually smaller than the Sprint Backlog
-- [ ] Product Backlog Items in the Product Backlog are usually larger than the Sprint Backlog
-- [ ] Product Backlog Items usually have the same size in both the Product Backlog and the Sprint Backlog
-- [x] Such a comparison does not make sense
+- [ ] Product Backlog Items in the Product Backlog are usually smaller than the Sprint Backlog.
+- [ ] Product Backlog Items in the Product Backlog are usually larger than the Sprint Backlog.
+- [ ] Product Backlog Items usually have the same size in both the Product Backlog and the Sprint Backlog.
+- [x] Such a comparison does not make sense.
 
 _[⬆ Back to Top](#table-of-contents)_
 
