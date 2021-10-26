@@ -2530,10 +2530,10 @@ _[⬆ Back to Top](#table-of-contents)_
 221.  ### Question221
 When is a feature done?
 
-- [x] When it is potentially releasable and shippable
-- [ ] When the Product Owner approves it
-- [ ] When the customer accepts it
-- [ ] When the Scrum Master approves it
+- [x] When it is potentially releasable and shippable.
+- [ ] When the Product Owner approves it.
+- [ ] When the customer accepts it.
+- [ ] When the Scrum Master approves it.
 
 _[⬆ Back to Top](#table-of-contents)_
 
