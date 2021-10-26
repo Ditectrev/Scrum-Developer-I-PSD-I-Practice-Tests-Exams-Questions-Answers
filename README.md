@@ -2548,10 +2548,10 @@ _[⬆ Back to Top](#table-of-contents)_
 223.  ### Question223
 Why mock objects are used in Unit Tests? Pick 3
 
-- [x] To simulate the behavior of a given object
-- [x] To isolate system under test for controlled testing
-- [x] To cope with dependencies
-- [ ] TDD can be done just by having mock objects
+- [x] To simulate the behavior of a given object.
+- [x] To isolate system under test for controlled testing.
+- [x] To cope with dependencies.
+- [ ] TDD can be done just by having mock objects.
 
 _[⬆ Back to Top](#table-of-contents)_
 
