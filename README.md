@@ -2538,10 +2538,10 @@ When is a feature done?
 _[⬆ Back to Top](#table-of-contents)_
 
 222.  ### Question222
-The Development Team has immediately resolved a bug, which is found in the current Sprint and belongs to an Increment that has already been delivered to the market. Is it a proper behavior?
+True or False: The Development Team has immediately resolved a bug, which is found in the current Sprint and belongs to an Increment that has already been delivered to the market. Is it a proper behavior?
 
-- [x] False
-- [ ] True
+- [x] False.
+- [ ] True.
 
 _[⬆ Back to Top](#table-of-contents)_
 
