@@ -2500,10 +2500,10 @@ _[⬆ Back to Top](#table-of-contents)_
 218.  ### Question218
 Which language is usually used in BDD?
 
-- [ ] Ubiquitous language
-- [ ] Tongue language
-- [ ] Technical language
-- [x] Native language
+- [ ] Ubiquitous language.
+- [ ] Tongue language.
+- [ ] Technical language.
+- [x] Native language.
 
 _[⬆ Back to Top](#table-of-contents)_
 
