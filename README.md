@@ -2527,7 +2527,7 @@ Who creates the Sprint Backlog?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-223.  ### Question223
+221.  ### Question221
 When is a feature done?
 
 - [x] When it is potentially releasable and shippable
@@ -2537,7 +2537,7 @@ When is a feature done?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-224.  ### Question224
+222.  ### Question222
 The Development Team has immediately resolved a bug, which is found in the current Sprint and belongs to an Increment that has already been delivered to the market. Is it a proper behavior?
 
 - [x] False
@@ -2545,7 +2545,7 @@ The Development Team has immediately resolved a bug, which is found in the curre
 
 _[⬆ Back to Top](#table-of-contents)_
 
-225.  ### Question225
+223.  ### Question223
 Why mock objects are used in Unit Tests? Pick 3
 
 - [x] To simulate the behavior of a given object
@@ -2555,7 +2555,7 @@ Why mock objects are used in Unit Tests? Pick 3
 
 _[⬆ Back to Top](#table-of-contents)_
 
-226.  ### Question226
+224.  ### Question224
 What is the usual comparison of Product Backlog Items average size in the Product Backlog and Sprint Backlog?
 
 - [ ] Product Backlog Items in the Product Backlog are usually smaller than the Sprint Backlog
@@ -2565,7 +2565,7 @@ What is the usual comparison of Product Backlog Items average size in the Produc
 
 _[⬆ Back to Top](#table-of-contents)_
 
-227.  ### Question227
+225.  ### Question225
 Which is NOT true about Efferent Coupling?
 
 - [x] Classes with high efferent will affect other classes when changes are made
@@ -2575,7 +2575,7 @@ Which is NOT true about Efferent Coupling?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-228.  ### Question228
+226.  ### Question226
 What is the Instability Index metric calculation formula? (Ca: Afferent Coupling, Ce: Efferent Coupling)
 
 - [ ] Ca / (Ca+Ce)
@@ -2585,7 +2585,7 @@ What is the Instability Index metric calculation formula? (Ca: Afferent Coupling
 
 _[⬆ Back to Top](#table-of-contents)_
 
-229.  ### Question229
+227.  ### Question227
 Which is true about the Sprint Backlog?
 
 - [ ] It is a list of selected Product Backlog Items that the Development Team has committed for the Sprint
@@ -2595,7 +2595,7 @@ Which is true about the Sprint Backlog?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-230.  ### Question230
+228.  ### Question228
 Which one is true about Definition of Done and Acceptance Criteria? (pick all that apply)
 
 - [ ] Acceptance Criteria should be passed for a feature in order to be called as complete and done
@@ -2606,7 +2606,7 @@ Which one is true about Definition of Done and Acceptance Criteria? (pick all th
 
 _[⬆ Back to Top](#table-of-contents)_
 
-231.  ### Question231
+229.  ### Question229
 Which principle is included in SOLID? (pick all that apply)
 
 - [x] Liskov Substitution Principle
@@ -2617,7 +2617,7 @@ Which principle is included in SOLID? (pick all that apply)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-232.  ### Question232
+230.  ### Question230
 In an impediment case, the Scrum Master can intervene to help the Development Team to remove a member from the Development Team.
 
 - [ ] False
