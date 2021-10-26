@@ -2510,10 +2510,10 @@ _[⬆ Back to Top](#table-of-contents)_
 219.  ### Question219
 Which of the followings are characteristics of a good bug report? (pick all that apply)
 
-- [ ] Impacted related requirement
-- [x] Version and build of the Software under test
-- [x] The severity of the defect
-- [x] Expected results and observed results
+- [ ] Impacted related requirement.
+- [x] Version and build of the Software under test.
+- [x] The severity of the defect.
+- [x] Expected results and observed results.
 
 _[⬆ Back to Top](#table-of-contents)_
 
