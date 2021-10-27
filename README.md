@@ -2576,12 +2576,12 @@ Which is NOT true about Efferent Coupling?
 _[⬆ Back to Top](#table-of-contents)_
 
 226.  ### Question226
-What is the Instability Index metric calculation formula? (Ca: Afferent Coupling, Ce: Efferent Coupling)
+What is the instability index metric calculation formula? (Ca: Afferent Coupling, Ce: Efferent Coupling)
 
-- [ ] Ca / (Ca+Ce)
-- [x] Ce / (Ca+Ce)
-- [ ] (Ca+Ce) / Ce
-- [ ] (Ca+Ce) / Ca
+- [ ] Ca / (Ca+Ce).
+- [x] Ce / (Ca+Ce).
+- [ ] (Ca+Ce) / Ce.
+- [ ] (Ca+Ce) / Ca.
 
 _[⬆ Back to Top](#table-of-contents)_
 
