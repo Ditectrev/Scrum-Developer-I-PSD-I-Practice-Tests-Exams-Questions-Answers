@@ -2588,10 +2588,10 @@ _[⬆ Back to Top](#table-of-contents)_
 227.  ### Question227
 Which is true about the Sprint Backlog?
 
-- [ ] It is a list of selected Product Backlog Items that the Development Team has committed for the Sprint
-- [ ] It contains all Product Backlog Items and requirements that could be implemented for the project
-- [ ] It is created one Sprint ahead the current Sprint
-- [x] It is a plan for the Development Team to realize the Sprint Goal
+- [ ] It is a list of selected Product Backlog Items that the Development Team has committed for the Sprint.
+- [ ] It contains all Product Backlog Items and requirements that could be implemented for the project.
+- [ ] It is created one Sprint ahead the current Sprint.
+- [x] It is a plan for the Development Team to realize the Sprint Goal.
 
 _[⬆ Back to Top](#table-of-contents)_
 
