@@ -2609,11 +2609,11 @@ _[⬆ Back to Top](#table-of-contents)_
 229.  ### Question229
 Which principle is included in SOLID? (pick all that apply)
 
-- [x] Liskov Substitution Principle
-- [ ] Dual Interface Principle
-- [x] Single Responsibility Principle
-- [x] Open-Closed Principle
-- [x] Interface Segregation Principle
+- [x] Liskov Substitution Principle.
+- [ ] Dual Interface Principle.
+- [x] Single Responsibility Principle.
+- [x] Open-Closed Principle.
+- [x] Interface Segregation Principle.
 
 _[⬆ Back to Top](#table-of-contents)_
 
