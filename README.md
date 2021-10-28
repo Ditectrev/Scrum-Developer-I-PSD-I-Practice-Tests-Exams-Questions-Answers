@@ -2625,7 +2625,7 @@ True or False: In an impediment case, the Scrum Master can intervene to help the
 
 _[⬆ Back to Top](#table-of-contents)_
 
-233.  ### Question233
+231.  ### Question231
 Which one is true about the Daily Scrum? Pick 3
 
 - [x] It is a feedback loop
@@ -2635,7 +2635,7 @@ Which one is true about the Daily Scrum? Pick 3
 
 _[⬆ Back to Top](#table-of-contents)_
 
-234.  ### Question234
+232.  ### Question232
 What are traits of a high performance Scrum Team? (pick all that apply)
 
 - [x] They live the Scrum Values deeply
@@ -2646,7 +2646,7 @@ What are traits of a high performance Scrum Team? (pick all that apply)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-235.  ### Question235
+233.  ### Question233
 Who knows best about how to create usable and releasable Increments?
 
 - [x] The Development Team
@@ -2656,7 +2656,7 @@ Who knows best about how to create usable and releasable Increments?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-236.  ### Question236
+234.  ### Question234
 Interface Segregation principle implies that a client should never be forced to implement an interface that it doesn’t use.
 
 - [ ] False
@@ -2664,7 +2664,7 @@ Interface Segregation principle implies that a client should never be forced to 
 
 _[⬆ Back to Top](#table-of-contents)_
 
-237.  ### Question237
+235.  ### Question235
 Who is responsible for the Product Backlog Items and tasks estimation in Scrum?
 
 - [ ] The Product Owner
@@ -2674,7 +2674,7 @@ Who is responsible for the Product Backlog Items and tasks estimation in Scrum?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-238.  ### Question238
+236.  ### Question236
 How do the Developers divide into multiple teams in scaled Scrum?
 
 - [ ] The top Management divides them
@@ -2684,7 +2684,7 @@ How do the Developers divide into multiple teams in scaled Scrum?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-239.  ### Question239
+237.  ### Question237
 What should the Development Team do when there is no standard contract to create a releasable Product?
 
 - [ ] Ask the Product Owner to make a Definition of Done
@@ -2694,7 +2694,7 @@ What should the Development Team do when there is no standard contract to create
 
 _[⬆ Back to Top](#table-of-contents)_
 
-240.  ### Question240
+238.  ### Question238
 Through the Sprint Review, the Scrum Team tries to hand-off the Increment to the Customer formally.
 
 - [x] False
@@ -2702,7 +2702,7 @@ Through the Sprint Review, the Scrum Team tries to hand-off the Increment to the
 
 _[⬆ Back to Top](#table-of-contents)_
 
-241.  ### Question241
+239.  ### Question239
 Which Scrum Values are adhered by not building Product Backlog items that have low business value? Pick 3
 
 - [x] Courage
@@ -2713,7 +2713,7 @@ Which Scrum Values are adhered by not building Product Backlog items that have l
 
 _[⬆ Back to Top](#table-of-contents)_
 
-242.  ### Question242
+240.  ### Question240
 Which one is true about Design Patterns?
 
 - [x] Is a general, reusable solution to a commonly occurring problem within a given context in Software Design
