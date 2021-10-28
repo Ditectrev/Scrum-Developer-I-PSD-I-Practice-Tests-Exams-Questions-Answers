@@ -2618,10 +2618,10 @@ Which principle is included in SOLID? (pick all that apply)
 _[⬆ Back to Top](#table-of-contents)_
 
 230.  ### Question230
-In an impediment case, the Scrum Master can intervene to help the Development Team to remove a member from the Development Team.
+True or False: In an impediment case, the Scrum Master can intervene to help the Development Team to remove a member from the Development Team.
 
-- [ ] False
-- [x] True
+- [ ] False.
+- [x] True.
 
 _[⬆ Back to Top](#table-of-contents)_
 
