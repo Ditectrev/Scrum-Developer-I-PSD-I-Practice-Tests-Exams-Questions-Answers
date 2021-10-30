@@ -2628,10 +2628,10 @@ _[⬆ Back to Top](#table-of-contents)_
 231.  ### Question231
 Which one is true about the Daily Scrum? Pick 3
 
-- [x] It is a feedback loop
-- [ ] All Scrum Team members should participate in it
-- [x] The Development Team monitors Sprint progress toward the Sprint Goal
-- [x] It is a 15 minutes time-box event
+- [x] It is a feedback loop.
+- [ ] All Scrum Team members should participate in it.
+- [x] The Development Team monitors Sprint progress toward the Sprint Goal.
+- [x] It is a 15 minutes time-box event.
 
 _[⬆ Back to Top](#table-of-contents)_
 
