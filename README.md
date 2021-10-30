@@ -2649,10 +2649,10 @@ _[⬆ Back to Top](#table-of-contents)_
 233.  ### Question233
 Who knows best about how to create usable and releasable Increments?
 
-- [x] The Development Team
-- [ ] The Scrum Master
-- [ ] The Technical Manager
-- [ ] The Product Owner
+- [x] The Development Team.
+- [ ] The Scrum Master.
+- [ ] The Technical Manager.
+- [ ] The Product Owner.
 
 _[⬆ Back to Top](#table-of-contents)_
 
