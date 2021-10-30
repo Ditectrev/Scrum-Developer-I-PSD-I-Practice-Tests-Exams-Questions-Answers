@@ -2638,11 +2638,11 @@ _[⬆ Back to Top](#table-of-contents)_
 232.  ### Question232
 What are traits of a high performance Scrum Team? (pick all that apply)
 
-- [x] They live the Scrum Values deeply
-- [x] They help their customers become more successful
-- [x] They evolve the Definition of Done over time and add more stringent criteria to it continuously
-- [x] There is a high level of creativity, productivity and accountability in the Team dynamics
-- [ ] They respect top managers through accepting their work every time
+- [x] They live the Scrum Values deeply.
+- [x] They help their customers become more successful.
+- [x] They evolve the Definition of Done over time and add more stringent criteria to it continuously.
+- [x] There is a high level of creativity, productivity and accountability in the Team dynamics.
+- [ ] They respect top managers through accepting their work every time.
 
 _[⬆ Back to Top](#table-of-contents)_
 
