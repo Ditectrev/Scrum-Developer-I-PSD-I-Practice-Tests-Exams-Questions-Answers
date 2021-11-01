@@ -2657,10 +2657,10 @@ Who knows best about how to create usable and releasable Increments?
 _[⬆ Back to Top](#table-of-contents)_
 
 234.  ### Question234
-Interface Segregation principle implies that a client should never be forced to implement an interface that it doesn’t use.
+True or False: Interface Segregation principle implies that a client should never be forced to implement an interface that it doesn’t use.
 
-- [ ] False
-- [x] True
+- [ ] False.
+- [x] True.
 
 _[⬆ Back to Top](#table-of-contents)_
 
