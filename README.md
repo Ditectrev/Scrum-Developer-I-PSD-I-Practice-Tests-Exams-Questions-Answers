@@ -2695,10 +2695,10 @@ What should the Development Team do when there is no standard contract to create
 _[⬆ Back to Top](#table-of-contents)_
 
 238.  ### Question238
-Through the Sprint Review, the Scrum Team tries to hand-off the Increment to the Customer formally.
+True or False: Through the Sprint Review, the Scrum Team tries to hand-off the Increment to the Customer formally.
 
-- [x] False
-- [ ] True
+- [x] False.
+- [ ] True.
 
 _[⬆ Back to Top](#table-of-contents)_
 
