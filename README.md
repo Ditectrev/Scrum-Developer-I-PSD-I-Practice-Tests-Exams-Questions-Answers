@@ -2677,10 +2677,10 @@ _[⬆ Back to Top](#table-of-contents)_
 236.  ### Question236
 How do the Developers divide into multiple teams in scaled Scrum?
 
-- [ ] The top Management divides them
-- [x] The Developers divide themselves
-- [ ] The Product Owner divides them
-- [ ] The Scrum Master divides them
+- [ ] The top Management divides them.
+- [x] The Developers divide themselves.
+- [ ] The Product Owner divides them.
+- [ ] The Scrum Master divides them.
 
 _[⬆ Back to Top](#table-of-contents)_
 
