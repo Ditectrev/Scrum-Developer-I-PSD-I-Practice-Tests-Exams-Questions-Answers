@@ -2667,10 +2667,10 @@ _[⬆ Back to Top](#table-of-contents)_
 235.  ### Question235
 Who is responsible for the Product Backlog Items and tasks estimation in Scrum?
 
-- [ ] The Product Owner
-- [ ] The Scrum Master
-- [ ] The Project Manager
-- [x] The Development Team
+- [ ] The Product Owner.
+- [ ] The Scrum Master.
+- [ ] The Project Manager.
+- [x] The Development Team.
 
 _[⬆ Back to Top](#table-of-contents)_
 
