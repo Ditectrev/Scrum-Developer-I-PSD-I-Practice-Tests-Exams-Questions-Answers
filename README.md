@@ -1544,7 +1544,7 @@ _[⬆ Back to Top](#table-of-contents)_
 During a Sprint, a Developer determines that the Scrum Team will not be able to complete the items in their forecast. Who should be present to review and adjust the Product Backlog items selected? (choose the best answer)
 
 - [x] The Product Owner and the Developers.
-- [ ] The Scrum Master, the project manager, and the Developers.
+- [ ] The Scrum Master, the Project Manager, and the Developers.
 - [ ] The Product Owner and all Stakeholders.
 - [ ] The Developers.
 
