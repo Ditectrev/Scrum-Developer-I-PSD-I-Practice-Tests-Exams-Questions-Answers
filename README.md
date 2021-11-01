@@ -2716,10 +2716,10 @@ _[⬆ Back to Top](#table-of-contents)_
 240.  ### Question240
 Which one is true about Design Patterns?
 
-- [x] Is a general, reusable solution to a commonly occurring problem within a given context in Software Design
-- [ ] Is a low-fidelity UI pattern that can be called sketch
-- [ ] Is a list of guidelines to design better UX for customers
-- [ ] Is a high-fidelity UI pattern that can be called prototype
+- [x] Is a general, reusable solution to a commonly occurring problem within a given context in Software Design.
+- [ ] Is a low-fidelity UI pattern that can be called sketch.
+- [ ] Is a list of guidelines to design better UX for customers.
+- [ ] Is a high-fidelity UI pattern that can be called prototype.
 
 _[⬆ Back to Top](#table-of-contents)_
 
