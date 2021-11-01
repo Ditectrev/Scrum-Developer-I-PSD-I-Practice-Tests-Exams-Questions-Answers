@@ -2687,10 +2687,10 @@ _[⬆ Back to Top](#table-of-contents)_
 237.  ### Question237
 What should the Development Team do when there is no standard contract to create a releasable Product?
 
-- [ ] Ask the Product Owner to make a Definition of Done
-- [ ] Ask Project manager to help them
-- [ ] Define a list of satisfactory tests for each PBI
-- [x] The Development Team should define a Definition of Done
+- [ ] Ask the Product Owner to make a Definition of Done.
+- [ ] Ask Project Manager to help them.
+- [ ] Define a list of satisfactory tests for each PBI.
+- [x] The Development Team should define a Definition of Done.
 
 _[⬆ Back to Top](#table-of-contents)_
 
