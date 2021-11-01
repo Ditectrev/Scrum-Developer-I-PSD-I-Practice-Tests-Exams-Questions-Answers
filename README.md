@@ -2705,11 +2705,11 @@ _[⬆ Back to Top](#table-of-contents)_
 239.  ### Question239
 Which Scrum Values are adhered by not building Product Backlog items that have low business value? Pick 3
 
-- [x] Courage
-- [x] Respect
-- [x] Focus
-- [ ] Transparency
-- [ ] Adaptation
+- [x] Courage.
+- [x] Respect.
+- [x] Focus.
+- [ ] Transparency.
+- [ ] Adaptation.
 
 _[⬆ Back to Top](#table-of-contents)_
 
