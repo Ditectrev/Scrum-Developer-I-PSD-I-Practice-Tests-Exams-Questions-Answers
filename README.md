@@ -2726,10 +2726,10 @@ _[⬆ Back to Top](#table-of-contents)_
 241.  ### Question241
 Which Scrum events can use more time rather than their time-box if there are 9 Developers (the maximum Development Team size) in the Team?
 
-- [ ] The Daily Scrum
-- [ ] The Sprint Retrospective
-- [x] No one
-- [ ] The Sprint Review
+- [ ] The Daily Scrum.
+- [ ] The Sprint Retrospective.
+- [x] No one.
+- [ ] The Sprint Review.
 
 _[⬆ Back to Top](#table-of-contents)_
 
