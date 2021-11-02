@@ -2736,10 +2736,10 @@ _[⬆ Back to Top](#table-of-contents)_
 242.  ### Question242
 Product Backlog items are refined by:
 
-- [ ] The Business Analyst and the Product Owner
-- [ ] The Development Team
-- [x] The Development Team and the Product Owner
-- [ ] The Product Owner solely
+- [ ] The Business Analyst and the Product Owner.
+- [ ] The Development Team.
+- [x] The Development Team and the Product Owner.
+- [ ] The Product Owner solely.
 
 _[⬆ Back to Top](#table-of-contents)_
 
