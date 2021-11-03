@@ -2798,8 +2798,8 @@ _[⬆ Back to Top](#table-of-contents)_
 248.  ### Question248
 True or False: The Scrum Team should choose at least one high priority process improvement, identified during the Sprint Retrospective, and place it in the Product Backlog.
 
-- [ ] True
-- [x] False
+- [ ] True.
+- [x] False.
 
 _[⬆ Back to Top](#table-of-contents)_
 
