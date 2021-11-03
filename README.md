@@ -2790,8 +2790,8 @@ _[⬆ Back to Top](#table-of-contents)_
 247.  ### Question247
 True or False: Only technical writers can create documentation during a Sprint.
 
-- [ ] True
-- [x] False
+- [ ] True.
+- [x] False.
 
 _[⬆ Back to Top](#table-of-contents)_
 
