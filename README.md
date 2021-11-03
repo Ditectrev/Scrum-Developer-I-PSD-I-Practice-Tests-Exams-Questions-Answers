@@ -2779,11 +2779,11 @@ _[⬆ Back to Top](#table-of-contents)_
 246.  ### Question246
 To refine Product Backlog items, the following activities will occur implicitly or explicitly: (choose all that apply)
 
-- [x] Analysis
-- [x] Decomposition
-- [x] Design
-- [ ] Programming
-- [ ] Testing
+- [x] Analysis.
+- [x] Decomposition.
+- [x] Design.
+- [ ] Programming.
+- [ ] Testing.
 
 _[⬆ Back to Top](#table-of-contents)_
 
