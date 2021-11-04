@@ -2807,7 +2807,7 @@ _[⬆ Back to Top](#table-of-contents)_
 What are reasons to automate the Software build process? (choose the best two answers)
 
 - [x] Automation improves the quality of Software by making builds less error-prone.
-- [ ] Code reviews are much faster if you automate your build.
+- [ ] Code Reviews are much faster if you automate your build.
 - [x] To get feedback on changes to the code early and often.
 - [ ] You can't run automated tests without an automated build.
 
@@ -2920,7 +2920,7 @@ _[⬆ Back to Top](#table-of-contents)_
 264.  ### Question264
 What is the value of Refactoring code?
 
-- [ ] To have all code in a single file for easy printing and code reviews.
+- [ ] To have all code in a single file for easy printing and Code Reviews.
 - [x] To improve readability and maintainability.
 - [ ] To keep the code moving.
 - [ ] To make the Software faster at runtime.
