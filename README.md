@@ -2818,7 +2818,7 @@ What are some shortcomings of Code Coverage as a measurement for how well a syst
 
 - [x] Code Coverage does not ensure that the most important or highest risk areas of the code are being exercised by tests.
 - [x] Code Coverage does not necessarily provide functional coverage.
-- [ ] Code Coverage metrics vary by development platform (e.g., .NET, Java)
+- [ ] Code Coverage metrics vary by development platform (e.g., .NET, Java).
 - [x] Could create incentives to write tests that simply increase Code Coverage, rather than tests that find bugs without increasing coverage.
 - [ ] It is too complicated to explain to Management.
 
