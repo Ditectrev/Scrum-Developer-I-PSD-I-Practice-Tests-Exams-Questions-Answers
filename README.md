@@ -2824,7 +2824,7 @@ What are some shortcomings of Code Coverage as a measurement for how well a syst
 
 _[⬆ Back to Top](#table-of-contents)_
 
-254.  ### Question254
+251.  ### Question251
 What are three advantages of Continuous Integration? (choose the best three answers)
 
 - [x] Broken builds are detected quickly.
@@ -2834,7 +2834,7 @@ What are three advantages of Continuous Integration? (choose the best three answ
 
 _[⬆ Back to Top](#table-of-contents)_
 
-255.  ### Question255
+252.  ### Question252
 What are ways a Development Team can ensure a good Application Architecture? (choose the best two answers)
 
 - [ ] A Development Team doesn't need an architecture model in Scrum and should focus on adding functionality. The architecture will come into place without fail as the Development Team adds functionality.
@@ -2845,7 +2845,7 @@ What are ways a Development Team can ensure a good Application Architecture? (ch
 
 _[⬆ Back to Top](#table-of-contents)_
 
-256.  ### Question256
+253.  ### Question253
 What does a test written with Test Driven Development represent?
 
 - [ ] A bug that will be uncovered.
@@ -2855,7 +2855,7 @@ What does a test written with Test Driven Development represent?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-257.  ### Question257
+254.  ### Question254
 What does Code Coverage show?
 
 - [x] Code being exercised by tests
@@ -2866,7 +2866,7 @@ What does Code Coverage show?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-258.  ### Question259
+255.  ### Question255
 What is a Unit Test?
 
 - [ ] A technique for ensuring that units of co-dependent or clustered computers perform correctly.
@@ -2876,7 +2876,7 @@ What is a Unit Test?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-260.  ### Question260
+256.  ### Question256
 What is Code Coverage?
 
 - [ ] An insurance policy that covers the code for defects.
@@ -2886,7 +2886,7 @@ What is Code Coverage?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-261.  ### Question261
+257.  ### Question257
 What is NOT Test Driven Development?
 
 - [ ] A predictable way to develop working, clean code.
@@ -2896,7 +2896,7 @@ What is NOT Test Driven Development?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-262.  ### Question262
+258.  ### Question258
 What is Pair Programming?
 
 - [ ] A Developer and a Tester work together to write and test code.
@@ -2907,7 +2907,7 @@ What is Pair Programming?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-263.  ### Question263
+259.  ### Question259
 What is Technical Debt?
 
 - [x] A term representing the eventual consequences of poor technical choices.
@@ -2917,7 +2917,7 @@ What is Technical Debt?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-264.  ### Question264
+260.  ### Question260
 What is the value of Refactoring code?
 
 - [ ] To have all code in a single file for easy printing and Code Reviews.
@@ -2927,7 +2927,7 @@ What is the value of Refactoring code?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-265.  ### Question265
+261.  ### Question261
 What relationship does Scrum have to technical practices?
 
 - [ ] All technical practices must be used to support Scrum.
@@ -2937,7 +2937,7 @@ What relationship does Scrum have to technical practices?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-266.  ### Question266
+262.  ### Question262
 When are Testers and quality experts ideally included in a project?
 
 - [ ] After Developer handoff.
@@ -2947,7 +2947,7 @@ When are Testers and quality experts ideally included in a project?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-267.  ### Question267
+263.  ### Question263
 When does the Development Team participate in Product Backlog Refinement?
 
 - [x] Anytime during the Sprint.
@@ -2957,7 +2957,7 @@ When does the Development Team participate in Product Backlog Refinement?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-268.  ### Question268
+264.  ### Question264
 When is a system's architecture decided?
 
 - [ ] In the beginning of the project, during Sprint 0.
@@ -2967,7 +2967,7 @@ When is a system's architecture decided?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-269.  ### Question269
+265.  ### Question265
 Which are attributes of a good bug report? (choose all that apply)
 
 - [x] Build/version where bug was found.
@@ -2979,7 +2979,7 @@ Which are attributes of a good bug report? (choose all that apply)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-270.  ### Question270
+266.  ### Question266
 Which are potential benefits of Test Driven Development? (choose all that apply).
 
 - [x] It causes you to construct a test harness that can be automated.
@@ -2989,7 +2989,7 @@ Which are potential benefits of Test Driven Development? (choose all that apply)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-271.  ### Question271
+267.  ### Question267
 Which describes the practice of expressing requirements as Acceptance Tests?
 
 - [x] Acceptance Test Driven Development
@@ -2999,7 +2999,7 @@ Which describes the practice of expressing requirements as Acceptance Tests?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-272.  ### Question272
+268.  ### Question268
 Which is a benefit of establishing naming standards for code?
 
 - [ ] To communicate the name of the Developer that worked on the code.
@@ -3009,7 +3009,7 @@ Which is a benefit of establishing naming standards for code?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-272.  ### Question272
+269.  ### Question269
 Which of the following are benefits of Continuous Integration? (choose the best two answers)
 
 - [x] Causes team members to consider each other's work and context.
@@ -3019,7 +3019,7 @@ Which of the following are benefits of Continuous Integration? (choose the best 
 
 _[⬆ Back to Top](#table-of-contents)_
 
-273.  ### Question273
+270.  ### Question270
 Which of the following are NOT metrics of Code Quality? (choose all that apply)
 
 - [ ] Class coupling
@@ -3030,7 +3030,7 @@ Which of the following are NOT metrics of Code Quality? (choose all that apply)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-274.  ### Question274
+271.  ### Question271
 Which of the following best describes Continuous Integration?
 
 - [ ] A Software Development practice that continuously integrates feedback from users into Software Design.
@@ -3040,7 +3040,7 @@ Which of the following best describes Continuous Integration?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-275.  ### Question275
+272.  ### Question272
 Which of the following describe an Architecture Spike?
 
 - [ ] A decision made by a systems Architect to settle disagreement within a Development Team
@@ -3050,7 +3050,7 @@ Which of the following describe an Architecture Spike?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-276.  ### Question276
+273.  ### Question273
 Which statement describes how often the build should be executed?
 
 - [ ] As often as possible, and certainly prior to the end of the Sprint.
@@ -3060,7 +3060,7 @@ Which statement describes how often the build should be executed?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-277.  ### Question277
+274.  ### Question274
 Which statement describes Test First Development (TFD)?
 
 - [x] Designing tests before satisfying them.
@@ -3070,7 +3070,7 @@ Which statement describes Test First Development (TFD)?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-278.  ### Question278
+275.  ### Question275
 Which statements describe why automated builds are important? (choose the best three answers)
 
 - [x] They allow frequent validation of the unit of Software being worked on, ensuring it remains in a potentially shippable state.
@@ -3081,7 +3081,7 @@ Which statements describe why automated builds are important? (choose the best t
 
 _[⬆ Back to Top](#table-of-contents)_
 
-279.  ### Question279
+276.  ### Question276
 While changing Software, you find a bug in a previously delivered piece of functionality. What should you do?
 
 - [ ] Fix the bug.
@@ -3091,7 +3091,7 @@ While changing Software, you find a bug in a previously delivered piece of funct
 
 _[⬆ Back to Top](#table-of-contents)_
 
-280.  ### Question280
+277.  ### Question277
 Who is responsible for the system architecture of a Product being developed using Scrum?
 
 - [ ] The Architect chosen by the Development Team.
@@ -3101,7 +3101,7 @@ Who is responsible for the system architecture of a Product being developed usin
 
 _[⬆ Back to Top](#table-of-contents)_
 
-281.  ### Question281
+278.  ### Question278
 Who must be present at the Daily Scrum meeting?
 
 - [ ] Anyone who wants to attend
@@ -3112,7 +3112,7 @@ Who must be present at the Daily Scrum meeting?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-282.  ### Question282
+279.  ### Question279
 Who should be present during Product Backlog Refinement? (choose all that apply)
 
 - [ ] Only the most senior people from the Development Team.
@@ -3124,7 +3124,7 @@ Who should be present during Product Backlog Refinement? (choose all that apply)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-283.  ### Question283
+280.  ### Question280
 You are on a Scrum Team that is enhancing an existing Product. Which is the LEAST useful piece of documentation you want to have at your disposal?
 
 - [ ] Acceptance Tests.
