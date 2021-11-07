@@ -2850,7 +2850,7 @@ What does a test written with Test Driven Development represent?
 
 - [ ] A bug that will be uncovered.
 - [x] A technical requirement that must be satisfied.
-- [ ] An assignment from the lead quality engineer
+- [ ] An assignment from the lead quality engineer.
 - [ ] Something that completes the test coverage of a system.
 
 _[⬆ Back to Top](#table-of-contents)_
