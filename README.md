@@ -2858,11 +2858,11 @@ _[⬆ Back to Top](#table-of-contents)_
 254.  ### Question254
 What does Code Coverage show?
 
-- [x] Code being exercised by tests
-- [ ] The absence of defects in code
-- [ ] The quality of Unit Tests being written
-- [ ] The ratio of number of tests to lines of code in the system being tested
-- [ ] When a feature is done
+- [x] Code being exercised by tests.
+- [ ] The absence of defects in code.
+- [ ] The quality of Unit Tests being written.
+- [ ] The ratio of number of tests to lines of code in the system being tested.
+- [ ] When a feature is done.
 
 _[⬆ Back to Top](#table-of-contents)_
 
