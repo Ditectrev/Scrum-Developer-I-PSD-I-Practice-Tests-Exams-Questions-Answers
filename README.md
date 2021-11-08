@@ -3024,9 +3024,9 @@ Which of the following are NOT metrics of Code Quality? (choose all that apply)
 
 - [ ] Class Coupling.
 - [x] Code Coverage.
-- [x] Cycle time per feature.
+- [x] Cycle Time per Feature.
 - [ ] Cyclomatic Complexity.
-- [ ] Depth of inheritance.
+- [ ] Depth of Inheritance.
 
 _[⬆ Back to Top](#table-of-contents)_
 
