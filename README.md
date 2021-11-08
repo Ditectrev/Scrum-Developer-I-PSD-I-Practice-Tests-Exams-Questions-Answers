@@ -417,7 +417,7 @@ What are possible benefits from practicing Test Driven Development (TDD)?
 _[⬆ Back to Top](#table-of-contents)_
 
 13. ### Question13
-Who decides the system architecture of a Product developed using Scrum?
+Who decides the System Architecture of a Product developed using Scrum?
 
 - [ ] The Architect chosen by the Scrum Team.
 - [ ] The Software Architect assigned to the Scrum Team.
@@ -1411,10 +1411,10 @@ _[⬆ Back to Top](#table-of-contents)_
 108.  ### Question108
 What happens during Sprint 0? (choose the best answer)
 
-- [ ] Establish base system architecture and design, install version control and continuous integration setup.
+- [ ] Establish base System Architecture and design, install version control and continuous integration setup.
 - [x] There is no such thing as Sprint 0.
-- [ ] Base system architecture and design.
-- [ ] Overall planning, base system architecture, base design, version control and continuous integration setup.
+- [ ] Base System Architecture and design.
+- [ ] Overall planning, base System Architecture, base design, version control and continuous integration setup.
 - [ ] Requirements gathering, version control setup, and continuous integration setup.
 
 _[⬆ Back to Top](#table-of-contents)_
@@ -1430,7 +1430,7 @@ Product Backlog items are refined by: (choose the best answer)
 _[⬆ Back to Top](#table-of-contents)_
 
 110.  ### Question110
-Who is responsible for the system architecture of a Product being developed using Scrum? (choose the best answer)
+Who is responsible for the System Architecture of a Product being developed using Scrum? (choose the best answer)
 
 - [ ] The Architect chosen by the Scrum Team.
 - [x] The Developers.
@@ -2958,7 +2958,7 @@ When does the Development Team participate in Product Backlog Refinement?
 _[⬆ Back to Top](#table-of-contents)_
 
 264.  ### Question264
-When is a system's architecture decided?
+When is a System's Architecture decided?
 
 - [ ] In the beginning of the project, during Sprint 0.
 - [ ] It is designed along with the vision, before the first Sprint.
@@ -3092,7 +3092,7 @@ While changing Software, you find a bug in a previously delivered piece of funct
 _[⬆ Back to Top](#table-of-contents)_
 
 277.  ### Question277
-Who is responsible for the system architecture of a Product being developed using Scrum?
+Who is responsible for the System Architecture of a Product being developed using Scrum?
 
 - [ ] The Architect chosen by the Development Team.
 - [ ] The Corporate Architect.
