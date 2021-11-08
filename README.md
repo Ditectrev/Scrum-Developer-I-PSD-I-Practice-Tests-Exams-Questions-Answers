@@ -2980,7 +2980,7 @@ Which are attributes of a good bug report? (choose all that apply)
 _[⬆ Back to Top](#table-of-contents)_
 
 266.  ### Question266
-Which are potential benefits of Test Driven Development? (choose all that apply).
+Which are potential benefits of Test Driven Development? (choose all that apply)
 
 - [x] It causes you to construct a test harness that can be automated.
 - [x] It improves quality and reduces bugs.
