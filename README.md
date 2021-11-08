@@ -2992,10 +2992,10 @@ _[⬆ Back to Top](#table-of-contents)_
 267.  ### Question267
 Which describes the practice of expressing requirements as Acceptance Tests?
 
-- [x] Acceptance Test Driven Development
+- [x] Acceptance Test Driven Development.
 - [ ] Object Driven Requirements Definition.
 - [ ] Quality Oriented Requirements Definition.
-- [ ] Regression Testing
+- [ ] Regression Testing.
 
 _[⬆ Back to Top](#table-of-contents)_
 
