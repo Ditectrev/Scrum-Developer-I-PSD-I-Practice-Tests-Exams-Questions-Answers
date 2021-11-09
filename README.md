@@ -3043,7 +3043,7 @@ _[⬆ Back to Top](#table-of-contents)_
 272.  ### Question272
 Which of the following describe an Architecture Spike?
 
-- [ ] A decision made by a systems Architect to settle disagreement within a Development Team.
+- [ ] A decision made by a Systems Architect to settle disagreement within a Development Team.
 - [ ] A fundamental architectural problem found in an existing application.
 - [x] A small development activity to learn about technical elements of a proposed solution.
 - [ ] The result of an exhaustive architectural planning effort.
