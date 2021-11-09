@@ -3104,11 +3104,11 @@ _[⬆ Back to Top](#table-of-contents)_
 278.  ### Question278
 Who must be present at the Daily Scrum meeting?
 
-- [ ] Anyone who wants to attend
-- [ ] No one is required, anyone who wishes to attend is welcome
-- [x] The Development Team
-- [ ] The entire Scrum Team
-- [ ] The Scrum Master and the Development Team
+- [ ] Anyone who wants to attend.
+- [ ] No one is required, anyone who wishes to attend is welcome.
+- [x] The Development Team.
+- [ ] The entire Scrum Team.
+- [ ] The Scrum Master and the Development Team.
 
 _[⬆ Back to Top](#table-of-contents)_
 
