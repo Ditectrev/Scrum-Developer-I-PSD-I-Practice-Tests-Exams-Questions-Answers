@@ -47,6 +47,27 @@
 **[v1.0.0](https://github.com/Ditectrev/Professional-Scrum-Developer-I-PSD-I-Exam-Dumps-Questions-Answers/releases/tag/v1.0.0): November 12, 2021.**
 - Launch of the course.
 
+## Who this course is for:
+
+- 👨‍🎓 Students preparing for the Professional Scrum Developer I (PSD I) Exam;
+- 👨‍🎓 Agile Coaches;
+- 👨‍🎓 Agile Leader;
+- 👨‍🎓 DevOps Engineers;
+- 👨‍🎓 IT Professionals;
+- 👨‍🎓 Scrum Masters;
+- 👨‍🎓 Software Developers/Engineers;
+- 👨‍🎓 Software Testers;
+- 👨‍🎓 Product Managers;
+- 👨‍🎓 Product Owners;
+- 👨‍🎓 Project Manager;
+- 👨‍🎓 Team Leaders.
+
+## Requirements
+
+- 🤩 Excitement to learn!
+- 0️⃣ Prior knowledge is required;
+- ✅ You can pass the Professional Scrum Developer I (PSD I) Exam solely based on our Practice Exams.
+
 ## Table of Contents
 
 | No. | Questions |
