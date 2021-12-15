@@ -1,5 +1,52 @@
 # Professional Scrum Developer I (PSD I) Exam Dumps Questions & Answers
 
+## Udemy
+
+🎁 Please support us by purchasing this course on Udemy in an interactive version with the [discounted link](https://www.udemy.com/course/professional-scrum-developer-i-psd-i-practice-test-exams/?referralCode=78ABF1101F34FAAD1E24).
+
+## ✨ This course is unlike any Professional Scrum Developer I (PSD I) course you will find online.
+
+✋ Join a live online community and a course taught by industry experts and pass the Professional Scrum Developer I (PSD I) confidently. We aim to build an ecosystem of Information Technology (IT) certifications and online courses in cooperation with the technology industry. We believe it will give our students 100% confidence in the pacing market in an open-source environment. We are just at the beginning of our way, so it's even better for you to join now!
+
+## ⌛️ Short and to the point; why should you take the course:
+
+1. Always happy to answer your questions on Udemy's Q&A's and outside :)
+2. Failed? Please submit a screenshot of your exam result and request an Udemy refund; we'll always accept it.
+3. Learn about topics, such as:
+   - Architecture & Design;
+   - Class Coupling;
+   - Code Quality;
+   - Coding Best Practices;
+   - Continuous Delivery (CD);
+   - Continuous Deployment (CD);
+   - Continuous Integration (CI);
+   - Cross-Functional Teams;
+   - Cycle Time per Feature;
+   - Cyclomatic Complexity;
+   - Definition of Done;
+   - Documentation;
+   - Don't Repeat Yourself (DRY);
+   - Efferent Couplings;
+   - Keep It Simple, Stupid (KISS);
+   - Mocking;
+   - Scrum Framework;
+   - Software Architecture;
+   - Software Design;
+   - SOLID Principles;
+   - Spying;
+   - Stubbing;
+   - Technical Debt;
+   - Test-Driven Development (TDD);
+   - Test First Development (TFD);
+   - Much More!
+4. Questions are similar to the actual exam, without duplications (like in other courses ;-)).
+5. The Practice Test Exams simulate the actual exam's content, timing, and percentage required to pass the exam.
+
+## ☝️ Course Updates
+
+**[v1.0.0](https://github.com/Ditectrev/Professional-Scrum-Developer-I-PSD-I-Exam-Dumps-Questions-Answers/releases/tag/v1.0.0): November 12, 2021.**
+- Launch of the course.
+
 ## Table of Contents
 
 | No. | Questions |
