@@ -2,7 +2,7 @@
 
 ## Udemy
 
-🎁 Please support us by purchasing this course on Udemy in an interactive version with the [discounted link](https://www.udemy.com/course/professional-scrum-developer-i-psd-i-practice-test-exams/?referralCode=78ABF1101F34FAAD1E24).
+❤️‍🔥 Please support us by purchasing this course on Udemy in an interactive version with the [discounted link](https://www.udemy.com/course/professional-scrum-developer-i-psd-i-practice-test-exams/?referralCode=78ABF1101F34FAAD1E24).
 
 ## ✨ This course is unlike any Professional Scrum Developer I (PSD I) course you will find online.
 
