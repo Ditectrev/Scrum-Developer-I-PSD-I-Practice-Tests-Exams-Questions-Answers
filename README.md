@@ -90,7 +90,7 @@
 | 16  | [Question16](#question16)   |
 | 17  | [Question17](#question17)   |
 | 18  | [Question18](#question18)   |
-| 19  | [Question19](#question19)   |
+| 19  | [Which is the most reliable form of technical documentation?](#which-is-the-most-reliable-form-of-technical-documentation)   |
 | 20  | [Question20](#question20)   |
 | 21  | [Question21](#question21)   |
 | 22  | [Question22](#question22)   |
@@ -546,8 +546,7 @@ What is Test First Development (TFD)?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-19. ### Question19
-Which is the most reliable form of technical documentation?
+### Which is the most reliable form of technical documentation?
 
 - [ ] A spreadsheet of passing manual tests.
 - [ ] The Developer's whiteboard.
@@ -930,18 +929,6 @@ True or False: Database design must be complete before coding starts to ensure a
 
 - [ ] True.
 - [x] False.
-
-_[⬆ Back to Top](#table-of-contents)_
-
-56. ### Question56
-Which is most reliable form of technical documentation?
-
-- [x] UML Model.
-- [ ] A help file.
-- [ ] Release note.
-- [ ] A passing test harness it clear naming and vocabulary.
-- [ ] Spreadsheet of passing manual tests.
-- [ ] The development team’s whiteboard.
 
 _[⬆ Back to Top](#table-of-contents)_
 
