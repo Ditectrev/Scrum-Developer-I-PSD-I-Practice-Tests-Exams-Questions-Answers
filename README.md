@@ -1230,10 +1230,10 @@ _[⬆ Back to Top](#table-of-contents)_
 A Development Team selects a set of Product Backlog items for a Sprint Backlog with the intent to get the selected items "Done" by the end of the Sprint. Which three phrases best describe the purpose of a Definition of Done? (choose the best three answers)
 
 - [ ] It provides a template for elements that need to be included in the technical documentation.
-- [ ] It guides the Development Team in creating a forecast at the Sprint Planning.
-- [x] It controls whether the Developers have performed their tasks.
+- [x] It guides the Development Team in creating a forecast at the Sprint Planning.
+- [ ] It controls whether the Developers have performed their tasks.
 - [x] It creates transparency over the work inspected at the Sprint Review.
-- [ ] It defines what it takes for an Increment to be ready for release.
+- [x] It defines what it takes for an Increment to be ready for release.
 - [ ] It tracks the percentage complete of a Product Backlog item.
 
 _[⬆ Back to Top](#table-of-contents)_
