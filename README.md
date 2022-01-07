@@ -709,7 +709,7 @@ _[⬆ Back to Top](#table-of-contents)_
 You are asked to refactor part of the codebase for Application X. When you are done, all Unit Tests pass with 50% Code Coverage. What can you infer from this?
 
 - [ ] At least 50% of Application X functions correctly.
-- [ ] At least 50% of Application X functions correctly.
+- [ ] At most 50% of Application X functions correctly.
 - [ ] There are no bugs present in Application X.
 - [x] You did not break any existing Unit Tests.
 
