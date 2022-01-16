@@ -1445,7 +1445,7 @@ _[⬆ Back to Top](#table-of-contents)_
 Which of the following describe Test Driven Development? (choose two answers)
 
 - [x] A Software Development technique based on automated tests.
-- [ ] A predictable way to develop working, well-organized code.
+- [x] A predictable way to develop working, well-organized code.
 - [ ] Having Testers in the development process.
 - [ ] An Increment and emergent approach to Software Design.
 - [ ] Creating a manual test script before writing code.
