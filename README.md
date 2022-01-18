@@ -791,7 +791,7 @@ Which of the following are quality goals in Application Architecture?
 - [ ] Design Pattern selection.
 - [x] Scalability.
 - [ ] Build.
-- [x] Aunoes. (TODO: missing the word, but that's the correct answer, too)
+- [x] Security.
 
 _[⬆ Back to Top](#table-of-contents)_
 
