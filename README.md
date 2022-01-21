@@ -2007,8 +2007,8 @@ _[⬆ Back to Top](#table-of-contents)_
 162.  ### Question162
 True or False: Planning Poker must be used by Scrum Teams.
 
-- [ ] False.
-- [x] True.
+- [x] False.
+- [ ] True.
 
 _[⬆ Back to Top](#table-of-contents)_
 
