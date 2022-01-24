@@ -1175,8 +1175,8 @@ _[⬆ Back to Top](#table-of-contents)_
 80. ### Question80
 For the purpose of transparency, when does Scrum say a new Increment of working Software must be available? (choose the best answer)
 
-- [x] When the Product Owner asks to create one.
-- [ ] At the end of every Sprint.
+- [ ] When the Product Owner asks to create one.
+- [x] At the end of every Sprint.
 - [ ] Before the release Sprint.
 - [ ] Every 3 Sprints.
 - [ ] After the Acceptance Testing phase.
