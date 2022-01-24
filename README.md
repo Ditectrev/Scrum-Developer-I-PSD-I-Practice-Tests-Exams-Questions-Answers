@@ -1343,8 +1343,8 @@ _[⬆ Back to Top](#table-of-contents)_
 96.  ### Question96
 Five new Scrum Teams have been created to build one Product. A few of the Developers on one of the Development Teams ask the Scrum Master how to coordinate their work with the other teams. What should the Scrum Master do?
 
-- [ ] Teach the Product Owner to work with the lead Developers on ordering Product Backlog in a way to avoid too much technical and development overlap during a Sprint.
-- [x] Collect the Sprint tasks from the teams at the end of their Sprint Planning and merge that into a consolidated plan for the entire Sprint.
+- [x] Teach the Product Owner to work with the lead Developers on ordering Product Backlog in a way to avoid too much technical and development overlap during a Sprint.
+- [ ] Collect the Sprint tasks from the teams at the end of their Sprint Planning and merge that into a consolidated plan for the entire Sprint.
 - [ ] Teach them that it is their responsibility to work with the other teams to create an integrated Increment.
 - [ ] Visit the five teams each day to inspect that their Sprint Backlogs are aligned.
 
