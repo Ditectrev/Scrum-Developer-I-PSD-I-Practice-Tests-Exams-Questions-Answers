@@ -860,7 +860,7 @@ _[⬆ Back to Top](#table-of-contents)_
 _[⬆ Back to Top](#table-of-contents)_
 
 ### Based on "Sprint 7 Burndown Chart" would you do anything different in Sprint 8?
-[missing picture, but there's only one such a question]
+![Burndown](images/burndown.jpg)
 
 - [ ] The Scrum Master adds additional Developers for Sprint 8.
 - [ ] The Developers carry over incomplete Sprint Backlog items from Sprint 7 to Sprint 8 and monitor the Sprint 8 burn-down chart. As soon as deviation from trends is detected, the Developers work with the Product Owner to negotiate remaining work.
