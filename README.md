@@ -867,7 +867,8 @@ _[⬆ Back to Top](#table-of-contents)_
 - [ ] There is nothing wrong The Developers will present all Product Backlog items selected for Sprint 7 at the end of the Sprint.
 - [x] The Developers may forecast less overall work in Sprint 8.
 - [ ] Stakeholders will encourage the Scrum Team to estimate better during the Sprint 8.
-- [x] Planning Meeting The Developers put incomplete Product Backlog items back into the Product Backlog for re-ordering. The Product Owner may ask the Developers to complete the unfinished Product Backlog items from Sprint 7 in Sprint 8.
+- [x] Planning Meeting The Developers put incomplete Product Backlog items back into the Product Backlog for re-ordering.
+- [ ] The Product Owner may ask the Developers to complete the unfinished Product Backlog items from Sprint 7 in Sprint 8.
 
 _[⬆ Back to Top](#table-of-contents)_
 
