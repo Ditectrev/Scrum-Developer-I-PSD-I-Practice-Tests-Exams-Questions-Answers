@@ -377,8 +377,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-3.  ### Question3
-Your Scrum Team is one of seven teams working on a Software Product. All teams use the same Version Control System. Which is the best approach to deliver a high-quality Increment?
+### Your Scrum Team is one of seven teams working on a Software Product. All teams use the same Version Control System. Which is the best approach to deliver a high-quality Increment?
 
 - [ ] Developers should perform a combination of local and private builds.
 - [ ] Each team's automated build is integrated toward the end of the Sprint.
@@ -387,8 +386,7 @@ Your Scrum Team is one of seven teams working on a Software Product. All teams u
 
 **[⬆ Back to Top](#table-of-contents)**
 
-4.  ### Question4
-Who creates documentation included with an Increment?
+### Who creates documentation included with an Increment?
 
 - [x] The Developers.
 - [ ] Increments do not need documentation.
@@ -398,8 +396,7 @@ Who creates documentation included with an Increment?
 
 **[⬆ Back to Top](#table-of-contents)**
 
-5.  ### Question5
-What is a merge in a Version Control System?
+### What is a merge in a Version Control System?
 
 - [ ] Copying a portion of a code base to isolate it from the original codebase.
 - [ ] Identifying a particular codebase as ready for distribution.
@@ -408,8 +405,7 @@ What is a merge in a Version Control System?
 
 **[⬆ Back to Top](#table-of-contents)**
 
-6.  ### Question6
-Which three of the following are feedback loops in Scrum?
+### Which three of the following are feedback loops in Scrum?
 
 - [x] Daily Scrum.
 - [ ] Release Planning.
@@ -419,8 +415,7 @@ Which three of the following are feedback loops in Scrum?
 
 **[⬆ Back to Top](#table-of-contents)**
 
-7.  ### Question7
-Which four types of tests can be included in an automated test harness?
+### Which four types of tests can be included in an automated test harness?
 
 - [x] Performance.
 - [ ] Exploratory.
@@ -431,8 +426,7 @@ Which four types of tests can be included in an automated test harness?
 
 **[⬆ Back to Top](#table-of-contents)**
 
-8.  ### Question8
-Which concept is described by the Last Responsible Moment?
+### Which concept is described by the Last Responsible Moment?
 
 - [ ] Making decisions as soon as possible to close feedback loops as soon as possible.
 - [x] Discover decisions to be made as soon as possible but postpone deciding to the latest reasonable moment.
@@ -442,8 +436,7 @@ Which concept is described by the Last Responsible Moment?
 
 **[⬆ Back to Top](#table-of-contents)**
 
-9.  ### Question9
-Choose four desirable characteristics of a Unit Test.
+### Choose four desirable characteristics of a Unit Test.
 
 - [ ] Includes exercising the persistence layer.
 - [x] Makes assertions about only one logical concept.
@@ -453,8 +446,7 @@ Choose four desirable characteristics of a Unit Test.
 
 _[⬆ Back to Top](#table-of-contents)_
 
-10. ### Question10
-Why does a test written using TDD (Test Driven Development) initially fail?
+### Why does a test written using TDD (Test Driven Development) initially fail?
 
 - [ ] Because the test has not been refactored.
 - [ ] Because it has to be put into an automated test harness to be run.
@@ -463,8 +455,7 @@ Why does a test written using TDD (Test Driven Development) initially fail?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-11. ### Question11
-When do the Developers show their work to the Product Owner?
+### When do the Developers show their work to the Product Owner?
 
 - [ ] Whenever the Product Owner asks.
 - [ ] During the Sprint Review.
@@ -473,8 +464,7 @@ When do the Developers show their work to the Product Owner?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-12. ### Question12
-What are possible benefits from practicing Test Driven Development (TDD)?
+### What are possible benefits from practicing Test Driven Development (TDD)?
 
 - [ ] It is a great way for Testers to contribute early in the Sprint as they can start creating all the tests from the beginning on.
 - [ ] It makes Integration Tests obsolete and by doing so saves a lot of time.
@@ -485,8 +475,7 @@ What are possible benefits from practicing Test Driven Development (TDD)?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-13. ### Question13
-Who decides the System Architecture of a Product developed using Scrum?
+### Who decides the System Architecture of a Product developed using Scrum?
 
 - [ ] The Architect chosen by the Scrum Team.
 - [ ] The Software Architect assigned to the Scrum Team.
@@ -495,8 +484,7 @@ Who decides the System Architecture of a Product developed using Scrum?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-14. ### Question14
-When using Continuous Integration, how often should the build be executed?
+### When using Continuous Integration, how often should the build be executed?
 
 - [ ] Once per hour.
 - [x] Whenever new or changed code is checked into version control.
@@ -506,8 +494,7 @@ When using Continuous Integration, how often should the build be executed?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-15. ### Question15
-Which of the following are advantages of Continuous Integration?
+### Which of the following are advantages of Continuous Integration?
 
 - [ ] Readability of code is improved.
 - [x] Know immediately how a change affected the Product.
@@ -516,8 +503,7 @@ Which of the following are advantages of Continuous Integration?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-16. ### Question16
-Who determines how work is performed during the Sprint?
+### Who determines how work is performed during the Sprint?
 
 - [ ] The Scrum Master.
 - [ ] The Scrum Team.
@@ -527,8 +513,7 @@ Who determines how work is performed during the Sprint?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-17. ### Question17
-Who creates tests on a Scrum Team?
+### Who creates tests on a Scrum Team?
 
 - [ ] The Product Owner.
 - [x] The Developers.
@@ -537,8 +522,7 @@ Who creates tests on a Scrum Team?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-18. ### Question18
-What is Test First Development (TFD)?
+### What is Test First Development (TFD)?
 
 - [x] Creating tests before satisfying them.
 - [ ] Testing existing code before adding more code to it.
@@ -558,8 +542,7 @@ _[⬆ Back to Top](#table-of-contents)_
 
 _[⬆ Back to Top](#table-of-contents)_
 
-20. ### Question20
-While developing new functionality, you find a bug that has already been delivered to the customer. What do you do?
+### While developing new functionality, you find a bug that has already been delivered to the customer. What do you do?
 
 - [ ] Revise the tests so that the bug no longer appears on the bug report.
 - [ ] Fix the bug.
@@ -568,8 +551,7 @@ While developing new functionality, you find a bug that has already been deliver
 
 _[⬆ Back to Top](#table-of-contents)_
 
-21. ### Question21
-Who has the final decision about the order of items in the Product Backlog?
+### Who has the final decision about the order of items in the Product Backlog?
 
 - [ ] The Scrum Master.
 - [ ] The Stakeholders.
@@ -579,8 +561,7 @@ Who has the final decision about the order of items in the Product Backlog?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-22. ### Question22
-What are two differences between Unit Tests and Integration Tests?
+### What are two differences between Unit Tests and Integration Tests?
 
 - [x] A Unit Test isolates a specific system behavior.
 - [x] An Integration Test usually focuses on the integration of two or more units.
@@ -590,17 +571,14 @@ What are two differences between Unit Tests and Integration Tests?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-23. ### Question23
-
-How much time must a Product Owner spend with the Developers?
+### How much time must a Product Owner spend with the Developers?
 
 - [ ] 100%.
 - [ ] Enough so that the Product Owner is not surprised by the value delivered by the Increment.
 - [ ] 40%, or more if the Stakeholders agree.
 - [x] Any amount of time the Developers ask the Product Owner to be present.
 
-24. ### Question24
-What are the typical roles when practicing Pair Programming?
+### What are the typical roles when practicing Pair Programming?
 
 - [ ] Product Owner and Developer.
 - [ ] Business Analyst and Developer.
@@ -610,17 +588,14 @@ What are the typical roles when practicing Pair Programming?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-25. ### Question25
-True or False: When multiple teams work together on the same Product, each team should maintain a separate Product Backlog.
+### True or False: When multiple teams work together on the same Product, each team should maintain a separate Product Backlog.
 
 - [ ] True.
 - [x] False.
 
 _[⬆ Back to Top](#table-of-contents)_
 
-26. ### Question26
-
-What are three of the best ways to address non-functional requirements?
+### What are three of the best ways to address non-functional requirements?
 
 - [ ] Scrum is for functional, front-end development only.
 - [x] Important, recurring non-functional requirements can be added to the Definition of Done.
@@ -631,8 +606,7 @@ What are three of the best ways to address non-functional requirements?
   
 _[⬆ Back to Top](#table-of-contents)_
 
-27. ### Question27
-What is the primary purpose of Refactoring?
+### What is the primary purpose of Refactoring?
 
 - [ ] Ensuring that all factors are constantly aligned.
 - [ ] Removing all bugs that were found during Regression Tests.
@@ -641,8 +615,7 @@ What is the primary purpose of Refactoring?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-28. ### Question28
-Which are four attributes of a good bug report?
+### Which are four attributes of a good bug report?
 
 - [x] Expected results and observed results.
 - [x] Includes build or version number where bug was found.
@@ -653,8 +626,7 @@ Which are four attributes of a good bug report?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-29. ### Question29
-The practice of decomposing a requirement into failing tests is called:
+### The practice of decomposing a requirement into failing tests is called:
 
 - [ ] Regression Testing.
 - [ ] Object oriented requirements definition.
@@ -663,8 +635,7 @@ The practice of decomposing a requirement into failing tests is called:
 
 _[⬆ Back to Top](#table-of-contents)_
 
-30. ### Question30
-What is a mock object?
+### What is a mock object?
 
 - [x] A test object that mimics the behavior of a dependency in the system under test.
 - [ ] A mock helps you create a build script.
@@ -673,8 +644,7 @@ What is a mock object?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-31. ### Question31
-Which four are benefits of Test Driven Development?
+### Which four are benefits of Test Driven Development?
 
 - [x] It improves quality and reduces bugs.
 - [x] It reduces the cost of maintenance over time.
@@ -684,8 +654,7 @@ Which four are benefits of Test Driven Development?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-32. ### Question32
-Which are three attributes of a bad bug report?
+### Which are three attributes of a bad bug report?
 
 - [x] Vague statements or untested assumptions.
 - [x] Generic titles.
@@ -695,8 +664,7 @@ Which are three attributes of a bad bug report?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-33. ### Question33
-When using Scrum, can a Scrum Team use Continuous Delivery?
+### When using Scrum, can a Scrum Team use Continuous Delivery?
 
 - [x] Yes, there is nothing in Scrum that conflicts with Continuous Delivery.
 - [ ] No, because the Product Owner may not be available each time a PBI is done and the Product Owner has to decide if it should be released.
@@ -706,8 +674,7 @@ When using Scrum, can a Scrum Team use Continuous Delivery?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-34. ### Question34
-You are asked to refactor part of the codebase for Application X. When you are done, all Unit Tests pass with 50% Code Coverage. What can you infer from this?
+### You are asked to refactor part of the codebase for Application X. When you are done, all Unit Tests pass with 50% Code Coverage. What can you infer from this?
 
 - [ ] At least 50% of Application X functions correctly.
 - [ ] At most 50% of Application X functions correctly.
@@ -716,8 +683,7 @@ You are asked to refactor part of the codebase for Application X. When you are d
 
 _[⬆ Back to Top](#table-of-contents)_
 
-35. ### Question35
-What are two ways that regulatory compliance issues are dealt with in Scrum?
+### What are two ways that regulatory compliance issues are dealt with in Scrum?
 
 - [ ] They are addressed by a separate team who is responsible for compliance issues.
 - [x] They are addressed along with functional development of the Product.
@@ -726,16 +692,14 @@ What are two ways that regulatory compliance issues are dealt with in Scrum?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-36. ### Question36
-True or False: User Stories are required in the Product Backlog.
+### True or False: User Stories are required in the Product Backlog.
 
 - [ ] True.
 - [x] False.
 
 _[⬆ Back to Top](#table-of-contents)_
 
-37. ### Question37
-In Software Development, DRY refers to:
+### In Software Development, DRY refers to:
 
 - [ ] Code with low Cyclomatic Complexity.
 - [x] Code with minimal duplication.
@@ -744,8 +708,7 @@ In Software Development, DRY refers to:
 
 _[⬆ Back to Top](#table-of-contents)_
 
-38. ### Question38
-Which statements are true when multiple Scrum Teams work on a Software Product at the same time?
+### Which statements are true when multiple Scrum Teams work on a Software Product at the same time?
 
 - [ ] All Scrum Teams work in their own version control branch.
 - [ ] Code is merged at the Scrum of Scrums.
@@ -755,8 +718,7 @@ Which statements are true when multiple Scrum Teams work on a Software Product a
 
 _[⬆ Back to Top](#table-of-contents)_
 
-39. ### Question39
-Which answer best describes Behavior Driven Development (BDD)?
+### Which answer best describes Behavior Driven Development (BDD)?
 
 - [x] A style of Test Driven Development focusing on user and system interactions.
 - [ ] A development style that accounts for leadership style among team members.
@@ -765,9 +727,7 @@ Which answer best describes Behavior Driven Development (BDD)?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-40. ### Question40
-
-In what ways do Developers contribute to refining the Product Backlog?
+### In what ways do Developers contribute to refining the Product Backlog?
 
 - [x] They ask questions in order to clarify the intent of Product Backlog items.
 - [ ] They do not. The Developers are only responsible for prioritizing technical work.
@@ -775,8 +735,7 @@ In what ways do Developers contribute to refining the Product Backlog?
 - [x] They give input on technical dependencies.
 - [x] They may update estimates for Product Backlog items.
 
-41. ### Question41
-When should the Developers create their first automated build?
+### When should the Developers create their first automated build?
 
 - [ ] Just before the Product is released.
 - [ ] Before writing the first line of code.
@@ -786,8 +745,7 @@ When should the Developers create their first automated build?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-42. ### Question42
-Which of the following are quality goals in Application Architecture?
+### Which of the following are quality goals in Application Architecture?
 
 - [ ] Design Pattern selection.
 - [x] Scalability.
@@ -796,8 +754,7 @@ Which of the following are quality goals in Application Architecture?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-43. ### Question43
-How much work is required of the Developers to complete a Product Backlog item selected during the Sprint Planning?
+### How much work is required of the Developers to complete a Product Backlog item selected during the Sprint Planning?
 
 - [ ] A proportional amount of time on analysis, design, development, and testing.
 - [ ] All development work and at least some testing.
@@ -806,8 +763,7 @@ How much work is required of the Developers to complete a Product Backlog item s
 
 _[⬆ Back to Top](#table-of-contents)_
 
-44. ### Question44
-Why might Developers choose to do Pair Programming?
+### Why might Developers choose to do Pair Programming?
 
 - [ ] Information sharing and learning.
 - [ ] Improving Code Quality.
@@ -817,8 +773,7 @@ Why might Developers choose to do Pair Programming?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-45. ### Question45
-What is the role of Modeling in Scrum Teams?
+### What is the role of Modeling in Scrum Teams?
 
 - [x] Models are not used by agile teams.
 - [ ] Models are maintained along with the Software as it emerges.
@@ -827,8 +782,7 @@ What is the role of Modeling in Scrum Teams?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-46. ### Question46
-Which of the following are DevOps Practices?
+### Which of the following are DevOps Practices?
 
 - [x] Continuous Integration / Continuous Deployment / Continuous Delivery.
 - [ ] Blue-Green Deployment.
@@ -839,8 +793,7 @@ Which of the following are DevOps Practices?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-47. ### Question47
-While practicing Test Driven Development, what is done after the test fails?
+### While practicing Test Driven Development, what is done after the test fails?
 
 - [x] Write the minimum amount of Product code to satisfy the test.
 - [ ] Refactor the test so the code passes.
@@ -850,8 +803,7 @@ While practicing Test Driven Development, what is done after the test fails?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-48. ### Question48
-What tactic should a Scrum Mlaster use to divide a group of 100 people into multiple Scrum Teams?
+### What tactic should a Scrum Mlaster use to divide a group of 100 people into multiple Scrum Teams?
 
 - [ ] Create teams based on their skills across multiple layers (such as database, Ul, etc.).
 - [x] Ask the people to divide themselves info teams.
@@ -859,8 +811,7 @@ What tactic should a Scrum Mlaster use to divide a group of 100 people into mult
 
 _[⬆ Back to Top](#table-of-contents)_
 
-49. ### Question49
-Developers are blocked by an impediment in the middle of the Sprint. The impediment is outside the Developer's control. What should they do?
+### Developers are blocked by an impediment in the middle of the Sprint. The impediment is outside the Developer's control. What should they do?
 
 - [ ] Stop using Scrum until the impediment is resolved.
 - [ ] Complete the work that can be done and complete the remainder during the hardening Sprint.
@@ -870,8 +821,7 @@ Developers are blocked by an impediment in the middle of the Sprint. The impedim
 
 _[⬆ Back to Top](#table-of-contents)_
 
-50. ### Question50
-What is an Integration Test?
+### What is an Integration Test?
 
 - [ ] A test of the user interface.
 - [ ] A test runs during a Continuous Integration build.
@@ -880,8 +830,7 @@ What is an Integration Test?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-51. ### Question51
-Which of the following describes the focus of the first way of DevOps?
+### Which of the following describes the focus of the first way of DevOps?
 
 - [ ] The first set of practices a team should apply before moving to the second way.
 - [x] Using automated build and release pipelines.
@@ -891,8 +840,7 @@ Which of the following describes the focus of the first way of DevOps?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-52. ### Question52
-Which of the following is true about the Definition of Done?
+### Which of the following is true about the Definition of Done?
 
 - [x] It might be a subject of discussion during Sprint Retrospective.
 - [ ] It is the sole responsibility of the Developers to define it.
@@ -902,8 +850,7 @@ Which of the following is true about the Definition of Done?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-53. ### Question53
-At Sprint Planning, the Scrum Team has NO clear standard to meet for releasable Software. What should the Scrum Team do?
+### At Sprint Planning, the Scrum Team has NO clear standard to meet for releasable Software. What should the Scrum Team do?
 
 - [ ] Ask the Product Owner to specify a Definition of Done.
 - [ ] Create a unique completion checklist for each item in the Sprint.
@@ -912,8 +859,7 @@ At Sprint Planning, the Scrum Team has NO clear standard to meet for releasable 
 
 _[⬆ Back to Top](#table-of-contents)_
 
-54. ### Question54
-Based on "Sprint 7 Burndown Chart" would you do anything different in Sprint 8?
+### Based on "Sprint 7 Burndown Chart" would you do anything different in Sprint 8?
 [missing picture, but there's only one such a question]
 
 - [ ] The Scrum Master adds additional Developers for Sprint 8.
@@ -925,16 +871,14 @@ Based on "Sprint 7 Burndown Chart" would you do anything different in Sprint 8?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-55. ### Question55
-True or False: Database design must be complete before coding starts to ensure a solid foundation?
+### True or False: Database design must be complete before coding starts to ensure a solid foundation?
 
 - [ ] True.
 - [x] False.
 
 _[⬆ Back to Top](#table-of-contents)_
 
-57. ### Question57
-The Daily Scrum event happens every day. What would be three concerns if the frequency were to be lowered to every two to three days?
+### The Daily Scrum event happens every day. What would be three concerns if the frequency were to be lowered to every two to three days?
 
 - [x] Opportunities to inspect and adapt in the Sprint Backlog are lost.
 - [ ] The Scrum Master loses the ability to update the Gantt Chart properly.
@@ -945,8 +889,7 @@ The Daily Scrum event happens every day. What would be three concerns if the fre
 
 _[⬆ Back to Top](#table-of-contents)_
 
-58. ### Question58
-Which of the following are required by Scrum? (choose all of those who apply)
+### Which of the following are required by Scrum? (choose all of those who apply)
 
 - [ ] Release Burnup Chart.
 - [ ] Burndown Chart.
@@ -958,8 +901,7 @@ Which of the following are required by Scrum? (choose all of those who apply)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-59. ### Question59
-Who is responsible for creation of the Definition of Done?
+### Who is responsible for creation of the Definition of Done?
 
 - [ ] The Scrum Master.
 - [x] The Scrum Team.
@@ -968,8 +910,7 @@ Who is responsible for creation of the Definition of Done?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-60. ### Question60
-Pair Programming is implemented by?
+### Pair Programming is implemented by?
 
 - [ ] Frontend and Backend Developers.
 - [ ] Tester and Developer.
@@ -978,8 +919,7 @@ Pair Programming is implemented by?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-61. ### Question61
-Which of the following best describes Emergent Architecture?
+### Which of the following best describes Emergent Architecture?
 
 - [x] Starting development of a Software Product requires a clear understanding of the underlying Software Architecture and Emergent Architecture describes the process of creating this initial architecture.
 - [ ] The Software Architecture emerges solely decisions the Developers make from a technical perspective.
@@ -989,8 +929,7 @@ Which of the following best describes Emergent Architecture?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-62. ### Question62
-Which are two benefits of establishing naming conventions for code? (choose best two answers)
+### Which are two benefits of establishing naming conventions for code? (choose best two answers)
 
 - [ ] To make it easy to distinguish between different Software Products.
 - [x] To make the code more readable.
@@ -1000,8 +939,7 @@ Which are two benefits of establishing naming conventions for code? (choose best
 
 _[⬆ Back to Top](#table-of-contents)_
 
-63. ### Question63
-Does delivering changes frequently and directly into Production help to reduce risk? (choose two)
+### Does delivering changes frequently and directly into Production help to reduce risk? (choose two)
 
 - [x] Yes, because the changes you make are much smaller and it is easier to fix problems.
 - [ ] No, because each release means a risk to break something so releasing more frequently would increase the risk.
@@ -1012,16 +950,14 @@ Does delivering changes frequently and directly into Production help to reduce r
 
 _[⬆ Back to Top](#table-of-contents)_
 
-64. ### Question64
-True or False: Best Practices are recommended to solve complex problems.
+### True or False: Best Practices are recommended to solve complex problems.
 
 - [ ] True.
 - [x] False.
 
 _[⬆ Back to Top](#table-of-contents)_
 
-65. ### Question65
-When is Performance Testing most effectively performed?
+### When is Performance Testing most effectively performed?
 
 - [x] Often, throughout development of the Software.
 - [ ] Just before deploying to Production.
@@ -1030,8 +966,7 @@ When is Performance Testing most effectively performed?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-66. ### Question66
-Which three of the following criteria are most helpful as part of a Scrum Team’s Definition of Done? (choose best three answers)
+### Which three of the following criteria are most helpful as part of a Scrum Team’s Definition of Done? (choose best three answers)
 
 - [ ] The Product is released at the end of every Sprint.
 - [x] Acceptance Tests pass.
@@ -1041,8 +976,7 @@ Which three of the following criteria are most helpful as part of a Scrum Team�
 
 _[⬆ Back to Top](#table-of-contents)_
 
-67. ### Question67
-A team has expressed requirements as a set of failing Acceptance Tests. What are three benefits? (choose best three answers)
+### A team has expressed requirements as a set of failing Acceptance Tests. What are three benefits? (choose best three answers)
 
 - [x] Improves quality in the requirement itself.
 - [x] Clear Acceptance Criteria for each feature.
@@ -1052,8 +986,7 @@ A team has expressed requirements as a set of failing Acceptance Tests. What are
 
 _[⬆ Back to Top](#table-of-contents)_
 
-68. ### Question68
-Which is LEAST useful when measuring Code Maintainability?
+### Which is LEAST useful when measuring Code Maintainability?
 
 - [ ] Function Points.
 - [x] Cyclomatic Complexity.
@@ -1061,8 +994,7 @@ Which is LEAST useful when measuring Code Maintainability?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-69. ### Question69
-Which two criteria are useful in deciding if something should be documented every Sprint? (choose best two answers)
+### Which two criteria are useful in deciding if something should be documented every Sprint? (choose best two answers)
 
 - [ ] The Scrum Master requires it.
 - [x] It is required by the Definition of Done.
@@ -1072,8 +1004,7 @@ Which two criteria are useful in deciding if something should be documented ever
 
 _[⬆ Back to Top](#table-of-contents)_
 
-70. ### Question70
-What factor should be considered when establishing the Sprint length?
+### What factor should be considered when establishing the Sprint length?
 
 - [x] The need of the team to learn on doing work and measuring results.
 - [ ] The frequency at which team formation can be changed.
@@ -1082,8 +1013,7 @@ What factor should be considered when establishing the Sprint length?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-71. ### Question71
-What are some disadvantages of Code Coverages as a measurement for how well a system or Product is tested? (choose best three answers)
+### What are some disadvantages of Code Coverages as a measurement for how well a system or Product is tested? (choose best three answers)
 
 - [ ] It only provide insights for programmers.
 - [x] It does not ensure that the most important or highest risk areas of the code are being exercised by the tests.
@@ -1093,8 +1023,7 @@ What are some disadvantages of Code Coverages as a measurement for how well a sy
 
 _[⬆ Back to Top](#table-of-contents)_
 
-72. ### Question72
-Which of the following are quality goals in Application Architecture? (choose best two answers)
+### Which of the following are quality goals in Application Architecture? (choose best two answers)
 
 - [ ] Build.
 - [x] Security.
@@ -1103,16 +1032,14 @@ Which of the following are quality goals in Application Architecture? (choose be
 
 _[⬆ Back to Top](#table-of-contents)_
 
-73. ### Question73
-True or False: Stakeholders can be included in Product Backlog Refinement?
+### True or False: Stakeholders can be included in Product Backlog Refinement?
 
 - [x] True.
 - [ ] False.
 
 _[⬆ Back to Top](#table-of-contents)_
 
-74. ### Question74
-What are two good ways for the Development Team to make a non-functional requirements visible?
+### What are two good ways for the Development Team to make a non-functional requirements visible?
 
 - [ ] Put them on a separate list on the Scrum board, available for all to see.
 - [x] Add them to the Product Backlog and keep the Product Owner posted on the expected effort.
@@ -1121,8 +1048,7 @@ What are two good ways for the Development Team to make a non-functional require
 
 _[⬆ Back to Top](#table-of-contents)_
 
-75. ### Question75
-What activities would a Product Owner typically undertake in the phase between the end of the current Sprint and the start of the next Sprint? (choose the best answer)
+### What activities would a Product Owner typically undertake in the phase between the end of the current Sprint and the start of the next Sprint? (choose the best answer)
 
 - [x] There are no such activities. The next Sprint starts immediately after the current Sprint.
 - [ ] Work with the Quality Assurance departments on the Increment of the current Sprint.
@@ -1131,8 +1057,7 @@ What activities would a Product Owner typically undertake in the phase between t
 
 _[⬆ Back to Top](#table-of-contents)_
 
-76. ### Question76
-You are the Scrum Master on a newly formed Scrum Team. Which two of the following activities would probably help the team in starting up? (choose the best two answers)
+### You are the Scrum Master on a newly formed Scrum Team. Which two of the following activities would probably help the team in starting up? (choose the best two answers)
 
 - [ ] Ensure the Scrum Team members have compatible personalities.
 - [ ] Introduce a bonus system for the top performers in the team.
@@ -1142,8 +1067,7 @@ You are the Scrum Master on a newly formed Scrum Team. Which two of the followin
 
 _[⬆ Back to Top](#table-of-contents)_
 
-77. ### Question77
-Which best describes the Product Backlog? (choose the best answer)
+### Which best describes the Product Backlog? (choose the best answer)
 
 - [x] It contains all foreseeable tasks and requirements from which the Scrum team can develop and maintain a complete project plan.
 - [ ] It is allowed to grow and change as more is learned about the Product and its customers.
@@ -1152,8 +1076,7 @@ Which best describes the Product Backlog? (choose the best answer)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-78. ### Question78
-What are two responsibilities of Testers in a Development Team? (choose the best two answers)
+### What are two responsibilities of Testers in a Development Team? (choose the best two answers)
 
 - [ ] Verifying the work of programmers.
 - [x] Scrum has no "Tester" role.
@@ -1163,8 +1086,7 @@ What are two responsibilities of Testers in a Development Team? (choose the best
 
 _[⬆ Back to Top](#table-of-contents)_
 
-79. ### Question79
-How do you know that a Development Team is cross-functional? (choose the best answer)
+### How do you know that a Development Team is cross-functional? (choose the best answer)
 
 - [ ] A few of the Development Team members pair program and do Test Driven Development.
 - [x] Development Team has all the skills to create a potentially releasable increment by the end of every Sprint.
@@ -1173,8 +1095,7 @@ How do you know that a Development Team is cross-functional? (choose the best a
 
 _[⬆ Back to Top](#table-of-contents)_
 
-80. ### Question80
-For the purpose of transparency, when does Scrum say a new Increment of working Software must be available? (choose the best answer)
+### For the purpose of transparency, when does Scrum say a new Increment of working Software must be available? (choose the best answer)
 
 - [ ] When the Product Owner asks to create one.
 - [x] At the end of every Sprint.
@@ -1184,8 +1105,7 @@ For the purpose of transparency, when does Scrum say a new Increment of working 
 
 _[⬆ Back to Top](#table-of-contents)_
 
-81. ### Question81
-Which three behaviors demonstrate that a team is self-organizing? (choose the best three answers)
+### Which three behaviors demonstrate that a team is self-organizing? (choose the best three answers)
 
 - [ ] The Development Team inviting external people to the Sprint Planning to ask them how to turn a Product Backlog item into an Increment via a complete and detailed Sprint Backlog.
 - [ ] The Development Team members are working within the boundaries of their functional description and nicely handing off work from analyst to Developer to Tester to integration.
@@ -1198,8 +1118,7 @@ Which three behaviors demonstrate that a team is self-organizing? (choose the be
 
 _[⬆ Back to Top](#table-of-contents)_
 
-82.  ### Question82
-What is the purpose of a Sprint Review? (choose the best answer)
+### What is the purpose of a Sprint Review? (choose the best answer)
 
 - [ ] To take time to judge the validity of the project.
 - [x] To inspect the Product Increment with the Stakeholders and collect feedback on next steps.
@@ -1208,16 +1127,14 @@ What is the purpose of a Sprint Review? (choose the best answer)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-83.  ### Question83
-True or False: The Product Owner makes sure the team selects enough from the Product Backlog for a Sprint to satisfy the Stakeholders.
+### True or False: The Product Owner makes sure the team selects enough from the Product Backlog for a Sprint to satisfy the Stakeholders.
 
 - [ ] True.
 - [x] False.
 
 _[⬆ Back to Top](#table-of-contents)_
 
-84.  ### Question84
-Which statement best describes the Sprint Backlog as outcome of the Sprint Planning? (choose the best answer)
+### Which statement best describes the Sprint Backlog as outcome of the Sprint Planning? (choose the best answer)
 
 - [x] It is the Development Team's plan for the Sprint.
 - [ ] Every item has a designated owner.
@@ -1227,8 +1144,7 @@ Which statement best describes the Sprint Backlog as outcome of the Sprint Plann
 
 _[⬆ Back to Top](#table-of-contents)_
 
-85.  ### Question85
-A Development Team selects a set of Product Backlog items for a Sprint Backlog with the intent to get the selected items "Done" by the end of the Sprint. Which three phrases best describe the purpose of a Definition of Done? (choose the best three answers)
+### A Development Team selects a set of Product Backlog items for a Sprint Backlog with the intent to get the selected items "Done" by the end of the Sprint. Which three phrases best describe the purpose of a Definition of Done? (choose the best three answers)
 
 - [ ] It provides a template for elements that need to be included in the technical documentation.
 - [x] It guides the Development Team in creating a forecast at the Sprint Planning.
@@ -1239,8 +1155,7 @@ A Development Team selects a set of Product Backlog items for a Sprint Backlog w
 
 _[⬆ Back to Top](#table-of-contents)_
 
-86.  ### Question86
-Which output from Sprint Planning provides the Development Team with a target and overarching direction for the Sprint? (choose the best answer)
+### Which output from Sprint Planning provides the Development Team with a target and overarching direction for the Sprint? (choose the best answer)
 
 - [x] The Sprint Goal.
 - [ ] Sprint Review minutes.
@@ -1249,8 +1164,7 @@ Which output from Sprint Planning provides the Development Team with a target an
 
 _[⬆ Back to Top](#table-of-contents)_
 
-87.  ### Question87
-The Product Owner determines how many Product Backlog items the Development Team selects for a Sprint. (choose the best answer)
+### The Product Owner determines how many Product Backlog items the Development Team selects for a Sprint. (choose the best answer)
 
 - [ ] True, but only after confirmation by the resource manager that the Team has enough capacity.
 - [ ] False, capacity and commitment are the Project Manager's responsibility.
@@ -1261,8 +1175,7 @@ The Product Owner determines how many Product Backlog items the Development Team
 
 _[⬆ Back to Top](#table-of-contents)_
 
-88.  ### Question88
-Who owns the Sprint Backlog? (choose the best answer)
+### Who owns the Sprint Backlog? (choose the best answer)
 
 - [ ] The Scrum Team.
 - [ ] The Scrum Master.
@@ -1271,8 +1184,7 @@ Who owns the Sprint Backlog? (choose the best answer)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-89.  ### Question89
-When is implementation of a Product Backlog item considered complete? (choose the best answer)
+### When is implementation of a Product Backlog item considered complete? (choose the best answer)
 
 - [x] When the item has no work remaining in order to be potentially released.
 - [ ] When Quality Assurance reports that the item passes all Acceptance Criteria.
@@ -1281,8 +1193,7 @@ When is implementation of a Product Backlog item considered complete? (choose th
 
 _[⬆ Back to Top](#table-of-contents)_
 
-90.  ### Question90
-Which two of the following are true about the Scrum Master role? (choose the best two answers)
+### Which two of the following are true about the Scrum Master role? (choose the best two answers)
 
 - [x] The Scrum Master teaches the Development Team to keep the Scrum meetings to their time-box.
 - [ ] The Scrum Master is responsible for updating the Sprint Burndown.
@@ -1292,8 +1203,7 @@ Which two of the following are true about the Scrum Master role? (choose the bes
 
 _[⬆ Back to Top](#table-of-contents)_
 
-91.  ### Question91
-Which two of the following are appropriate topics for discussion during a Sprint Retrospective? (choose the best two answers)
+### Which two of the following are appropriate topics for discussion during a Sprint Retrospective? (choose the best two answers)
 
 - [ ] Documenting Acceptance Criteria for items in the next Sprint. 
 - [ ] The order of items in the Product Backlog.
@@ -1302,16 +1212,14 @@ Which two of the following are appropriate topics for discussion during a Sprint
 
 _[⬆ Back to Top](#table-of-contents)_
 
-92.  ### Question92
-True or False: Multiple Scrum Teams working on the same project must have the same Sprint start date.
+### True or False: Multiple Scrum Teams working on the same project must have the same Sprint start date.
 
 - [ ] True.
 - [x] False.
 
 _[⬆ Back to Top](#table-of-contents)_
 
-93.  ### Question93
-When is it most appropriate for a Development Team to change the Definition of Done? (choose the best answer)
+### When is it most appropriate for a Development Team to change the Definition of Done? (choose the best answer)
 
 - [ ] During Sprint Planning.
 - [ ] Prior to starting a new project.
@@ -1320,8 +1228,7 @@ When is it most appropriate for a Development Team to change the Definition of D
 
 _[⬆ Back to Top](#table-of-contents)_
 
-94.  ### Question94
-The Product Owner is not collaborating with the Development Team during the Sprint. What are two valuable actions for a Scrum Master to take? (choose the best two answers)
+### The Product Owner is not collaborating with the Development Team during the Sprint. What are two valuable actions for a Scrum Master to take? (choose the best two answers)
 
 - [ ] Nominate a proxy Product Owner.
 - [x] Coach the Product Owner in the values of Scrum and incremental delivery.
@@ -1331,8 +1238,7 @@ The Product Owner is not collaborating with the Development Team during the Spri
 
 _[⬆ Back to Top](#table-of-contents)_
 
-95.  ### Question95
-A Scrum Master is working with a Development Team that has members in different physical locations. The Development Team meets in a variety of meeting rooms and has much to do logistically (for example, set up conference calls) before the Daily Scrum. What action should the Scrum Master take? (choose the best answer)
+### A Scrum Master is working with a Development Team that has members in different physical locations. The Development Team meets in a variety of meeting rooms and has much to do logistically (for example, set up conference calls) before the Daily Scrum. What action should the Scrum Master take? (choose the best answer)
 
 - [ ] Ask the Development Team members to alternate who is responsible for meeting setup.
 - [ ] Set up the meeting and tell the Development Team that is how it will be done.
@@ -1341,8 +1247,7 @@ A Scrum Master is working with a Development Team that has members in different 
 
 _[⬆ Back to Top](#table-of-contents)_
 
-96.  ### Question96
-Five new Scrum Teams have been created to build one Product. A few of the Developers on one of the Development Teams ask the Scrum Master how to coordinate their work with the other teams. What should the Scrum Master do?
+### Five new Scrum Teams have been created to build one Product. A few of the Developers on one of the Development Teams ask the Scrum Master how to coordinate their work with the other teams. What should the Scrum Master do?
 
 - [x] Teach the Product Owner to work with the lead Developers on ordering Product Backlog in a way to avoid too much technical and development overlap during a Sprint.
 - [ ] Collect the Sprint tasks from the teams at the end of their Sprint Planning and merge that into a consolidated plan for the entire Sprint.
@@ -1351,16 +1256,14 @@ Five new Scrum Teams have been created to build one Product. A few of the Develo
 
 _[⬆ Back to Top](#table-of-contents)_
 
-97.  ### Question97
-True or False: Scrum is a methodology that tells in detail how to build Software incrementally.
+### True or False: Scrum is a methodology that tells in detail how to build Software incrementally.
 
 - [ ] True.
 - [x] False.
 
 _[⬆ Back to Top](#table-of-contents)_
 
-98.  ### Question98
-In the Sprint Planning meeting, the Product Owner and the Development Team were unable to reach a clear understanding about the highest order Product Backlog items. Because of this, the Development Team couldn't figure out how many Product Backlog items it could forecast for the Development Team couldn't figure out how many Product Backlog items it could forecast for the upcoming Sprint. They were able to agree on a Sprint Goal, however. Which of the following two actions should the Scrum Master support? (choose the best two answers)
+### In the Sprint Planning meeting, the Product Owner and the Development Team were unable to reach a clear understanding about the highest order Product Backlog items. Because of this, the Development Team couldn't figure out how many Product Backlog items it could forecast for the Development Team couldn't figure out how many Product Backlog items it could forecast for the upcoming Sprint. They were able to agree on a Sprint Goal, however. Which of the following two actions should the Scrum Master support? (choose the best two answers)
 
 - [ ] Ask everyone to take as much time as needed to analyze the Product Backlog first, and then reconvene another Sprint Planning meeting.
 - [ ] Cancel the Sprint. Send the entire team to an advanced Scrum training and then start a new Sprint.
@@ -1370,8 +1273,7 @@ In the Sprint Planning meeting, the Product Owner and the Development Team were 
 
 _[⬆ Back to Top](#table-of-contents)_
 
-99.  ### Question99
-A member of the Development Team takes the Scrum Master aside to express his concerns about data security issues. What should the Scrum Master do? (choose the best answer)
+### A member of the Development Team takes the Scrum Master aside to express his concerns about data security issues. What should the Scrum Master do? (choose the best answer)
 
 - [ ] Create a Product Backlog item for security.
 - [x] Ask the person to share the issue with the team as soon as possible.
@@ -1381,8 +1283,7 @@ A member of the Development Team takes the Scrum Master aside to express his con
 
 _[⬆ Back to Top](#table-of-contents)_
 
-100.  ### Question100
-What are two ways that architecture and infrastructure are handled in Scrum? (choose the best two answers)
+### What are two ways that architecture and infrastructure are handled in Scrum? (choose the best two answers)
 
 - [x] They are implemented along with functional development of the Product.
 - [ ] They are built by a separate team through the creation of an architectural runway.
@@ -1391,8 +1292,7 @@ What are two ways that architecture and infrastructure are handled in Scrum? (ch
 
 _[⬆ Back to Top](#table-of-contents)_
 
-101.  ### Question101
-What are three ways Scrum promotes self-organization? (choose three)
+### What are three ways Scrum promotes self-organization? (choose three)
 
 - [ ] By preventing Stakeholders from entering the development room.
 - [x] By removing titles for Development Team members.
@@ -1402,16 +1302,14 @@ What are three ways Scrum promotes self-organization? (choose three)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-102.  ### Question102
-Cross-functional teams are optimized to work on one technical layer of a system only (e.g. GUI, database, middle tier, interfaces).
+### Cross-functional teams are optimized to work on one technical layer of a system only (e.g. GUI, database, middle tier, interfaces).
 
 - [x] False.
 - [ ] True.
 
 _[⬆ Back to Top](#table-of-contents)_
 
-103.  ### Question103
-What are three benefits of self-organization? (choose three)
+### What are three benefits of self-organization? (choose three)
 
 - [ ] Increased accuracy of estimates.
 - [ ] Increased rule compliance.
@@ -1421,8 +1319,7 @@ What are three benefits of self-organization? (choose three)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-104.  ### Question104
-Why does a Development Team need a Sprint Goal?
+### Why does a Development Team need a Sprint Goal?
 
 - [ ] A Sprint Goal ensures that all of the Product Backlog items selected for the Sprint are implemented.
 - [x] The Development Team is more focused with a common yet specific goal.
@@ -1431,8 +1328,7 @@ Why does a Development Team need a Sprint Goal?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-105.  ### Question105
-How should Product Backlog items be chosen when multiple Scrum Teams work from the same Product Backlog?
+### How should Product Backlog items be chosen when multiple Scrum Teams work from the same Product Backlog?
 
 - [ ] The Product Owner should provide each team with its own Product Backlog.
 - [x] The Development Teams pull in work in agreement with the Product Owner.
@@ -1442,8 +1338,7 @@ How should Product Backlog items be chosen when multiple Scrum Teams work from t
 
 _[⬆ Back to Top](#table-of-contents)_
 
-106.  ### Question106
-Which of the following describe Test Driven Development? (choose two answers)
+### Which of the following describe Test Driven Development? (choose two answers)
 
 - [x] A Software Development technique based on automated tests.
 - [x] A predictable way to develop working, well-organized code.
@@ -1453,8 +1348,7 @@ Which of the following describe Test Driven Development? (choose two answers)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-107.  ### Question107
-When a Continuous Integration build fails, who ideally ensures the build is repaired? (choose the best answer)
+### When a Continuous Integration build fails, who ideally ensures the build is repaired? (choose the best answer)
 
 - [ ] The person who broke the build.
 - [ ] The next person who needs the build to complete successfully.
@@ -1464,8 +1358,7 @@ When a Continuous Integration build fails, who ideally ensures the build is repa
 
 _[⬆ Back to Top](#table-of-contents)_
 
-108.  ### Question108
-What happens during Sprint 0? (choose the best answer)
+### What happens during Sprint 0? (choose the best answer)
 
 - [ ] Establish base System Architecture and design, install version control and continuous integration setup.
 - [x] There is no such thing as Sprint 0.
@@ -1475,8 +1368,7 @@ What happens during Sprint 0? (choose the best answer)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-109.  ### Question109
-Product Backlog items are refined by: (choose the best answer)
+### Product Backlog items are refined by: (choose the best answer)
 
 - [ ] The Developers.
 - [ ] The Product Owner.
@@ -1485,8 +1377,7 @@ Product Backlog items are refined by: (choose the best answer)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-110.  ### Question110
-Who is responsible for the System Architecture of a Product being developed using Scrum? (choose the best answer)
+### Who is responsible for the System Architecture of a Product being developed using Scrum? (choose the best answer)
 
 - [ ] The Architect chosen by the Scrum Team.
 - [x] The Developers.
@@ -1495,8 +1386,7 @@ Who is responsible for the System Architecture of a Product being developed usin
 
 _[⬆ Back to Top](#table-of-contents)_
 
-111.  ### Question111
-Which of the following are attributes of a bad bug report? (choose the best three answers)
+### Which of the following are attributes of a bad bug report? (choose the best three answers)
 
 - [ ] Simple and repeatable reproduction steps.
 - [x] Vague statements or untested assumptions.
@@ -1506,8 +1396,7 @@ Which of the following are attributes of a bad bug report? (choose the best thre
 
 _[⬆ Back to Top](#table-of-contents)_
 
-112.  ### Question112
-Who writes tests in a Scrum Team? (choose the best answer)
+### Who writes tests in a Scrum Team? (choose the best answer)
 
 - [x] The Developers.
 - [ ] Coders.
@@ -1516,8 +1405,7 @@ Who writes tests in a Scrum Team? (choose the best answer)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-113.  ### Question113
-When do the Developers participate in Product Backlog Refinement? (choose the best answer)
+### When do the Developers participate in Product Backlog Refinement? (choose the best answer)
 
 - [x] Anytime during the Sprint.
 - [ ] Never. It is the sole responsibility of the Product Owner to refine the Product Backlog.
@@ -1526,8 +1414,7 @@ When do the Developers participate in Product Backlog Refinement? (choose the be
 
 _[⬆ Back to Top](#table-of-contents)_
 
-114.  ### Question114
-Who should be present during Product Backlog Refinement? (choose the best answer)
+### Who should be present during Product Backlog Refinement? (choose the best answer)
 
 - [ ] The integration architects from the release department.
 - [ ] Only the most senior Developers.
@@ -1537,16 +1424,14 @@ Who should be present during Product Backlog Refinement? (choose the best answer
 
 _[⬆ Back to Top](#table-of-contents)_
 
-115.  ### Question115
-True or False: Programmers and Testers should not be included in refining Product Backlog items.
+### True or False: Programmers and Testers should not be included in refining Product Backlog items.
 
 - [ ] True.
 - [x] False.
 
 _[⬆ Back to Top](#table-of-contents)_
 
-116.  ### Question116
-Why are automated builds important? (choose the best answer)
+### Why are automated builds important? (choose the best answer)
 
 - [ ] Without them you cannot tell if your code works.
 - [ ] You are unable to check-in code without one.
@@ -1555,8 +1440,7 @@ Why are automated builds important? (choose the best answer)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-117.  ### Question117
-Upon what type of process control is Scrum based? (choose the best answer)
+### Upon what type of process control is Scrum based? (choose the best answer)
 
 - [ ] Defined.
 - [x] Empirical.
@@ -1565,8 +1449,7 @@ Upon what type of process control is Scrum based? (choose the best answer)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-118.  ### Question118
-When might a Sprint be abnormally cancelled? (choose the best answer)
+### When might a Sprint be abnormally cancelled? (choose the best answer)
 
 - [x] When the Sprint Goal becomes obsolete.
 - [ ] When the sales department has an important new opportunity.
@@ -1575,8 +1458,7 @@ When might a Sprint be abnormally cancelled? (choose the best answer)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-119.  ### Question119
-Who should know the most about the progress toward a business objective or a release, and be able to explain the alternatives most clearly? (choose the best answer)
+### Who should know the most about the progress toward a business objective or a release, and be able to explain the alternatives most clearly? (choose the best answer)
 
 - [ ] The Scrum Master.
 - [ ] The Project Manager.
@@ -1585,8 +1467,7 @@ Who should know the most about the progress toward a business objective or a rel
 
 _[⬆ Back to Top](#table-of-contents)_
 
-120.  ### Question120
-When many Scrum Teams are working on a single Product, what best describes the Definition of Done? (choose the best answer)
+### When many Scrum Teams are working on a single Product, what best describes the Definition of Done? (choose the best answer)
 
 - [ ] Each Scrum Team defines and uses its own. The differences are discussed and reconciled during a
 hardening Sprint.
@@ -1596,8 +1477,7 @@ hardening Sprint.
 
 _[⬆ Back to Top](#table-of-contents)_
 
-121.  ### Question121
-During a Sprint, a Developer determines that the Scrum Team will not be able to complete the items in their forecast. Who should be present to review and adjust the Product Backlog items selected? (choose the best answer)
+### During a Sprint, a Developer determines that the Scrum Team will not be able to complete the items in their forecast. Who should be present to review and adjust the Product Backlog items selected? (choose the best answer)
 
 - [x] The Product Owner and the Developers.
 - [ ] The Scrum Master, the Project Manager, and the Developers.
@@ -1606,8 +1486,7 @@ During a Sprint, a Developer determines that the Scrum Team will not be able to 
 
 _[⬆ Back to Top](#table-of-contents)_
 
-122.  ### Question122
-When should the Developers on a Scrum Team be replaced? (choose the best answer)
+### When should the Developers on a Scrum Team be replaced? (choose the best answer)
 
 - [ ] As needed, with no special allowance for changes in productivity.
 - [ ] Never, it reduces productivity.
@@ -1616,8 +1495,7 @@ When should the Developers on a Scrum Team be replaced? (choose the best answer)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-123.  ### Question123
-When is a Sprint over? (choose the best answer)
+### When is a Sprint over? (choose the best answer)
 
 - [ ] When all Product Backlog items meet their Definition of Done.
 - [x] When the timebox expires.
@@ -1626,8 +1504,7 @@ When is a Sprint over? (choose the best answer)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-124.  ### Question124
-When does the next Sprint begin? (choose the best answer)
+### When does the next Sprint begin? (choose the best answer)
 
 - [ ] Immediately following the next Sprint Planning.
 - [x] Immediately after the conclusion of the previous Sprint.
@@ -1636,8 +1513,7 @@ When does the next Sprint begin? (choose the best answer)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-125.  ### Question125
-What does it mean to say that an event has a timebox? (choose the best answer)
+### What does it mean to say that an event has a timebox? (choose the best answer)
 
 - [ ] The event must happen at a set time.
 - [x] The event can take no more than a maximum amount of time.
@@ -1646,8 +1522,7 @@ What does it mean to say that an event has a timebox? (choose the best answer)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-126.  ### Question126
-Who is required to attend the Daily Scrum? (choose the best answer)
+### Who is required to attend the Daily Scrum? (choose the best answer)
 
 - [ ] The Developers and Product Owner.
 - [x] The Developers.
@@ -1657,8 +1532,7 @@ Who is required to attend the Daily Scrum? (choose the best answer)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-127.  ### Question127
-When does a Developer become accountable for the value of a Product Backlog item selected for the Sprint? (choose the best answer)
+### When does a Developer become accountable for the value of a Product Backlog item selected for the Sprint? (choose the best answer)
 
 - [ ] Whenever a team member can accommodate more work.
 - [ ] At the Sprint Planning Event.
@@ -1667,8 +1541,7 @@ When does a Developer become accountable for the value of a Product Backlog item
 
 _[⬆ Back to Top](#table-of-contents)_
 
-128.  ### Question128
-Who is on the Scrum Team? (choose the best three answers)
+### Who is on the Scrum Team? (choose the best three answers)
 
 - [ ] Project Manager.
 - [x] Developers.
@@ -1677,8 +1550,7 @@ Who is on the Scrum Team? (choose the best three answers)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-129.  ### Question129
-Which of the following are examples of a Scrum Team practicing Scrum poorly or not exhibiting traits of a self-managing Scrum Team? (choose the best three answers)
+### Which of the following are examples of a Scrum Team practicing Scrum poorly or not exhibiting traits of a self-managing Scrum Team? (choose the best three answers)
 
 - [ ] The Developers have all the skills they need to create a valuable, useful Increment.
 - [x] Stakeholders attend the Daily Scrum to check on the Scrum Team’s progress.
@@ -1689,8 +1561,7 @@ Which of the following are examples of a Scrum Team practicing Scrum poorly or n
 
 _[⬆ Back to Top](#table-of-contents)_
 
-130.  ### Question130
-The timebox for the Sprint Review is: (choose the best answer)
+### The timebox for the Sprint Review is: (choose the best answer)
 
 - [ ] As long as needed.
 - [ ] 2 hours.
@@ -1700,8 +1571,7 @@ The timebox for the Sprint Review is: (choose the best answer)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-131.  ### Question131
-The timebox for the Sprint Planning event is? (choose the best answer)
+### The timebox for the Sprint Planning event is? (choose the best answer)
 
 - [x] 8 hours for a monthly Sprint. For shorter Sprints it is usually shorter.
 - [ ] 4 hours.
@@ -1710,16 +1580,14 @@ The timebox for the Sprint Planning event is? (choose the best answer)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-132.  ### Question132
-True or False: The purpose of a Sprint is to produce a valuable and useful Increment of working Product.
+### True or False: The purpose of a Sprint is to produce a valuable and useful Increment of working Product.
 
 - [x] True.
 - [ ] False.
 
 _[⬆ Back to Top](#table-of-contents)_
 
-133.  ### Question133
-An organization has decided to adopt Scrum, but Management wants to change the terminology to fit with terminology already used. What will likely happen if this is done? (choose the best answer)
+### An organization has decided to adopt Scrum, but Management wants to change the terminology to fit with terminology already used. What will likely happen if this is done? (choose the best answer)
 
 - [ ] Without a new vocabulary as a reminder of the change, very little change may actually happen.
 - [ ] The organization may not understand what has changed with Scrum and the benefits of Scrum may be lost.
@@ -1728,8 +1596,7 @@ An organization has decided to adopt Scrum, but Management wants to change the t
 
 _[⬆ Back to Top](#table-of-contents)_
 
-134.  ### Question134
-Who creates the Definition of Done? (choose the best answer)
+### Who creates the Definition of Done? (choose the best answer)
 
 - [ ] The Scrum Team, in a collaborative effort where the result is the common denominator of all members' definitions.
 - [ ] The Scrum Master since they are responsible for the productivity of the Developers.
@@ -1738,8 +1605,7 @@ Who creates the Definition of Done? (choose the best answer)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-135.  ### Question135
-Who is responsible for managing the progress of work during a Sprint? (choose the best answer)
+### Who is responsible for managing the progress of work during a Sprint? (choose the best answer)
 
 - [x] The Developers.
 - [ ] The most junior member of the team.
@@ -1748,8 +1614,7 @@ Who is responsible for managing the progress of work during a Sprint? (choose th
 
 _[⬆ Back to Top](#table-of-contents)_
 
-136.  ### Question136
-Who has the final say on the order of the Product Backlog? (choose the best answer)
+### Who has the final say on the order of the Product Backlog? (choose the best answer)
 
 - [x] The Product Owner.
 - [ ] The Stakeholders.
@@ -1759,8 +1624,7 @@ Who has the final say on the order of the Product Backlog? (choose the best answ
 
 _[⬆ Back to Top](#table-of-contents)_
 
-137.  ### Question137
-Which Scrum events are timeboxed? (choose the best three answers)
+### Which Scrum events are timeboxed? (choose the best three answers)
 
 - [ ] Release Retrospective.
 - [x] Sprint Planning.
@@ -1772,8 +1636,7 @@ Which Scrum events are timeboxed? (choose the best three answers)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-138.  ### Question138
-A Scrum Team consists of the following: (choose the best three answers)
+### A Scrum Team consists of the following: (choose the best three answers)
 
 - [x] Product Owner.
 - [x] Scrum Master.
@@ -1783,8 +1646,7 @@ A Scrum Team consists of the following: (choose the best three answers)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-139.  ### Question139
-When does a Developer become the sole owner of a Sprint Backlog item? (choose the best answer)
+### When does a Developer become the sole owner of a Sprint Backlog item? (choose the best answer)
 
 - [ ] Whenever a team member can accommodate more work.
 - [ ] During the Daily Scrum.
@@ -1793,8 +1655,7 @@ When does a Developer become the sole owner of a Sprint Backlog item? (choose th
 
 _[⬆ Back to Top](#table-of-contents)_
 
-140.  ### Question140
-What is the role of Management in Scrum? (choose the best answer)
+### What is the role of Management in Scrum? (choose the best answer)
 
 - [x] Support the Product Owner with insights and information into high value Product and system capabilities. Support the Scrum Master to cause organizational change that fosters empiricism, self-management, bottom-up intelligence, and intelligent Product delivery.
 - [ ] Continually monitor staffing levels of the Scrum Team.
@@ -1803,8 +1664,7 @@ What is the role of Management in Scrum? (choose the best answer)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-141.  ### Question141
-Why is the Daily Scrum held at the same time and same place? (choose the best answer)
+### Why is the Daily Scrum held at the same time and same place? (choose the best answer)
 
 - [x] The consistency reduces complexity.
 - [ ] The place can be named.
@@ -1813,8 +1673,7 @@ Why is the Daily Scrum held at the same time and same place? (choose the best an
 
 _[⬆ Back to Top](#table-of-contents)_
 
-142.  ### Question142
-The length of a Sprint should be: (choose the best answer)
+### The length of a Sprint should be: (choose the best answer)
 
 - [ ] Short enough to keep the business risk acceptable to the Product Owner.
 - [ ] Short enough to be able to synchronize the development work with other business events.
@@ -1823,9 +1682,7 @@ The length of a Sprint should be: (choose the best answer)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-143.  ### Question143
-How much work must the Developers complete for each Product Backlog item they select for a Sprint? (choose the best answer)
-
+### How much work must the Developers complete for each Product Backlog item they select for a Sprint? (choose the best answer)
 
 - [x] Enough so that each Product Backlog item they select meets the Definition of Done.
 - [ ] Analysis, design, programming, testing and documentation.
@@ -1834,8 +1691,7 @@ How much work must the Developers complete for each Product Backlog item they se
 
 _[⬆ Back to Top](#table-of-contents)_
 
-144.  ### Question144
-The CEO asks the Developers to add a "very important" item to a Sprint that is in progress. What should the Developers do? (choose the best answer)
+### The CEO asks the Developers to add a "very important" item to a Sprint that is in progress. What should the Developers do? (choose the best answer)
 
 - [ ] Add the item to the current Sprint and drop an item of equal size.
 - [x] Inform the other members of the Scrum Team so the team can decide what to do.
@@ -1844,8 +1700,7 @@ The CEO asks the Developers to add a "very important" item to a Sprint that is i
 
 _[⬆ Back to Top](#table-of-contents)_
 
-145.  ### Question145
-What is the recommended size for a Scrum Team? (choose the best answer)
+### What is the recommended size for a Scrum Team? (choose the best answer)
 
 - [ ] Minimum of 7.
 - [ ] 9.
@@ -1854,8 +1709,7 @@ What is the recommended size for a Scrum Team? (choose the best answer)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-146.  ### Question146
-Which statement best describes a Product Owner's responsibility? (choose the best answer)
+### Which statement best describes a Product Owner's responsibility? (choose the best answer)
 
 - [ ] Keep Stakeholders from distracting the Developers.
 - [X] Optimizing the value of the work the Scrum Team does.
@@ -1864,16 +1718,14 @@ Which statement best describes a Product Owner's responsibility? (choose the bes
 
 _[⬆ Back to Top](#table-of-contents)_
 
-147.  ### Question147
-True or False: 100% Code Coverage of tests guarantees bug-free Software.
+### True or False: 100% Code Coverage of tests guarantees bug-free Software.
 
 - [ ] True.
 - [x] False.
 
 _[⬆ Back to Top](#table-of-contents)_
 
-148.  ### Question148
-Who is responsible for monitoring the progress of work during a Sprint? Pick 1
+### Who is responsible for monitoring the progress of work during a Sprint? Pick 1
 
 - [ ] Product Owner.
 - [ ] Project Manager.
@@ -1882,8 +1734,7 @@ Who is responsible for monitoring the progress of work during a Sprint? Pick 1
 
 _[⬆ Back to Top](#table-of-contents)_
 
-149.  ### Question149
-Who can tell the Developers what to work on?
+### Who can tell the Developers what to work on?
 
 - [x] The Product Owner.
 - [ ] The COO, CEO and CTO.
@@ -1892,8 +1743,7 @@ Who can tell the Developers what to work on?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-150.  ### Question150
-Who can do the work to ensure the Product Backlog is refined to a state that it is useful? Pick 2
+### Who can do the work to ensure the Product Backlog is refined to a state that it is useful? Pick 2
 
 - [x] The Product Owner.
 - [ ] The Business Analyst.
@@ -1902,8 +1752,7 @@ Who can do the work to ensure the Product Backlog is refined to a state that it 
 
 _[⬆ Back to Top](#table-of-contents)_
 
-151.  ### Question151
-SCRUM stands for:
+### SCRUM stands for:
 
 - [ ] Super Creative Really Useful Method.
 - [ ] Self organising Collaborative & Reflective Universal Method.
@@ -1912,8 +1761,7 @@ SCRUM stands for:
 
 _[⬆ Back to Top](#table-of-contents)_
 
-152.  ### Question152
-Who manages the Sprint Backlog?
+### Who manages the Sprint Backlog?
 
 - [ ] The Scrum Master.
 - [ ] The Product Owner.
@@ -1922,8 +1770,7 @@ Who manages the Sprint Backlog?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-153.  ### Question153
-Which statement best describes a cross-functional team? Pick 1
+### Which statement best describes a cross-functional team? Pick 1
 
 - [ ] The team has a good mix of skills.
 - [ ] All members of the team have all the skills required to create the Product.
@@ -1931,16 +1778,14 @@ Which statement best describes a cross-functional team? Pick 1
 
 _[⬆ Back to Top](#table-of-contents)_
 
-154.  ### Question154
-Bugs discovered out of Sprint should be:
+### Bugs discovered out of Sprint should be:
 
 - [ ] Investigated and fixed immediately by the Developers.
 - [x] Reviewed with the Product Owner and added to the Product Backlog.
 
 _[⬆ Back to Top](#table-of-contents)_
 
-155.  ### Question155
-When could a release to Production occur if a Scrum Team produced a Done increment multiple times each day? (select all that apply)
+### When could a release to Production occur if a Scrum Team produced a Done increment multiple times each day? (select all that apply)
 
 - [x] Mid Sprint.
 - [x] Every Sprint.
@@ -1949,16 +1794,14 @@ When could a release to Production occur if a Scrum Team produced a Done increme
 
 _[⬆ Back to Top](#table-of-contents)_
 
-156.  ### Question156
-True or False: The Definition of Done is a mandatory part of Scrum.
+### True or False: The Definition of Done is a mandatory part of Scrum.
 
 - [ ] False.
 - [x] True.
 
 _[⬆ Back to Top](#table-of-contents)_
 
-157.  ### Question157
-Who may be best positioned to decide who will be the Scrum Master for a new Scrum Team?
+### Who may be best positioned to decide who will be the Scrum Master for a new Scrum Team?
 
 - [ ] The Developers.
 - [ ] The Product Owner.
@@ -1967,16 +1810,14 @@ Who may be best positioned to decide who will be the Scrum Master for a new Scru
 
 _[⬆ Back to Top](#table-of-contents)_
 
-158.  ### Question158
-True or False: A Scrum Team must be 10 or fewer people.
+### True or False: A Scrum Team must be 10 or fewer people.
 
 - [ ] True.
 - [x] False.
 
 _[⬆ Back to Top](#table-of-contents)_
 
-159.  ### Question159
-Continuous Integration (CI) provides the following advantages: (select all that apply)
+### Continuous Integration (CI) provides the following advantages: (select all that apply)
 
 - [x] Less back-tracking to discover where things went wrong, so you can spend more time building features.
 - [x] Allows teams to detect problems early.
@@ -1985,8 +1826,7 @@ Continuous Integration (CI) provides the following advantages: (select all that 
 
 _[⬆ Back to Top](#table-of-contents)_
 
-160.  ### Question160
-Sizing is best when: (select all that apply)
+### Sizing is best when: (select all that apply)
 
 - [x] It is done by the actual Developers who will carry out the work.
 - [x] It is done by a group, rather than an individual.
@@ -1995,8 +1835,7 @@ Sizing is best when: (select all that apply)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-161.  ### Question161
-Select the correct timebox for each Scrum event.
+### Select the correct timebox for each Scrum event.
 
 - [ ] Sprint Planning - 8 hours or less, Daily Scrum - 30 minutes or less, Sprint Review - 4 hours or less, Sprint Retrospective - 3 hours or less.
 - [ ] Sprint Planning - 4 hours or less, Daily Scrum - 15 minutes or less, Sprint Review - 8 hours or less, Sprint Retrospective - 4 hours or less.
@@ -2005,16 +1844,14 @@ Select the correct timebox for each Scrum event.
 
 _[⬆ Back to Top](#table-of-contents)_
 
-162.  ### Question162
-True or False: Planning Poker must be used by Scrum Teams.
+### True or False: Planning Poker must be used by Scrum Teams.
 
 - [x] False.
 - [ ] True.
 
 _[⬆ Back to Top](#table-of-contents)_
 
-163.  ### Question163
-What is Test Driven Development?
+### What is Test Driven Development?
 
 - [ ] Appointing the QA Tester as the Lead Developer.
 - [x] The practice of writing Unit Tests prior to writing the implementation code.
@@ -2023,16 +1860,14 @@ What is Test Driven Development?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-164.  ### Question164
-True or False: Tasks in a Sprint Backlog must be estimated in days/hours.
+### True or False: Tasks in a Sprint Backlog must be estimated in days/hours.
 
 - [ ] True.
 - [x] False.
 
 _[⬆ Back to Top](#table-of-contents)_
 
-165.  ### Question165
-Who is responsible for testing in Scrum?
+### Who is responsible for testing in Scrum?
 
 - [ ] The Product Owner.
 - [x] The Developers.
@@ -2041,8 +1876,7 @@ Who is responsible for testing in Scrum?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-166.  ### Question166
-Bugs discovered in Sprint should be:
+### Bugs discovered in Sprint should be:
 
 - [x] Fixed immediately.
 - [ ] Ignored if not created by me.
@@ -2051,16 +1885,14 @@ Bugs discovered in Sprint should be:
 
 _[⬆ Back to Top](#table-of-contents)_
 
-167.  ### Question167
-True or False: YAGNI states that most systems work best if they are kept simple rather than made complicated.
+### True or False: YAGNI states that most systems work best if they are kept simple rather than made complicated.
 
 - [x] False.
 - [ ] True.
 
 _[⬆ Back to Top](#table-of-contents)_
 
-168.  ### Question168
-Which one is a Scrum Value? (pick all that apply)
+### Which one is a Scrum Value? (pick all that apply)
 
 - [x] Focus.
 - [x] Commitment.
@@ -2070,8 +1902,7 @@ Which one is a Scrum Value? (pick all that apply)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-169.  ### Question169
-What is NOT the name of the original program in source control from which branches are taken?
+### What is NOT the name of the original program in source control from which branches are taken?
 
 - [ ] Mainline.
 - [x] Feature.
@@ -2080,8 +1911,7 @@ What is NOT the name of the original program in source control from which branch
 
 _[⬆ Back to Top](#table-of-contents)_
 
-170.  ### Question170
-What is the Static Analysis?
+### What is the Static Analysis?
 
 - [x] Analysis performed on code in a non-runtime environment.
 - [ ] Analysis performed on Software at runtime.
@@ -2090,8 +1920,7 @@ What is the Static Analysis?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-171.  ### Question171
-Which one is true about Black-box testing? (pick all that apply)
+### Which one is true about Black-box testing? (pick all that apply)
 
 - [ ] Tester can see inside the component or system under test.
 - [x] Tests that are done can be either functional or non-functional.
@@ -2101,8 +1930,7 @@ Which one is true about Black-box testing? (pick all that apply)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-172.  ### Question172
-Which expression is NOT used for KISS principle?
+### Which expression is NOT used for KISS principle?
 
 - [ ] Keep it simple, silly.
 - [x] Keep it safe and same.
@@ -2111,8 +1939,7 @@ Which expression is NOT used for KISS principle?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-173.  ### Question173
-What shapes can be an Architecture Spike? (pick all that apply)
+### What shapes can be an Architecture Spike? (pick all that apply)
 
 - [x] A prototype which will be thrown away.
 - [ ] A comprehensive architecture implementation.
@@ -2121,8 +1948,7 @@ What shapes can be an Architecture Spike? (pick all that apply)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-174.  ### Question174
-What does cross-functionality mean in a Scrum Team?
+### What does cross-functionality mean in a Scrum Team?
 
 
 - [ ] Each Developer who has a special skill and works with all Scrum Teams of the organization is cross-functional.
@@ -2132,8 +1958,7 @@ What does cross-functionality mean in a Scrum Team?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-175.  ### Question175
-What is the proper reaction of the Development Team in the middle of the Sprint when they found they have over committed?
+### What is the proper reaction of the Development Team in the middle of the Sprint when they found they have over committed?
 
 - [ ] They should ask the Product Owner to cancel the Sprint.
 - [ ] They extend the Sprint duration.
@@ -2142,8 +1967,7 @@ What is the proper reaction of the Development Team in the middle of the Sprint 
 
 _[⬆ Back to Top](#table-of-contents)_
 
-176.  ### Question176
-What is the Sprint Planning time-box for two-week Sprints?
+### What is the Sprint Planning time-box for two-week Sprints?
 
 - [ ] Usually 2 hours.
 - [ ] Usually 8 hours.
@@ -2152,8 +1976,7 @@ What is the Sprint Planning time-box for two-week Sprints?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-177.  ### Question177
-Which one is true?
+### Which one is true?
 
 - [ ] There is no assignment for both Sprint Backlog elements.
 - [x] The team can assign a task to a Team member with consensus.
@@ -2162,16 +1985,14 @@ Which one is true?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-178.  ### Question178
-True or False: Through Depth of Inheritance metric, a low number for depth implies less complexity but also the possibility of less code reuse through inheritance.
+### True or False: Through Depth of Inheritance metric, a low number for depth implies less complexity but also the possibility of less code reuse through inheritance.
 
 - [ ] False.
 - [x] True.
 
 _[⬆ Back to Top](#table-of-contents)_
 
-179.  ### Question179
-Who is responsible for writing tests in a Scrum Team?
+### Who is responsible for writing tests in a Scrum Team?
 
 - [x] The Development Team.
 - [ ] The programmer.
@@ -2180,8 +2001,7 @@ Who is responsible for writing tests in a Scrum Team?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-180.  ### Question180
-Who are the participants of the Daily Scrum?
+### Who are the participants of the Daily Scrum?
 
 - [ ] The Development Team and the Scrum Master.
 - [ ] The Development Team and the Product Owner.
@@ -2190,8 +2010,7 @@ Who are the participants of the Daily Scrum?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-181.  ### Question181
-Which concept has interactive attribute?
+### Which concept has interactive attribute?
 
 - [ ] Sketch.
 - [ ] Mockup.
@@ -2200,8 +2019,7 @@ Which concept has interactive attribute?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-182.  ### Question182
-Who is responsible for the documentation?
+### Who is responsible for the documentation?
 
 - [x] Development Team.
 - [ ] Tech Lead.
@@ -2210,16 +2028,14 @@ Who is responsible for the documentation?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-183.  ### Question183
-True or False: Afferent Coupling measures the number of classes on which a given class depends.
+### True or False: Afferent Coupling measures the number of classes on which a given class depends.
 
 - [x] False.
 - [ ] True.
 
 _[⬆ Back to Top](#table-of-contents)_
 
-184.  ### Question184
-Which concerns are most important in the scaled Scrum? Pick 2
+### Which concerns are most important in the scaled Scrum? Pick 2
 
 - [x] Minimizing or removing dependencies between teams.
 - [x] Creating an integrated releasable Increment at the end of each Sprint.
@@ -2228,8 +2044,7 @@ Which concerns are most important in the scaled Scrum? Pick 2
 
 _[⬆ Back to Top](#table-of-contents)_
 
-185.  ### Question185
-Who makes the decision for the architecture in a Scrum Team?
+### Who makes the decision for the architecture in a Scrum Team?
 
 - [ ] Tech Lead.
 - [x] Development Team.
@@ -2239,8 +2054,7 @@ Who makes the decision for the architecture in a Scrum Team?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-186.  ### Question186
-How much time does the Product Owner should consume for the Product Backlog Refinement?
+### How much time does the Product Owner should consume for the Product Backlog Refinement?
 
 - [ ] No more than 10%.
 - [ ] No more than 20%.
@@ -2249,8 +2063,7 @@ How much time does the Product Owner should consume for the Product Backlog Refi
 
 _[⬆ Back to Top](#table-of-contents)_
 
-187.  ### Question187
-Which one is a Scrum Team role? (pick all that apply)
+### Which one is a Scrum Team role? (pick all that apply)
 
 - [x] The Product Owner.
 - [ ] The Project Manager.
@@ -2259,8 +2072,7 @@ Which one is a Scrum Team role? (pick all that apply)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-188.  ### Question188
-Which one is NOT a Test Double?
+### Which one is NOT a Test Double?
 
 - [x] Two combined Unit Tests.
 - [ ] Test Spy.
@@ -2269,8 +2081,7 @@ Which one is NOT a Test Double?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-189.  ### Question189
-Which is true about Refactoring?
+### Which is true about Refactoring?
 
 - [x] Through it internal structure of code is altered.
 - [x] Its results are improved maintainability, code readability and reduced complexity.
@@ -2279,8 +2090,7 @@ Which is true about Refactoring?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-190.  ### Question190
-When the Product Owner can see the Development Team work?
+### When the Product Owner can see the Development Team work?
 
 - [ ] Just at the Sprint Review.
 - [ ] Whenever the Development Team is ready.
@@ -2289,8 +2099,7 @@ When the Product Owner can see the Development Team work?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-191.  ### Question191
-What are the most important things for increasing transparency?
+### What are the most important things for increasing transparency?
 
 - [ ] Using chat tools to have the best communication.
 - [x] Having a Definition of Done.
@@ -2299,8 +2108,7 @@ What are the most important things for increasing transparency?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-192.  ### Question192
-What is the ATDD?
+### What is the ATDD?
 
 - [x] Using Acceptance Tests to define requirements specified by the customer and market.
 - [ ] Using advanced Integration Test to develop quality Product.
@@ -2309,8 +2117,7 @@ What is the ATDD?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-193.  ### Question193
-In Software Development, which acronym is NOT true?
+### In Software Development, which acronym is NOT true?
 
 - [ ] LOC: Lines of Code.
 - [ ] CBO: Coupling Between Objects.
@@ -2319,8 +2126,7 @@ In Software Development, which acronym is NOT true?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-194.  ### Question194
-Where does Smoke testing originate from?
+### Where does Smoke testing originate from?
 
 - [ ] Comes from a comprehensive type of hardware testing in which a device passes the test if it does not catch fire during a sample long time run.
 - [ ] Comes from a basic type of hardware testing in which a device passes the test if it does not catch fire during a sample long time run.
@@ -2329,8 +2135,7 @@ Where does Smoke testing originate from?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-195.  ### Question195
-What is the goal of the Continuous Integration?
+### What is the goal of the Continuous Integration?
 
 - [ ] To publish the Product Increment on Production.
 - [ ] To penalize the Developer who breaks the build.
@@ -2339,8 +2144,7 @@ What is the goal of the Continuous Integration?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-196.  ### Question196
-What kind of activity can be done in the Product Backlog Refinement?
+### What kind of activity can be done in the Product Backlog Refinement?
 
 - [ ] Adding detail to the items.
 - [x] Ordering.
@@ -2349,8 +2153,7 @@ What kind of activity can be done in the Product Backlog Refinement?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-197.  ### Question197
-What is the recommended size of the Development Team?
+### What is the recommended size of the Development Team?
 
 - [ ] 7 ± 2.
 - [ ] 5 ± 4.
@@ -2359,8 +2162,7 @@ What is the recommended size of the Development Team?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-198.  ### Question198
-What are the duties of the Development Team in a Scrum Team?
+### What are the duties of the Development Team in a Scrum Team?
 
 - [ ] Removing impediments.
 - [x] Making technical decisions.
@@ -2369,8 +2171,7 @@ What are the duties of the Development Team in a Scrum Team?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-199.  ### Question199
-Which one is true about the scaled Scrum? Pick 2
+### Which one is true about the scaled Scrum? Pick 2
 
 - [ ] The scaled Scrum does not add or change anything in Scrum framework.
 - [x] It is based on the Scrum framework.
@@ -2379,8 +2180,7 @@ Which one is true about the scaled Scrum? Pick 2
 
 _[⬆ Back to Top](#table-of-contents)_
 
-200.  ### Question200
-Which factors should be considered to determine the Sprint length? (pick all that apply)
+### Which factors should be considered to determine the Sprint length? (pick all that apply)
 
 - [x] Market change speed.
 - [x] Raising complexity speed.
@@ -2389,16 +2189,14 @@ Which factors should be considered to determine the Sprint length? (pick all tha
 
 _[⬆ Back to Top](#table-of-contents)_
 
-201.  ### Question201
-True or False: One of the outcomes of using TDD is creating an automated Regression Test suite.
+### True or False: One of the outcomes of using TDD is creating an automated Regression Test suite.
 
 - [ ] False.
 - [x] True.
 
 _[⬆ Back to Top](#table-of-contents)_
 
-202.  ### Question202
-Which work can be done between two Sprints?
+### Which work can be done between two Sprints?
 
 - [x] Nothing. There is no special time between two Sprints.
 - [ ] Resolving some important bugs.
@@ -2407,8 +2205,7 @@ Which work can be done between two Sprints?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-203.  ### Question203
-How often does the Sprint Planning should be conducted?
+### How often does the Sprint Planning should be conducted?
 
 - [ ] Once a Release.
 - [ ] Each time that the Product Owner decides.
@@ -2417,16 +2214,14 @@ How often does the Sprint Planning should be conducted?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-204.  ### Question204
-True or False: Creating a done and potentially releasable Increment is the purpose of each Sprint.
+### True or False: Creating a done and potentially releasable Increment is the purpose of each Sprint.
 
 - [ ] False.
 - [x] True.
 
 _[⬆ Back to Top](#table-of-contents)_
 
-205.  ### Question205
-Which is NOT true about Lines of Code metric?
+### Which is NOT true about Lines of Code metric?
 
 - [ ] A high count might indicate that a type or method is doing too much work.
 - [ ] A high count might be a warning that code will be hard to maintain.
@@ -2435,8 +2230,7 @@ Which is NOT true about Lines of Code metric?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-206.  ### Question206
-What does Code Coverage mean?
+### What does Code Coverage mean?
 
 - [x] The degree of a source code which is executed or exercised by a test suite.
 - [ ] The number of Unit Tests which have passed through a test suite run.
@@ -2445,8 +2239,7 @@ What does Code Coverage mean?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-207.  ### Question207
-Who are responsible for monitoring the progress over the Project and Sprint?
+### Who are responsible for monitoring the progress over the Project and Sprint?
 
 - [x] Project Progress: the Product Owner, Sprint Progress: the Development Team.
 - [ ] Project Progress: the Scrum Master, Sprint Progress: the Development Team.
@@ -2455,8 +2248,7 @@ Who are responsible for monitoring the progress over the Project and Sprint?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-208.  ### Question208
-Which is true about Strategic Debt in Technical Debt context?
+### Which is true about Strategic Debt in Technical Debt context?
 
 - [x] Debt caused to gain strategic benefits (such as time to market).
 - [ ] This is typically caused by lack of awareness or knowledge.
@@ -2464,8 +2256,7 @@ Which is true about Strategic Debt in Technical Debt context?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-209.  ### Question209
-Which one is a code metric? (pick all that apply)
+### Which one is a code metric? (pick all that apply)
 
 - [x] Code Coverage.
 - [x] Lines of Code.
@@ -2475,8 +2266,7 @@ Which one is a code metric? (pick all that apply)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-210.  ### Question210
-What are the outputs of the Sprint Planning?
+### What are the outputs of the Sprint Planning?
 
 - [ ] The Increment.
 - [ ] The Release Plan.
@@ -2485,16 +2275,14 @@ What are the outputs of the Sprint Planning?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-211.  ### Question211
-True or False: Dependency Inversion principle implies that entities must depend on abstractions not on concretions.
+### True or False: Dependency Inversion principle implies that entities must depend on abstractions not on concretions.
 
 - [ ] False.
 - [x] True.
 
 _[⬆ Back to Top](#table-of-contents)_
 
-212.  ### Question212
-What will happen for the undone Sprint Backlog Items at the end of the Sprint?
+### What will happen for the undone Sprint Backlog Items at the end of the Sprint?
 
 - [ ] Extend the Sprint to finish them.
 - [ ] Move back to the bottom of the Product Backlog.
@@ -2503,8 +2291,7 @@ What will happen for the undone Sprint Backlog Items at the end of the Sprint?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-213.  ### Question213
-What does the Development Team should do when the CEO assign them an unplanned work in the middle of the Sprint?
+### What does the Development Team should do when the CEO assign them an unplanned work in the middle of the Sprint?
 
 - [ ] Inform the Scrum Master to work with his/her.
 - [ ] Reject it because they are independent.
@@ -2513,8 +2300,7 @@ What does the Development Team should do when the CEO assign them an unplanned w
 
 _[⬆ Back to Top](#table-of-contents)_
 
-214.  ### Question214
-When the Development Team can change their practices, tools or techniques?
+### When the Development Team can change their practices, tools or techniques?
 
 - [x] Whenever needed.
 - [ ] At the end of each release.
@@ -2523,8 +2309,7 @@ When the Development Team can change their practices, tools or techniques?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-215.  ### Question215
-How many Definition of Done should be used in scaled Scrum?
+### How many Definition of Done should be used in scaled Scrum?
 
 - [ ] They can have a separate Definition of Done for each team as long as they do not violate each other.
 - [ ] Each team should have a separated Definition of Done.
@@ -2533,8 +2318,7 @@ How many Definition of Done should be used in scaled Scrum?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-216.  ### Question216
-Which two of the followings are synonyms of TDD?
+### Which two of the followings are synonyms of TDD?
 
 - [ ] Domain Driven Design.
 - [x] Red-Green-Refactor.
@@ -2543,8 +2327,7 @@ Which two of the followings are synonyms of TDD?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-217.  ### Question217
-When tests should be added in the development process?
+### When tests should be added in the development process?
 
 - [ ] At the end of each release.
 - [x] From the beginning of the project.
@@ -2553,8 +2336,7 @@ When tests should be added in the development process?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-218.  ### Question218
-Which language is usually used in BDD?
+### Which language is usually used in BDD?
 
 - [ ] Ubiquitous language.
 - [ ] Tongue language.
@@ -2563,8 +2345,7 @@ Which language is usually used in BDD?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-219.  ### Question219
-Which of the followings are characteristics of a good bug report? (pick all that apply)
+### Which of the followings are characteristics of a good bug report? (pick all that apply)
 
 - [ ] Impacted related requirement.
 - [x] Version and build of the Software under test.
@@ -2573,8 +2354,7 @@ Which of the followings are characteristics of a good bug report? (pick all that
 
 _[⬆ Back to Top](#table-of-contents)_
 
-220.  ### Question220
-Who creates the Sprint Backlog?
+### Who creates the Sprint Backlog?
 
 - [ ] The Scrum Master.
 - [ ] The Product Owner.
@@ -2583,8 +2363,7 @@ Who creates the Sprint Backlog?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-221.  ### Question221
-When is a feature done?
+### When is a feature done?
 
 - [x] When it is potentially releasable and shippable.
 - [ ] When the Product Owner approves it.
@@ -2593,16 +2372,14 @@ When is a feature done?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-222.  ### Question222
-True or False: The Development Team has immediately resolved a bug, which is found in the current Sprint and belongs to an Increment that has already been delivered to the market. Is it a proper behavior?
+### True or False: The Development Team has immediately resolved a bug, which is found in the current Sprint and belongs to an Increment that has already been delivered to the market. Is it a proper behavior?
 
 - [x] False.
 - [ ] True.
 
 _[⬆ Back to Top](#table-of-contents)_
 
-223.  ### Question223
-Why mock objects are used in Unit Tests? Pick 3
+### Why mock objects are used in Unit Tests? Pick 3
 
 - [x] To simulate the behavior of a given object.
 - [x] To isolate system under test for controlled testing.
@@ -2611,8 +2388,7 @@ Why mock objects are used in Unit Tests? Pick 3
 
 _[⬆ Back to Top](#table-of-contents)_
 
-224.  ### Question224
-What is the usual comparison of Product Backlog Items average size in the Product Backlog and Sprint Backlog?
+### What is the usual comparison of Product Backlog Items average size in the Product Backlog and Sprint Backlog?
 
 - [ ] Product Backlog Items in the Product Backlog are usually smaller than the Sprint Backlog.
 - [ ] Product Backlog Items in the Product Backlog are usually larger than the Sprint Backlog.
@@ -2621,8 +2397,7 @@ What is the usual comparison of Product Backlog Items average size in the Produc
 
 _[⬆ Back to Top](#table-of-contents)_
 
-225.  ### Question225
-Which is NOT true about Efferent Coupling?
+### Which is NOT true about Efferent Coupling?
 
 - [x] Classes with high efferent will affect other classes when changes are made.
 - [ ] A large Efferent Coupling can indicate that a class is unfocussed and may also indicate that it is unstable since it depends on the stability of all the types to which it is coupled.
@@ -2631,8 +2406,7 @@ Which is NOT true about Efferent Coupling?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-226.  ### Question226
-What is the instability index metric calculation formula? (Ca: Afferent Coupling, Ce: Efferent Coupling)
+### What is the instability index metric calculation formula? (Ca: Afferent Coupling, Ce: Efferent Coupling)
 
 - [ ] Ca / (Ca+Ce).
 - [x] Ce / (Ca+Ce).
@@ -2641,8 +2415,7 @@ What is the instability index metric calculation formula? (Ca: Afferent Coupling
 
 _[⬆ Back to Top](#table-of-contents)_
 
-227.  ### Question227
-Which is true about the Sprint Backlog?
+### Which is true about the Sprint Backlog?
 
 - [ ] It is a list of selected Product Backlog Items that the Development Team has committed for the Sprint.
 - [ ] It contains all Product Backlog Items and requirements that could be implemented for the project.
@@ -2651,8 +2424,7 @@ Which is true about the Sprint Backlog?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-228.  ### Question228
-Which one is true about Definition of Done and Acceptance Criteria? (pick all that apply)
+### Which one is true about Definition of Done and Acceptance Criteria? (pick all that apply)
 
 - [ ] Acceptance Criteria should be passed for a feature in order to be called as complete and done.
 - [x] Acceptance Criteria should be passed to ensure that a feature is working as expected.
@@ -2662,8 +2434,7 @@ Which one is true about Definition of Done and Acceptance Criteria? (pick all th
 
 _[⬆ Back to Top](#table-of-contents)_
 
-229.  ### Question229
-Which principle is included in SOLID? (pick all that apply)
+### Which principle is included in SOLID? (pick all that apply)
 
 - [x] Liskov Substitution Principle.
 - [ ] Dual Interface Principle.
@@ -2673,16 +2444,14 @@ Which principle is included in SOLID? (pick all that apply)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-230.  ### Question230
-True or False: In an impediment case, the Scrum Master can intervene to help the Development Team to remove a member from the Development Team.
+### True or False: In an impediment case, the Scrum Master can intervene to help the Development Team to remove a member from the Development Team.
 
 - [ ] False.
 - [x] True.
 
 _[⬆ Back to Top](#table-of-contents)_
 
-231.  ### Question231
-Which one is true about the Daily Scrum? Pick 3
+### Which one is true about the Daily Scrum? Pick 3
 
 - [x] It is a feedback loop.
 - [ ] All Scrum Team members should participate in it.
@@ -2691,8 +2460,7 @@ Which one is true about the Daily Scrum? Pick 3
 
 _[⬆ Back to Top](#table-of-contents)_
 
-232.  ### Question232
-What are traits of a high performance Scrum Team? (pick all that apply)
+### What are traits of a high performance Scrum Team? (pick all that apply)
 
 - [x] They live the Scrum Values deeply.
 - [x] They help their customers become more successful.
@@ -2702,8 +2470,7 @@ What are traits of a high performance Scrum Team? (pick all that apply)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-233.  ### Question233
-Who knows best about how to create usable and releasable Increments?
+### Who knows best about how to create usable and releasable Increments?
 
 - [x] The Development Team.
 - [ ] The Scrum Master.
@@ -2712,16 +2479,14 @@ Who knows best about how to create usable and releasable Increments?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-234.  ### Question234
-True or False: Interface Segregation principle implies that a client should never be forced to implement an interface that it doesn’t use.
+### True or False: Interface Segregation principle implies that a client should never be forced to implement an interface that it doesn’t use.
 
 - [ ] False.
 - [x] True.
 
 _[⬆ Back to Top](#table-of-contents)_
 
-235.  ### Question235
-Who is responsible for the Product Backlog Items and tasks estimation in Scrum?
+### Who is responsible for the Product Backlog Items and tasks estimation in Scrum?
 
 - [ ] The Product Owner.
 - [ ] The Scrum Master.
@@ -2730,8 +2495,7 @@ Who is responsible for the Product Backlog Items and tasks estimation in Scrum?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-236.  ### Question236
-How do the Developers divide into multiple teams in scaled Scrum?
+### How do the Developers divide into multiple teams in scaled Scrum?
 
 - [ ] The top Management divides them.
 - [x] The Developers divide themselves.
@@ -2740,8 +2504,7 @@ How do the Developers divide into multiple teams in scaled Scrum?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-237.  ### Question237
-What should the Development Team do when there is no standard contract to create a releasable Product?
+### What should the Development Team do when there is no standard contract to create a releasable Product?
 
 - [ ] Ask the Product Owner to make a Definition of Done.
 - [ ] Ask Project Manager to help them.
@@ -2750,16 +2513,14 @@ What should the Development Team do when there is no standard contract to create
 
 _[⬆ Back to Top](#table-of-contents)_
 
-238.  ### Question238
-True or False: Through the Sprint Review, the Scrum Team tries to hand-off the Increment to the Customer formally.
+### True or False: Through the Sprint Review, the Scrum Team tries to hand-off the Increment to the Customer formally.
 
 - [x] False.
 - [ ] True.
 
 _[⬆ Back to Top](#table-of-contents)_
 
-239.  ### Question239
-Which Scrum Values are adhered by not building Product Backlog items that have low business value? Pick 3
+### Which Scrum Values are adhered by not building Product Backlog items that have low business value? Pick 3
 
 - [x] Courage.
 - [x] Respect.
@@ -2769,8 +2530,7 @@ Which Scrum Values are adhered by not building Product Backlog items that have l
 
 _[⬆ Back to Top](#table-of-contents)_
 
-240.  ### Question240
-Which one is true about Design Patterns?
+### Which one is true about Design Patterns?
 
 - [x] Is a general, reusable solution to a commonly occurring problem within a given context in Software Design.
 - [ ] Is a low-fidelity UI pattern that can be called sketch.
@@ -2779,8 +2539,7 @@ Which one is true about Design Patterns?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-241.  ### Question241
-Which Scrum events can use more time rather than their time-box if there are 9 Developers (the maximum Development Team size) in the Team?
+### Which Scrum events can use more time rather than their time-box if there are 9 Developers (the maximum Development Team size) in the Team?
 
 - [ ] The Daily Scrum.
 - [ ] The Sprint Retrospective.
@@ -2789,8 +2548,7 @@ Which Scrum events can use more time rather than their time-box if there are 9 D
 
 _[⬆ Back to Top](#table-of-contents)_
 
-242.  ### Question242
-Product Backlog items are refined by:
+### Product Backlog items are refined by:
 
 - [ ] The Business Analyst and the Product Owner.
 - [ ] The Development Team.
@@ -2799,8 +2557,7 @@ Product Backlog items are refined by:
 
 _[⬆ Back to Top](#table-of-contents)_
 
-243.  ### Question243
-Select the desirable characteristics of a Unit Test. (choose the best four answers)
+### Select the desirable characteristics of a Unit Test. (choose the best four answers)
 
 - [x] Code in each test is as small as possible while maintaining readability of the code.
 - [x] Each test is independent of other Unit Tests.
@@ -2810,8 +2567,7 @@ Select the desirable characteristics of a Unit Test. (choose the best four answe
 
 _[⬆ Back to Top](#table-of-contents)_
 
-244.  ### Question244
-Should User Stories be part of the documentation generated by a Scrum project?
+### Should User Stories be part of the documentation generated by a Scrum project?
 
 - [ ] Always.
 - [ ] If the Architect requires it.
@@ -2821,8 +2577,7 @@ Should User Stories be part of the documentation generated by a Scrum project?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-245.  ### Question245
-The Definition of Done describes the work that must be completed for every Product Backlog item before it can be deemed releasable. What should the Development Team do when, during the Sprint, it finds out that a problem outside of their control blocks them from doing all this work?
+### The Definition of Done describes the work that must be completed for every Product Backlog item before it can be deemed releasable. What should the Development Team do when, during the Sprint, it finds out that a problem outside of their control blocks them from doing all this work?
 
 - [ ] Cancel the Sprint.
 - [ ] Complete the work that can be done on as much scope as possible and complete the rest during the "hardening" Sprints at the end of the release.
@@ -2832,8 +2587,7 @@ The Definition of Done describes the work that must be completed for every Produ
 
 _[⬆ Back to Top](#table-of-contents)_
 
-246.  ### Question246
-To refine Product Backlog items, the following activities will occur implicitly or explicitly: (choose all that apply)
+### To refine Product Backlog items, the following activities will occur implicitly or explicitly: (choose all that apply)
 
 - [x] Analysis.
 - [x] Decomposition.
@@ -2843,24 +2597,21 @@ To refine Product Backlog items, the following activities will occur implicitly 
 
 _[⬆ Back to Top](#table-of-contents)_
 
-247.  ### Question247
-True or False: Only technical writers can create documentation during a Sprint.
+### True or False: Only technical writers can create documentation during a Sprint.
 
 - [ ] True.
 - [x] False.
 
 _[⬆ Back to Top](#table-of-contents)_
 
-248.  ### Question248
-True or False: The Scrum Team should choose at least one high priority process improvement, identified during the Sprint Retrospective, and place it in the Product Backlog.
+### True or False: The Scrum Team should choose at least one high priority process improvement, identified during the Sprint Retrospective, and place it in the Product Backlog.
 
 - [ ] True.
 - [x] False.
 
 _[⬆ Back to Top](#table-of-contents)_
 
-249.  ### Question249
-What are reasons to automate the Software build process? (choose the best two answers)
+### What are reasons to automate the Software build process? (choose the best two answers)
 
 - [x] Automation improves the quality of Software by making builds less error-prone.
 - [ ] Code Reviews are much faster if you automate your build.
@@ -2869,8 +2620,7 @@ What are reasons to automate the Software build process? (choose the best two an
 
 _[⬆ Back to Top](#table-of-contents)_
 
-250.  ### Question250
-What are some shortcomings of Code Coverage as a measurement for how well a system or Product is tested? (choose the best three answers)
+### What are some shortcomings of Code Coverage as a measurement for how well a system or Product is tested? (choose the best three answers)
 
 - [x] Code Coverage does not ensure that the most important or highest risk areas of the code are being exercised by tests.
 - [x] Code Coverage does not necessarily provide functional coverage.
@@ -2880,8 +2630,7 @@ What are some shortcomings of Code Coverage as a measurement for how well a syst
 
 _[⬆ Back to Top](#table-of-contents)_
 
-251.  ### Question251
-What are three advantages of Continuous Integration? (choose the best three answers)
+### What are three advantages of Continuous Integration? (choose the best three answers)
 
 - [x] Broken builds are detected quickly.
 - [x] Know immediately how a check-in affected the build.
@@ -2890,8 +2639,7 @@ What are three advantages of Continuous Integration? (choose the best three answ
 
 _[⬆ Back to Top](#table-of-contents)_
 
-252.  ### Question252
-What are ways a Development Team can ensure a good Application Architecture? (choose the best two answers)
+### What are ways a Development Team can ensure a good Application Architecture? (choose the best two answers)
 
 - [ ] A Development Team doesn't need an architecture model in Scrum and should focus on adding functionality. The architecture will come into place without fail as the Development Team adds functionality.
 - [ ] The Development Team plans a Sprint 0 at the beginning of a project with the objective of developing an architecture model used during the following Sprints.
@@ -2901,8 +2649,7 @@ What are ways a Development Team can ensure a good Application Architecture? (ch
 
 _[⬆ Back to Top](#table-of-contents)_
 
-253.  ### Question253
-What does a test written with Test Driven Development represent?
+### What does a test written with Test Driven Development represent?
 
 - [ ] A bug that will be uncovered.
 - [x] A technical requirement that must be satisfied.
@@ -2911,8 +2658,7 @@ What does a test written with Test Driven Development represent?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-254.  ### Question254
-What does Code Coverage show?
+### What does Code Coverage show?
 
 - [x] Code being exercised by tests.
 - [ ] The absence of defects in code.
@@ -2922,8 +2668,7 @@ What does Code Coverage show?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-255.  ### Question255
-What is a Unit Test?
+### What is a Unit Test?
 
 - [ ] A technique for ensuring that units of co-dependent or clustered computers perform correctly.
 - [x] A test that isolates and verifies individual units of source code.
@@ -2932,8 +2677,7 @@ What is a Unit Test?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-256.  ### Question256
-What is Code Coverage?
+### What is Code Coverage?
 
 - [ ] An insurance policy that covers the code for defects.
 - [x] The degree to which the system under test has been exercised by tests.
@@ -2942,8 +2686,7 @@ What is Code Coverage?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-257.  ### Question257
-What is NOT Test Driven Development?
+### What is NOT Test Driven Development?
 
 - [ ] A predictable way to develop working, clean code.
 - [ ] A Software Development technique based on automated tests.
@@ -2952,8 +2695,7 @@ What is NOT Test Driven Development?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-258.  ### Question258
-What is Pair Programming?
+### What is Pair Programming?
 
 - [ ] A Developer and a Tester work together to write and test code.
 - [ ] Managers doing performance reviews by comparing one programmer's code to another's.
@@ -2963,8 +2705,7 @@ What is Pair Programming?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-259.  ### Question259
-What is Technical Debt?
+### What is Technical Debt?
 
 - [x] A term representing the eventual consequences of poor technical choices.
 - [ ] Code that has not been commented or documented.
@@ -2973,8 +2714,7 @@ What is Technical Debt?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-260.  ### Question260
-What is the value of Refactoring code?
+### What is the value of Refactoring code?
 
 - [ ] To have all code in a single file for easy printing and Code Reviews.
 - [x] To improve readability and maintainability.
@@ -2983,8 +2723,7 @@ What is the value of Refactoring code?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-261.  ### Question261
-What relationship does Scrum have to technical practices?
+### What relationship does Scrum have to technical practices?
 
 - [ ] All technical practices must be used to support Scrum.
 - [x] Scrum Development Teams with excellent technical practices will likely be more successful.
@@ -2993,8 +2732,7 @@ What relationship does Scrum have to technical practices?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-262.  ### Question262
-When are Testers and quality experts ideally included in a project?
+### When are Testers and quality experts ideally included in a project?
 
 - [ ] After Developer handoff.
 - [ ] After Sprint Review.
@@ -3003,8 +2741,7 @@ When are Testers and quality experts ideally included in a project?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-263.  ### Question263
-When does the Development Team participate in Product Backlog Refinement?
+### When does the Development Team participate in Product Backlog Refinement?
 
 - [x] Anytime during the Sprint.
 - [ ] As Part 1 of the Sprint Planning meeting.
@@ -3013,8 +2750,7 @@ When does the Development Team participate in Product Backlog Refinement?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-264.  ### Question264
-When is a System's Architecture decided?
+### When is a System's Architecture decided?
 
 - [ ] In the beginning of the project, during Sprint 0.
 - [ ] It is designed along with the vision, before the first Sprint.
@@ -3023,8 +2759,7 @@ When is a System's Architecture decided?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-265.  ### Question265
-Which are attributes of a good bug report? (choose all that apply)
+### Which are attributes of a good bug report? (choose all that apply)
 
 - [x] Build/version where bug was found.
 - [x] Clear title and proper grammar in report.
@@ -3035,8 +2770,7 @@ Which are attributes of a good bug report? (choose all that apply)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-266.  ### Question266
-Which are potential benefits of Test Driven Development? (choose all that apply)
+### Which are potential benefits of Test Driven Development? (choose all that apply)
 
 - [x] It causes you to construct a test harness that can be automated.
 - [x] It improves quality and reduces bugs.
@@ -3045,8 +2779,7 @@ Which are potential benefits of Test Driven Development? (choose all that apply)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-267.  ### Question267
-Which describes the practice of expressing requirements as Acceptance Tests?
+### Which describes the practice of expressing requirements as Acceptance Tests?
 
 - [x] Acceptance Test Driven Development.
 - [ ] Object Driven Requirements Definition.
@@ -3055,8 +2788,7 @@ Which describes the practice of expressing requirements as Acceptance Tests?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-268.  ### Question268
-Which is a benefit of establishing naming standards for code?
+### Which is a benefit of establishing naming standards for code?
 
 - [ ] To communicate the name of the Developer that worked on the code.
 - [ ] To ensure that "orphan functions" are not created.
@@ -3065,8 +2797,7 @@ Which is a benefit of establishing naming standards for code?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-269.  ### Question269
-Which of the following are benefits of Continuous Integration? (choose the best two answers)
+### Which of the following are benefits of Continuous Integration? (choose the best two answers)
 
 - [x] Causes team members to consider each other's work and context.
 - [ ] It eliminates bugs completely.
@@ -3075,8 +2806,7 @@ Which of the following are benefits of Continuous Integration? (choose the best 
 
 _[⬆ Back to Top](#table-of-contents)_
 
-270.  ### Question270
-Which of the following are NOT metrics of Code Quality? (choose all that apply)
+### Which of the following are NOT metrics of Code Quality? (choose all that apply)
 
 - [ ] Class Coupling.
 - [x] Code Coverage.
@@ -3086,8 +2816,7 @@ Which of the following are NOT metrics of Code Quality? (choose all that apply)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-271.  ### Question271
-Which of the following best describes Continuous Integration?
+### Which of the following best describes Continuous Integration?
 
 - [ ] A Software Development practice that continuously integrates feedback from users into Software Design.
 - [ ] A Software Development practice used by Integration Teams to create Best Practice branching and merging strategies.
@@ -3096,8 +2825,7 @@ Which of the following best describes Continuous Integration?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-272.  ### Question272
-Which of the following describe an Architecture Spike?
+### Which of the following describe an Architecture Spike?
 
 - [ ] A decision made by a Systems Architect to settle disagreement within a Development Team.
 - [ ] A fundamental architectural problem found in an existing application.
@@ -3106,8 +2834,7 @@ Which of the following describe an Architecture Spike?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-273.  ### Question273
-Which statement describes how often the build should be executed?
+### Which statement describes how often the build should be executed?
 
 - [ ] As often as possible, and certainly prior to the end of the Sprint.
 - [ ] Once per day.
@@ -3116,8 +2843,7 @@ Which statement describes how often the build should be executed?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-274.  ### Question274
-Which statement describes Test First Development (TFD)?
+### Which statement describes Test First Development (TFD)?
 
 - [x] Designing tests before satisfying them.
 - [ ] Having the Tester in the Development Team write the test plans before coding.
@@ -3126,8 +2852,7 @@ Which statement describes Test First Development (TFD)?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-275.  ### Question275
-Which statements describe why automated builds are important? (choose the best three answers)
+### Which statements describe why automated builds are important? (choose the best three answers)
 
 - [x] They allow frequent validation of the unit of Software being worked on, ensuring it remains in a potentially shippable state.
 - [x] The build process is clearly defined and scripted, making it easy consistent and repeatable.
@@ -3137,8 +2862,7 @@ Which statements describe why automated builds are important? (choose the best t
 
 _[⬆ Back to Top](#table-of-contents)_
 
-276.  ### Question276
-While changing Software, you find a bug in a previously delivered piece of functionality. What should you do?
+### While changing Software, you find a bug in a previously delivered piece of functionality. What should you do?
 
 - [ ] Fix the bug.
 - [x] Fix the bug if it is critical or easily fixed. Otherwise, put the new bug into the Product Backlog to be prioritized and fixed in an upcoming Sprint.
@@ -3147,8 +2871,7 @@ While changing Software, you find a bug in a previously delivered piece of funct
 
 _[⬆ Back to Top](#table-of-contents)_
 
-277.  ### Question277
-Who is responsible for the System Architecture of a Product being developed using Scrum?
+### Who is responsible for the System Architecture of a Product being developed using Scrum?
 
 - [ ] The Architect chosen by the Development Team.
 - [ ] The Corporate Architect.
@@ -3157,8 +2880,7 @@ Who is responsible for the System Architecture of a Product being developed usin
 
 _[⬆ Back to Top](#table-of-contents)_
 
-278.  ### Question278
-Who must be present at the Daily Scrum meeting?
+### Who must be present at the Daily Scrum meeting?
 
 - [ ] Anyone who wants to attend.
 - [ ] No one is required, anyone who wishes to attend is welcome.
@@ -3168,8 +2890,7 @@ Who must be present at the Daily Scrum meeting?
 
 _[⬆ Back to Top](#table-of-contents)_
 
-279.  ### Question279
-Who should be present during Product Backlog Refinement? (choose all that apply)
+### Who should be present during Product Backlog Refinement? (choose all that apply)
 
 - [ ] Only the most senior people from the Development Team.
 - [x] The Development Team.
@@ -3180,8 +2901,7 @@ Who should be present during Product Backlog Refinement? (choose all that apply)
 
 _[⬆ Back to Top](#table-of-contents)_
 
-280.  ### Question280
-You are on a Scrum Team that is enhancing an existing Product. Which is the LEAST useful piece of documentation you want to have at your disposal?
+### You are on a Scrum Team that is enhancing an existing Product. Which is the LEAST useful piece of documentation you want to have at your disposal?
 
 - [ ] Acceptance Tests.
 - [ ] Detailed designs.
