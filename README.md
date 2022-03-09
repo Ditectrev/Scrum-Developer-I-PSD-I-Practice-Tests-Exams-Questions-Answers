@@ -271,8 +271,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 192 | [In Software Development, which acronym is NOT true?](#in-software-development-which-acronym-is-not-true) |
 | 193 | [Where does Smoke testing originate from?](#where-does-smoke-testing-originate-from) |
 | 194 | [What is the goal of the Continuous Integration?](#what-is-the-goal-of-the-continuous-integration) |
-| 195 | [What kind of activity can be done in the Product Backlog Refinement?
-](#what-kind-of-activity-can-be-done-in-the-product-backlog-refinement) |
+| 195 | [What kind of activity can be done in the Product Backlog Refinement?](#what-kind-of-activity-can-be-done-in-the-product-backlog-refinement) |
 | 196 | [What is the recommended size of the Development Team?](#what-is-the-recommended-size-of-the-development-team) |
 | 197 | [What are the duties of the Development Team in a Scrum Team?](#what-are-the-duties-of-the-development-team-in-a-scrum-team) |
 | 198 | [Which one is true about the scaled Scrum? Pick 2](#which-one-is-true-about-the-scaled-scrum-pick-2) |
