@@ -110,7 +110,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 31  | [Which four are benefits of Test Driven Development?](#which-four-are-benefits-of-test-driven-development)   |
 | 32  | [Which are three attributes of a bad bug report?](#which-are-three-attributes-of-a-bad-bug-report)   |
 | 33  | [When using Scrum, can a Scrum Team use Continuous Delivery?](#when-using-scrum-can-a-scrum-team-use-continuous-delivery)   |
-| 34  | [You are asked to refactor part of the codebase for Application X. When you are done, all Unit Tests pass with 50% Code Coverage. What can you infer from this?](#you-are-asked-to-refactor-part-of-the-codebase-for-application-x-when-you-are-done-all-unit-tests-pass-with-50%-code-coverage-what-can-you-infer-from-this)   |
+| 34  | [You are asked to refactor part of the codebase for Application X. When you are done, all Unit Tests pass with 50% Code Coverage. What can you infer from this?](#you-are-asked-to-refactor-part-of-the-codebase-for-application-x-when-you-are-done-all-unit-tests-pass-with-50-code-coverage-what-can-you-infer-from-this)   |
 | 35  | [What are two ways that regulatory compliance issues are dealt with in Scrum?](#what-are-two-ways-that-regulatory-compliance-issues-are-dealt-with-in-scrum)   |
 | 36  | [True or False: User Stories are required in the Product Backlog.](#true-or-false-user-stories-are-required-in-the-product-backlog)   |
 | 37  | [In Software Development, DRY refers to:](#in-software-development-dry-refers-to)   |
