@@ -125,7 +125,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 46  | [Which of the following are DevOps Practices?](#which-of-the-following-are-devops-practices)   |
 | 47  | [While practicing Test Driven Development, what is done after the test fails?](#while-practicing-test-driven-development-what-is-done-after-the-test-fails)   |
 | 48  | [What tactic should a Scrum Master use to divide a group of 100 people into multiple Scrum Teams?](#what-tactic-should-a-scrum-master-use-to-divide-a-group-of-100-people-into-multiple-scrum-teams)   |
-| 49  | [Developers are blocked by an impediment in the middle of the Sprint. The impediment is outside the Developer's control. What should they do?](#developers-are-blocked-by-an-impediment-in-the-middle-of-the-sprint-the-impediment-is-outside-the-developer's-control-what-should-they-do)   |
+| 49  | [Developers are blocked by an impediment in the middle of the Sprint. The impediment is outside the Developer's control. What should they do?](#developers-are-blocked-by-an-impediment-in-the-middle-of-the-sprint-the-impediment-is-outside-the-developers-control-what-should-they-do)   |
 | 50  | [What is an Integration Test?](#what-is-an-integration-test)   |
 | 51  | [Which of the following describes the focus of the first way of DevOps?](#which-of-the-following-describes-the-focus-of-the-first-way-of-devops)   |
 | 52  | [Which of the following is true about the Definition of Done?](#which-of-the-following-is-true-about-the-definition-of-done)   |
