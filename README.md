@@ -239,7 +239,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 160 | [Select the correct timebox for each Scrum event.](#select-the-correct-timebox-for-each-scrum-event) |
 | 161 | [True or False: Planning Poker must be used by Scrum Teams.](#true-or-false-planning-poker-must-be-used-by-scrum-teams) |
 | 162 | [What is Test Driven Development?](#what-is-test-driven-development) |
-| 163 | [True or False: Tasks in a Sprint Backlog must be estimated in days/hours.](#true-or-false-tasks-in-a-sprint-backlog-must-be-estimated-in-days/hours) |
+| 163 | [True or False: Tasks in a Sprint Backlog must be estimated in days/hours.](#true-or-false-tasks-in-a-sprint-backlog-must-be-estimated-in-dayshours) |
 | 164 | [Who is responsible for testing in Scrum?](#who-is-responsible-for-testing-in-scrum) |
 | 165 | [Bugs discovered in Sprint should be:](#bugs-discovered-in-sprint-should-be) |
 | 166 | [True or False: YAGNI states that most systems work best if they are kept simple rather than made complicated.](#true-or-false-yagni-states-that-most-systems-work-best-if-they-are-kept-simple-rather-than-made-complicated) |
