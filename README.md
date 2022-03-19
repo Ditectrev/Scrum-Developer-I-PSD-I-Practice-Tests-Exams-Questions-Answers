@@ -339,7 +339,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 260 | [What relationship does Scrum have to technical practices?](#what-relationship-does-scrum-have-to-technical-practices) |
 | 261 | [When are Testers and quality experts ideally included in a project?](#when-are-testers-and-quality-experts-ideally-included-in-a-project) |
 | 262 | [When does the Development Team participate in Product Backlog Refinement?](#when-does-the-development-team-participate-in-product-backlog-refinement) |
-| 263 | [When is a System's Architecture decided?](#when-is-a-system's-architecture-decided) |
+| 263 | [When is a System's Architecture decided?](#when-is-a-systems-architecture-decided) |
 | 264 | [Which are attributes of a good bug report? (choose all that apply)](#which-are-attributes-of-a-good-bug-report-choose-all-that-apply) |
 | 265 | [Which are potential benefits of Test Driven Development? (choose all that apply)](#which-are-potential-benefits-of-test-driven-development-choose-all-that-apply) |
 | 266 | [Which describes the practice of expressing requirements as Acceptance Tests?](#which-describes-the-practice-of-expressing-requirements-as-acceptance-tests) |
