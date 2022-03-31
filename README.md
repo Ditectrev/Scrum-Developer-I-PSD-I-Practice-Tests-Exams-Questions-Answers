@@ -356,7 +356,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 277 | [Who must be present at the Daily Scrum meeting?](#who-must-be-present-at-the-daily-scrum-meeting) |
 | 278 | [Who should be present during Product Backlog Refinement? (choose all that apply)](#who-should-be-present-during-product-backlog-refinement-choose-all-that-apply) |
 | 279 | [You are on a Scrum Team that is enhancing an existing Product. Which is the LEAST useful piece of documentation you want to have at your disposal?](#you-are-on-a-scrum-team-that-is-enhancing-an-existing-product-which-is-the-least-useful-piece-of-documentation-you-want-to-have-at-your-disposal) |
-
+| 280 | [Test-Driven Development is a predictable way to develop working, well-organized code?](#test-driven-development-is-a-predictable-way-to-develop-working-well-organized-code) |
 
 
 ### When can Product Backlog Refinement occur?
@@ -2909,5 +2909,12 @@ _[⬆ Back to Top](#table-of-contents)_
 - [ ] Detailed designs.
 - [x] The full history of retrospective plans and lessons learned.
 - [ ] Well-structured and named code.
+
+_[⬆ Back to Top](#table-of-contents)_
+
+### Test-Driven Development is a predictable way to develop working, well-organized code?
+
+- [ ] True.
+- [x] False.
 
 _[⬆ Back to Top](#table-of-contents)_
