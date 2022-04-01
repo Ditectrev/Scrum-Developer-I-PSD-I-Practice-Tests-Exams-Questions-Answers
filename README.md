@@ -41,7 +41,7 @@
    - **Much More!**
 4. Questions are similar to the actual exam, without duplications (like in other courses ;-)).
 5. The Practice Test Exams simulate the actual exam's content, timing, and percentage required to pass the exam.
-6. 279 **unique** questions.
+6. 280 **unique** questions.
 
 ## ☝️ Course Updates
 
