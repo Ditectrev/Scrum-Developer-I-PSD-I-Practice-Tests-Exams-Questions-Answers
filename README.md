@@ -6,7 +6,7 @@
 
 ## ✨ This course is unlike any Professional Scrum Developer I (PSD I) course you will find online.
 
-✋ Join a live online community and a course taught by industry experts and pass the Professional Scrum Developer I (PSD I) confidently. We aim to build an ecosystem of Information Technology (IT) certifications and online courses in cooperation with the technology industry. We believe it will give our students 100% confidence in the pacing market in an open-source environment. We are just at the beginning of our way, so it's even better for you to join now!
+✋ Join a live online community and a course taught by industry experts and pass the Professional Scrum Developer I (PSD I) confidently. Some people use brain dumps or exam dumps, but that's absurd; we don't practice. We aim to build an ecosystem of Information Technology (IT) certifications and online courses in cooperation with the technology industry. We believe it will give our students 100% confidence in the pacing market in an open-source environment. We are just at the beginning of our way, so it's even better for you to join now!
 
 ## ⌛️ Short and to the point; why should you take the course:
 
