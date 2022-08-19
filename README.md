@@ -23,7 +23,7 @@
    - Cross-Functional Teams;
    - Cycle Time per Feature;
    - Cyclomatic Complexity;
-   - Definition of Done;
+   - Definition of Done (DoD);
    - Documentation;
    - Don't Repeat Yourself (DRY);
    - Efferent Couplings;
