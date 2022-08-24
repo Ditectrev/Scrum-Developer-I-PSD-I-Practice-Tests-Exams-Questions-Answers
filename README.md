@@ -42,7 +42,7 @@
 4. Questions are similar to the actual exam, without duplications (like in other courses ;-)).
 5. The Practice Test Exams simulate the actual exam's content, timing, and percentage required to pass the exam.
 6. This course is **not** a Professional Scrum Developer I (PSD I) Exam Dump. Some people use brain dumps or exam dumps, but that's absurd, which we don't practice.
-7. 280 **unique** questions.
+7. 281 **unique** questions.
 
 ## ☝️ Course Updates
 
@@ -358,6 +358,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 278 | [Who should be present during Product Backlog Refinement? (choose all that apply)](#who-should-be-present-during-product-backlog-refinement-choose-all-that-apply) |
 | 279 | [You are on a Scrum Team that is enhancing an existing Product. Which is the LEAST useful piece of documentation you want to have at your disposal?](#you-are-on-a-scrum-team-that-is-enhancing-an-existing-product-which-is-the-least-useful-piece-of-documentation-you-want-to-have-at-your-disposal) |
 | 280 | [Test-Driven Development is a predictable way to develop working, well-organized code?](#test-driven-development-is-a-predictable-way-to-develop-working-well-organized-code) |
+| 281 | [Which types of tests can be automated?](#which-types-of-tests-can-be-automated) |
 
 
 ### When can Product Backlog Refinement occur?
@@ -2917,5 +2918,16 @@ _[⬆ Back to Top](#table-of-contents)_
 
 - [ ] True.
 - [x] False.
+
+_[⬆ Back to Top](#table-of-contents)_
+
+### Which types of tests can be automated?
+
+- [ ] Exploratory
+- [x] Performance
+- [x] Unit
+- [x] Smoke
+- [x] Functional
+- [x] Integration
 
 _[⬆ Back to Top](#table-of-contents)_
