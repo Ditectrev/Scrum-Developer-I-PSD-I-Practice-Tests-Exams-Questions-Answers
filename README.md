@@ -1301,7 +1301,7 @@ _[⬆ Back to Top](#table-of-contents)_
 - [x] By removing titles for Development Team members.
 - [ ] By not allowing documentation.
 - [x] By being a lightweight framework.
-- [ ] By the Development Team deciding what work to do in a Sprint.
+- [x] By the Development Team deciding what work to do in a Sprint.
 
 _[⬆ Back to Top](#table-of-contents)_
 
