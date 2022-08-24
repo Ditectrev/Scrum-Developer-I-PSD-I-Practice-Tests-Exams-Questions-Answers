@@ -4,7 +4,7 @@
 
 ## Udemy
 
-❣️ Please support us by purchasing this course on Udemy in an interactive version with the [discounted link](https://www.udemy.com/course/professional-scrum-developer-i-psd-i-practice-test-exams/?referralCode=78ABF1101F34FAAD1E24). If you're working for a company, you could most probably easily claim this expense during preparation for your exam. For us, it's to be, or not to be, in the game.
+❣️ Please support us by purchasing this course on Udemy in an interactive version with the [discounted link](www.udemy.com/course/professional-scrum-developer-i-psd-i-practice-exams/?referralcode=e1e5c69cf22100d112dd). If you're working for a company, you could most probably easily claim this expense during preparation for your exam. For us, it's to be, or not to be, in the game.
 
 ## ✨ This course is unlike any Professional Scrum Developer I (PSD I) course you will find online.
 
@@ -49,7 +49,12 @@
 ## ☝️ Course Updates
 
 **[v1.0.0](https://github.com/Ditectrev/Professional-Scrum-Developer-I-PSD-I-Practice-Exams-Questions-Answers/releases/tag/v1.0.0): November 12, 2021.**
+
 - Launch of the course.
+
+**[v1.0.1](https://github.com/Ditectrev/Professional-Scrum-Developer-I-PSD-I-Practice-Exams-Questions-Answers/releases/tag/v1.0.1): August 24, 2022.**
+
+- Minor improvements since the course launch with a relaunch of the course due to misunderstanding Udemy rules by using unfortunate keywords in the title.
 
 ## 🙋‍♀️ & 🙋‍♂️ Contribution
 
