@@ -1707,7 +1707,7 @@ _[⬆ Back to Top](#table-of-contents)_
 
 - [ ] Minimum of 7.
 - [ ] 9.
-- [X] Typically 10 or fewer people.
+- [x] Typically 10 or fewer people.
 - [ ] 7 plus or minus 2.
 
 _[⬆ Back to Top](#table-of-contents)_
@@ -1715,7 +1715,7 @@ _[⬆ Back to Top](#table-of-contents)_
 ### Which statement best describes a Product Owner's responsibility? (choose the best answer)
 
 - [ ] Keep Stakeholders from distracting the Developers.
-- [X] Optimizing the value of the work the Scrum Team does.
+- [x] Optimizing the value of the work the Scrum Team does.
 - [ ] Managing the project and ensuring that the work meets the commitments to the Stakeholders.
 - [ ] Directing the Developers.
 
