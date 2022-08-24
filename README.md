@@ -2923,11 +2923,11 @@ _[⬆ Back to Top](#table-of-contents)_
 
 ### Which types of tests can be automated?
 
-- [ ] Exploratory
-- [x] Performance
-- [x] Unit
-- [x] Smoke
-- [x] Functional
-- [x] Integration
+- [ ] Exploratory.
+- [x] Performance.
+- [x] Unit.
+- [x] Smoke.
+- [x] Functional.
+- [x] Integration.
 
 _[⬆ Back to Top](#table-of-contents)_
