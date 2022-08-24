@@ -1,5 +1,7 @@
 # Professional Scrum Developer I (PSD I) Practice Exams Questions & Answers
 
+![Promotional image](images/promotional.jpeg)
+
 ## Udemy
 
 ❣️ Please support us by purchasing this course on Udemy in an interactive version with the [discounted link](https://www.udemy.com/course/professional-scrum-developer-i-psd-i-practice-test-exams/?referralCode=78ABF1101F34FAAD1E24). If you're working for a company, you could most probably easily claim this expense during preparation for your exam. For us, it's to be, or not to be, in the game.
@@ -863,6 +865,7 @@ _[⬆ Back to Top](#table-of-contents)_
 _[⬆ Back to Top](#table-of-contents)_
 
 ### Based on "Sprint 7 Burndown Chart" would you do anything different in Sprint 8?
+
 ![Burndown](images/burndown.jpg)
 
 - [ ] The Scrum Master adds additional Developers for Sprint 8.
