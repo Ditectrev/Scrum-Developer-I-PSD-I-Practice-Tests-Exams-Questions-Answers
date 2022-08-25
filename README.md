@@ -13,7 +13,7 @@
 ## ⌛️ Short and to the point; why should you take the course:
 
 1. Always happy to answer your questions on Udemy's Q&A's and outside :)
-2. Failed? Please submit a screenshot of your exam result and request an Udemy refund; we'll always accept it.
+2. Failed? Please submit a screenshot of your exam result and request a refund (via our upcoming platform, not possible on Udemy); we'll always accept it.
 3. Learn about topics, such as:
    - Architecture & Design;
    - Class Coupling;
