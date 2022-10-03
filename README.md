@@ -42,7 +42,7 @@
    - Test First Development (TFD);
    - **Much More!**
 4. Questions are similar to the actual exam, without duplications (like in other courses ;-)).
-5. The Practice Test Exams simulate the actual exam's content, timing, and percentage required to pass the exam.
+5. The Practice Tests Exams simulate the actual exam's content, timing, and percentage required to pass the exam.
 6. This course is **not** a Professional Scrum Developer I (PSD I) Exam Dump. Some people use brain dumps or exam dumps, but that's absurd, which we don't practice.
 7. 281 **unique** questions.
 
