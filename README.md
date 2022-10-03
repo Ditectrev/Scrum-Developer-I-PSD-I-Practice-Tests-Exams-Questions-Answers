@@ -1,4 +1,4 @@
-# ⬆️ Professional Scrum Developer I (PSD I) Practice Exams Questions & Answers
+# ⬆️ Professional Scrum Developer I (PSD I) Practice Tests Exams Questions & Answers
 
 ![Promotional image](images/promotional.jpeg)
 
