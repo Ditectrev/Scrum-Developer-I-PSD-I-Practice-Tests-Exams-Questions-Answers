@@ -64,15 +64,16 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - 👨‍🎓 Students preparing for the Professional Scrum Developer I (PSD I) Exam;
 - 👨‍🎓 Agile Coaches;
-- 👨‍🎓 Agile Leader;
+- 👨‍🎓 Agile Leaders;
 - 👨‍🎓 DevOps Engineers;
 - 👨‍🎓 IT Professionals;
+- 👨‍🎓 Lead Engineers;
 - 👨‍🎓 Scrum Masters;
 - 👨‍🎓 Software Developers/Engineers;
 - 👨‍🎓 Software Testers;
 - 👨‍🎓 Product Managers;
 - 👨‍🎓 Product Owners;
-- 👨‍🎓 Project Manager;
+- 👨‍🎓 Project Managers;
 - 👨‍🎓 Team Leaders.
 
 ## Requirements
