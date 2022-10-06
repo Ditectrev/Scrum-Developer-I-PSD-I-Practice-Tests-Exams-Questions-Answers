@@ -2870,8 +2870,8 @@ _[⬆ Back to Top](#table-of-contents)_
 - [x] They allow frequent validation of the unit of Software being worked on, ensuring it remains in a potentially shippable state.
 - [x] The build process is clearly defined and scripted, making it easy consistent and repeatable.
 - [ ] They eliminate the need for Build Engineers.
-- [x] They ensure your Product remains bug free.
-- [ ] They support continuous integration.
+- [ ] They ensure your Product remains bug free.
+- [x] They support continuous integration.
 
 _[⬆ Back to Top](#table-of-contents)_
 
