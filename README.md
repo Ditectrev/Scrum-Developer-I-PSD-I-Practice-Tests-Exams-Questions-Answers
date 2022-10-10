@@ -54,9 +54,11 @@
 
 **[v1.0.1](https://github.com/Ditectrev/Professional-Scrum-Developer-I-PSD-I-Practice-Exams-Questions-Answers/releases/tag/v1.0.1): August 24, 2022.**
 
+- Minor improvements since the course launch with a relaunch of the course due to misunderstanding Udemy rules by using unfortunate keywords in the title.
+
 **[v1.0.2](https://github.com/Ditectrev/Professional-Scrum-Developer-I-PSD-I-Practice-Tests-Exams-Questions-Answers/releases/tag/v1.0.2): October 10, 2022.**
 
-- Minor improvements since the course launch with a relaunch of the course due to misunderstanding Udemy rules by using unfortunate keywords in the title.
+- Fixing 1 question (https://github.com/Ditectrev/Professional-Scrum-Developer-I-PSD-I-Practice-Tests-Exams-Questions-Answers/issues/6) w/minor improvements.
 
 ## 🙋‍♀️ & 🙋‍♂️ Contribution
 
