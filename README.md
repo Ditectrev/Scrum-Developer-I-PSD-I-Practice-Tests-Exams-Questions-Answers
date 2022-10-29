@@ -190,7 +190,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 98  | [A member of the Development Team takes the Scrum Master aside to express his concerns about data security issues. What should the Scrum Master do? (choose the best answer)](#a-member-of-the-development-team-takes-the-scrum-master-aside-to-express-his-concerns-aboutdata-security-issues-what-should-the-scrum-master-do-choose-the-best-answer)   |
 | 99  | [What are two ways that architecture and infrastructure are handled in Scrum? (choose the best two answers)](#what-are-two-ways-that-architecture-and-infrastructure-are-handled-in-scrum-choose-the-best-two-answers)   |
 | 100 | [What are three ways Scrum promotes self-organization? (choose three)](#what-are-three-ways-scrum-promotes-self-organization-choose-three) |
-| 101 | [Cross-functional teams are optimized to work on one technical layer of a system only (e.g. GUI, database, middle tier, interfaces).](#cross-functional-teams-are-optimized-to-work-on-one-technical-layer-of-a-system-only-eg-gui-database-middle-tier-interfaces) |
+| 101 | [True or False: Cross-functional teams are optimized to work on one technical layer of a system only (e.g. GUI, database, middle tier, interfaces).](#true-or-false-cross-functional-teams-are-optimized-to-work-on-one-technical-layer-of-a-system-only-eg-gui-database-middle-tier-interfaces) |
 | 102 | [What are three benefits of self-organization? (choose three)](#what-are-three-benefits-of-self-organization-choose-three) |
 | 103 | [Why does a Development Team need a Sprint Goal?](#why-does-a-development-team-need-a-sprint-goal) |
 | 104 | [How should Product Backlog Items be chosen when multiple Scrum Teams work from the same Product Backlog?](#how-should-product-backlog-items-be-chosen-when-multiple-scrum-teams-work-from-the-same-product-backlog) |
@@ -369,7 +369,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 277 | [Who must be present at the Daily Scrum meeting?](#who-must-be-present-at-the-daily-scrum-meeting) |
 | 278 | [Who should be present during Product Backlog Refinement? (choose all that apply)](#who-should-be-present-during-product-backlog-refinement-choose-all-that-apply) |
 | 279 | [You are on a Scrum Team that is enhancing an existing Product. Which is the LEAST useful piece of documentation you want to have at your disposal?](#you-are-on-a-scrum-team-that-is-enhancing-an-existing-product-which-is-the-least-useful-piece-of-documentation-you-want-to-have-at-your-disposal) |
-| 280 | [Test-Driven Development is a predictable way to develop working, well-organized code?](#test-driven-development-is-a-predictable-way-to-develop-working-well-organized-code) |
+| 280 | [True or False: Test-Driven Development is a predictable way to develop working, well-organized code?](#true-or-false-test-driven-development-is-a-predictable-way-to-develop-working-well-organized-code) |
 | 281 | [Which types of tests can be automated?](#which-types-of-tests-can-be-automated) |
 
 
@@ -1319,7 +1319,7 @@ _[⬆ Back to Top](#table-of-contents)_
 
 _[⬆ Back to Top](#table-of-contents)_
 
-### Cross-functional teams are optimized to work on one technical layer of a system only (e.g. GUI, database, middle tier, interfaces).
+### True or False: Cross-functional teams are optimized to work on one technical layer of a system only (e.g. GUI, database, middle tier, interfaces).
 
 - [x] False.
 - [ ] True.
@@ -2927,7 +2927,7 @@ _[⬆ Back to Top](#table-of-contents)_
 
 _[⬆ Back to Top](#table-of-contents)_
 
-### Test-Driven Development is a predictable way to develop working, well-organized code?
+### True or False: Test-Driven Development is a predictable way to develop working, well-organized code?
 
 - [ ] True.
 - [x] False.
