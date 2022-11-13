@@ -2187,8 +2187,8 @@ _[⬆ Back to Top](#table-of-contents)_
 
 - [ ] Removing impediments.
 - [x] Making technical decisions.
-- [x] Resolving team internal conflicts.
-- [ ] Assigning value to the Product Backlog Items.
+- [ ] Resolving team internal conflicts.
+- [x] Assigning value to the Product Backlog Items.
 
 _[⬆ Back to Top](#table-of-contents)_
 
