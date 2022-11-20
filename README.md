@@ -135,7 +135,6 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 39  | [Which answer best describes Behavior Driven Development (BDD)?](#which-answer-best-describes-behavior-driven-development-bdd)   |
 | 40  | [In what ways do Developers contribute to refining the Product Backlog?](#in-what-ways-do-developers-contribute-to-refining-the-product-backlog)   |
 | 41  | [When should the Developers create their first automated build?](#when-should-the-developers-create-their-first-automated-build)   |
-| 42  | [Which of the following are quality goals in Application Architecture?](#which-of-the-following-are-quality-goals-in-application-architecture)   |
 | 43  | [How much work is required of the Developers to complete a Product Backlog Item selected during the Sprint Planning?](#how-much-work-is-required-of-the-developers-to-complete-a-product-backlog-item-selected-during-the-sprint-planning)   |
 | 44  | [Why might Developers choose to do Pair Programming?](#why-might-developers-choose-to-do-pair-programming)   |
 | 45  | [What is the role of Modeling in Scrum Teams?](#what-is-the-role-of-modeling-in-scrum-teams)   |
@@ -761,15 +760,6 @@ _[⬆ Back to Top](#table-of-contents)_
 - [ ] When the Product Owner asks for a build.
 - [ ] Just before the end of the Sprint.
 - [x] As soon as there is code in the Version Control System.
-
-_[⬆ Back to Top](#table-of-contents)_
-
-### Which of the following are quality goals in Application Architecture?
-
-- [ ] Design Pattern selection.
-- [x] Scalability.
-- [ ] Build.
-- [x] Security.
 
 _[⬆ Back to Top](#table-of-contents)_
 
