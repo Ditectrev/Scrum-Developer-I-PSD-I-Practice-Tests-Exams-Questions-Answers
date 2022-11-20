@@ -1080,8 +1080,8 @@ _[⬆ Back to Top](#table-of-contents)_
 
 ### Which best describes the Product Backlog? (choose the best answer)
 
-- [x] It contains all foreseeable tasks and requirements from which the Scrum team can develop and maintain a complete project plan.
-- [ ] It is allowed to grow and change as more is learned about the Product and its customers.
+- [ ] It contains all foreseeable tasks and requirements from which the Scrum team can develop and maintain a complete project plan.
+- [x] It is allowed to grow and change as more is learned about the Product and its customers.
 - [ ] It is baselined to follow change management processes.
 - [ ] It provides just enough information to enable a Scrum team to start the design phase of a Product.
 
