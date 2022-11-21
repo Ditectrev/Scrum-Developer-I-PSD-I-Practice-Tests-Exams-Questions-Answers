@@ -945,8 +945,8 @@ _[⬆ Back to Top](#table-of-contents)_
 - [ ] To make it easy to distinguish between different Software Products.
 - [x] To make the code more readable.
 - [ ] To communicate the identity of the Developer who worked on the code.
-- [ ] To reduce friction in a shared codebase.
-- [x] To ensure that abandoned functions are not created.
+- [x] To reduce friction in a shared codebase.
+- [ ] To ensure that abandoned functions are not created.
 
 _[⬆ Back to Top](#table-of-contents)_
 
