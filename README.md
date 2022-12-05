@@ -64,7 +64,7 @@
 
 - Fix 1 question w/minor improvements.
 
-**[v1.0.3](https://github.com/Ditectrev/Professional-Scrum-Developer-I-PSD-I-Practice-Tests-Exams-Questions-Answers/releases/tag/v1.1.0): December 5, 2022.**
+**[v1.1.0](https://github.com/Ditectrev/Professional-Scrum-Developer-I-PSD-I-Practice-Tests-Exams-Questions-Answers/releases/tag/v1.1.0): December 5, 2022.**
 
 - Fix several questions.
 
