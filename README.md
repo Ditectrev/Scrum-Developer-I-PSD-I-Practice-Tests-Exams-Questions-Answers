@@ -44,7 +44,7 @@
 4. Questions are similar to the actual exam, without duplications (like in other courses ;-)).
 5. The Practice Tests Exams simulate the actual exam's content, timing, and percentage required to pass the exam.
 6. This course is **not** a Professional Scrum Developer I (PSD I) Exam Dump. Some people use brain dumps or exam dumps, but that's absurd, which we don't practice.
-7. 281 **unique** questions.
+7. 280 **unique** questions.
 
 ## ☝️ Course Updates
 
@@ -139,6 +139,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 39  | [Which answer best describes Behavior Driven Development (BDD)?](#which-answer-best-describes-behavior-driven-development-bdd)   |
 | 40  | [In what ways do Developers contribute to refining the Product Backlog?](#in-what-ways-do-developers-contribute-to-refining-the-product-backlog)   |
 | 41  | [When should the Developers create their first automated build?](#when-should-the-developers-create-their-first-automated-build)   |
+| 42  | [Which types of tests can be automated?](#which-types-of-tests-can-be-automated) |
 | 43  | [How much work is required of the Developers to complete a Product Backlog Item selected during the Sprint Planning?](#how-much-work-is-required-of-the-developers-to-complete-a-product-backlog-item-selected-during-the-sprint-planning)   |
 | 44  | [Why might Developers choose to do Pair Programming?](#why-might-developers-choose-to-do-pair-programming)   |
 | 45  | [What is the role of Modeling in Scrum Teams?](#what-is-the-role-of-modeling-in-scrum-teams)   |
@@ -377,7 +378,6 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 278 | [Who should be present during Product Backlog Refinement? (choose all that apply)](#who-should-be-present-during-product-backlog-refinement-choose-all-that-apply) |
 | 279 | [You are on a Scrum Team that is enhancing an existing Product. Which is the LEAST useful piece of documentation you want to have at your disposal?](#you-are-on-a-scrum-team-that-is-enhancing-an-existing-product-which-is-the-least-useful-piece-of-documentation-you-want-to-have-at-your-disposal) |
 | 280 | [True or False: Test-Driven Development is a predictable way to develop working, well-organized code?](#true-or-false-test-driven-development-is-a-predictable-way-to-develop-working-well-organized-code) |
-| 281 | [Which types of tests can be automated?](#which-types-of-tests-can-be-automated) |
 
 
 ### When can Product Backlog Refinement occur?
@@ -764,6 +764,17 @@ _[⬆ Back to Top](#table-of-contents)_
 - [ ] When the Product Owner asks for a build.
 - [ ] Just before the end of the Sprint.
 - [x] As soon as there is code in the Version Control System.
+
+_[⬆ Back to Top](#table-of-contents)_
+
+### Which types of tests can be automated?
+
+- [ ] Exploratory.
+- [x] Performance.
+- [x] Unit.
+- [x] Smoke.
+- [x] Functional.
+- [x] Integration.
 
 _[⬆ Back to Top](#table-of-contents)_
 
@@ -2932,13 +2943,3 @@ _[⬆ Back to Top](#table-of-contents)_
 
 _[⬆ Back to Top](#table-of-contents)_
 
-### Which types of tests can be automated?
-
-- [ ] Exploratory.
-- [x] Performance.
-- [x] Unit.
-- [x] Smoke.
-- [x] Functional.
-- [x] Integration.
-
-_[⬆ Back to Top](#table-of-contents)_
