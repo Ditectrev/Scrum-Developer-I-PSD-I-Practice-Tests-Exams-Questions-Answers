@@ -1014,8 +1014,8 @@ _[⬆ Back to Top](#table-of-contents)_
 
 ### Which is LEAST useful when measuring Code Maintainability?
 
-- [ ] Function Points.
-- [x] Cyclomatic Complexity.
+- [x] Function Points.
+- [ ] Cyclomatic Complexity.
 - [ ] Depth of Inheritance.
 
 _[⬆ Back to Top](#table-of-contents)_
