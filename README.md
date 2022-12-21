@@ -799,10 +799,10 @@ _[⬆ Back to Top](#table-of-contents)_
 
 ### What is the role of Modeling in Scrum Teams?
 
-- [x] Models are not used by agile teams.
+- [ ] Models are not used by agile teams.
 - [ ] Models are maintained along with the Software as it emerges.
 - [ ] Models are assembly instructions for the Developers.
-- [ ] Modeling may be useful to increase shared understanding.
+- [x] Modeling may be useful to increase shared understanding.
 
 _[⬆ Back to Top](#table-of-contents)_
 
