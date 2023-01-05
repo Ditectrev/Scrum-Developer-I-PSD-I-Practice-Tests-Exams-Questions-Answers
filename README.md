@@ -520,7 +520,7 @@ _[⬆ Back to Top](#table-of-contents)_
 
 - [ ] Readability of code is improved.
 - [x] Know immediately how a change affected the Product.
-- [ ] The feature-branch is generally kept in a buildable.
+- [ ] The feature-branch is generally kept in a buildable state.
 - [x] Reduce effort and risk when integrating changes.
 
 _[⬆ Back to Top](#table-of-contents)_
