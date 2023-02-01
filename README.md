@@ -2947,3 +2947,80 @@ _[⬆ Back to Top](#table-of-contents)_
 
 _[⬆ Back to Top](#table-of-contents)_
 
+### The Scrum Team should have all the skills needed to : (choose the best answer)
+
+- [ ] Do all of the development work, exept for specialized testing that requires additional tools and environments.
+- [ ] Complete the project within the date and cost as calculated by the Product Owner.
+- [x] Turn Product Backlog item into a valuable, useful Increment.
+
+### Who determines when it is appropriate to update the Sprint Backlog during a Sprint? (choose the best answer)
+
+- [ ] The scrum Team.
+- [ ] The Project Manager.
+- [ ] The Product Owner.
+- [x] The developers.
+
+### What is the Scrum Master responsible for during the Sprint Restrospective ? (choose the best answer)
+
+- [ ] Summerizing and reporting the discussions to managment.
+- [ ] Acting as a scribe to capture the Scrum Team's answers.
+- [x] Participating as a Scrum Team memeber and facilitating as requested or needed.
+- [ ] Priorizing the resulting action items.
+
+### The right time to refactor code using Test-Driven Development is : (choose the best answer)
+
+- [ ] When I can see the "debt" building in the code.
+- [ ] When preparing legacy code for unit tests.
+- [x] After the test passes.
+- [ ] After the test fails.
+
+### When should Produt Backlog refinement occur ? (choose the best answer)
+
+- [x] Anythime the Scrum Team feels Product Backlog items require more precision.
+- [ ] Always prior to Sprint Planning.
+- [ ] Only during refinement meetings planned by the Product Owner.
+- [ ] Only during Sprint Planning.
+
+### Why is archittectural layering importat for emergent systems ? (choose the best three answers)
+
+- [x] Layering makes it easier to reuse functionality.
+- [ ] Layering assigns clear responsabilities to individual Developers.
+- [x] Layering separates different logical concerns withing the system.
+- [x] Layering increases maintaainability of a system by isolating functional responsibilites.
+
+### Is it a good idea to follow each automated build with the execution of automated tests.
+
+- [ ] Yes. Code coverege can be used to assess progress.
+- [ ] No. Automated tests should be executed when the implementation of a Product Backlog item is complete.
+- [x] Yes. The tests may idenify weather there are problems tha the developers should fix before proceeding.
+- [ ] No. Ot would take too much time.
+
+### What is Pair Programming ? (choose the best answer)
+
+- [ ] Developpers that are able to write code both in the back-end and the front-end.
+- [x] Two Developpers working on the same problem, at the same computer (physically or virtually), at the same time.
+- [ ] Two persons working on the same Product Backlog item trying tto get it one as soon as possible.
+- [ ] A Tester and a Developer working together to ensure high quality.
+
+### What are the top three benefits of a good Definition of Done? (choose the best three answers)
+
+- [x] Clear Communication of the Scrum Team's quality standards.
+- [x] A fully valuable, useful Increment by the end of each Sprint.
+- [ ] An ongoing strategy or technique for steadely adressing technical debt.
+- [x] Guidance on the specific patterns to be implemented in code.
+- [ ] A full description of all test steps.
+
+### Whih best describes the practice of branching code in a version control system ? (choose the best answer)
+
+- [ ] Tagging or labelling a particular codebase as ready for distribution.
+- [x] Creating a dublicate of existing code, isolated from the original code.
+- [ ] Releasing a specific codebase into a production environment.
+- [ ] Combining two or more branches of code into a signe codebase.
+
+### Cyclomatic complexity is a metric for: (choose the best answer)
+
+- [ ] Assessing if code is written in as few lines as possible.
+- [ ] A measurement for complexity based on the number of people involved.
+- [ ] Determinine the number of unit tests required to ensure correctness.
+- [ ] Demonstratin code is well structured and cleanly implementd.
+- [x] Measuring branching structures and nesting levels in code.
