@@ -38,13 +38,13 @@
    - Spying;
    - Stubbing;
    - Technical Debt;
-   - Test-Driven Development (TDD);
+   - Test Driven Development (TDD);
    - Test First Development (TFD);
    - **Much More!**
 4. Questions are similar to the actual exam, without duplications (like in other courses ;-)).
 5. The Practice Tests Exams simulate the actual exam's content, timing, and percentage required to pass the exam.
 6. This course is **not** a Professional Scrum Developer I (PSD I) Exam Dump. Some people use brain dumps or exam dumps, but that's absurd, which we don't practice.
-7. 280 **unique** questions.
+7. 291 **unique** questions.
 
 ## ☝️ Course Updates
 
@@ -381,7 +381,18 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 277 | [Who must be present at the Daily Scrum meeting?](#who-must-be-present-at-the-daily-scrum-meeting) |
 | 278 | [Who should be present during Product Backlog Refinement? (choose all that apply)](#who-should-be-present-during-product-backlog-refinement-choose-all-that-apply) |
 | 279 | [You are on a Scrum Team that is enhancing an existing Product. Which is the LEAST useful piece of documentation you want to have at your disposal?](#you-are-on-a-scrum-team-that-is-enhancing-an-existing-product-which-is-the-least-useful-piece-of-documentation-you-want-to-have-at-your-disposal) |
-| 280 | [True or False: Test-Driven Development is a predictable way to develop working, well-organized code?](#true-or-false-test-driven-development-is-a-predictable-way-to-develop-working-well-organized-code) |
+| 280 | [True or False: Test Driven Development is a predictable way to develop working, well-organized code?](#true-or-false-test-driven-development-is-a-predictable-way-to-develop-working-well-organized-code) |
+| 281 | [The Scrum Team should have all the skills needed to: (choose the best answer)](#the-scrum-team-should-have-all-the-skills-needed-to-choose-the-best-answer) |
+| 282 | [Who determines when it is appropriate to update the Sprint Backlog during a Sprint? (choose the best answer)](#who-determines-when-it-is-appropriate-to-update-the-sprint-backlog-during-a-sprint-choose-the-best-answer) |
+| 283 | [What is the Scrum Master responsible for during the Sprint Restrospective? (choose the best answer)](#what-is-the-scrum-master-responsible-for-during-the-sprint-restrospective-choose-the-best-answer) |
+| 284 | [The right time to refactor code using Test Driven Development is: (choose the best answer)](#the-right-time-to-refactor-code-using-test-driven-development-is-choose-the-best-answer) |
+| 285 | [When should Product Backlog refinement occur? (choose the best answer)](#when-should-product-backlog-refinement-occur-choose-the-best-answer) |
+| 286 | [Why is architectural layering important for emergent systems? (choose the best three answers)](#why-is-architectural-layering-important-for-emergent-systems-choose-the-best-three-answers) |
+| 287 | [Is it a good idea to follow each automated build with the execution of automated tests?](#is-it-a-good-idea-to-follow-each-automated-build-with-the-execution-of-automated-tests?) |
+| 288 | [What is Pair Programming? (choose the best answer)](#what-is-pair-programming-choose-the-best-answer) |
+| 289 | [What are the top three benefits of a good Definition of Done? (choose the best three answers)](#what-are-the-top-three-benefits-of-a-good-definition-of-done-choose-the-best-three-answers) |
+| 290 | [Which best describes the practice of branching code in a version control system? (choose the best answer)](#which-best-describes-the-practice-of-branching-code-in-a-version-control-system-choose-the-best-answer) |
+| 291 | [Cyclomatic Complexity is a metric for: (choose the best answer)](#cyclomatic-complexity-is-a-metric-for-choose-the-best-answer) |
 
 
 ### When can Product Backlog Refinement occur?
@@ -813,11 +824,11 @@ _[⬆ Back to Top](#table-of-contents)_
 ### Which of the following are DevOps Practices?
 
 - [ ] Continuous Integration / Continuous Deployment / Continuous Delivery.
-- [x] Blue-Green Deployment.
+- [ ] Blue-Green Deployment.
 - [ ] Hypothesis Driven Development.
 - [ ] Vertical Teams.
 - [ ] Blameless Postmortem.
-- [ ] All of the above.
+- [x] All of the above.
 
 _[⬆ Back to Top](#table-of-contents)_
 
@@ -2288,7 +2299,7 @@ _[⬆ Back to Top](#table-of-contents)_
 
 ### Which one is a code metric? (pick all that apply)
 
-- [x] Code Coverage.
+- [ ] Code Coverage.
 - [x] Lines of Code.
 - [ ] Automated Build.
 - [ ] Test Doubles.
@@ -2718,7 +2729,7 @@ _[⬆ Back to Top](#table-of-contents)_
 
 ### What is NOT Test Driven Development?
 
-- [ ] A predictable way to develop working, clean code.
+- [x] A predictable way to develop working, clean code.
 - [ ] A Software Development technique based on automated tests.
 - [ ] An incremental and emergent approach to Software Design.
 - [x] Testing existing Software before developing any new Software.
@@ -2940,87 +2951,109 @@ _[⬆ Back to Top](#table-of-contents)_
 
 _[⬆ Back to Top](#table-of-contents)_
 
-### True or False: Test-Driven Development is a predictable way to develop working, well-organized code?
+### True or False: Test Driven Development is a predictable way to develop working, well-organized code?
 
 - [ ] True.
 - [x] False.
 
 _[⬆ Back to Top](#table-of-contents)_
 
-### The Scrum Team should have all the skills needed to : (choose the best answer)
+### The Scrum Team should have all the skills needed to: (choose the best answer)
 
-- [ ] Do all of the development work, exept for specialized testing that requires additional tools and environments.
+- [ ] Do all of the development work, except for specialized testing that requires additional tools and environments.
 - [ ] Complete the project within the date and cost as calculated by the Product Owner.
 - [x] Turn Product Backlog item into a valuable, useful Increment.
 
+_[⬆ Back to Top](#table-of-contents)_
+
 ### Who determines when it is appropriate to update the Sprint Backlog during a Sprint? (choose the best answer)
 
-- [ ] The scrum Team.
+- [ ] The Scrum Team.
 - [ ] The Project Manager.
 - [ ] The Product Owner.
-- [x] The developers.
+- [x] The Developers.
 
-### What is the Scrum Master responsible for during the Sprint Restrospective ? (choose the best answer)
+_[⬆ Back to Top](#table-of-contents)_
+
+### What is the Scrum Master responsible for during the Sprint Restrospective? (choose the best answer)
 
 - [ ] Summerizing and reporting the discussions to managment.
 - [ ] Acting as a scribe to capture the Scrum Team's answers.
-- [x] Participating as a Scrum Team memeber and facilitating as requested or needed.
-- [ ] Priorizing the resulting action items.
+- [x] Participating as a Scrum Team member and facilitating as requested or needed.
+- [ ] Prioritizing the resulting action items.
 
-### The right time to refactor code using Test-Driven Development is : (choose the best answer)
+_[⬆ Back to Top](#table-of-contents)_
+
+### The right time to refactor code using Test Driven Development is: (choose the best answer)
 
 - [ ] When I can see the "debt" building in the code.
 - [ ] When preparing legacy code for unit tests.
 - [x] After the test passes.
 - [ ] After the test fails.
 
-### When should Produt Backlog refinement occur ? (choose the best answer)
+_[⬆ Back to Top](#table-of-contents)_
 
-- [x] Anythime the Scrum Team feels Product Backlog items require more precision.
+### When should Product Backlog refinement occur? (choose the best answer)
+
+- [x] Anytime the Scrum Team feels Product Backlog items require more precision.
 - [ ] Always prior to Sprint Planning.
 - [ ] Only during refinement meetings planned by the Product Owner.
 - [ ] Only during Sprint Planning.
 
-### Why is archittectural layering importat for emergent systems ? (choose the best three answers)
+_[⬆ Back to Top](#table-of-contents)_
+
+### Why is architectural layering important for emergent systems? (choose the best three answers)
 
 - [x] Layering makes it easier to reuse functionality.
-- [ ] Layering assigns clear responsabilities to individual Developers.
+- [ ] Layering assigns clear responsibilities to individual Developers.
 - [x] Layering separates different logical concerns withing the system.
-- [x] Layering increases maintaainability of a system by isolating functional responsibilites.
+- [x] Layering increases maintainability of a system by isolating functional responsibilites.
 
-### Is it a good idea to follow each automated build with the execution of automated tests.
+_[⬆ Back to Top](#table-of-contents)_
+
+### Is it a good idea to follow each automated build with the execution of automated tests?
 
 - [ ] Yes. Code coverege can be used to assess progress.
 - [ ] No. Automated tests should be executed when the implementation of a Product Backlog item is complete.
-- [x] Yes. The tests may idenify weather there are problems tha the developers should fix before proceeding.
-- [ ] No. Ot would take too much time.
+- [x] Yes. The tests may identify wheather there are problems that the Developers should fix before proceeding.
+- [ ] No. It would take too much time.
 
-### What is Pair Programming ? (choose the best answer)
+_[⬆ Back to Top](#table-of-contents)_
 
-- [ ] Developpers that are able to write code both in the back-end and the front-end.
-- [x] Two Developpers working on the same problem, at the same computer (physically or virtually), at the same time.
-- [ ] Two persons working on the same Product Backlog item trying tto get it one as soon as possible.
+### What is Pair Programming? (choose the best answer)
+
+- [ ] Developers that are able to write code both in the back-end and the front-end.
+- [x] Two Developers working on the same problem, at the same computer (physically or virtually), at the same time.
+- [ ] Two persons working on the same Product Backlog item trying to get it one as soon as possible.
 - [ ] A Tester and a Developer working together to ensure high quality.
+
+_[⬆ Back to Top](#table-of-contents)_
 
 ### What are the top three benefits of a good Definition of Done? (choose the best three answers)
 
 - [x] Clear Communication of the Scrum Team's quality standards.
 - [x] A fully valuable, useful Increment by the end of each Sprint.
-- [ ] An ongoing strategy or technique for steadely adressing technical debt.
+- [ ] An ongoing strategy or technique for steadely adressing Technical Debt.
 - [x] Guidance on the specific patterns to be implemented in code.
 - [ ] A full description of all test steps.
 
-### Whih best describes the practice of branching code in a version control system ? (choose the best answer)
+_[⬆ Back to Top](#table-of-contents)_
+
+### Which best describes the practice of branching code in a version control system? (choose the best answer)
 
 - [ ] Tagging or labelling a particular codebase as ready for distribution.
-- [x] Creating a dublicate of existing code, isolated from the original code.
+- [x] Creating a duplicate of existing code, isolated from the original code.
 - [ ] Releasing a specific codebase into a production environment.
 - [ ] Combining two or more branches of code into a signe codebase.
 
-### Cyclomatic complexity is a metric for: (choose the best answer)
+_[⬆ Back to Top](#table-of-contents)_
+
+### Cyclomatic Complexity is a metric for: (choose the best answer)
 
 - [ ] Assessing if code is written in as few lines as possible.
 - [ ] A measurement for complexity based on the number of people involved.
 - [ ] Determinine the number of unit tests required to ensure correctness.
-- [ ] Demonstratin code is well structured and cleanly implementd.
+- [ ] Demonstrating code is well structured and cleanly implemented.
 - [x] Measuring branching structures and nesting levels in code.
+
+_[⬆ Back to Top](#table-of-contents)_
