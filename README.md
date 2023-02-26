@@ -388,7 +388,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 284 | [The right time to refactor code using Test Driven Development is: (choose the best answer)](#the-right-time-to-refactor-code-using-test-driven-development-is-choose-the-best-answer) |
 | 285 | [When should Product Backlog refinement occur? (choose the best answer)](#when-should-product-backlog-refinement-occur-choose-the-best-answer) |
 | 286 | [Why is architectural layering important for emergent systems? (choose the best three answers)](#why-is-architectural-layering-important-for-emergent-systems-choose-the-best-three-answers) |
-| 287 | [Is it a good idea to follow each automated build with the execution of automated tests?](#is-it-a-good-idea-to-follow-each-automated-build-with-the-execution-of-automated-tests?) |
+| 287 | [Is it a good idea to follow each automated build with the execution of automated tests?](#is-it-a-good-idea-to-follow-each-automated-build-with-the-execution-of-automated-tests) |
 | 288 | [What is Pair Programming? (choose the best answer)](#what-is-pair-programming-choose-the-best-answer) |
 | 289 | [What are the top three benefits of a good Definition of Done? (choose the best three answers)](#what-are-the-top-three-benefits-of-a-good-definition-of-done-choose-the-best-three-answers) |
 | 290 | [Which best describes the practice of branching code in a version control system? (choose the best answer)](#which-best-describes-the-practice-of-branching-code-in-a-version-control-system-choose-the-best-answer) |
