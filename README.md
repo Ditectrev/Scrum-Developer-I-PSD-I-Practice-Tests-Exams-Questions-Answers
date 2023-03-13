@@ -3007,7 +3007,7 @@ _[⬆ Back to Top](#table-of-contents)_
 - [x] Layering makes it easier to reuse functionality.
 - [ ] Layering assigns clear responsibilities to individual Developers.
 - [x] Layering separates different logical concerns withing the system.
-- [x] Layering increases maintainability of a system by isolating functional responsibilites.
+- [x] Layering increases maintainability of a system by isolating functional responsibilities.
 
 _[⬆ Back to Top](#table-of-contents)_
 
