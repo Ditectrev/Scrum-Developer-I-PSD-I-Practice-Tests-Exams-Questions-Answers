@@ -3052,8 +3052,8 @@ _[⬆ Back to Top](#table-of-contents)_
 
 - [ ] Assessing if code is written in as few lines as possible.
 - [ ] A measurement for complexity based on the number of people involved.
-- [ ] Determinine the number of unit tests required to ensure correctness.
-- [ ] Demonstrating code is well structured and cleanly implemented.
+- [ ] Determining the number of unit tests required to ensure correctness.
+- [ ] Demonstrating code is well-structured and cleanly implemented.
 - [x] Measuring branching structures and nesting levels in code.
 
 _[⬆ Back to Top](#table-of-contents)_
