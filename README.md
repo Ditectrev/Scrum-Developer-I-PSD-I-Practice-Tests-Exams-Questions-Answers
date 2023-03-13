@@ -3013,9 +3013,9 @@ _[⬆ Back to Top](#table-of-contents)_
 
 ### Is it a good idea to follow each automated build with the execution of automated tests?
 
-- [ ] Yes. Code coverege can be used to assess progress.
+- [ ] Yes. Code coverage can be used to assess progress.
 - [ ] No. Automated tests should be executed when the implementation of a Product Backlog item is complete.
-- [x] Yes. The tests may identify wheather there are problems that the Developers should fix before proceeding.
+- [x] Yes. The tests may identify whether there are problems that the Developers should fix before proceeding.
 - [ ] No. It would take too much time.
 
 _[⬆ Back to Top](#table-of-contents)_
