@@ -3033,7 +3033,7 @@ _[⬆ Back to Top](#table-of-contents)_
 
 - [x] Clear Communication of the Scrum Team's quality standards.
 - [x] A fully valuable, useful Increment by the end of each Sprint.
-- [ ] An ongoing strategy or technique for steadely adressing Technical Debt.
+- [ ] An ongoing strategy or technique for steadily addressing Technical Debt.
 - [x] Guidance on the specific patterns to be implemented in code.
 - [ ] A full description of all test steps.
 
