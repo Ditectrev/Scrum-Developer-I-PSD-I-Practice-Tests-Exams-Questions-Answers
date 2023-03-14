@@ -70,7 +70,11 @@
 
 **[v1.2.0](https://github.com/Ditectrev/Professional-Scrum-Developer-I-PSD-I-Practice-Tests-Exams-Questions-Answers/releases/tag/v1.2.0): January 10, 2023.**
 
-- Fix 6 question w/a minor typo in incorrect answer.
+- Fix 6 questions w/a minor typo in incorrect answer.
+
+**[v1.3.0](https://github.com/Ditectrev/Professional-Scrum-Developer-I-PSD-I-Practice-Tests-Exams-Questions-Answers/releases/tag/v1.2.0): March 14, 2023.**
+
+- Add 11 new questions w/minor improvements.
 
 ## 🙋‍♀️ & 🙋‍♂️ Contribution
 
