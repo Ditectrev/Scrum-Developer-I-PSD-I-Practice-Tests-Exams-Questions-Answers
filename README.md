@@ -170,7 +170,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 62  | [Does delivering changes frequently and directly into Production help to reduce risk? (choose two)](#does-delivering-changes-frequently-and-directly-into-production-help-to-reduce-risk-choose-two)   |
 | 63  | [True or False: Best Practices are recommended to solve complex problems.](#true-or-false-best-practices-are-recommended-to-solve-complex-problems)   |
 | 64  | [When is Performance Testing most effectively performed?](#when-is-performance-testing-most-effectively-performed)   |
-| 65  | [Which three of the following criteria are most helpful as part of a Scrum Team’s Definition of Done? (choose best three answers)](#which-three-of-the-following-criteria-are-most-helpful-as-part-of-a-scrum-teams-definition-of-done-choose-best-three-answers)   |
+| 65  | [Which three of the following criteria are most helpful as part of a Scrum Team's Definition of Done? (choose best three answers)](#which-three-of-the-following-criteria-are-most-helpful-as-part-of-a-scrum-teams-definition-of-done-choose-best-three-answers)   |
 | 66  | [A team has expressed requirements as a set of failing Acceptance Tests. What are three benefits? (choose best three answers)](#a-team-has-expressed-requirements-as-a-set-of-failing-acceptance-tests-what-are-three-benefits-choose-best-three-answers)   |
 | 67  | [Which is LEAST useful when measuring Code Maintainability?](#which-is-least-useful-when-measuring-code-maintainability)   |
 | 68  | [Which two criteria are useful in deciding if something should be documented every Sprint? (choose best two answers)](#which-two-criteria-are-useful-in-deciding-if-something-should-be-documented-every-sprint-choose-best-two-answers)   |
@@ -338,7 +338,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 230 | [Which one is true about the Daily Scrum? Pick 3](#which-one-is-true-about-the-daily-scrum-pick-3) |
 | 231 | [What are traits of a high performance Scrum Team? (pick all that apply)](#what-are-traits-of-a-high-performance-scrum-team-pick-all-that-apply) |
 | 232 | [Who knows best about how to create usable and releasable Increments?](#who-knows-best-about-how-to-create-usable-and-releasable-increments) |
-| 233 | [True or False: Interface Segregation principle implies that a client should never be forced to implement an interface that it doesn’t use.](#true-or-false-interface-segregation-principle-implies-that-a-client-should-never-be-forced-to-implement-an-interface-that-it-doesnt-use) |
+| 233 | [True or False: Interface Segregation principle implies that a client should never be forced to implement an interface that it doesn't use.](#true-or-false-interface-segregation-principle-implies-that-a-client-should-never-be-forced-to-implement-an-interface-that-it-doesnt-use) |
 | 234 | [Who is responsible for the Product Backlog Items and tasks estimation in Scrum?](#who-is-responsible-for-the-product-backlog-items-and-tasks-estimation-in-scrum) |
 | 235 | [How do the Developers divide into multiple teams in scaled Scrum?](#how-do-the-developers-divide-into-multiple-teams-in-scaled-scrum) |
 | 236 | [What should the Development Team do when there is no standard contract to create a releasable Product?](#what-should-the-development-team-do-when-there-is-no-standard-contract-to-create-a-releasable-product) |
@@ -388,7 +388,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 280 | [True or False: Test Driven Development is a predictable way to develop working, well-organized code?](#true-or-false-test-driven-development-is-a-predictable-way-to-develop-working-well-organized-code) |
 | 281 | [The Scrum Team should have all the skills needed to: (choose the best answer)](#the-scrum-team-should-have-all-the-skills-needed-to-choose-the-best-answer) |
 | 282 | [Who determines when it is appropriate to update the Sprint Backlog during a Sprint? (choose the best answer)](#who-determines-when-it-is-appropriate-to-update-the-sprint-backlog-during-a-sprint-choose-the-best-answer) |
-| 283 | [What is the Scrum Master responsible for during the Sprint Restrospective? (choose the best answer)](#what-is-the-scrum-master-responsible-for-during-the-sprint-restrospective-choose-the-best-answer) |
+| 283 | [What is the Scrum Master responsible for during the Sprint Retrospective? (choose the best answer)](#what-is-the-scrum-master-responsible-for-during-the-sprint-retrospective-choose-the-best-answer) |
 | 284 | [The right time to refactor code using Test Driven Development is: (choose the best answer)](#the-right-time-to-refactor-code-using-test-driven-development-is-choose-the-best-answer) |
 | 285 | [When should Product Backlog refinement occur? (choose the best answer)](#when-should-product-backlog-refinement-occur-choose-the-best-answer) |
 | 286 | [Why is architectural layering important for emergent systems? (choose the best three answers)](#why-is-architectural-layering-important-for-emergent-systems-choose-the-best-three-answers) |
@@ -1011,7 +1011,7 @@ _[⬆ Back to Top](#table-of-contents)_
 
 _[⬆ Back to Top](#table-of-contents)_
 
-### Which three of the following criteria are most helpful as part of a Scrum Team’s Definition of Done? (choose best three answers)
+### Which three of the following criteria are most helpful as part of a Scrum Team's Definition of Done? (choose best three answers)
 
 - [ ] The Product is released at the end of every Sprint.
 - [x] Acceptance Tests pass.
@@ -1598,7 +1598,7 @@ _[⬆ Back to Top](#table-of-contents)_
 ### Which of the following are examples of a Scrum Team practicing Scrum poorly or not exhibiting traits of a self-managing Scrum Team? (choose the best three answers)
 
 - [ ] The Developers have all the skills they need to create a valuable, useful Increment.
-- [x] Stakeholders attend the Daily Scrum to check on the Scrum Team’s progress.
+- [x] Stakeholders attend the Daily Scrum to check on the Scrum Team's progress.
 - [ ] The Developers create their own Sprint Backlog, reflecting all work that is required to meet the Definition of Done.
 - [ ] The Developers are collaboratively selecting their own work during the Sprint.
 - [x] The Developers invite external Stakeholders to the Sprint Planning to ask them how to turn a Product Backlog Item into an Increment via a complete and detailed Sprint Backlog.
@@ -1867,7 +1867,7 @@ _[⬆ Back to Top](#table-of-contents)_
 - [x] Less back-tracking to discover where things went wrong, so you can spend more time building features.
 - [x] Allows teams to detect problems early.
 - [ ] Automatically eliminates all integration issues.
-- [x] Stop waiting to find out if your code’s going to work.
+- [x] Stop waiting to find out if your code's going to work.
 
 _[⬆ Back to Top](#table-of-contents)_
 
@@ -1961,7 +1961,7 @@ _[⬆ Back to Top](#table-of-contents)_
 - [x] Analysis performed on code in a non-runtime environment.
 - [ ] Analysis performed on Software at runtime.
 - [ ] Duties of a Business Analyst.
-- [ ] Checking static classes’ readability.
+- [ ] Checking static classes' readability.
 
 _[⬆ Back to Top](#table-of-contents)_
 
@@ -2270,7 +2270,7 @@ _[⬆ Back to Top](#table-of-contents)_
 
 - [ ] A high count might indicate that a type or method is doing too much work.
 - [ ] A high count might be a warning that code will be hard to maintain.
-- [ ] It isn’t a Code Quality metric.
+- [ ] It isn't a Code Quality metric.
 - [x] It is explained via percentage.
 
 _[⬆ Back to Top](#table-of-contents)_
@@ -2445,7 +2445,7 @@ _[⬆ Back to Top](#table-of-contents)_
 ### Which is NOT true about Efferent Coupling?
 
 - [x] Classes with high efferent will affect other classes when changes are made.
-- [ ] A large Efferent Coupling can indicate that a class is unfocussed and may also indicate that it is unstable since it depends on the stability of all the types to which it is coupled.
+- [ ] A large Efferent Coupling can indicate that a class is unfocused and may also indicate that it is unstable since it depends on the stability of all the types to which it is coupled.
 - [ ] Classes with high Efferent Coupling will receive the effects of changes or defects in other classes.
 - [ ] It is a Code Quality metric.
 
@@ -2524,7 +2524,7 @@ _[⬆ Back to Top](#table-of-contents)_
 
 _[⬆ Back to Top](#table-of-contents)_
 
-### True or False: Interface Segregation principle implies that a client should never be forced to implement an interface that it doesn’t use.
+### True or False: Interface Segregation principle implies that a client should never be forced to implement an interface that it doesn't use.
 
 - [ ] False.
 - [x] True.
@@ -2979,9 +2979,9 @@ _[⬆ Back to Top](#table-of-contents)_
 
 _[⬆ Back to Top](#table-of-contents)_
 
-### What is the Scrum Master responsible for during the Sprint Restrospective? (choose the best answer)
+### What is the Scrum Master responsible for during the Sprint Retrospective? (choose the best answer)
 
-- [ ] Summerizing and reporting the discussions to managment.
+- [ ] Summarizing and reporting the discussions to management.
 - [ ] Acting as a scribe to capture the Scrum Team's answers.
 - [x] Participating as a Scrum Team member and facilitating as requested or needed.
 - [ ] Prioritizing the resulting action items.
@@ -3011,15 +3011,15 @@ _[⬆ Back to Top](#table-of-contents)_
 - [x] Layering makes it easier to reuse functionality.
 - [ ] Layering assigns clear responsibilities to individual Developers.
 - [x] Layering separates different logical concerns withing the system.
-- [x] Layering increases maintainability of a system by isolating functional responsibilites.
+- [x] Layering increases maintainability of a system by isolating functional responsibilities.
 
 _[⬆ Back to Top](#table-of-contents)_
 
 ### Is it a good idea to follow each automated build with the execution of automated tests?
 
-- [ ] Yes. Code coverege can be used to assess progress.
+- [ ] Yes. Code coverage can be used to assess progress.
 - [ ] No. Automated tests should be executed when the implementation of a Product Backlog item is complete.
-- [x] Yes. The tests may identify wheather there are problems that the Developers should fix before proceeding.
+- [x] Yes. The tests may identify whether there are problems that the Developers should fix before proceeding.
 - [ ] No. It would take too much time.
 
 _[⬆ Back to Top](#table-of-contents)_
@@ -3037,7 +3037,7 @@ _[⬆ Back to Top](#table-of-contents)_
 
 - [x] Clear Communication of the Scrum Team's quality standards.
 - [x] A fully valuable, useful Increment by the end of each Sprint.
-- [ ] An ongoing strategy or technique for steadely adressing Technical Debt.
+- [ ] An ongoing strategy or technique for steadily addressing Technical Debt.
 - [x] Guidance on the specific patterns to be implemented in code.
 - [ ] A full description of all test steps.
 
@@ -3056,8 +3056,8 @@ _[⬆ Back to Top](#table-of-contents)_
 
 - [ ] Assessing if code is written in as few lines as possible.
 - [ ] A measurement for complexity based on the number of people involved.
-- [ ] Determinine the number of unit tests required to ensure correctness.
-- [ ] Demonstrating code is well structured and cleanly implemented.
+- [ ] Determining the number of unit tests required to ensure correctness.
+- [ ] Demonstrating code is well-structured and cleanly implemented.
 - [x] Measuring branching structures and nesting levels in code.
 
 _[⬆ Back to Top](#table-of-contents)_
