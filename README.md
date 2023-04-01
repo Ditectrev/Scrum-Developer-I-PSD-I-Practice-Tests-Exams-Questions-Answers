@@ -1060,7 +1060,7 @@ _[⬆ Back to Top](#table-of-contents)_
 
 ### What are some disadvantages of Code Coverages as a measurement for how well a system or Product is tested? (choose best three answers)
 
-- [ ] It only provide insights for programmers.
+- [ ] It only provides insights for programmers.
 - [x] It does not ensure that the most important or highest risk areas of the code are being exercised by the tests.
 - [x] It could create incentives to write tests that simply increase Code Coverage, rather than tests that find bugs without increasing coverage.
 - [ ] It is too complicated to explain to Management.
