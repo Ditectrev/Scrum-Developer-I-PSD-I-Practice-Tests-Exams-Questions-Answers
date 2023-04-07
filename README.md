@@ -397,6 +397,17 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 289 | [What are the top three benefits of a good Definition of Done? (choose the best three answers)](#what-are-the-top-three-benefits-of-a-good-definition-of-done-choose-the-best-three-answers) |
 | 290 | [Which best describes the practice of branching code in a version control system? (choose the best answer)](#which-best-describes-the-practice-of-branching-code-in-a-version-control-system-choose-the-best-answer) |
 | 291 | [Cyclomatic Complexity is a metric for: (choose the best answer)](#cyclomatic-complexity-is-a-metric-for-choose-the-best-answer) |
+| 292 | [The Developers should have all the skills needed to: (choose the best answer)](#the-developers-should-have-all-the-skills-needed-to-choose-the-best-answer) |
+| 293 | [Which statement best describes Scrum? (choose the best answer)](#which-statement-best-describes-scrum-choose-the-best-answer) |
+| 294 | [The timebox for a Daily Scrum is? (choose the best answer)](#the-timebox-for-a-daily-scrum-is-choose-the-best-answer) |
+| 295 | [The Developers should not be interrupted during the Sprint and the Sprint Goal should remain intact. These are conditions that foster creativity, quality and productivity. (Which one the following answers is FALSE?)](#the-developers-should-not-be-interrupted-during-the-sprint-and-the-sprint-goal-should-remain-intact-these-are-conditions-that-foster-creativity-quality-and-productivity-which-one-the-following-answers-is-false) |
+| 296 | [The three pillars of empiricism are: (choose the best answer)](#the-three-pillars-of-empiricism-are-choose-the-best-answer) |
+| 297 | [What is the typical size for a Scrum Team? (choose the best answer)](#what-is-the-typical-size-for-a-scrum-team-choose-the-best-answer) |
+| 298 | [What is the function or purpose of Management in Scrum? (choose the best answer)](#what-is-the-function-or-purpose-of-management-in-scrum-choose-the-best-answer) |
+| 299 | [What is the main reason for the Scrum Master to be at the Daily Scrum? (choose the best answer)](#what-is-the-main-reason-for-the-scrum-master-to-be-at-the-daily-scrum-choose-the-best-answer) |
+| 300 | [Which two things should the Scrum Team do during the first Sprint? (choose the best two answers)](#which-two-things-should-the-scrum-team-do-during-the-first-sprint-choose-the-best-two-answers) |
+| 301 | [True or False: It is mandatory that the product Increment be released to production at the end of each Sprint.](#true-or-false-it-is-mandatory-that-the-product-increment-be-released-to-production-at-the-end-of-each-sprint)   |
+| 302 | [When should a Developer on a Scrum Team be replaced? (choose the best answer)](#when-should-a-developer-on-a-scrum-team-be-replaced-choose-the-best-answer) |
 
 
 ### When can Product Backlog Refinement occur?
@@ -3059,5 +3070,114 @@ _[⬆ Back to Top](#table-of-contents)_
 - [ ] Determining the number of unit tests required to ensure correctness.
 - [ ] Demonstrating code is well-structured and cleanly implemented.
 - [x] Measuring branching structures and nesting levels in code.
+
+_[⬆ Back to Top](#table-of-contents)_
+
+### The Developers should have all the skills needed to: (choose the best answer)
+
+- [ ] Complete the project as estimated when the date and cost are committed to the Product Owner.
+- [x] Turn the Product Backlog items they select into an Increment of useful and valuable product functionality.
+- [ ] Do all of the development work, except for specialized testing that requires additional tools and environments.
+
+
+_[⬆ Back to Top](#table-of-contents)_
+
+### Which statement best describes Scrum? (choose the best answer)
+
+- [x] A framework for creating complex products in complex environments.
+- [ ] A defined and predictive process that conforms to the principles of Scientific Management.
+- [ ] A complete methodology that defines how to develop software.
+- [ ] A cookbook that defines best practices for software development.
+
+
+_[⬆ Back to Top](#table-of-contents)_
+
+### The timebox for a Daily Scrum is? (choose the best answer)
+
+- [x] 15 minutes.
+- [ ] 15 minutes for a 4-week sprint. For shorter Sprints it is usually shorter.
+- [ ] Two minutes per person.
+- [ ] 4 hours.
+- [ ] The same time of day every day.
+
+
+_[⬆ Back to Top](#table-of-contents)_
+
+### The Developers should not be interrupted during the Sprint and the Sprint Goal should remain intact. These are conditions that foster creativity, quality and productivity. (Which one the following answers is FALSE?)
+
+- [ ] The Developers may work with the Product Owner to add or remove work if they find themselves with more or less capacity than expected.
+- [x] The Sprint Backlog is fully formulated in the Sprint Planning event and does not change during the Sprint.
+- [ ] As a decomposition of the selected Product Backlog items, the Sprint Backlog changes and may grow as the work emerges.
+- [ ] The Product Owner can help clarify or optimize the Sprint when asked by the Developers.
+
+
+_[⬆ Back to Top](#table-of-contents)_
+
+### The three pillars of empiricism are: (choose the best answer)
+
+- [ ] Respect For People, Kaizen, Eliminating Waste.
+- [ ] Planning, Inspection, Adaptation.
+- [ ] Planning, Demonstration, Retrospective.
+- [x] Inspection, Transparency, Adaptation.
+- [ ] Transparency, Eliminating Waste, Kaizen.
+
+
+_[⬆ Back to Top](#table-of-contents)_
+
+### What is the typical size for a Scrum Team? (choose the best answer)
+
+- [x] 10 or fewer.
+- [ ] Minimum of 7.
+- [ ] 7 plus or minus 2.
+- [ ] 9.
+
+
+_[⬆ Back to Top](#table-of-contents)_
+
+### What is the function or purpose of Management in Scrum? (choose the best answer)
+
+- [ ] Identify and remove people that are not working hard enough.
+- [ ] Monitor the progress of the Developers on the Scrum Team.
+- [x] Support the Product Owner with insights and information into high value product and system capabilities. Support the Scrum Master to encourage organizational change that fosters empiricism, self-management, bottom-up intelligence, and intelligent product delivery.
+- [ ] Continually monitor staffing levels of the Scrum Team.
+
+
+_[⬆ Back to Top](#table-of-contents)_
+
+### What is the main reason for the Scrum Master to be at the Daily Scrum? (choose the best answer)
+
+- [ ] To gather status and progress information to report to management.
+- [ ] To write down any changes to the Sprint Backlog, including adding new items, and tracking progress on the burn-down.
+- [x] They do not have to be there; they only need to ensure the Developers have a Daily Scrum.
+- [ ] To make sure every team member answers the three questions.
+
+
+_[⬆ Back to Top](#table-of-contents)_
+
+### Which two things should the Scrum Team do during the first Sprint? (choose the best two answers)
+
+- [x] Develop and deliver at least one piece of functionality.
+- [ ] Develop a plan for the rest of the release.
+- [x] Deliver an Increment of useful and valuable product.
+- [ ] Determine the complete architecture and infrastructure for the product.
+- [ ] Create the complete Product Backlog to be developed in subsequent Sprints.
+
+
+_[⬆ Back to Top](#table-of-contents)_
+
+### True or False: It is mandatory that the product Increment be released to production at the end of each Sprint.
+
+- [ ] True.
+- [x] False.
+
+_[⬆ Back to Top](#table-of-contents)_
+
+### When should a Developer on a Scrum Team be replaced? (choose the best answer)
+
+- [ ] As needed, with no special allowance for changes in productivity.
+- [ ] Every Sprint to promote shared learning.
+- [x] As needed, while taking into account a short-term reduction in productivity.
+- [ ] Never, it reduces productivity.
+
 
 _[⬆ Back to Top](#table-of-contents)_
