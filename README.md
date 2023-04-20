@@ -1027,8 +1027,8 @@ _[⬆ Back to Top](#table-of-contents)_
 - [ ] The Product is released at the end of every Sprint.
 - [x] Acceptance Tests pass.
 - [x] Code Review is done.
-- [ ] Regression Tests pass.
-- [x] No impediments exist.
+- [x] Regression Tests pass.
+- [ ] No impediments exist.
 
 _[⬆ Back to Top](#table-of-contents)_
 
