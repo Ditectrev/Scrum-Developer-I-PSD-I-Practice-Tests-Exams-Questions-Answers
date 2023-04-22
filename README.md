@@ -400,7 +400,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 292 | [The Developers should have all the skills needed to: (choose the best answer)](#the-developers-should-have-all-the-skills-needed-to-choose-the-best-answer) |
 | 293 | [Which statement best describes Scrum? (choose the best answer)](#which-statement-best-describes-scrum-choose-the-best-answer) |
 | 294 | [The timebox for a Daily Scrum is? (choose the best answer)](#the-timebox-for-a-daily-scrum-is-choose-the-best-answer) |
-| 295 | [The Developers should not be interrupted during the Sprint and the Sprint Goal should remain intact. These are conditions that foster creativity, quality and productivity. (Which one the following answers is FALSE?)](#the-developers-should-not-be-interrupted-during-the-sprint-and-the-sprint-goal-should-remain-intact-these-are-conditions-that-foster-creativity-quality-and-productivity-which-one-the-following-answers-is-false) |
+| 295 | [The Developers should not be interrupted during the Sprint and the Sprint Goal should remain intact. These are conditions that foster creativity, quality and productivity. Which one the following answers is FALSE?](#the-developers-should-not-be-interrupted-during-the-sprint-and-the-sprint-goal-should-remain-intact-these-are-conditions-that-foster-creativity-quality-and-productivity-which-one-the-following-answers-is-false) |
 | 296 | [The three pillars of empiricism are: (choose the best answer)](#the-three-pillars-of-empiricism-are-choose-the-best-answer) |
 | 297 | [What is the typical size for a Scrum Team? (choose the best answer)](#what-is-the-typical-size-for-a-scrum-team-choose-the-best-answer) |
 | 298 | [What is the function or purpose of Management in Scrum? (choose the best answer)](#what-is-the-function-or-purpose-of-management-in-scrum-choose-the-best-answer) |
@@ -3103,7 +3103,7 @@ _[⬆ Back to Top](#table-of-contents)_
 
 _[⬆ Back to Top](#table-of-contents)_
 
-### The Developers should not be interrupted during the Sprint and the Sprint Goal should remain intact. These are conditions that foster creativity, quality and productivity. (Which one the following answers is FALSE?)
+### The Developers should not be interrupted during the Sprint and the Sprint Goal should remain intact. These are conditions that foster creativity, quality and productivity. Which one the following answers is FALSE?
 
 - [ ] The Developers may work with the Product Owner to add or remove work if they find themselves with more or less capacity than expected.
 - [x] The Sprint Backlog is fully formulated in the Sprint Planning event and does not change during the Sprint.
