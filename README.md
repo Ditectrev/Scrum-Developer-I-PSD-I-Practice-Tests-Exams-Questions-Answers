@@ -413,7 +413,6 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 301 | [True or False: It is mandatory that the product Increment be released to production at the end of each Sprint.](#true-or-false-it-is-mandatory-that-the-product-increment-be-released-to-production-at-the-end-of-each-sprint)   |
 | 302 | [When should a Developer on a Scrum Team be replaced? (choose the best answer)](#when-should-a-developer-on-a-scrum-team-be-replaced-choose-the-best-answer) |
 
-
 ### When can Product Backlog Refinement occur?
 
 - [ ] Only during Sprint Planning.
@@ -634,6 +633,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] 40%, or more if the Stakeholders agree.
 - [x] Any amount of time the Developers ask the Product Owner to be present.
 
+**[⬆ Back to Top](#table-of-contents)**
+
 ### What are the typical roles when practicing Pair Programming?
 
 - [ ] Product Owner and Developer.
@@ -790,6 +791,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] They do not. The Scrum Master and the Product Owner are responsible for Product Backlog Refinement.
 - [x] They give input on technical dependencies.
 - [x] They may update estimates for Product Backlog Items.
+
+**[⬆ Back to Top](#table-of-contents)**
 
 ### When should the Developers create their first automated build?
 
@@ -3083,7 +3086,6 @@ hardening Sprint.
 - [x] Turn the Product Backlog items they select into an Increment of useful and valuable product functionality.
 - [ ] Do all of the development work, except for specialized testing that requires additional tools and environments.
 
-
 **[⬆ Back to Top](#table-of-contents)**
 
 ### Which statement best describes Scrum? (choose the best answer)
@@ -3092,7 +3094,6 @@ hardening Sprint.
 - [ ] A defined and predictive process that conforms to the principles of Scientific Management.
 - [ ] A complete methodology that defines how to develop software.
 - [ ] A cookbook that defines best practices for software development.
-
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -3104,7 +3105,6 @@ hardening Sprint.
 - [ ] 4 hours.
 - [ ] The same time of day every day.
 
-
 **[⬆ Back to Top](#table-of-contents)**
 
 ### The Developers should not be interrupted during the Sprint and the Sprint Goal should remain intact. These are conditions that foster creativity, quality and productivity. Which one the following answers is FALSE?
@@ -3113,7 +3113,6 @@ hardening Sprint.
 - [x] The Sprint Backlog is fully formulated in the Sprint Planning event and does not change during the Sprint.
 - [ ] As a decomposition of the selected Product Backlog items, the Sprint Backlog changes and may grow as the work emerges.
 - [ ] The Product Owner can help clarify or optimize the Sprint when asked by the Developers.
-
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -3125,7 +3124,6 @@ hardening Sprint.
 - [x] Inspection, Transparency, Adaptation.
 - [ ] Transparency, Eliminating Waste, Kaizen.
 
-
 **[⬆ Back to Top](#table-of-contents)**
 
 ### What is the typical size for a Scrum Team? (choose the best answer)
@@ -3134,7 +3132,6 @@ hardening Sprint.
 - [ ] Minimum of 7.
 - [ ] 7 plus or minus 2.
 - [ ] 9.
-
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -3145,7 +3142,6 @@ hardening Sprint.
 - [x] Support the Product Owner with insights and information into high value product and system capabilities. Support the Scrum Master to encourage organizational change that fosters empiricism, self-management, bottom-up intelligence, and intelligent product delivery.
 - [ ] Continually monitor staffing levels of the Scrum Team.
 
-
 **[⬆ Back to Top](#table-of-contents)**
 
 ### What is the main reason for the Scrum Master to be at the Daily Scrum? (choose the best answer)
@@ -3154,7 +3150,6 @@ hardening Sprint.
 - [ ] To write down any changes to the Sprint Backlog, including adding new items, and tracking progress on the burn-down.
 - [x] They do not have to be there; they only need to ensure the Developers have a Daily Scrum.
 - [ ] To make sure every team member answers the three questions.
-
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -3165,7 +3160,6 @@ hardening Sprint.
 - [x] Deliver an Increment of useful and valuable product.
 - [ ] Determine the complete architecture and infrastructure for the product.
 - [ ] Create the complete Product Backlog to be developed in subsequent Sprints.
-
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -3182,6 +3176,5 @@ hardening Sprint.
 - [ ] Every Sprint to promote shared learning.
 - [x] As needed, while taking into account a short-term reduction in productivity.
 - [ ] Never, it reduces productivity.
-
 
 **[⬆ Back to Top](#table-of-contents)**
