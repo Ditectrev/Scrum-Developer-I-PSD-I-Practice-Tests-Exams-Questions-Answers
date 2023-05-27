@@ -2213,7 +2213,7 @@ hardening Sprint.
 
 - [x] Adding detail to the items.
 - [x] Ordering.
-- [ ] Design.
+- [x] Design.
 - [ ] Develop.
 
 **[⬆ Back to Top](#table-of-contents)**
