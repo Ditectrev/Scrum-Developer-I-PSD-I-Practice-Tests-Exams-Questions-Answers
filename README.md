@@ -869,7 +869,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### What tactic should a Scrum Master use to divide a group of 100 people into multiple Scrum Teams?
 
 - [ ] Create teams based on their skills across multiple layers (such as database, Ul, etc.).
-- [x] Ask the people to divide themselves info teams.
+- [x] Ask the people to divide themselves into teams.
 - [ ] Ask the Product Owner to assign the people to teams.
 
 **[⬆ Back to Top](#table-of-contents)**
