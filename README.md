@@ -82,6 +82,10 @@
 
 - Add (yet another) 11 new questions, fixes a couple of wrong answers, and minor typos.
 
+**[v1.4.1](https://github.com/Ditectrev/Professional-Scrum-Developer-I-PSD-I-Practice-Tests-Exams-Questions-Answers/releases/tag/v1.4.1): July 24, 2023.**
+
+- Fix 3 questions.
+
 ## 🙋‍♀️ & 🙋‍♂️ Contribution
 
 We are so thankful for every contribution, which makes sure we can deliver top-notch content. Whenever you find a missing resource, broken link in a [Table of Contents](https://github.com/Ditectrev/Professional-Scrum-Developer-I-PSD-I-Practice-Exams-Questions-Answers#table-of-contents), the wrong answer, please submit an [issue](https://github.com/Ditectrev/Professional-Scrum-Developer-I-PSD-I-Practice-Exams-Questions-Answers/issues). Even better would be a [Pull Request (PR)](https://github.com/Ditectrev/Professional-Scrum-Developer-I-PSD-I-Practice-Exams-Questions-Answers/pulls).
