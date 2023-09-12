@@ -420,9 +420,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 300 | [Which two things should the Scrum Team do during the first Sprint? (choose the best two answers)](#which-two-things-should-the-scrum-team-do-during-the-first-sprint-choose-the-best-two-answers) |
 | 301 | [True or False: It is mandatory that the product Increment be released to production at the end of each Sprint.](#true-or-false-it-is-mandatory-that-the-product-increment-be-released-to-production-at-the-end-of-each-sprint)   |
 | 302 | [When should a Developer on a Scrum Team be replaced? (choose the best answer)](#when-should-a-developer-on-a-scrum-team-be-replaced-choose-the-best-answer) |
-| 303 | [Refactoring is (choose the best answer)](#refactoring-is-choose-the-best-answer) |
+| 303 | [Refactoring is: (choose the best answer)](#refactoring-is-choose-the-best-answer) |
 | 304 | [Developers include which role(s)? (select all that apply)](#developers-include-which-roles-select-all-that-apply) |
-| 305 | [The more code a Developer writes the better](#the-more-code-a-developer-writes-the-better) |
+| 305 | [True or False: The more code a Developer writes the better.](#true-or-false-the-more-code-a-developer-writes-the-better) |
 
 ### When can Product Backlog Refinement occur?
 
@@ -3190,7 +3190,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Refactoring is (choose the best answer)
+### Refactoring is: (choose the best answer)
 
 - [x] Improving your code withoud breaking your unit tests
 - [ ] Increasing the amount of code
@@ -3208,7 +3208,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### The more code a Developer writes the better
+### True or False: The more code a Developer writes the better.
 
 - [ ] True.
 - [x] False.
