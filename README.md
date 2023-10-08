@@ -1,6 +1,6 @@
 # ⬆️ Scrum Developer I for PSD I Practice Tests Exams Questions & Answers
 
-![Promotional image](images/promotional.jpeg)
+![Promotional image](images/promotional.png)
 
 ## Udemy & Etsy
 
