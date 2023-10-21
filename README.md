@@ -183,7 +183,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 63  | [True or False: Best Practices are recommended to solve complex problems.](#true-or-false-best-practices-are-recommended-to-solve-complex-problems)   |
 | 64  | [When is Performance Testing most effectively performed?](#when-is-performance-testing-most-effectively-performed)   |
 | 65  | [Which three of the following criteria are most helpful as part of a Scrum Team's Definition of Done? (choose best three answers)](#which-three-of-the-following-criteria-are-most-helpful-as-part-of-a-scrum-teams-definition-of-done-choose-best-three-answers)   |
-| 66  | [A team has expressed requirements as a set of failing Acceptance Tests. What are three benefits? (choose best three answers)](#a-team-has-expressed-requirements-as-a-set-of-failing-acceptance-tests-what-are-three-benefits-choose-best-three-answers)   |
+| 66  | [A team has expressed requirements as a set of failing Acceptance Tests. What are three benefits? (choose best two answers)](#a-team-has-expressed-requirements-as-a-set-of-failing-acceptance-tests-what-are-three-benefits-choose-best-two-answers)   |
 | 67  | [Which is LEAST useful when measuring Code Maintainability?](#which-is-least-useful-when-measuring-code-maintainability)   |
 | 68  | [Which two criteria are useful in deciding if something should be documented every Sprint? (choose best two answers)](#which-two-criteria-are-useful-in-deciding-if-something-should-be-documented-every-sprint-choose-best-two-answers)   |
 | 69  | [What factor should be considered when establishing the Sprint length?](#what-factor-should-be-considered-when-establishing-the-sprint-length)   |
@@ -1050,13 +1050,13 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### A team has expressed requirements as a set of failing Acceptance Tests. What are three benefits? (choose best three answers)
+### A team has expressed requirements as a set of failing Acceptance Tests. What are three benefits? (choose best two answers)
 
 - [x] Improves quality in the requirement itself.
 - [x] Clear Acceptance Criteria for each feature.
 - [ ] Using a code generation tool, the solution can be generated from the requirements model.
 - [ ] Promotes the use of DRY principle.
-- [x] Tracking of competencies.
+- [ ] Tracking of competencies.
 
 **[⬆ Back to Top](#table-of-contents)**
 
