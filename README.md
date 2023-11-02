@@ -52,45 +52,45 @@
 
 ## ☝️ Course Updates
 
-**[v1.0.0](https://github.com/Ditectrev/Professional-Scrum-Developer-I-PSD-I-Practice-Exams-Questions-Answers/releases/tag/v1.0.0): November 12, 2021.**
+**[v1.0.0](../../releases/tag/v1.0.0): November 12, 2021.**
 
 - Launch of the course.
 
-**[v1.0.1](https://github.com/Ditectrev/Professional-Scrum-Developer-I-PSD-I-Practice-Exams-Questions-Answers/releases/tag/v1.0.1): August 24, 2022.**
+**[v1.0.1](../../releases/tag/v1.0.1): August 24, 2022.**
 
 - Minor improvements since the course launch with a relaunch of the course due to misunderstanding Udemy rules by using unfortunate keywords in the title.
 
-**[v1.0.2](https://github.com/Ditectrev/Professional-Scrum-Developer-I-PSD-I-Practice-Tests-Exams-Questions-Answers/releases/tag/v1.0.2): October 10, 2022.**
+**[v1.0.2](../../releases/tag/v1.0.2): October 10, 2022.**
 
-- Fixing 1 question (https://github.com/Ditectrev/Professional-Scrum-Developer-I-PSD-I-Practice-Tests-Exams-Questions-Answers/issues/6) w/minor improvements.
+- Fixing 1 question w/minor improvements.
 
-**[v1.0.3](https://github.com/Ditectrev/Professional-Scrum-Developer-I-PSD-I-Practice-Tests-Exams-Questions-Answers/releases/tag/v1.0.3): November 2, 2022.**
+**[v1.0.3](../../releases/tag/v1.0.3): November 2, 2022.**
 
 - Fix 1 question w/minor improvements.
 
-**[v1.1.0](https://github.com/Ditectrev/Professional-Scrum-Developer-I-PSD-I-Practice-Tests-Exams-Questions-Answers/releases/tag/v1.1.0): December 5, 2022.**
+**[v1.1.0](../../releases/tag/v1.1.0): December 5, 2022.**
 
 - Fix several questions.
 
-**[v1.2.0](https://github.com/Ditectrev/Professional-Scrum-Developer-I-PSD-I-Practice-Tests-Exams-Questions-Answers/releases/tag/v1.2.0): January 10, 2023.**
+**[v1.2.0](../../releases/tag/v1.2.0): January 10, 2023.**
 
 - Fix 6 questions w/a minor typo in incorrect answer.
 
-**[v1.3.0](https://github.com/Ditectrev/Professional-Scrum-Developer-I-PSD-I-Practice-Tests-Exams-Questions-Answers/releases/tag/v1.3.0): March 14, 2023.**
+**[v1.3.0](../../releases/tag/v1.3.0): March 14, 2023.**
 
 - Add 11 new questions w/minor improvements.
 
-**[v1.4.0](https://github.com/Ditectrev/Professional-Scrum-Developer-I-PSD-I-Practice-Tests-Exams-Questions-Answers/releases/tag/v1.4.0): April 22, 2023.**
+**[v1.4.0](../../releases/tag/v1.4.0): April 22, 2023.**
 
 - Add (yet another) 11 new questions, fixes a couple of wrong answers, and minor typos.
 
-**[v1.4.1](https://github.com/Ditectrev/Professional-Scrum-Developer-I-PSD-I-Practice-Tests-Exams-Questions-Answers/releases/tag/v1.4.1): July 24, 2023.**
+**[v1.4.1](../../releases/tag/v1.4.1): July 24, 2023.**
 
 - Fix 3 questions.
 
 ## 🙋‍♀️ & 🙋‍♂️ Contribution
 
-We are so thankful for every contribution, which makes sure we can deliver top-notch content. Whenever you find a missing resource, broken link in a [Table of Contents](https://github.com/Ditectrev/Professional-Scrum-Developer-I-PSD-I-Practice-Exams-Questions-Answers#table-of-contents), the wrong answer, please submit an [issue](https://github.com/Ditectrev/Professional-Scrum-Developer-I-PSD-I-Practice-Exams-Questions-Answers/issues). Even better would be a [Pull Request (PR)](https://github.com/Ditectrev/Professional-Scrum-Developer-I-PSD-I-Practice-Exams-Questions-Answers/pulls).
+We are so thankful for every contribution, which makes sure we can deliver top-notch content. Whenever you find a missing resource, broken link in a [Table of Contents](#table-of-contents), the wrong answer, please submit an [issue](../../issues). Even better would be a [Pull Request (PR)](../../pulls).
 
 ## Who this course is for:
 
