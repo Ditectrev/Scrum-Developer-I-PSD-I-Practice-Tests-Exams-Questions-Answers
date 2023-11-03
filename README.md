@@ -3192,19 +3192,19 @@ hardening Sprint.
 
 ### Refactoring is: (choose the best answer)
 
-- [x] Improving your code withoud breaking your unit tests
-- [ ] Increasing the amount of code
-- [ ] Multiplying the amount of code
-- [ ] Reducing the amount of code
+- [x] Improving your code without breaking your unit tests.
+- [ ] Increasing the amount of code.
+- [ ] Multiplying the amount of code.
+- [ ] Reducing the amount of code.
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ### Developers include which role(s)? (select all that apply)
 
-- [ ] Software Architects
-- [ ] Business Analysts
-- [ ] Testers
-- [x] No other roles. Developer is one of the 3 accountabilities in Scrum
+- [ ] Software Architects.
+- [ ] Business Analysts.
+- [ ] Testers.
+- [x] No other roles. Developer is one of the 3 accountabilities in Scrum.
 
 **[⬆ Back to Top](#table-of-contents)**
 
