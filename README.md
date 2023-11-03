@@ -88,6 +88,10 @@
 
 - Fix 3 questions.
 
+**[v1.5.0](../../releases/tag/v1.5.0): November 3, 2023.**
+
+- Add 3 new questions and correct 1 question with a number of valid answers.
+
 ## 🙋‍♀️ & 🙋‍♂️ Contribution
 
 We are so thankful for every contribution, which makes sure we can deliver top-notch content. Whenever you find a missing resource, broken link in a [Table of Contents](#table-of-contents), the wrong answer, please submit an [issue](../../issues). Even better would be a [Pull Request (PR)](../../pulls).
