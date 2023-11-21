@@ -2477,9 +2477,9 @@ hardening Sprint.
 
 ### Which is NOT true about Efferent Coupling?
 
-- [ ] Classes with high efferent will affect other classes when changes are made.
+- [x] Classes with high efferent will affect other classes when changes are made.
 - [ ] A large Efferent Coupling can indicate that a class is unfocused and may also indicate that it is unstable since it depends on the stability of all the types to which it is coupled.
-- [x] Classes with high Efferent Coupling will receive the effects of changes or defects in other classes.
+- [ ] Classes with high Efferent Coupling will receive the effects of changes or defects in other classes.
 - [ ] It is a Code Quality metric.
 
 **[⬆ Back to Top](#table-of-contents)**
