@@ -92,6 +92,10 @@
 
 - Add 3 new questions and correct 1 question with a number of valid answers.
 
+**[v1.5.1](../../releases/tag/v1.5.1): February 9, 2024.**
+
+- Improve 2 questions with answer fix and proper title.
+
 ## 🙋‍♀️ & 🙋‍♂️ Contribution
 
 We are so thankful for every contribution, which makes sure we can deliver top-notch content. Whenever you find a missing resource, broken link in a [Table of Contents](#table-of-contents), the wrong answer, please submit an [issue](../../issues). Even better would be a [Pull Request (PR)](../../pulls).
