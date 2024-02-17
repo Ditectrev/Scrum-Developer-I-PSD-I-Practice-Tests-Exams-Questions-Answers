@@ -913,8 +913,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Which of the following describes the focus of the first way of DevOps?
 
 - [ ] The first set of practices a team should apply before moving to the second way.
-- [x] Using automated build and release pipelines.
-- [ ] To deliver value earlier and more frequently.
+- [ ] Using automated build and release pipelines.
+- [x] To deliver value earlier and more frequently.
 - [ ] A tool-focused way of introducing DevOps, compared to a mindset way (second way) and organizational structure (third way).
 - [ ] A culture of continuous experimentation and learning.
 
