@@ -2508,10 +2508,10 @@ hardening Sprint.
 
 ### Which one is true about Definition of Done and Acceptance Criteria? (pick all that apply)
 
-- [ ] Acceptance Criteria should be passed for a feature in order to be called as complete and done.
+- [x] Acceptance Criteria should be passed for a feature in order to be called as complete and done.
 - [x] Acceptance Criteria should be passed to ensure that a feature is working as expected.
 - [x] Definition of Done should be applied to a feature in order to be called as complete.
-- [x] There are many Acceptance Criteria in a Product.
+- [ ] There are many Acceptance Criteria in a Product.
 - [ ] There are many Definition of Done in a Product and a Scrum Team.
 
 **[⬆ Back to Top](#table-of-contents)**
