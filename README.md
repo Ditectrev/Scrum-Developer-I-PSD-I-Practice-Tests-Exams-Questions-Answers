@@ -2420,10 +2420,10 @@ hardening Sprint.
 
 ### Which language is usually used in BDD?
 
-- [ ] Ubiquitous language.
+- [x] Ubiquitous language.
 - [ ] Tongue language.
 - [ ] Technical language.
-- [x] Native language.
+- [ ] Native language.
 
 **[⬆ Back to Top](#table-of-contents)**
 
