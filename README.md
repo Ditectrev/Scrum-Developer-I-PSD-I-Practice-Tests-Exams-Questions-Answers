@@ -2,15 +2,27 @@
 
 ![Promotional image](images/promotional.png)
 
-## Udemy & Etsy
+## ❣ Support
 
-❣️ Please support us by purchasing this course on Udemy in an interactive version with the [discounted link](https://www.udemy.com/course/professional-scrum-developer-i-psd-i-practice-exams/?referralCode=E1E5C69CF22100D112DD). If you're working for a company, you could most probably easily claim this expense during preparation for your exam. For us, it's to be, or not to be, in the game.
+There are many ways to support us; in exchange, you'll get this material in a proper format:
+- ❤️ [shop.ditectrev.com, in EPUB or PDF formats, with answers marked](https://shop.ditectrev.com/product/scrum-developer-i-for-psd-i-practice-tests-exams-questions-answers),
+- ❤️ [shop.ditectrev.com, in EPUB or PDF formats, without answers marked](https://shop.ditectrev.com/product/scrum-developer-i-for-psd-i-practice-tests-exams-questions-no-answers),
+- 📖 [Udemy is the only one to have explanations for questions](https://www.udemy.com/course/professional-scrum-developer-i-psd-i-practice-exams/?referralCode=E1E5C69CF22100D112DD),
+- 📚 [Google Play Books, in PDF format, with answers marked](https://play.google.com/store/books/details?id=9Lb7EAAAQBAJ),
+- 📚 [Google Play Books, in PDF format, without answers marked](https://play.google.com/store/books/details?id=8rb7EAAAQBAJ),
+- 🛍️ [Etsy, in PDF format, with answers marked](https://ditectrev.etsy.com/listing/1343003141),
+- 🛍️ [Etsy, in PDF format, without answers marked](https://ditectrev.etsy.com/listing/1520218324),
+- 🛒 [eBay, in PDF format, with answers marked](https://www.ebay.com/itm/405227132219?mkcid=16&mkevt=1&mkrid=711-127632-2357-0&ssspo=_ptbuk3gqdw&sssrc=2524149&ssuid=_ptbuk3gqdw&widget_ver=artemis&media=COPY),
+- 🛒 [eBay, in PDF format, without answers marked](https://www.ebay.com/itm/405227131692?mkcid=16&mkevt=1&mkrid=711-127632-2357-0&ssspo=_ptbuk3gqdw&sssrc=2524149&ssuid=_ptbuk3gqdw&widget_ver=artemis&media=COPY),
+- 🔄 [Patreon subscription allows you to get access to all of the materials in EPUB and PDF formats. You can also buy separate items on Patreon, but the subscription technically allows us to include all updates for EPUB and PDF formats. Hence, you get EPUB and PDF updates when you subscribe to Patreon](https://patreon.com/Ditectrev?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink).
 
-🛍️ Alternatively, you can buy the PDF with those questions on [Etsy](https://ditectrev.etsy.com/listing/1343003141).
+💰 If you work for a company, you could probably easily claim this expense while preparing for your exam. For us, it's about being in the game or not.
+
+⭐ Good ratings & reviews help us to survive. Please don't forget to leave a nice one when you purchase an item. 
 
 ## ✨ This course is unlike any Scrum Developer I for PSD I course you will find online.
 
-✋ Join a live online community and a course taught by industry experts and pass the Professional Scrum Developer I (PSD I) confidently. We aim to build an ecosystem of Information Technology (IT) certifications and online courses in cooperation with the technology industry. We believe it will give our students 100% confidence in the pacing market in an open-source environment. We are just at the beginning of our way, so it's even better for you to join now!
+✋ Join a live online community and a course taught by industry experts and pass the Scrum Developer I (PSD I) confidently. We aim to build an ecosystem of Information Technology (IT) certifications and online courses in cooperation with the technology industry. We believe it will give our students 100% confidence in the pacing market in an open-source environment. We are just at the beginning of our way, so it's even better for you to join now!
 
 [![Join our Discord](images/discord.png 'Join our Discord')](https://discord.gg/RFjtXKfJy3)
 
@@ -47,7 +59,7 @@
    - **Much More!**
 4. Questions are similar to the actual exam, without duplications (like in other courses ;-)).
 5. The Practice Tests Exams simulate the actual exam's content, timing, and percentage required to pass the exam.
-6. This course is **not** a Professional Scrum Developer I (PSD I) Exam Dump. Some people use brain dumps or exam dumps, but that's absurd, which we don't practice.
+6. This course is **not** a Scrum Developer I (PSD I) Exam Dump. Some people use brain dumps or exam dumps, but that's absurd, which we don't practice.
 7. 305 **unique** questions.
 
 ## ☝️ Course Updates
@@ -110,7 +122,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ## Who this course is for:
 
-- 👨‍🎓 Students preparing for the Professional Scrum Developer I (PSD I) Exam;
+- 👨‍🎓 Students preparing for the Scrum Developer I (PSD I) Exam;
 - 👨‍🎓 Agile Coaches;
 - 👨‍🎓 Agile Leaders;
 - 👨‍🎓 DevOps Engineers;
@@ -128,7 +140,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - 🤩 Excitement to learn!
 - 0️⃣ Prior knowledge is required;
-- ✅ You can pass the Professional Scrum Developer I (PSD I) Exam solely based on our Practice Tests Exams.
+- ✅ You can pass the Scrum Developer I (PSD I) Exam solely based on our Practice Tests Exams.
 
 ## Table of Contents
 
@@ -3230,8 +3242,3 @@ hardening Sprint.
 - [x] False.
 
 **[⬆ Back to Top](#table-of-contents)**
-
-#### Legal Information and Disclaimer
-
-*Scrum.org • Professional Scrum • Applying Professional Scrum • Professional Scrum Foundations • Professional Scrum Master • Professional Scrum Product Owner • Professional Scrum Developer • Scaled Professional Scrum • Professional Agile Leadership • Professional Agile Leadership - Essentials • Professional Scrum with Kanban • Professional Scrum with User Experience • Professional Scrum Facilitation Skills • Professional Scrum Product Backlog Management Skills • Professional Scrum Trainer • Professional Training Network • Evidence Based Management • Guided Learning Platform • Professional Scrum Guide • Scrum Pulse • ScrumPulse • Scrum Tapas • PSF • APS • PSM • PSPO • PSD • SPS • PAL-E • PSK • PSU • PSF Skills • PSPBM Skills • PST • PSG • GLP • PTN • EBM • EBMngt along with respective Design Marks, are protected brands of Scrum.org. This course is neither endorsed nor affiliated with Scrum.org.*
-
