@@ -2250,7 +2250,7 @@ hardening Sprint.
 
 - [x] Adding detail to the items.
 - [x] Ordering.
-- [x] Design.
+- [ ] Design.
 - [ ] Develop.
 
 **[⬆ Back to Top](#table-of-contents)**
