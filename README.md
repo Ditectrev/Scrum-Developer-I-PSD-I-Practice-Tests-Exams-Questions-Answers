@@ -1520,7 +1520,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] Partially complete the functionality, and discuss the remaining work at the Sprint Review.
 - [ ] Add a specialist to the Scrum Team.
-- [x] Collaborate with the Product OWner to determine what is possible and acceptable.
+- [x] Collaborate with the Product Owner to determine what is possible and acceptable.
 - [ ] Defer the work to a more appropriate Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
