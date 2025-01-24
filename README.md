@@ -5,6 +5,7 @@
 ## ❣ Support
 
 There are many ways to support us; in exchange, you'll get this material in a proper format:
+
 - ❤️ [shop.ditectrev.com, in EPUB or PDF formats, with answers marked](https://shop.ditectrev.com/product/scrum-developer-i-for-psd-i-practice-tests-exams-questions-answers),
 - ❤️ [shop.ditectrev.com, in EPUB or PDF formats, without answers marked](https://shop.ditectrev.com/product/scrum-developer-i-for-psd-i-practice-tests-exams-questions-no-answers),
 - 📖 [Udemy is the only one to have explanations for questions](https://www.udemy.com/course/professional-scrum-developer-i-psd-i-practice-exams/?referralCode=E1E5C69CF22100D112DD),
@@ -18,7 +19,15 @@ There are many ways to support us; in exchange, you'll get this material in a pr
 
 💰 If you work for a company, you could probably easily claim this expense while preparing for your exam. For us, it's about being in the game or not.
 
-⭐ Good ratings & reviews help us to survive. Please don't forget to leave a nice one when you purchase an item. 
+⭐ Good ratings & reviews help us to survive. Please don't forget to leave a nice one when you purchase an item.
+
+## 👩‍💻 & 👨‍💻 Interactive Course(s)
+
+It's great to learn these questions as your exam preparation, and, yes, you should pass just based on that. However, we highly recommend more interactive learning if you want to become an expert. Currently, we're recommending those courses:
+
+- 📖 [Educative: text-based, video-free course, including set up out-of-the-box for you Cloud Labs to practice hands-on without the need to set up an environment (and payments). The link includes the highest available discount Educative offers](https://www.educative.io/courses/development-a-guide-to-modern-software-delivery?aff=VALz).
+
+Yes, we have a little commission from that link. Therefore, by using that link, you're supporting us.
 
 ## ✨ This course is unlike any Scrum Developer I for PSD I course you will find online.
 
@@ -60,7 +69,7 @@ There are many ways to support us; in exchange, you'll get this material in a pr
 4. Questions are similar to the actual exam, without duplications (like in other courses ;-)).
 5. The Practice Tests Exams simulate the actual exam's content, timing, and percentage required to pass the exam.
 6. This course is **not** a Scrum Developer I (PSD I) Exam Dump. Some people use brain dumps or exam dumps, but that's absurd, which we don't practice.
-7. 305 **unique** questions.
+7. 304 **unique** questions.
 
 ## ☝️ Course Updates
 
@@ -257,7 +266,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 109 | [Who is responsible for the System Architecture of a Product being developed using Scrum? (choose the best answer)](#who-is-responsible-for-the-system-architecture-of-a-product-being-developed-using-scrum-choose-the-best-answer) |
 | 110 | [Which of the following are attributes of a bad bug report? (choose the best three answers)](#which-of-the-following-are-attributes-of-a-bad-bug-report-choose-the-best-three-answers) |
 | 111 | [Who writes tests in a Scrum Team? (choose the best answer)](#who-writes-tests-in-a-scrum-team-choose-the-best-answer) |
-| 112 | [PLACEHOLDER](#placeholder) |
+| 112 | [When Developers are having trouble delivering an Increment because they do not understand a functional requirement, what should they do?](#when-developers-are-having-trouble-delivering-an-increment-because-they-do-not-understand-a-functional-requirement-what-should-they-do) |
 | 113 | [Who should be present during Product Backlog Refinement? (choose the best answer)](#who-should-be-present-during-product-backlog-refinement-choose-the-best-answer) |
 | 114 | [True or False: Programmers and Testers should not be included in refining Product Backlog Items.](#true-or-false-programmers-and-testers-should-not-be-included-in-refining-product-backlog-items) |
 | 115 | [Why are automated builds important? (choose the best answer)](#why-are-automated-builds-important-choose-the-best-answer) |
@@ -366,7 +375,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 218 | [Which of the followings are characteristics of a good bug report? (pick all that apply)](#which-of-the-followings-are-characteristics-of-a-good-bug-report-pick-all-that-apply) |
 | 219 | [Who creates the Sprint Backlog?](#who-creates-the-sprint-backlog) |
 | 220 | [When is a feature done?](#when-is-a-feature-done) |
-| 221 | [True or False: The developers have immediately resolved a bug, which is found in the current Sprint and belongs to an Increment that has already been delivered to the market. Is it a proper behavior?](#true-or-false-the-developers-have-immediately-resolved-a-bug-which-is-found-in-the-current-sprint-and-belongs-to-an-increment-that-has-already-been-delivered-to-the-market-is-it-a-proper-behavior) |
+| 221 | [True or False: The Developers have immediately resolved a bug, which is found in the current Sprint and belongs to an Increment that has already been delivered to the market. Is it a proper behavior?](#true-or-false-the-developers-have-immediately-resolved-a-bug-which-is-found-in-the-current-sprint-and-belongs-to-an-increment-that-has-already-been-delivered-to-the-market-is-it-a-proper-behavior) |
 | 222 | [Why mock objects are used in Unit Tests? Pick 3](#why-mock-objects-are-used-in-unit-tests-pick-3) |
 | 223 | [What is the usual comparison of Product Backlog Items average size in the Product Backlog and Sprint Backlog?](#what-is-the-usual-comparison-of-product-backlog-items-average-size-in-the-product-backlog-and-sprint-backlog) |
 | 224 | [Which is NOT true about Efferent Coupling?](#which-is-not-true-about-efferent-coupling) |
@@ -1190,7 +1199,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### How do you know that the Developers are cross-functional? (choose the best answer)
 
-- [ ] A few of the Developers members pair program and do Test Driven Development.
+- [ ] A few of the Developers pair program and do Test Driven Development.
 - [x] The Developers have all the skills to create a potentially releasable increment by the end of every Sprint.
 - [ ] Every member of the Developers is able to perform every task.
 - [ ] There are no conflicts within the Developers.
@@ -1210,10 +1219,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Which three behaviors demonstrate that a team is self-managing? (choose the best three answers)
 
 - [ ] The Developers inviting external people to the Sprint Planning to ask them how to turn a Product Backlog Item into an Increment via a complete and detailed Sprint Backlog.
-- [ ] The Developers members are working within the boundaries of their functional description and nicely handing off work from analyst to Developer to Tester to integration.
+- [ ] The Developers are working within the boundaries of their functional description and nicely handing off work from analyst to Developer to Tester to integration.
 - [ ] The Product Owner doesn't need to be at Sprint Retrospectives.
 - [ ] Stakeholders walking in at the Daily Scrum to check progress and work with the Scrum Master to optimize the functional scope for the Sprint.
-- [x] The Developers members collaboratively selecting their own work during the Sprint.
+- [x] The Developers collaboratively selecting their own work during the Sprint.
 - [ ] The Scrum Master is no longer needed.
 - [x] The Developers have all the skills needed to create a releasable Increment.
 - [x] The Developers creating their own Sprint Backlog, reflecting all work that is part of the Definition of Done.
@@ -1342,7 +1351,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### A Scrum Master is working with the Developers that has members in different physical locations. The Developers meets in a variety of meeting rooms and has much to do logistically (for example, set up conference calls) before the Daily Scrum. What action should the Scrum Master take? (choose the best answer)
 
-- [ ] Ask the Developers members to alternate who is responsible for meeting setup.
+- [ ] Ask the Developers to alternate who is responsible for meeting setup.
 - [ ] Set up the meeting and tell the Developers that is how it will be done.
 - [ ] Inform Management and ask them to solve it.
 - [x] Allow the Developers to self-manage and determine for itself what to do.
@@ -1397,7 +1406,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### What are three ways Scrum promotes self-management? (choose three)
 
 - [ ] By preventing Stakeholders from entering the development room.
-- [x] By removing titles for Developers members.
+- [x] By removing titles for the Developers.
 - [ ] By not allowing documentation.
 - [x] By being a lightweight framework.
 - [x] By the Developers deciding what work to do in a Sprint.
@@ -1507,12 +1516,12 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### PLACEHOLDER
+### When Developers are having trouble delivering an Increment because they do not understand a functional requirement, what should they do?
 
-- [ ] PLACEHOLDER.
-- [ ] PLACEHOLDER.
-- [ ] PLACEHOLDER.
-- [ ] PLACEHOLDER.
+- [ ] Partially complete the functionality, and discuss the remaining work at the Sprint Review.
+- [ ] Add a specialist to the Scrum Team.
+- [x] Collaborate with the Product OWner to determine what is possible and acceptable.
+- [ ] Defer the work to a more appropriate Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -2473,7 +2482,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### True or False: The developers have immediately resolved a bug, which is found in the current Sprint and belongs to an Increment that has already been delivered to the market. Is it a proper behavior?
+### True or False: The Developers have immediately resolved a bug, which is found in the current Sprint and belongs to an Increment that has already been delivered to the market. Is it a proper behavior?
 
 - [x] False.
 - [ ] True.
@@ -2518,7 +2527,7 @@ hardening Sprint.
 
 ### Which is true about the Sprint Backlog?
 
-- [ ] It is a list of selected Product Backlog Items that the developers have committed for the Sprint.
+- [ ] It is a list of selected Product Backlog Items that the Developers have committed for the Sprint.
 - [ ] It contains all Product Backlog Items and requirements that could be implemented for the project.
 - [ ] It is created one Sprint ahead the current Sprint.
 - [x] It is a plan for the Developers to realize the Sprint Goal.
