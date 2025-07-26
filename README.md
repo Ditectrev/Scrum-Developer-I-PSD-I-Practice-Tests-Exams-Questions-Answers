@@ -302,7 +302,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 141 | [The length of a Sprint should be: (choose the best answer)](#the-length-of-a-sprint-should-be-choose-the-best-answer) |
 | 142 | [How much work must the Developers complete for each Product Backlog Item they select for a Sprint? (choose the best answer)](#how-much-work-must-the-developers-complete-for-each-product-backlog-item-they-select-for-a-sprint-choose-the-best-answer) |
 | 143 | [The CEO asks the Developers to add a "very important" item to a Sprint that is in progress. What should the Developers do? (choose the best answer)](#the-ceo-asks-the-developers-to-add-a-very-important-item-to-a-sprint-that-is-in-progress-what-should-the-developers-do-choose-the-best-answer) |
-| 144 | [What is the recommended size for a Scrum Team? (choose the best answer)](#what-is-the-recommended-size-for-a-scrum-team-choose-the-best-answer) |
+| 144 | [What is the rec for a Scrum Team? (choose the best answer)](#what-is-the-recommended-size-for-a-scrum-team-choose-the-best-answer) |
 | 145 | [Which statement best describes a Product Owner's responsibility? (choose the best answer)](#which-statement-best-describes-a-product-owners-responsibility-choose-the-best-answer) |
 | 146 | [True or False: 100% Code Coverage of tests guarantees bug-free Software.](#true-or-false-100-code-coverage-of-tests-guarantees-bug-free-software) |
 | 147 | [Who is responsible for monitoring the progress of work during a Sprint? Pick 1](#who-is-responsible-for-monitoring-the-progress-of-work-during-a-sprint-pick-1) |
@@ -2269,9 +2269,9 @@ hardening Sprint.
 
 ### What is the recommended size of the Scrum Team?
 
-- [ ] 7 ± 2.
+- [x] 10 or fewer people.
 - [ ] 5 ± 4.
-- [x] 6 ± 3.
+- [ ] 6 ± 3.
 - [ ] 9 ± 3.
 
 **[⬆ Back to Top](#table-of-contents)**
